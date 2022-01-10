@@ -1,0 +1,2137 @@
+{
+  "layouts": {
+    "header": {
+      "logo": {
+        "title": "Klicken Sie hier, um zur Hauptseite zurückzukehren"
+      },
+      "search": {
+        "placeholder": "Über Schlüsselwort suchen."
+      },
+      "menu": {
+        "owner_manual": {
+          "text": "Host-Verzeichnis",
+          "title": "Veröffentlichen Sie Ihre Immobilie beim Elephant for Hire."
+        },
+        "hirer_manual": {
+          "text": "Mieterverzeichnis",
+          "title": "Keine Anzahlung! Professionelle Lösungen!"
+        },
+        "publish": {
+          "text": "POST",
+          "title": "Benachrichtigungen über neue Anzeigen senden verdienen Geld"
+        },
+        "login": {
+          "text": "Einloggen",
+          "title": "Sie müssen sich anmelden, um ein Haus zu deklarieren, es zu mieten, Miete zu zahlen"
+        },
+        "user": {
+          "notifications": {
+            "title": "Klicken Sie hier, um Benachrichtigungen anzuzeigen"
+          },
+          "messages": {
+            "title": "Klicken Sie hier, um Nachrichten anzuzeigen"
+          },
+          "avatar": {
+            "title": "Wählen Sie aus dem Menü, um auf das Benutzerfeld zuzugreifen"
+          },
+          "links": {
+            "code": {
+              "text": "Support-Code",
+              "title": "Sie werden aufgefordert, diesen Code zur Unterstützung bereitzustellen, wenn Sie dazu aufgefordert werden."
+            },
+            "customer_panel": {
+              "text": "Kundenpanel",
+              "title": "Klicken Sie hier, um auf das Kundenfenster zuzugreifen."
+            },
+            "account": {
+              "text": "Mein Konto",
+              "title": "Klicken Sie hier, um Ihre Profilinformationen anzuzeigen."
+            },
+            "estate": {
+              "text": "ad-Management",
+              "title": "Klicken Sie hier, um Ihre Buchung zu verwalten."
+            },
+            "suggest": {
+              "text": "Haus vorschlagen und verdienen",
+              "title": "Klicken Sie hier, um Geld zu verdienen, indem Sie Hausvorschläge machen."
+            },
+            "favorites": {
+              "text": "Lieblingslisten",
+              "title": "Klicken Sie hier, um Ihre Lieblingsbeiträge anzuzeigen."
+            },
+            "logout": {
+              "text": "Ausloggen",
+              "title": "Klicken Sie hier, um sich abzumelden."
+            }
+          }
+        },
+        "language": {
+          "title": "Wählen Sie aus dem Menü für die Sprachauswahl."
+        }
+      }
+    },
+    "footer": {
+      "text": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Morgen ist es auf Mauris Fermentationspreis spezialisiert. Auch von der Herstellung von Lorem. Sapien sitzen Chat",
+      "email": "email@satilikfil.com",
+      "career": {
+        "title": "Werdegang",
+        "item": "Makler sein",
+        "item1": "Fotograf werden",
+        "item2": "Werden Sie Forscher",
+        "item3": "Regionen serviert",
+        "item4": "Mietpreis pro Nachbarschaft"
+      },
+      "list": {
+        "title": "Listen Sie eine Eigenschaft auf",
+        "text": "Treffen Sie Immobilienpartner",
+        "goal": "Arbeiten Sie beim Concierge?",
+        "goal1": "Über den fünften Stock",
+        "goal2": "Informieren Sie sich über die Fifth Floor-Garantie",
+        "goal3": "Hilfezentrum"
+      },
+      "text1": "© 2019 satilikfil.com Alle Rechte vorbehalten.",
+      "contract1": "Datenschutz-Bestimmungen",
+      "contract2": "Nutzungsbedingungen",
+      "contract3": "Fernabsatzvertrag"
+    },
+    "mobile-layout": {
+      "account": {
+        "login": "Melde dich in deinem Konto an",
+        "register": "Benutzerkonto anlegen"
+      },
+      "panel": {
+        "title": "Mein Zugriffsbereich",
+        "host-guide": "Host-Verzeichnis",
+        "tenant-guide": "Mieterverzeichnis",
+        "post-ad": "Postanzeige",
+        "sss": "Häufig gestellte Fragen",
+        "contract1": "Nutzungsbedingungen",
+        "contract2": "Datenschutz-Bestimmungen",
+        "logout": "Ausloggen"
+      },
+      "title": "WILLKOMMEN ZURÜCK"
+    },
+    "panel-layout": {
+      "dashboard": {
+        "home": "Startseite",
+        "profile": "Profil",
+        "my-favorite": "meine Favoriten",
+        "gain": "Geld verdienen",
+        "my-property": "Meine Eigenschaften"
+      },
+      "available-account": "Ihr aktuelles Guthaben",
+      "menu": {
+        "access": "Schneller Zugriff",
+        "pay-rent": "Mietzahlung",
+        "notification": "Benachrichtigung",
+        "contract": "Dokumentation",
+        "damage": "Schäden",
+        "support": "Unterstützung",
+        "statistic": "Statistiken",
+        "end-contract": "Beendigung des Vertrages"
+      },
+      "button": "Bestätigen Sie Ihr Konto und profitieren Sie von den Elephant Hire-Angeboten!",
+      "button1": "Bestätige mein Konto",
+      "account": {
+        "title": "Herzlich willkommen,",
+        "button": "Meine Profilinformationen anzeigen",
+        "logout": "Ausloggen"
+      },
+      "re-account": "Zwischen Konten wechseln",
+      "host-page": "Host-Konto",
+      "notifications": "Benachrichtigungen",
+      "header": {
+        "title1": "In Ihrer Nähe wurde eine neue Home-Anzeige geschaltet!",
+        "title2": "Ihre neue Anzeige ist populär geworden!",
+        "title3": "Ihre Anzeige wurde gemeldet!"
+      },
+      "inbox": "Ihr Posteingang"
+    }
+  },
+  "data": {
+    "affinity": {
+      "my_neighbor": "Mein Nachbar",
+      "owner": "Ich bin der Besitzer des Hauses",
+      "my_relative": "Mein Verwandter",
+      "friend": "Freund",
+      "no_relation": "Ich habe keine Intimität"
+    },
+    "suggest": {
+      "status": {
+        "wait": "Warten auf Genehmigung",
+        "publish": "Auf der Website veröffentlicht",
+        "loan": "Haus gehalten",
+        "expired": "Abgelaufen",
+        "noaccept": "Nicht bestätigt",
+        "inprogress": "Verarbeitet"
+      },
+      "substatus": {
+        "inprogress": "Daten verarbeiten",
+        "inspecting": "Anzeige wird überprüft",
+        "publish": "Anzeige ist online",
+        "perc10": "10% der Erstmiete",
+        "total": "Ihr Gesamteinkommen",
+        "noaccept": "Bestätigung fehlgeschlagen",
+        "notreachable": "Telefon konnte nicht erreicht werden"
+      },
+      "localstatus": {
+        "wait": "Warten auf Transaktion",
+        "appointed": "Fotograf ernannt",
+        "photowait": "Warten auf Foto-Upload",
+        "upload": "Fotos hochgeladen",
+        "publish": "Auf der Website veröffentlicht"
+      },
+      "photostatus": {
+        "wait": "Warten auf Foto-Upload",
+        "upload": "Fotos hochgeladen"
+      }
+    }
+  },
+  "core": {
+    "forms": {
+      "common": {
+        "price-area": "Preis und m2 Informationen",
+        "square-meter": "Quadratmeter",
+        "net-meter": "Netto-Quadratmeter",
+        "price": "Preis",
+        "exchange-rate": "Tauschrate"
+      },
+      "income-form": {
+        "title": "ÜBER IHR EINKOMMEN",
+        "text": "Bitte fügen Sie Dateien hinzu, um Ihr zusätzliches Einkommen zu beweisen!",
+        "text1": "NUR JPG. PNG EXTENDED FILES WERDEN AKZEPTIERT.",
+        "update": "AKTUALISIEREN SIE MEINE INFORMATIONEN"
+      },
+      "property-edit-form": {
+        "title": "Auflistungsinformationen",
+        "text": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Mauris",
+        "properties": {
+          "title": "Anzeigenfunktionen",
+          "property1": "Empfohlene Anzeige",
+          "property2": "Showcase Hinweis"
+        },
+        "advertisement-title": "Anzeigentitel",
+        "help": "Hilfe",
+        "add-advertisement": "Schreiben Sie den Anzeigentitel",
+        "address": "Adresse",
+        "advertisement-description": "Werbebeschreibung",
+        "add-advertisement1": "Schreiben Sie Ihre Auflistungsbeschreibung",
+        "home-facility": "Heimausstattung",
+        "locked": "Dieser Bereich ist gesperrt",
+        "home-property": "Hausmerkmale",
+        "save": "sparen"
+      },
+      "suggest-form": {
+        "header": {
+          "title": "Senden Sie Ihre Eigentumsinformationen",
+          "p": "und wir kümmern uns um den Rest!"
+        },
+        "notification": "Warnung",
+        "text": " Sie können kein Mietangebot machen, ohne Ihre Telefonnummer zu bestätigen.",
+        "button": "Hier klicken",
+        "button1": "Bestätigen Sie Ihr Telefon.",
+        "field": {
+          "affinity": {
+            "placeholder": "Was bekommen Sie mit dem Gastgeber?",
+            "default": "Was bekommen Sie mit dem Gastgeber?"
+          },
+          "host": {
+            "code": "Zuhause",
+            "num": "+90",
+            "num1": "+91",
+            "phone-number": "Host-Telefonnummer"
+          },
+          "owner": {
+            "placeholder": "Ad sooyad"
+          },
+          "address": {
+            "placeholder": "Adresse"
+          }
+        },
+        "submit": {
+          "text": "Schlagen Sie ein Zuhause vor",
+          "title": "Klicken Sie hier, um ein neues Zuhause vorzuschlagen"
+        },
+        "success": {
+          "title": "Ihr Bericht wurde eingereicht.",
+          "p1": "Nachdem Sie Ihre Anzeigeninformationen überprüft haben, können Sie den Fortschritt in der Liste verfolgen.",
+          "p2": "Vielen Dank für die Berichterstattung.",
+          "button": {
+            "text": "Machen Sie andere Hinweise",
+            "title": "Klicken Sie hier, um neue Anzeigenbenachrichtigungen zu veröffentlichen"
+          }
+        }
+      },
+      "suggestion-edit-form": {
+        "header": {
+          "title": "Host-Informationen",
+          "text": "Eigentümer und Kontaktinformationen. Überprüfen Sie den Eigentumsstatus und verweisen Sie den Vermieter auf die Mitgliedschaft, wenn keine Mitgliedschaft besteht."
+        },
+        "notification": "Warnung",
+        "text": "Mit diesen Mietinformationen können Sie keine Änderungen mehr vornehmen, da der Prozess von den kirafil.com-Teams gestartet wurde. Sie können uns jedoch weiterhin über das unten stehende Notizfeld schreiben.",
+        "owner": {
+          "name": "Name und Nachname",
+          "phone-number": "Telefonnummer"
+        },
+        "notification1": "Benutzererstellungsfehler",
+        "property-owner": "Starten Sie das Abonnement mit dem Telefon des Eigentümers.",
+        "explanation": "Dieses Handy",
+        "explanation1": "Mit dem Namen registriert.",
+        "button": "Sie können den Namen des Hosts aktualisieren, indem Sie hier klicken.",
+        "property-info": {
+          "address-info": "Immobilienadressinformationen",
+          "confirm": "Überprüfen Sie die Adressinformationen, nachdem Sie den Zustand des Hauses vom Eigentümer bestätigt haben.",
+          "address": "Immobilien-Adresse"
+        },
+        "location": "Ich möchte meinen Standort auf der Karte auswählen",
+        "notification2": "Adresse falsch",
+        "update": "Eigenschaftsinformationen aktualisieren",
+        "notes": "Anmerkungen",
+        "text1": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Ernährungssalat und warmes Lächeln abzugsfähig, sagte vulputate Erdnuss. Maecenas Maleuada Therapiebox oder zu der Zeit.",
+        "add-note": "Schreiben Sie eine Notiz für die Auflistung",
+        "help": "Hilfe"
+      }
+    },
+    "modules": {
+      "card-item": {
+        "header": "FEATURED POST",
+        "meter": "m",
+        "apartment": "Kreis",
+        "rental": "Zu vermieten",
+        "total": "Gesamt",
+        "start-visit": "Starten Sie einen Besuch"
+      },
+      "expandable": {
+        "header": "FEATURED POST",
+        "month": "monatlich",
+        "photo": "Foto",
+        "room": "Zimmer",
+        "saloon": "Wohnzimmer",
+        "bath": "Bad"
+      },
+      "file-uploader": {
+        "title": "Profilfoto hochladen",
+        "text": "NUR JPG. PNG EXTENDED FILES WERDEN AKZEPTIERT.",
+        "button": "x"
+      },
+      "like-button": {
+        "button": "Zu den Favoriten hinzufügen",
+        "button1": "In Ihrer Favoritenliste"
+      },
+      "property-filter-panel": {
+        "close": "Schließen",
+        "count-adv": "Anzeigen gefunden.",
+        "clean-filter": "Filter löschen",
+        "property": {
+          "price": "Preis",
+          "min": "Minimum",
+          "max": "Maximal",
+          "tl": "TL",
+          "meter": "m2",
+          "area": "BEREICH"
+        },
+        "label": "Es ist egal",
+        "homepage": "Startseite",
+        "order": {
+          "state": "Relevanteste",
+          "state1": "Absteigend nach Preis",
+          "state2": "Preiserhöhung"
+        },
+        "button": "Filter",
+        "popular": "Beliebte Picks",
+        "text": "Von uns",
+        "text1": "ausgewählte Eigenschaften.",
+        "button1": "Aussicht"
+      },
+      "uploader-modal": {
+        "button": "Gib auf",
+        "button1": "Senden"
+      }
+    }
+  },
+  "modules": {
+    "common": {
+      "mobile": {
+        "title": "FIL ZU VERMIETEN",
+        "title1": "Jetzt in deiner Tasche!",
+        "statement": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Volleyballkinder zum Entspannen. Stress Fernsehen Sapien",
+        "text": "Lade App herunter",
+        "appstore": "Appstore",
+        "playstore": "Spielladen"
+      }
+    },
+    "home": {
+      "home-mobile": {
+        "text": "Elephant for Hire erleichtert Ihnen die Arbeit!",
+        "text1": "Wenn Sie das Haus besichtigen möchten, begleitet Sie unser professioneller Berater kostenlos.",
+        "options:": {
+          "city": "STADT WÄHLEN",
+          "neighborhood": "SEMT AUSWÄHLEN",
+          "budget": "MIETHAUSHALT AUSWÄHLEN",
+          "room": "WÄHLEN SIE DIE ANZAHL DER ZIMMER",
+          "button": "ANFRAGE"
+        }
+      },
+      "header": {
+        "title": "Es ist schwierig, ein Haus zu mieten",
+        "sub1": "Elefant zu mieten",
+        "sub2": "macht Ihre Arbeit einfacher!"
+      },
+      "buttons": {
+        "top-city": {
+          "title": "Stadt"
+        },
+        "top-neighboorhood": {
+          "title": "Kreis"
+        },
+        "price": {
+          "text": "Mietbudget"
+        },
+        "bed-info": {
+          "text": "Anzahl der Räume"
+        },
+        "text": "ANFRAGE"
+      },
+      "host": {
+        "text": "Für Hausbesitzer",
+        "statement": "Lorem ipsum Karotten",
+        "statement1": "Lorem ipsum Karotten",
+        "statement2": "Lorem ipsum Karotten"
+      },
+      "extra-info-host": {
+        "text": "Lern mehr"
+      },
+      "renter": {
+        "text": "Für Mieter",
+        "statement": "Lorem ipsum Karotten",
+        "statement1": "Lorem ipsum Karotten",
+        "statement2": "Lorem ipsum Karotten"
+      },
+      "extra-info-rent": {
+        "text": "Lern mehr"
+      },
+      "advertisement": {
+        "title": "Die neuesten Angebote von Mietelefanten",
+        "text": "Filtern Sie neue Anzeigen nach Stadt",
+        "text1": "Lern mehr"
+      },
+      "advantages": {
+        "title": "WARUM SOLLTE ICH DEN DATEI ZU VERMIETEN?",
+        "text": "Entdecken Sie die Vorteile eines Mietelefanten!",
+        "button1": "Ich miete mein Haus",
+        "button2": "Auf der Suche nach einem neuen Zuhause",
+        "title1": "Schneller geleast",
+        "text1": "Wir verwenden Technologie, um den richtigen Mieter zu finden, und Ihre Immobilie hat weniger Ausfallzeiten.",
+        "title2": "Miete liegt jeden Monat pünktlich",
+        "text2": "Auch wenn der Mieter ohne Papierkram in Verzug gerät, erhalten Sie diesen am Tag der Abnahme.",
+        "title3": "Verfolgen Sie alle Transaktionen",
+        "text3": "Wir sehen uns die Miete von Anfang bis Ende an und verfolgen alles, was mobil ist: Besuche, Angebote, Online-Verträge und Verwaltung.",
+        "text4": "Mehr Informationen bekommen"
+      },
+      "solution": {
+        "title": "ENTDECKEN SIE MIETLÖSUNGEN!",
+        "text": "Ihr Link, Geschäftsinhaber",
+        "text1": "Rabatt und für Sie",
+        "text2": "es ist das Geld wert.",
+        "statement": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. In einem Chat hassen Karottensauce. Website für Lipsum-Produkte.",
+        "text3": "Mehr Informationen bekommen"
+      },
+      "nest": {
+        "title": "Ein Zuhause mit Zuhause zu finden ist sehr einfach!",
+        "text": "Hallo ich,",
+        "text1": "Zuhause!",
+        "text2": "100% kostenlos",
+        "statement": "Ich bin sowohl sehr einfallsreich als auch süß. Wie Sie wissen, gehören Elefanten zu den klügsten Tieren. Wenn Sie mir das Haus beschreiben, das Sie suchen, kann ich eine E-Mail senden, wenn Sie möchten, wenn Sie möchten, kann ich eine SMS senden, wenn Sie möchten.",
+        "text3": "Zuhause, finde mich zu Hause!"
+      },
+      "list-inf": {
+        "title": "Es ist sehr einfach, Ihr Mietfilm-Eigentum aufzulisten!",
+        "text": "Listen Sie jetzt Ihr Zuhause auf!",
+        "statement": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Aeneas und die Pflege der. Aber jedes Level. Schmerzen. Nun, da die großen Spieler. Cras suscipit, Urne sagittis vulputateignissim, ein Löwe, der Schmerz des freien Verkehrs, es gibt kein Langprotein aus der Ligula. Fusce sitzt amet Tortor, den er möchte. Zum.",
+        "text1": "Listen Sie Ihre Immobilie auf"
+      },
+      "cities": {
+        "title": "FIL ZU VERMIETEN IN 29 STÄDTEN",
+        "text": "Wir sind jetzt in deiner Stadt!",
+        "statement": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Aeneas und die Pflege der. jeder"
+      },
+      "component-cities": {
+        "text": "Mehr sehen"
+      }
+    },
+    "auth": {
+      "forms": {
+        "enter-password-form": {
+          "title": "Um Änderungen vornehmen zu können, müssen Sie Ihr Anmeldekennwort für die Anwendung bestätigen.",
+          "passform": {
+            "provider": "Wählen Sie Ihre Konto-Login-Verwaltung",
+            "password": "Passwort"
+          },
+          "button1": "Gib auf",
+          "button2": "Genehmigen"
+        },
+        "login-form": {
+          "text": "Konnte nicht einloggen",
+          "text1": "E-MAIL ODER TELEFON",
+          "loginPsw": "PASSWORT",
+          "lostPsw": "Haben Sie Ihr Passwort vergessen?",
+          "button1": "Einloggen",
+          "button2": "Neuen Account erstellen",
+          "social-buttons": "MELDEN SIE SICH MIT IHREM SOZIALMEDIENKONTO AN"
+        },
+        "reset-password-form": {
+          "title": "Passwortoperationen",
+          "resetForm": {
+            "text": "E-MAIL-ADDRESSE"
+          }
+        },
+        "sms-validator-form": {
+          "text": "Geben Sie den 6-stelligen Bestätigungscode ein",
+          "text1": "Wir senden an Ihre Telefonnummer",
+          "text2": "Sie müssen den Code eingeben.",
+          "notification": {
+            "text3": "Der SMS-Code konnte nicht überprüft werden. Bitte versuchen Sie es erneut.",
+            "text4": "SMS nicht empfangen?",
+            "tex5": "Fordern Sie eine neue SMS an"
+          },
+          "button": {
+            "text1": "Gib auf",
+            "text2": "Bestätigen"
+          }
+        }
+      },
+      "login": {
+        "title": "Noch",
+        "title1": "Ihr Konto",
+        "title2": "ist nicht da?",
+        "text": "Siehe Eigenschaften für Elefanten zu vermieten und pro veröffentlichtem Eigentum",
+        "text1": "100 $",
+        "text2": "plus erste Miete",
+        "text3": "% 10",
+        "text4": "Verdiene das Mehl",
+        "button": "Neuen Account erstellen",
+        "button1": "Einloggen",
+        "text5": "Willkommen zurück!"
+      },
+      "mobile": {
+        "m-login": {
+          "title": "HERZLICH WILLKOMMEN",
+          "button": "Melde dich in deinem Konto an",
+          "loginForm": {
+            "text": "E-Mail oder Telefon",
+            "text1": "PASSWORT",
+            "text2": "Für die Anmeldung mit der Telefonnummer ist kein Passwort erforderlich.",
+            "text3": "Sie müssen es mit dem SMS-Code bestätigen."
+          },
+          "doLogin": {
+            "title": "Melden Sie sich bei meinem Konto an",
+            "button": "Haben Sie Ihr Passwort vergessen?",
+            "text": "Sie haben noch keinen Account?",
+            "button1": "Ein Konto erstellen"
+          }
+        }
+      },
+      "modal": {
+        "login-modal": {
+          "button": "Gib auf",
+          "button1": "Einloggen"
+        },
+        "reset-modal": {
+          "button": "Gib auf",
+          "button1": "Passwort zurücksetzen"
+        }
+      },
+      "register": {
+        "kvkk-modal": {
+          "text": "Duis eleifend, metus vel adipiscing pellentesque ipsum nulla convallis massa, nicht ornare pharetra faucibus eu in der apotheke. Ut Karton und Erdnusstal. Ich hatte keine Bremsen, jetzt absolvierte ökologische Lebensrock. Jeder Autor von Spielern von einem Makro-Make-up-Computer. Elit Dignissim Ultraschall des Lebens selbst, die Kraft der Schokolade. Lorem Fußball Fußball Topf bis weich im ganzen Land. Duis ut nulla luctus, elit at tellus sit amet, consectetuer adipiscing elit. Fußball Fußball aber jetzt Immobilienfinanzierung. Nullam cursus enim congue velit quis fringilla. Donec eget tristique großartig, die Kiefer des Lebens jetzt. Vor dem allerersten Eindruck von Trauer und klinischer Behandlung stellte Basketball ihre Sorgfalt ein; Consectetuer justo ac, mein lieber, noch feugiat posuere tortor arcu feugiat angst, ist keine schande, die nicht nur den preis eines großen erhöht. Die Veranda und nicht amet sitzen, accumsan nulla non, lobortis lacus. Das Ernährungselement nibh die Kiefer Japans und den Topf. Wie Volleyball und die Temperatur war schwanger. Donec eu venenatis risus, ang würdevolle Urne.",
+          "button": "Genau",
+          "button1": "Gib auf"
+        },
+        "tcno-modal": {
+          "text": "Duis eleifend, metus vel adipiscing pellentesque ipsum nulla convallis massa, nicht ornare pharetra faucibus eu in der apotheke. Ut Karton und Erdnusstal. Ich hatte keine Bremsen, jetzt absolvierte ökologische Lebensrock. Jeder Autor von Spielern von einem Makro-Make-up-Computer. Elit Dignissim Ultraschall des Lebens selbst, die Kraft der Schokolade. Lorem Fußball Fußball Topf bis weich im ganzen Land. Duis ut nulla luctus, elit at tellus sit amet, consectetuer adipiscing elit. Fußball Fußball aber jetzt Immobilienfinanzierung. Nullam cursus enim congue velit quis fringilla. Donec eget tristique großartig, die Kiefer des Lebens jetzt. Vor dem allerersten Eindruck von Trauer und klinischer Behandlung stellte Basketball ihre Sorgfalt ein; Consectetuer justo ac, mein lieber, noch feugiat posuere tortor arcu feugiat angst, ist keine schande, die nicht nur den preis eines großen erhöht. Die Veranda und nicht amet sitzen, accumsan nulla non, lobortis lacus. Das Ernährungselement nibh die Kiefer Japans und den Topf. Wie Volleyball und die Temperatur war schwanger. Donec eu venenatis risus, ang würdevolle Urne.",
+          "button": "Schließen"
+        },
+        "title": "Ein Existierender",
+        "title1": "Ihr Konto",
+        "title2": "Gibt es?",
+        "text": "Siehe Eigenschaften für Elefanten zu vermieten und pro veröffentlichtem Eigentum",
+        "text1": "100 $",
+        "text2": "plus erste Miete",
+        "text3": "% 10",
+        "text4": "Verdiene das Mehl",
+        "button": "Melde dich in deinem Konto an",
+        "create": {
+          "title": "Benutzerkonto anlegen",
+          "text": "Wir haben uns gefreut, Sie unter uns zu sehen :)",
+          "title1": "Ihre T.C-Anmeldeinformationen.",
+          "text1": "Wir benötigen diese Informationen, wenn wir einen Termin vereinbaren.",
+          "text2": "Sie können diesen Schritt überspringen, wenn Sie möchten.",
+          "text3": "Ein letzter Schritt übrig!",
+          "text4": "Am Ende der Mitgliedschaft können Sie den Terminvorgang sofort starten.",
+          "title2": "Geben Sie den 6-stelligen Bestätigungscode ein",
+          "text5": "Wir senden an Ihre Telefonnummer",
+          "text6": "Sie müssen den Code eingeben."
+        },
+        "userForm": {
+          "text": "DEIN NAME",
+          "text1": "DEIN FAMILIENNAME",
+          "text2": "EMAIL",
+          "text3": "Passwort",
+          "text4": "Passwort wiederholen",
+          "text5": "Passwörter sind nicht dasselbe.",
+          "text6": "KVKK",
+          "text6-1": "Ich habe seinen Vertrag gelesen und angenommen.",
+          "text6-2": "Für eine Mitgliedschaft müssen Sie die KVKK-Vereinbarung genehmigen.",
+          "text7": "Anstelle von Mitgliedschaftstransaktionen ist die E-Mail-Adresse bereits registriert",
+          "button": "Einloggen in",
+          "text8": "Möchtest du",
+          "text9": "Nächster Schritt",
+          "num": "02/03"
+        },
+        "userInfo": {
+          "text": "DEIN NAME",
+          "text1": "FAMILIENNAME, NACHNAME",
+          "text2": "T.R. Identifikationsnummer",
+          "text3": "Dein Geburtsjahr",
+          "text4": "T.R. Warum gebe ich meine ID-Nummer?",
+          "text5": "Ich möchte diesen Schritt vorerst überspringen!",
+          "text6": "T.R. Die ID-Nummer konnte nicht überprüft werden. Überprüfen Sie die Informationen und versuchen Sie es erneut.",
+          "text7": "Nächster Schritt",
+          "num": "02/03",
+          "text8": "Stadt",
+          "text8-1": "Stadt",
+          "text9": "CODE",
+          "text9-1": "+90",
+          "text9-2": "+91",
+          "text10": "DEINE TELEFONNUMMER",
+          "text11": "Ich möchte diesen Schritt vorerst überspringen!",
+          "num1": "03/03"
+        },
+        "confirm": {
+          "text": "SMS nicht empfangen?",
+          "text1": "Fordern Sie eine neue SMS an"
+        },
+        "regist": {
+          "text": "Vervollständige meine Mitgliedschaft",
+          "text1": "ODER"
+        }
+      }
+    },
+    "detail": {
+      "common": {
+        "view": "Ansicht 360 °",
+        "text1": "Das Datum und die Uhrzeit, die für die von Ihnen angegebenen Kriterien geeignet sind, werden von unserem Lösungspartner mitgeteilt. Sie können dem Abschnitt Meine Besuchsprogramme in Ihrem Benutzerfenster folgen.",
+        "text2": "Sie haben bereits einen Besuch für dieses Haus beantragt, falls Sie noch keinen Termin erhalten haben, um unseren Lösungspartner zu kontaktieren",
+        "text3": "Klicke hier.",
+        "text4": "Ihre Besuchsanfrage wurde für den von Ihnen festgelegten Zeitraum an unseren Lösungspartner gesendet. Sie werden für das entsprechende Datum und die entsprechende Uhrzeit kontaktiert. Vielen Dank.",
+        "text5": "Beim Erstellen der Terminanfrage ist ein Fehler aufgetreten. Wir entschuldigen uns für diese Situation. Bitte versuchen Sie es so bald wie möglich erneut.",
+        "text6": "Sie können keinen Termin anfordern, ohne Ihre Telefonnummer zu überprüfen.",
+        "text6-1": "Klicken Sie hier, um Ihre Telefonnummer zu überprüfen",
+        "text7": "Türkische Identitätsnummer",
+        "text7-1": "Wenn Sie angeben, kann dies Ihr Mietpotential erhöhen. Wenn Sie keine türkische ID-Nummer haben",
+        "text7-2": "dokumentieren Sie Ihr Einkommen",
+        "text7-3": "wir empfehlen.",
+        "text8": "Die Angabe Ihres Einkommens kann Ihr Mietpotential erhöhen.",
+        "text8-1": "Um Ihr Einkommen zu dokumentieren",
+        "request": {
+          "button1": "Wählen Sie den Zeitrahmen, der zu Ihnen passt",
+          "button2": "Spätestens bis morgen",
+          "button3": "Wochentags vor Mittag",
+          "button4": "Wochentags Nachmittag",
+          "button5": "Wochenende vor Mittag",
+          "button6": "Wochenendnachmittag"
+        }
+      },
+      "detail-mobile": {
+        "component": {
+          "title": "Miete",
+          "title1": "Einzelheiten auflisten",
+          "title2": "Werbebeschreibung",
+          "title3": "Heimausstattung",
+          "title4": "Hausdetails",
+          "title5": "Hausmerkmale",
+          "title6": "Siehe auf der Karte"
+        },
+        "image": {
+          "text": "Foto"
+        },
+        "rental": {
+          "title": "Mietpreis",
+          "text": "Mietpreis",
+          "request": {
+            "button": "Erstellen Sie ein Online-Besuchsprogramm"
+          }
+        },
+        "ad-detail": {
+          "title": "Einzelheiten auflisten",
+          "text": "Listing Number",
+          "text1": "Bereich"
+        },
+        "ad-exp": {
+          "title": "Werbebeschreibung"
+        },
+        "environment": {
+          "title": "Die Umwelt kennen",
+          "button": "Alle Fotos anzeigen",
+          "button1": "Bilder durchsuchen!"
+        },
+        "home-env": {
+          "title": "Schauen Sie sich die Besonderheiten des Hauses genau an!",
+          "text": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Mauris id condimentum lectus. Die neuesten Preis-Ultricies können kostenlos vorbereitet werden. Mikrowelle oder Fußball jetzt. Nulla. Um das Lachen zu befreien. In der Tat sind die Enden der für Pakistan, aber von den Grenzen von Convallis Arcu.",
+          "title1": "Schauen Sie sich die Lage des Hauses genau an!",
+          "text1": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Mauris id condimentum lectus. Die neuesten Preis-Ultricies können kostenlos vorbereitet werden. Mikrowelle oder Fußball jetzt. Nulla. Um das Lachen zu befreien."
+        }
+      },
+      "button": "Teilen",
+      "image": "Foto",
+      "menu": {
+        "title": "Auflistungsinformationen",
+        "title1": "Werbebeschreibung",
+        "title2": "Heimausstattung",
+        "title3": "Hausdetails",
+        "title4": "Hausmerkmale",
+        "title5": "Siehe auf der Karte"
+      },
+      "container": {
+        "text": "Listing Number",
+        "text1": "Bereich",
+        "text2": "Listing Date",
+        "text3": "Netto-Quadratmeter",
+        "text4": "Mietpreis",
+        "text5": "Gebühren",
+        "text6": "Gesamtpreis"
+      },
+      "request": {
+        "text": "Erstellen Sie einen Besuchsplan."
+      },
+      "title": "ANKÜNDIGUNGSBESCHREIBUNG",
+      "title1": "HAUSMÖGLICHKEITEN",
+      "title3": "DETAILS DES HAUSES",
+      "title4": "Die Umwelt kennen",
+      "button2": "Alle Fotos anzeigen",
+      "button3": "Bilder durchsuchen!",
+      "title5": "EIGENSCHAFTEN DES HAUSES",
+      "button4": "Schauen Sie sich die Besonderheiten des Hauses genau an!",
+      "text": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Mauris id condimentum lectus. Die neuesten Preis-Ultricies können kostenlos vorbereitet werden. Mikrowelle oder Fußball jetzt. Nulla. An den freien Enden des Risus. Nam für Pakistan, aber die Enden des Bogens aus dem Tal. Mauris id condimentum urna. Nun das Element Chili-Spieler. Ernährung Bewohner Fußball traurig alt und hässlich Netus et Maleuada Hunger und Armut.",
+      "tittle6": "SIEHE AUF KARTE",
+      "button5": "Schauen Sie sich die Lage des Hauses genau an!",
+      "text1": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Mauris id condimentum lectus. Die neuesten Preis-Ultricies können kostenlos vorbereitet werden. Mikrowelle oder Fußball jetzt. Nulla. An den freien Enden des Risus. Nam für Pakistan, aber die Enden des Bogens aus dem Tal. Mauris id condimentum urna. Nun das Element Chili-Spieler. Ernährung Bewohner Fußball traurig alt und hässlich Netus et Maleuada Hunger und Armut. (BURAYA Sabi BİR YAZ laimės)",
+      "solutions": {
+        "title": "ENTDECKEN SIE MIETLÖSUNGEN!",
+        "title1": "Was brauche ich, um diese Immobilie zu mieten?",
+        "text": "Über",
+        "text1": "10.000 US-Dollar",
+        "text2": "Überprüfen Sie das monatliche Bruttoeinkommen",
+        "text3": "Die Miete kann bis zu 4 Personen betragen. Dieser Betrag kann je nach dem vereinbarten endgültigen Mietvertrag variieren.",
+        "text4": "Reichen Sie digitale Dokumente ein und bestehen Sie unsere Bonitätsprüfung",
+        "text5": "Wir haben verschiedene Kennzahlen zur Einnahmen- und Ausgabenhistorie analysiert, um Ihre Mieter anhand der von Ihnen gesendeten Gutscheine zu profilieren.",
+        "button": "Dokumente anzeigen",
+        "text6": "Simulieren Sie Ihr Darlehen",
+        "text7": "und vereinfachen Sie Ihren Mietprozess!",
+        "button1": "Lern mehr",
+        "title2": "Warum sollte ich mit einem Mietelefanten mieten?",
+        "text8": "Sie brauchen keine Bürgschaft",
+        "text9": "Bestehen Sie einfach unsere Bonitätsprüfung, Sie müssen keine Sicherheiten suchen",
+        "text10": "Selbständig mieten",
+        "text11": "Planen Sie Online-Besuche und sprechen Sie direkt mit dem Eigentümer",
+        "text12": "Keine Überraschungen und keine versteckten Kosten",
+        "text13": "Wir haben Ihnen bereits alles erzählt, was ohne Überraschungskosten auf Ihrem Ticket steht."
+      },
+      "advertisement": {
+        "title": "Die neuesten Angebote von Mietelefanten",
+        "text": "Filtern Sie neue Anzeigen nach Stadt",
+        "button1": "Lern mehr"
+      }
+    },
+    "static": {
+      "career": {
+        "common": {
+          "part": {
+            "title": "Elefant zu mieten",
+            "title1": "Tritt seiner Familie bei!",
+            "text": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Ganzzahlige Suscipit Facilisis Turpis, sitzen amet tincidunt mi aliquam quis. In Großbritannien Entwickler, weich und keine Zeit;"
+          },
+          "cv": {
+            "title": "Senden Sie uns Ihren Lebenslauf",
+            "title1": "Willkommen in der Elefantenfamilie zu mieten!",
+            "form": {
+              "text": "Ad sooyad",
+              "text1": "Zuhause",
+              "text2": "+90",
+              "text3": "+91",
+              "text4": "Telefonnummer",
+              "text5": "EMAIL",
+              "button": "Stadt wählen",
+              "opt": "Istanbul",
+              "opt1": "Ankara",
+              "opt2": "Izmir",
+              "button1": "Wählen Sie Position",
+              "text6": "Lebenslauf hochladen",
+              "text7": "NUR .PDF-ERWEITERTE DATEIEN WERDEN AKZEPTIERT.",
+              "text8": "Deine Nachricht",
+              "button2": "Lebenslauf senden"
+            }
+          }
+        },
+        "career-mobile": {
+          "main": {
+            "title": "Warum wir?",
+            "title1": "Offene Positionen",
+            "title2": "Lebenslauf senden"
+          },
+          "section": {
+            "title": "Senior UI UX Designer",
+            "text": "Lorem ipsum Karotten, nsectetur",
+            "title1": "Call Center-Support",
+            "text1": "Lorem ipsum Karotten, nsectetur",
+            "title2": "Künstlerischer Leiter",
+            "text2": "Lorem ipsum Karotten, nsectetur",
+            "title3": "Senior UI UX Designer",
+            "text3": "Lorem ipsum Karotten, nsectetur",
+            "title4": "Senior UI UX Designer",
+            "text4": "Lorem ipsum Karotten, nsectetur"
+          }
+        },
+        "title": "Offene Positionen anzeigen",
+        "title1": "ENTDECKEN SIE MIETLÖSUNGEN!",
+        "title2": "Warum das",
+        "title3": "Elefant zu mieten",
+        "text": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Ganzzahlige Suscipit Facilisis Turpis, sitzen amet tincidunt mi aliquam quis. In Großbritannien Entwickler, weich und keine Zeit, die größte Fußballzulassung. Aber immer etwas Schmerz aus dem ganzen Land. Dolor Porttitor Phasellus aliquam dui Aufwärmen",
+        "button": "Mehr Informationen bekommen",
+        "title4": "ENTDECKEN SIE MIETLÖSUNGEN!",
+        "title5": "Entdecken Sie vorgestellte Positionen",
+        "title6": "Erfahren Sie mehr über unsere Dienstleistungen!",
+        "section": {
+          "title": "Senior UI UX Designer",
+          "text": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Ganzzahlige Suscipit Facilisis Turpis, sitzen amet tincidunt mi aliquamLorem Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Ganzzahlige Suscipit Facilisis Turpis, sitzen amet tincidunt mi aliquamLorem Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Ganzzahlige Suscipit Facilisis Turpis, einige sitzen amet tincidunt mi",
+          "button": "Stellen Sie eine Bewerbung",
+          "title1": "Call Center-Support",
+          "text1": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Ganzzahlige Suscipit Facilisis Turpis, einige sitzen amet tincidunt mi",
+          "title2": "Künstlerischer Leiter",
+          "text2": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Ganzzahlige Suscipit Facilisis Turpis, einige sitzen amet tincidunt mi",
+          "title3": "Senior UI UX Designer",
+          "text3": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Ganzzahlige Suscipit Facilisis Turpis, einige sitzen amet tincidunt mi",
+          "title4": "Senior UI UX Designer",
+          "text4": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Ganzzahlige Suscipit Facilisis Turpis, einige sitzen amet tincidunt mi",
+          "title5": "Senior UI UX Designer",
+          "text5": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Ganzzahlige Suscipit Facilisis Turpis, einige sitzen amet tincidunt mi"
+        },
+        "title7": "ZU VERMIETEN FIL 29 IN DER STADT!",
+        "title8": "Sie sind bereit, sich uns anzuschließen!",
+        "text1": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Ganzzahlige Suscipit Facilisis Turpis, sitzen amet tincidunt mi aliquamLorem Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Ganzzahlige Suscipit Facilisis Turpis, sitzen amet tincidunt mi aliquamLorem Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Ganzzahlige Suscipit Facilisis Turpis, einige sitzen amet tincidunt mi",
+        "text2": "Name und Nachname",
+        "text3": "CODE",
+        "text4": "TELEFONNUMMER",
+        "text5": "EMAIL"
+      },
+      "earn": {
+        "earn-mobile": {
+          "title": "Was?",
+          "title1": "Wie funktioniert es?",
+          "title2": "Bezahlt werden",
+          "title3": "Unsere Lösungen",
+          "part1": {
+            "text": "Zu vermieten",
+            "text2": "zu Eigenschaften",
+            "text3": "durch Auftragen",
+            "text4": "Geld verdienen",
+            "text5": "Schauen Sie sich die Immobilien für Elephant for Rent an und verdienen Sie 100 USD pro veröffentlichter Immobilie plus 10% der ursprünglichen Miete",
+            "text6": "Wenn Sie 3.500 USD für eine Immobilie vorschlagen und diese mieten, erhalten Sie 450 USD!",
+            "button": "Ich möchte eine Eigenschaft angeben"
+          },
+          "part2": {
+            "text": "Mit einem Mietelefanten",
+            "text1": "Es ist einfach, Geld zu verdienen!",
+            "text2": "Listen Sie das Eigentum Ihres Kunden einem Freund oder Nachbarn desselben Gebäudes auf.",
+            "text3": "Sobald die Eigenschaft deklariert ist, erhalten Sie 100 $ für den Stream!",
+            "text4": "Bei Anmietung verdienen Sie 10% mehr als Ihre ursprüngliche Miete!",
+            "title": "Fragen zum Posten?",
+            "text9": "Kontaktieren Sie uns 0800 608 2129"
+          },
+          "part3": {
+            "text": "Auf Ihr Bankkonto",
+            "text0": "Bezahlt werden!",
+            "text1": "Sie verfolgen Ihre Ergebnisse und wie viel Sie pro Monat verdienen werden. Ihre Einnahmen sind",
+            "text2": "Alle 15 Tage",
+            "text3": "direkt auf Ihr Konto eingezahlt."
+          },
+          "day": "Mo.",
+          "day1": "SOLL",
+          "day2": "VIER",
+          "day3": "ZUM",
+          "day4": "WIE",
+          "day5": "CTS",
+          "day6": "FRIEDEN",
+          "num": "01",
+          "num1": "02",
+          "num2": "03",
+          "num3": "04",
+          "num4": "05",
+          "num5": "06",
+          "num6": "07",
+          "num7": "08",
+          "num8": "09",
+          "num9": "10",
+          "num10": "11",
+          "num11": "12",
+          "num12": "13",
+          "num13": "14",
+          "num14": "15",
+          "num15": "16",
+          "num16": "17",
+          "num17": "18",
+          "num18": "19",
+          "num19": "20",
+          "num20": "21",
+          "num21": "22",
+          "num22": "23",
+          "num23": "24",
+          "num24": "25",
+          "num25": "26",
+          "num26": "27",
+          "num27": "28",
+          "num28": "29",
+          "num29": "30",
+          "title4": "Nachlass",
+          "title5": "Der einfache Weg, um anzuzeigen!",
+          "text": "Sie notieren die Adresse der Unterkunft und den Kontakt des Eigentümers. Durch die Registrierung der Immobilienadresse können Sie Ihre Immobilie zusammen mit dem Namen, dem Telefon und der E-Mail-Adresse des Eigentümers angeben."
+        },
+        "title": "Zu vermieten",
+        "title1": "zu Eigenschaften",
+        "title2": "durch Auftragen",
+        "title3": "Geld verdienen",
+        "text": "Sehen Sie sich Mietobjekte an und verdienen Sie 100 USD pro veröffentlichtem Objekt plus 10% der ursprünglichen Miete",
+        "text1": "Wenn Sie $ 3.500 für eine Immobilie empfehlen",
+        "text2": "und wenn Sie es mieten, erhalten Sie 450 $!",
+        "button": "Ich möchte anzeigen",
+        "adv": "VORTEILE VON FIL ZU VERMIETEN",
+        "soln": "ENTDECKEN SIE MIETLÖSUNGEN!",
+        "advantage": {
+          "title1": "Mit einem Mietelefanten",
+          "title2": "Es ist einfach, Geld zu verdienen!",
+          "num": "1",
+          "item": "Listen Sie das Eigentum Ihres Kunden, einen Freund oder Nachbarn desselben Gebäudes auf.",
+          "num1": "2",
+          "item1": "Sobald die Eigenschaft deklariert ist, erhalten Sie 100 $ für den Stream!",
+          "num2": "3",
+          "item2": "Bei Anmietung verdienen Sie 10% mehr als Ihre ursprüngliche Miete!"
+        },
+        "solution": {
+          "title1": "Nachlass",
+          "title2": "Der einfache Weg, um anzuzeigen!",
+          "title3": "Sie notieren die Adresse der Unterkunft und den Kontakt des Eigentümers.",
+          "title4": "Durch die Registrierung der Immobilienadresse können Sie Ihre Immobilie zusammen mit dem Namen, dem Telefon und der E-Mail-Adresse des Eigentümers angeben.",
+          "user": {
+            "text": "Adresse",
+            "text1": "Telefonnummer",
+            "text2": "Erläuterung",
+            "text3": "Kontaktinformationen des Besitzers",
+            "text4": "Name des Eigentümers Nachname",
+            "text5": "5xx xxx xx xx"
+          }
+        },
+        "advantage2": {
+          "title": "Lass dich auf dein Bankkonto einzahlen!",
+          "title1": "Sie verfolgen Ihre Ergebnisse und wie viel Sie pro Monat verdienen werden. Ihr Einkommen",
+          "title2": "alle 15 Tage",
+          "title3": "direkt auf Ihr Konto eingezahlt."
+        },
+        "soln2": {
+          "title": "Hören Sie uns von unseren zufriedenen Kunden zu!",
+          "title1": "Entdecken Sie die Vorteile einer Anmietung bei uns!",
+          "title2": "Donec sed felis sollicitudin, fermentum ein Bett nicht, arcu eget. ein alkoholfreies Getränk, es braucht viel Zeit.",
+          "ek": "UI UX-Spezialist"
+        },
+        "title4": "Hast du Fragen?",
+        "contact": "Sie erreichen uns über unsere WhatsApp- oder E-Mail-Adresse unter email@satilikfil.com.",
+        "contact1": "Öffnungszeiten: Montag bis Freitag von 8 bis 18 Uhr.",
+        "exp": "ENTDECKEN SIE DIE DATEI ZU VERMIETEN!",
+        "text3": "Entdecke mehr!",
+        "text4": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Sed Durchmesser Laoreet, der See und das Tal, die größte Feder. Allerdings Mitglieder der Klasse Boden Wochenende Libero.",
+        "question": {
+          "text1": "Wie zeige ich die Immobilie?",
+          "text2": "Kann ich eine Immobilie auflisten?",
+          "text3": "Was sind die gültigen Städte und Stadtteile in der Nominierung?",
+          "text4": "Ist die Miete in der Indikation wichtig?",
+          "text5": "Weitere Fragen anzeigen"
+        }
+      },
+      "listing": {
+        "listing-mobile": {
+          "advantage": {
+            "title": "Elefant zu mieten",
+            "title1": "mit",
+            "title2": "Veröffentlichen Sie Ihre Immobilie!",
+            "advertisement": {
+              "text": "Kostenlos werben!",
+              "text1": "Lorem ipsum Karotten",
+              "text2": "Direkte Verhandlung mit dem Mieter",
+              "text3": "Lorem ipsum Karotten",
+              "text4": "Holen Sie sich Miete pünktlich",
+              "text5": "Lorem ipsum Karotten",
+              "text6": "Fragen zum Posten?",
+              "text7": "Lorem ipsum Karotten"
+            },
+            "text": "Um die Miete am Tag zu bekommen",
+            "text1": "Genießen!"
+          },
+          "costs": {
+            "title": "Mietelefantenkosten",
+            "title1": "Traditionelle Immobilienkosten",
+            "special-prc": {
+              "title": "FÜNFTER STOCK SPEZIAL",
+              "text": "Erste Miete + monatlich",
+              "text1": "%.",
+              "text2": "6.9"
+            },
+            "advantage": {
+              "title": "Sie veröffentlichen Anzeigen auf Rental Elephant und können Anzeigen für Immobilien, Anzeigen und temporäre Mietdienste schalten.",
+              "text": "Kostenlose professionelle Fotos",
+              "text1": "Vollständiger Online-Handel und Vertragsabschluss",
+              "text2": "Auch wenn der Mieter zu spät kommt, erfolgt die Zahlung alle 12",
+              "text3": "Bis zu 50.000 $ Schaden",
+              "text4": "Genaue Kreditanalyse"
+            },
+            "text": " Sonderanzeige"
+          },
+          "differences": {
+            "create": "Erstellen Sie eine Anzeige für meine Immobilie",
+            "find-adv": "Ich möchte eine Immobilie finden",
+            "information": {
+              "text": "Online-Werbung und schnelle Vermietung.",
+              "text1": "Mieter im gemieteten Elefanten brauchen keine Bürokratie als Garanten und Sicherheitskontrolle. Deshalb führen unsere Experten eine strenge Kreditanalyse durch, um sicherzustellen, dass unsere Mieter gute Steuerzahler sind.",
+              "text2": "Sie erhalten es unabhängig von der Mieterzahlung.",
+              "text3": "Leistungsstarke Kreditanalyse in Rental Elephant.",
+              "text4": "Schutz vor Beschädigung am Vertragsende.",
+              "text5": "Unsere Anzeige ist kostenlos.",
+              "text6": "Sparen Sie Geld für Sie!"
+            }
+          },
+          "payment": {
+            "text": "Bei einem Mietelefanten zahlen Sie nur, wenn Sie mieten!",
+            "text1": "Sie bezahlen die Miete und besprechen den Wert direkt mit dem Mieter. Sobald die Immobilie vermietet ist, wird eine monatliche Miete berechnet. Ab dem zweiten Monat werden 8% der Miete für nicht exklusive Werbung oder 6,9% für exklusive Werbung berechnet.",
+            "button": "Werben Sie für mein Eigentum"
+          },
+          "working": {
+            "title": "Werbung und",
+            "title1": "Wie funktioniert das Mieten?",
+            "direction": {
+              "text": "Registrieren Sie Ihre Immobilie und werben Sie kostenlos",
+              "text1": "Die Registrierung Ihres Hauses oder Ihrer Wohnung kann auf der Website oder in der Anwendung Rental Fil for Owners erfolgen.",
+              "text2": "Planen Sie ein professionelles Fotoshooting",
+              "text3": "Alles kostenlos. Wir schicken einen Fotografen zu Ihnen, um Bilder (normal und 360 °) und Videos aufzunehmen.",
+              "text4": "Machen Sie Besuche und mieten Sie Ihr Haus oder Ihre Wohnung",
+              "text5": "Unterzeichnen Sie den Vertrag online und erhalten Sie die Miete pünktlich",
+              "text6": "Sie erhalten die Miete garantiert alle 12 Tage fehlerfrei. Das Management ist bis zum Vertragsende bei uns."
+            },
+            "text1": "Fragen zum Posten?",
+            "text2": "Kontaktieren Sie uns 0800 608 2129"
+          },
+          "advantages1": "unsere Vorteile",
+          "differences1": "Unsere Unterschiede",
+          "button": "Eigenschaft veröffentlichen",
+          "costs1": "Kosten",
+          "working1": "Wie funktioniert es",
+          "payment1": "Zahlung",
+          "under": {
+            "text": "Bei einem Mietelefanten zahlen Sie nur, wenn Sie mieten!",
+            "text1": "Sie bezahlen die Miete und besprechen den Wert direkt mit dem Mieter. Sobald die Immobilie vermietet ist, wird eine monatliche Miete berechnet. Ab dem zweiten Monat werden 8% der Miete für nicht exklusive Werbung oder 6,9% für exklusive Werbung berechnet.",
+            "button": "Werben Sie für mein Eigentum"
+          }
+        },
+        "header": "Elefant zu mieten",
+        "header1": "mit",
+        "header2": "Ihr Eigentum",
+        "header3": "Veröffentlichen.",
+        "subheader": {
+          "title": "Werben",
+          "title1": "Direkte Verhandlung mit dem Mieter",
+          "title2": "Holen Sie sich Miete pünktlich"
+        },
+        "text": "Fragen zum Posten?",
+        "text1": "0800 608 2129",
+        "text2": "nummeriert",
+        "text3": "vom Telefon",
+        "text4": "Kontaktiere uns",
+        "recognize": {
+          "title": "LERNEN SIE DEN MIETFILM KENNEN!",
+          "title1": "Mieten Sie Elefanten",
+          "title2": "Unterschiede zu traditionellen Immobilien",
+          "button": "Werben Sie für mein Eigentum",
+          "button1": "Ich möchte eine Immobilie finden"
+        },
+        "solution": {
+          "tenant": "MIETERLÖSUNGEN",
+          "title1": "Sie erhalten es unabhängig von der Mieterzahlung.",
+          "text1": "Der Rental Elephant garantiert, dass Sie die Miete unabhängig von der Mieterzahlung immer am vereinbarten Tag erhalten. Wir möchten, dass Sie beruhigt Geld besitzen können, ohne sich Sorgen machen zu müssen oder Kopfschmerzen zu haben.",
+          "online": "ONLINE-LÖSUNGEN",
+          "title2": "Online-Werbung und schnelle Vermietung.",
+          "text2": "Sie müssen keinen schlechten Anruf haben oder zu Immobilien gehen, um Papierkram zu erledigen. Bei Rental Elephant erledigen Sie alles online und haben die volle Kontrolle über jeden Schritt der Vermietung.",
+          "credit": "KREDITLÖSUNGEN",
+          "title3": "Leistungsstarke Kreditanalyse!",
+          "text3": "Mieter im gemieteten Elefanten brauchen keine Bürokratie als Garanten und Sicherheitskontrolle. Deshalb führen unsere Experten eine strenge Kreditanalyse durch, um sicherzustellen, dass unsere Mieter gute Steuerzahler sind.",
+          "trust": "VERTRAUENSLÖSUNGEN",
+          "title4": "Schutz vor Beschädigung am Vertragsende.",
+          "text4": "Wir wissen, wie wichtig Ihr Vermögen ist. Wir prüfen jedes Detail Ihrer Immobilie bei Ankunft und Abreise des Mieters. Sie haben auch RentalFile Protection, der am Ende des Mietvertrags bis zu 50.000 US-Dollar gegen Schäden garantiert.",
+          "advertisement": "WERBELÖSUNGEN",
+          "title5": "Unsere Anzeige ist kostenlos. Mehr Einsparungen für Sie!",
+          "text5": "Sie zahlen nichts, um auf dem Rental Elephant zu werben. Wir machen professionelle Fotos von Ihrer Immobilie und veröffentlichen sie kostenlos auf unserer Website und in den größten Kleinanzeigen in Brasilien. Wir wollen auch keine Exklusivität. Sie haben die Freiheit, nach Belieben zu arbeiten."
+        },
+        "costs": {
+          "block1": {
+            "title": "Mietkosten mit einem Mietelefanten",
+            "text": "Sie entscheiden, wie Sie für Ihre Immobilie werben möchten, und zahlen erst, wenn sie vermietet ist.",
+            "label": "FÜNFTER STOCK SPEZIAL",
+            "info": "Erste Miete + monatlich",
+            "info1": "%.",
+            "info2": "6.9",
+            "description": "Sie veröffentlichen Anzeigen auf Rental Elephant und können Anzeigen für Immobilien, Anzeigen und temporäre Mietdienste schalten.",
+            "item": "Kostenlose professionelle Fotos",
+            "item1": "Vollständiger Online-Handel und Vertragsabschluss",
+            "item2": "Auch wenn der Mieter zu spät kommt, erfolgt die Zahlung alle 12",
+            "item3": "Bis zu 50.000 $ Schaden",
+            "item4": "Genaue Kreditanalyse"
+          },
+          "vs": "VS.",
+          "block2": {
+            "title": "Vergleichen Sie mit traditionellen Immobilienbedingungen",
+            "text": "Sie können die einzigartigen Vorteile des gemieteten Elefanten nicht mehr genießen",
+            "label": "AUSSERHALB DES FÜNFTEN STOCKES",
+            "info": "Erste Miete + monatlich",
+            "info1": "%.",
+            "info2": "8",
+            "description": "Der Elephant for Hire wurde geschaffen, um Bürokratie bei der Anmietung Ihrer Immobilie zu vermeiden:",
+            "item": "Amateurfotos",
+            "item1": "Verhandlung und Vertrag mit Vermittlern und Warteschlangen im Notar",
+            "item2": "Unsichere Zahlung (wenn der Mieter zu spät kommt, sind Sie bereit)",
+            "item3": "Eigentum anfällig für Schäden",
+            "item4": "Bürokratische Garantien"
+          }
+        },
+        "title": "ENTDECKEN SIE MIETLÖSUNGEN!",
+        "title1": "Alles was du tun musst, ist",
+        "title2": "Beitrag hinzufügen.",
+        "text5": "Sie müssen sich nur anmelden und uns über das Haus informieren. Wir werden kommen und den Schlüssel von Ihnen abholen. Nachdem professionelle Aufnahmen gemacht wurden, wird Ihr Zuhause auf der Website veröffentlicht. Darüber hinaus können Sie den gesamten Prozess von der mobilen Anwendung oder unserer Website aus verfolgen.",
+        "button": "Mehr Informationen bekommen",
+        "title3": "Mieten Sie Ihr Haus in 10 Schritten!",
+        "title4": "Entdecken Sie die Vorteile einer Anmietung bei uns!",
+        "text6": "Lass uns das Haus wissen.",
+        "text7": "Wir kümmern uns um die restlichen 9 Artikel :)",
+        "media": {
+          "title": "WAS SAGT DIE PRESSE ÜBER DIE ZU VERMIETENDE DATEI?",
+          "title1": "Elefant zum Mieten in der Presse",
+          "text": "\"Rented Elephant hat es geschafft, eine Immobilie zehnmal schneller als herkömmliche Immobilien zu mieten, durchschnittlich alle 4 Tage.\"",
+          "auth": "- Forbes"
+        },
+        "step": {
+          "header1": "Wie funktioniert Werbung und Vermietung?",
+          "num1": "1",
+          "title1": "Registrieren Sie Ihre Immobilie und",
+          "title1-1": "Werben Sie kostenlos",
+          "text1": "Die Registrierung Ihres Hauses oder Ihrer Wohnung kann auf der Website oder in der Anwendung Rental Fil for Owners erfolgen.",
+          "num2": "2",
+          "title2": "Professionelles Foto",
+          "title2-1": "Planen Sie den Schuss",
+          "text2": "Alles kostenlos. Wir schicken einen Fotografen zu Ihnen, um Bilder (normal und 360 °) und Videos aufzunehmen.",
+          "num3": "3",
+          "title3": "Empfangen Sie Besuche",
+          "title3-1": "und dein Haus oder deine Wohnung",
+          "title3-2": "Miete",
+          "num4": "4",
+          "title4": "Der Vertrag online",
+          "title4-1": "Zeichen und pünktlich",
+          "title4-2": "Holen Sie sich die Miete",
+          "text4": "Sie erhalten die Miete garantiert alle 12 Tage fehlerfrei. Das Management ist bis zum Vertragsende bei uns."
+        },
+        "button1": "Werben Sie für mein Eigentum",
+        "button2": "Ich möchte eine Immobilie finden",
+        "text8": "Sie zahlen nur, wenn Sie mieten!",
+        "text9": "Sie bezahlen die Miete und besprechen den Wert direkt mit dem Mieter. Sobald die Immobilie vermietet ist, wird eine monatliche Miete berechnet. Ab dem zweiten Monat werden 8% der Miete für nicht exklusive Werbung oder 6,9% für exklusive Werbung berechnet.",
+        "text10": "Was ist ein Mietelefant?",
+        "text11": "Alles ist mit den Herausforderungen konfrontiert, denen sich die Firmengründer sowie der Vermieter und Mieter gegenübersehen",
+        "sample": "Gabriel Braga, CEO von QuintoAndar, hat viel Zeit damit verbracht, eine Wohnung in Sao Paulo zu mieten, weil die Online-Informationen, die er auf der Immobilienseite fand, nicht ausreichten. Auch in seiner Stadt gab es keinen Bürgen.",
+        "sample1": "Auf der anderen Seite der Geschichte lebte bereits André Penha, CTO QuintoAndar. Ihre Wohnung in Campinas war monatelang in den Händen einer traditionellen Immobilie gestrandet. Nachdem er die Führung übernommen hatte, konnte er innerhalb von zwei Wochen Immobilien mieten.",
+        "sample2": "Die Idee zu QuintoAndar kam während des Studiums an der Stanford University in Kalifornien, wo innovative Unternehmen wie Google, Facebook und Instagram ansässig sind.",
+        "sample3": "2012 wurde QuintoAndar gegründet, um diese Vision von Innovation auf dem Immobilienmarkt zum Leben zu erwecken. Das Unternehmen startete in Campinas, erreichte dann Sao Paulo, Rio de Janeiro, Curitiba, Porto Alegre, Goiania, Brasilia und Florianopolis und wird bald in ganz Brasilien tätig sein.",
+        "title5": "Bewerben Sie Ihre Immobilie und erhalten Sie Besuche",
+        "text12": "Nehmen Sie an einem kostenlosen professionellen Fotoshooting für Ihre Einrichtung teil und planen Sie es. Danach wird es veröffentlicht und ist bereit, Besuche von interessierten Mietern zu erhalten.",
+        "questions": "HÄUFIG GESTELLTE FRAGEN",
+        "questions1": "Eine Frage haben?",
+        "text-1": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Sed Durchmesser Laoreet, der See und das Tal, die größte Feder. Allerdings Mitglieder der Klasse Boden Wochenende Libero.",
+        "questions2": "Frage zum Elefanten zu mieten",
+        "text-2": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Jetzt schmücke mein Mundlächeln und Entwickler. Klinisch sterilisierte Make-up-Blockade. Aber massa purus, tempor sed luctus ac, ein weicher Aufstieg aus dem.",
+        "text-3": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Jetzt schmücke mein Mundlächeln und Entwickler. Klinisch sterilisierte Make-up-Blockade. Aber massa purus, tempor sed luctus ac, ein weicher Aufstieg aus dem.",
+        "text-4": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Jetzt schmücke mein Mundlächeln und Entwickler. Klinisch sterilisierte Make-up-Blockade. Aber massa purus, tempor sed luctus ac, ein weicher Aufstieg aus dem.",
+        "text-5": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Jetzt schmücke mein Mundlächeln und Entwickler. Klinisch sterilisierte Make-up-Blockade. Aber massa purus, tempor sed luctus ac, ein weicher Aufstieg aus dem."
+      },
+      "solution-partners": {
+        "solution-partners-mobile": {
+          "title": "Warum Elefanten mieten?",
+          "button": "Entdecken",
+          "reason": {
+            "title": "Meine Kunden warum",
+            "title1": "Soll der Elefant gemietet werden?",
+            "text": "Der Elephant for Rent ist schneller als herkömmliche Immobilien. Wir kümmern uns um alle Arbeiten, außer um den Kunden im Haus, damit Sie sich um mehr Kunden kümmern können Deshalb können Sie mit unseren digitalen Lösungen mehr Kunden ansprechen und ergebnisorientierter arbeiten."
+          },
+          "percent": {
+            "title": "Eigentum des Lösungspartners:",
+            "title1": "Lösungspartner Kunde",
+            "percentage": "100% Gewinn",
+            "title2": "Eigentum von der Site:",
+            "title3": "Lösungspartner Kunde",
+            "percentage1": "50% Gewinn",
+            "title4": "Kunde kommt von der Site",
+            "title5": "Von der Seite",
+            "title6": "Eingehendes Eigentum:",
+            "title7": "Eingehender Kunde",
+            "percentage2": "25% Gewinn",
+            "percentage3": "20% Gewinn"
+          },
+          "content": {
+            "title": "Team Management",
+            "text": "Es kann schwierig sein, Aufgaben zu verteilen. Dank unserer High-Tech-Infrastruktur können Sie Aufgaben verteilen und mehr steuern.",
+            "title1": "Leistungsmessung",
+            "text1": "Wir berichten Ihnen kostenlos, was er über Ihr Unternehmen denkt und bieten Ihnen täglich an. Dank des Feedbacks der Kunden werden Sie sich ständig verbessern.",
+            "title2": "Separates Konto für jeden Mitarbeiter",
+            "text2": "Sie können für jeden Mitarbeiter separate Konten erstellen. Sie können jedes Konto separat autorisieren. Durch die Verteilung verschiedener Aufgaben ist alles sehr ordentlich. Wir bewerten die Leistung aller Mitarbeiter anhand der Informationen, die wir vom Kunden erhalten, und veröffentlichen diesen Bericht kostenlos in Ihrem Panel.",
+            "title3": "Fotoshooting",
+            "title3-1": "wir kümmern uns darum!",
+            "text3": "Sie können für jeden Mitarbeiter separate Konten erstellen. Sie können jedes Konto separat autorisieren. Durch die Verteilung verschiedener Aufgaben ist alles sehr ordentlich. Wir bewerten die Leistung aller Mitarbeiter anhand der Informationen, die wir vom Kunden erhalten, und veröffentlichen diesen Bericht kostenlos in Ihrem Panel.",
+            "title4": "Völlig kostenlos und transparent",
+            "text4": "Hier ist alles kostenlos. Sie können Fotoshootings, Werbung, Call Center, unsere mit der neuesten Technologie entwickelte Software und vieles mehr machen, ohne dafür zu bezahlen.",
+            "title5": "Zu mehr Menschen",
+            "title5-1": "Sie Adresse.",
+            "text5": "Es kann schwierig sein, Aufgaben zu verteilen. Dank unserer High-Tech-Infrastruktur können Sie Aufgaben verteilen und mehr steuern."
+          }
+        },
+        "reason": {
+          "title": "Meine Kunden",
+          "title1": "Warum das",
+          "title2": "Elefant zu mieten",
+          "title3": "Sollte nutzen?",
+          "text": "Der Elephant for Rent ist schneller als herkömmliche Immobilien. Wir kümmern uns um alle Arbeiten, außer um den Kunden im Haus, damit Sie sich um mehr Kunden kümmern können Deshalb können Sie mit unseren digitalen Lösungen mehr Kunden ansprechen und ergebnisorientierter arbeiten.",
+          "button": "Mehr Informationen bekommen"
+        },
+        "header": "ENTDECKEN SIE MIETLÖSUNGEN!",
+        "header1": "Professionelle Lösungen von Rental Elephant",
+        "header2": "Erfahren Sie mehr über unsere Dienstleistungen!",
+        "title1": "Einführungsvideo ansehen",
+        "title2": "Unterstützung nach dem Verkauf",
+        "title3": "Sie sprechen mehr Menschen an."
+      },
+      "sss": {
+        "title": "Häufig gestellte Fragen",
+        "text": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Erdnuss selbst. Klasse vergangene Zugehörigkeiten mit Twist",
+        "questions-rental": {
+          "header": "SONDERLÖSUNGEN FÜR MIETFIL",
+          "title": "Fragen und Antworten für Mieter",
+          "question1": "Was kann ich mit dem Eigentümer verhandeln?",
+          "answer1": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Nullam das Boot. Selbst reservierte traurige Zeit, ist es wichtig für Schwangere und Strafverfolgungsbehörden. Sogar Element mit einem Bogen, ein Rezept Propaganda Durchsetzung des Lebens. Im größten Lächeln und Chat hasse es. Android und eine tolle Karriere, als das Sit Amet Laoreet.",
+          "question2": "Was kann ich mit dem Eigentümer verhandeln?",
+          "answer2": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Nullam das Boot. Selbst reservierte traurige Zeit, ist es wichtig für Schwangere und Strafverfolgungsbehörden. Sogar Element mit einem Bogen, ein Rezept Propaganda Durchsetzung des Lebens. Im größten Lächeln und Chat hasse es. Android und eine tolle Karriere, als das Sit Amet Laoreet.",
+          "question3": "Was kann ich mit dem Eigentümer verhandeln?",
+          "answer3": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Nullam das Boot. Selbst reservierte traurige Zeit, ist es wichtig für Schwangere und Strafverfolgungsbehörden. Sogar Element mit einem Bogen, ein Rezept Propaganda Durchsetzung des Lebens. Im größten Lächeln und Chat hasse es. Android und eine tolle Karriere, als das Sit Amet Laoreet.",
+          "question4": "Was kann ich mit dem Eigentümer verhandeln?",
+          "answer4": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Nullam das Boot. Selbst reservierte traurige Zeit, ist es wichtig für Schwangere und Strafverfolgungsbehörden. Sogar Element mit einem Bogen, ein Rezept Propaganda Durchsetzung des Lebens. Im größten Lächeln und Chat hasse es. Android und eine tolle Karriere, als das Sit Amet Laoreet.",
+          "question5": "Was kann ich mit dem Eigentümer verhandeln?",
+          "answer5": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Nullam das Boot. Selbst reservierte traurige Zeit, ist es wichtig für Schwangere und Strafverfolgungsbehörden. Sogar Element mit einem Bogen, ein Rezept Propaganda Durchsetzung des Lebens. Im größten Lächeln und Chat hasse es. Android und eine tolle Karriere, als das Sit Amet Laoreet.",
+          "question6": "Was kann ich mit dem Eigentümer verhandeln?",
+          "answer6": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Nullam das Boot. Selbst reservierte traurige Zeit, ist es wichtig für Schwangere und Strafverfolgungsbehörden. Sogar Element mit einem Bogen, ein Rezept Propaganda Durchsetzung des Lebens. Im größten Lächeln und Chat hasse es. Android und eine tolle Karriere, als das Sit Amet Laoreet.",
+          "question7": "Was kann ich mit dem Eigentümer verhandeln?",
+          "answer7": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Nullam das Boot. Selbst reservierte traurige Zeit, ist es wichtig für Schwangere und Strafverfolgungsbehörden. Sogar Element mit einem Bogen, ein Rezept Propaganda Durchsetzung des Lebens. Im größten Lächeln und Chat hasse es. Android und eine tolle Karriere, als das Sit Amet Laoreet.",
+          "question8": "Was kann ich mit dem Eigentümer verhandeln?",
+          "answer8": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Nullam das Boot. Selbst reservierte traurige Zeit, ist es wichtig für Schwangere und Strafverfolgungsbehörden. Sogar Element mit einem Bogen, ein Rezept Propaganda Durchsetzung des Lebens. Im größten Lächeln und Chat hasse es. Android und eine tolle Karriere, als das Sit Amet Laoreet."
+        },
+        "questions-host": {
+          "header": "SONDERLÖSUNGEN FÜR MIETFILIEN FÜR HAUSHALTER",
+          "title": "Fragen und Antworten für Hausbesitzer",
+          "question1": "Was kann ich mit dem Eigentümer verhandeln?",
+          "answer1": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Nullam das Boot. Selbst reservierte traurige Zeit, ist es wichtig für Schwangere und Strafverfolgungsbehörden. Sogar Element mit einem Bogen, ein Rezept Propaganda Durchsetzung des Lebens. Im größten Lächeln und Chat hasse es. Android und eine tolle Karriere, als das Sit Amet Laoreet.",
+          "question2": "Was kann ich mit dem Eigentümer verhandeln?",
+          "answer2": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Nullam das Boot. Selbst reservierte traurige Zeit, ist es wichtig für Schwangere und Strafverfolgungsbehörden. Sogar Element mit einem Bogen, ein Rezept Propaganda Durchsetzung des Lebens. Im größten Lächeln und Chat hasse es. Android und eine tolle Karriere, als das Sit Amet Laoreet.",
+          "question3": "Was kann ich mit dem Eigentümer verhandeln?",
+          "answer3": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Nullam das Boot. Selbst reservierte traurige Zeit, ist es wichtig für Schwangere und Strafverfolgungsbehörden. Sogar Element mit einem Bogen, ein Rezept Propaganda Durchsetzung des Lebens. Im größten Lächeln und Chat hasse es. Android und eine tolle Karriere, als das Sit Amet Laoreet.",
+          "question4": "Was kann ich mit dem Eigentümer verhandeln?",
+          "answer4": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Nullam das Boot. Selbst reservierte traurige Zeit, ist es wichtig für Schwangere und Strafverfolgungsbehörden. Sogar Element mit einem Bogen, ein Rezept Propaganda Durchsetzung des Lebens. Im größten Lächeln und Chat hasse es. Android und eine tolle Karriere, als das Sit Amet Laoreet.",
+          "question5": "Was kann ich mit dem Eigentümer verhandeln?",
+          "answer5": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Nullam das Boot. Selbst reservierte traurige Zeit, ist es wichtig für Schwangere und Strafverfolgungsbehörden. Sogar Element mit einem Bogen, ein Rezept Propaganda Durchsetzung des Lebens. Im größten Lächeln und Chat hasse es. Android und eine tolle Karriere, als das Sit Amet Laoreet.",
+          "question6": "Was kann ich mit dem Eigentümer verhandeln?",
+          "answer6": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Nullam das Boot. Selbst reservierte traurige Zeit, ist es wichtig für Schwangere und Strafverfolgungsbehörden. Sogar Element mit einem Bogen, ein Rezept Propaganda Durchsetzung des Lebens. Im größten Lächeln und Chat hasse es. Android und eine tolle Karriere, als das Sit Amet Laoreet.",
+          "question7": "Was kann ich mit dem Eigentümer verhandeln?",
+          "answer7": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Nullam das Boot. Selbst reservierte traurige Zeit, ist es wichtig für Schwangere und Strafverfolgungsbehörden. Sogar Element mit einem Bogen, ein Rezept Propaganda Durchsetzung des Lebens. Im größten Lächeln und Chat hasse es. Android und eine tolle Karriere, als das Sit Amet Laoreet.",
+          "question8": "Was kann ich mit dem Eigentümer verhandeln?",
+          "answer8": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Nullam das Boot. Selbst reservierte traurige Zeit, ist es wichtig für Schwangere und Strafverfolgungsbehörden. Sogar Element mit einem Bogen, ein Rezept Propaganda Durchsetzung des Lebens. Im größten Lächeln und Chat hasse es. Android und eine tolle Karriere, als das Sit Amet Laoreet."
+        },
+        "sss-mobile": {
+          "menu": {
+            "title": "Alles sehen",
+            "title1": "Mieter",
+            "title2": "Hausbesitzer"
+          },
+          "section1": {
+            "title1": "Mit dem Besitzer",
+            "title1-1": "Was kann ich verhandeln?",
+            "text1": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Nullam das Boot. Selbst reservierte traurige Zeit, ist es wichtig für Schwangere und Strafverfolgungsbehörden. Auch mit dem Element",
+            "title2": "Besuchstage",
+            "title2-1": "und wie sind die stunden",
+            "text2": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Nullam das Boot. Selbst reservierte traurige Zeit, ist es wichtig für Schwangere und Strafverfolgungsbehörden. Auch mit dem Element",
+            "title3": "Mit dem Besitzer",
+            "title3-1": "Was kann ich verhandeln?",
+            "text3": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Nullam das Boot. Selbst reservierte traurige Zeit, ist es wichtig für Schwangere und Strafverfolgungsbehörden. Auch mit dem Element",
+            "title4": "Mit dem Besitzer",
+            "title4-1": "Was kann ich verhandeln?",
+            "text4": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Nullam das Boot. Selbst reservierte traurige Zeit, ist es wichtig für Schwangere und Strafverfolgungsbehörden. Auch mit dem Element"
+          },
+          "section2": {
+            "title1": "Mit dem Besitzer",
+            "title1-1": "und wie sind die stunden",
+            "text1": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Nullam das Boot. Selbst reservierte traurige Zeit, ist es wichtig für Schwangere und Strafverfolgungsbehörden. Auch mit dem Element",
+            "title2": "Besuchstage",
+            "title2-1": "und wie sind die stunden",
+            "text2": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Nullam das Boot. Selbst reservierte traurige Zeit, ist es wichtig für Schwangere und Strafverfolgungsbehörden. Auch mit dem Element",
+            "title3": "Mit dem Besitzer",
+            "title3-1": "Was kann ich verhandeln?",
+            "text3": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Nullam das Boot. Selbst reservierte traurige Zeit, ist es wichtig für Schwangere und Strafverfolgungsbehörden. Auch mit dem Element"
+          },
+          "section3": {
+            "title1": "Mit dem Besitzer",
+            "title1-1": "Was kann ich verhandeln?",
+            "text1": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Nullam das Boot. Selbst reservierte traurige Zeit, ist es wichtig für Schwangere und Strafverfolgungsbehörden. Auch mit dem Element",
+            "title2": "Mit dem Besitzer",
+            "title2-1": "Was kann ich verhandeln?",
+            "text2": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Nullam das Boot. Selbst reservierte traurige Zeit, ist es wichtig für Schwangere und Strafverfolgungsbehörden. Auch mit dem Element"
+          }
+        }
+      },
+      "tenant": {
+        "entry": {
+          "title": "Keine Anzahlung!",
+          "title1": "Professionelle Lösungen!",
+          "text": "Es gibt keine Kaution oder Kaution während der Aufbewahrung des Hauses.",
+          "text1": "Es gibt eine Schadensversicherung, es besteht die Möglichkeit, die Miete per Knopfdruck online zu bezahlen.",
+          "button": "Ich suche ein neues Zuhause"
+        },
+        "topic": {
+          "title": "ENTDECKEN SIE MIETLÖSUNGEN!",
+          "title1": "Unsere Sonderlösungen für Mieter",
+          "title2": "Entdecken Sie die Vorteile einer Anmietung bei uns!",
+          "step": {
+            "item1": "Keine Anzahlung!",
+            "text1": "Es gibt keine Kaution oder Kaution während der Aufbewahrung des Hauses. Es gibt eine Schadensversicherung, es besteht die Möglichkeit, die Miete per Knopfdruck online zu bezahlen.",
+            "item2": "Keine langen Warteschlangen!",
+            "text2": "Traditionelle Immobilien sind sehr anstrengend. Uhren passen nie. Es gibt keine Immobilienbüros, Warteschlangen, lange Verträge.",
+            "item3": "Es gibt keinen Raum für Überraschungen!",
+            "text3": "Alles ist sehr transparent. Sie wissen, was Sie bezahlen werden. Da wir alle Häuser fotografiert haben, sind sie alle so, wie sie erscheinen.",
+            "item4": "Kein Stress!",
+            "text4": "Wir finden immer einen Mittelweg zwischen Mieter und Vermieter. Wenn der Vermieter eine jährliche Miete wünscht, machen Sie sich keine Sorgen! Wir bezahlen."
+          },
+          "advantage": {
+            "header": "VORTEILE VON FIL ZU VERMIETEN",
+            "title": "Mit einem Mietelefanten",
+            "title1": "Wie miete ich ein Haus?",
+            "num1": "1",
+            "text1": "Wählen Sie das Haus aus und reservieren Sie online.",
+            "description1": "Wenn Sie das Haus besichtigen möchten, begleitet Sie unser professioneller Berater kostenlos. Sie müssen nur Datum und Uhrzeit auswählen.",
+            "num2": "2",
+            "text2": "Halte das Haus",
+            "description2": "Wenn Ihnen das Haus gefällt, können Sie es sofort behalten. Sie können alles andere über die mobile Anwendung oder Website überprüfen und bezahlen.",
+            "num3": "3",
+            "text3": "Wir sind im gesamten Prozess bei Ihnen.",
+            "description3": "Wir sind immer bei Ihnen, bis Sie das Haus verlassen. Sie können jederzeit Unterstützung vom Kundendienst erhalten."
+          }
+        },
+        "question": "Fragen zum Posten?",
+        "contact": "Kontaktieren Sie uns 0800 608 2129",
+        "solutions": "Unsere Lösungen",
+        "working": "Wie funktioniert es?",
+        "cost": "Kosten",
+        "costs": {
+          "title": "Mietkosten mit einem Mietelefanten",
+          "title1": "Mietelefantenkosten",
+          "text": "Sie entscheiden, wie Sie für Ihre Immobilie werben möchten, und zahlen erst, wenn sie vermietet ist.",
+          "block1": {
+            "title": "FÜNFTER STOCK SPEZIAL",
+            "text": "Erste Miete + monatlich",
+            "text1": "%.",
+            "text2": "6.9",
+            "description": "Sie veröffentlichen Anzeigen auf Rental Elephant und können Anzeigen für Immobilien, Anzeigen und temporäre Mietdienste schalten.",
+            "advantage1": "Kostenlose professionelle Fotos",
+            "advantage2": "Vollständiger Online-Handel und Vertragsabschluss",
+            "advantage3": "Auch wenn der Mieter zu spät kommt, erfolgt die Zahlung alle 12",
+            "advantage4": "Bis zu 50.000 $ Schaden",
+            "advantage5": "Genaue Kreditanalyse",
+            "advantage6": "Sonderanzeige"
+          },
+          "vs": "VS.",
+          "title2": "Traditionelle Immobilienkosten",
+          "costs1": {
+            "title": "Vergleichen Sie mit traditionellen Immobilienbedingungen",
+            "text": "Sie können die einzigartigen Vorteile des gemieteten Elefanten nicht mehr genießen",
+            "block2": {
+              "title": "AUSSERHALB DES FÜNFTEN STOCKES",
+              "text": "Erste Miete + monatlich",
+              "text1": "%.",
+              "text2": "8",
+              "description": "Der Elephant for Hire wurde geschaffen, um Bürokratie bei der Anmietung Ihrer Immobilie zu vermeiden:",
+              "bad": "Amateurfotos",
+              "bad1": "Verhandlung und Vertrag mit Vermittlern und Warteschlangen im Notar",
+              "bad2": "Unsichere Zahlung (wenn der Mieter zu spät kommt, sind Sie bereit)",
+              "bad3": "Eigentum anfällig für Schäden",
+              "bad4": "Bürokratische Garantien"
+            }
+          }
+        },
+        "text": "Alle Preise unterliegen unserer Kontrolle!",
+        "text1": "Alle Immobilien auf der Website werden mit unseren Experten für Immobilien auf die Website hochgeladen. Sie können kein Haus sehen, das auf dem Gelände keine Genehmigung erhält. Hohe Preise für das Haus werden nicht geschrieben. Irreführende Informationen werden nicht bereitgestellt. Der Mietpreis kann nicht geändert werden.",
+        "text2": "Ich suche ein neues Zuhause",
+        "questions": {
+          "text": "HÄUFIG GESTELLTE FRAGEN",
+          "text1": "Eine Frage haben?",
+          "text2": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Sed Durchmesser Laoreet, der See und das Tal, die größte Feder. Allerdings Mitglieder der Klasse Boden Wochenende Libero.",
+          "title1": "Frage zum Elefanten zu mieten",
+          "que1": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Jetzt schmücke mein Mundlächeln und Entwickler. Klinisch sterilisierte Make-up-Blockade. Aber massa purus, tempor sed luctus ac, ein weicher Aufstieg aus dem.",
+          "title2": "Frage zum Elefanten zu mieten",
+          "que2": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Jetzt schmücke mein Mundlächeln und Entwickler. Klinisch sterilisierte Make-up-Blockade. Aber massa purus, tempor sed luctus ac, ein weicher Aufstieg aus dem.",
+          "title3": "Frage zum Elefanten zu mieten",
+          "que3": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Jetzt schmücke mein Mundlächeln und Entwickler. Klinisch sterilisierte Make-up-Blockade. Aber massa purus, tempor sed luctus ac, ein weicher Aufstieg aus dem.",
+          "title4": "Frage zum Elefanten zu mieten",
+          "que4": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Jetzt schmücke mein Mundlächeln und Entwickler. Klinisch sterilisierte Make-up-Blockade. Aber massa purus, tempor sed luctus ac, ein weicher Aufstieg aus dem."
+        }
+      }
+    },
+    "rental": {
+      "advertisement": "Anzeigen gefunden",
+      "filter1": "Relevanteste",
+      "filter2": "Nach Preis: Aufsteigend",
+      "filter2-1": "Preiserhöhung",
+      "filter3": "Nach Preis: Absteigend",
+      "filter3-1": "Absteigend nach Preis",
+      "button1": "Filter",
+      "advertisement-title": "FEATURED POST",
+      "month": "monatlich",
+      "image": "Foto",
+      "room": "Zimmer",
+      "saloon": "Wohnzimmer",
+      "bath": "Bad",
+      "popular": "Beliebte Picks",
+      "popular1": "Von uns",
+      "popular2": " ausgewählte Eigenschaften.",
+      "button": "Aussicht",
+      "price": "PREIS",
+      "area": "BEREICH",
+      "min": "Minimum",
+      "max": "Maximal",
+      "tl": "TL",
+      "meter": "m2",
+      "text": "Katastrophal",
+      "main": "Startseite",
+      "button2": "Schließen",
+      "button3": "Filter löschen"
+    },
+    "admin": {
+      "suggestions": {
+        "title": "Hausrat",
+        "list": "Liste der von Benutzern eingereichten Home-Vorschläge",
+        "host": "Gastgeber",
+        "date": "Erstellungsdatum",
+        "situation": "Es kommt auf die Situation an",
+        "button": "Bearbeiten",
+        "call": "Telefonisch anrufen",
+        "button1": "Jetzt",
+        "button2": "Zurücksetzen",
+        "suggestion-edit": {
+          "warning": "Warnung",
+          "sender": "Absender",
+          "advertisement": "Anzeigenbestätigung",
+          "text": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Mauris id condimentum lectus. Die neuesten Preis-Ultricies können kostenlos vorbereitet werden.",
+          "choice": {
+            "text": "Triff eine Entscheidung ...",
+            "text1": "Host konnte nicht erreicht werden",
+            "text2": "Das Haus ist nicht vermietet",
+            "text3": "Lösungspartner zuweisen",
+            "text4": "Status des Vorschlags"
+          },
+          "button1": "Fortschrittsstatus aktualisieren"
+        },
+        "modals": {
+          "partner-modal": {
+            "choice": " Wählen Sie diese Option, um sie dem Lösungspartner zuzuweisen",
+            "choice1": "Wählen Sie Ihren Lösungspartner",
+            "choice2": "Zweig auswählen",
+            "button": "Gib auf",
+            "button1": "Machen Sie eine Aufgabe"
+          }
+        }
+      }
+    },
+    "mobile-search": {
+      "text": "Haus gefunden",
+      "text1": "Keine Vermietungen gefunden",
+      "month": "monatlich",
+      "room": "Zimmer",
+      "saloon": "Wohnzimmer",
+      "bath": "Bad"
+    },
+    "partner": {
+      "common": {
+        "contact": "Kontaktinformation",
+        "id-info": "ID-Informationen",
+        "name": "Vorname",
+        "surname": "Familienname, Nachname",
+        "phoneNumber": "Telefon",
+        "mail": "Email"
+      },
+      "assignments": {
+        "photo": {
+          "notes-modal": {
+            "notes": "Anmerkungen",
+            "text": "Hier können Sie Ihre Notizen zum Schaden veröffentlichen.",
+            "text1": "Schadensaufzeichnung Hinweis"
+          },
+          "title": "Laden Sie Ihre Fotos hoch",
+          "text": "Um auf der Website veröffentlicht zu werden, müssen Sie für jeden Raum eine separate Auswahl treffen und die Fotos in die geöffneten Bereiche hochladen. Sie können auch Fotos von beschädigten Stellen in die rechte Spalte hochladen, die für die Schadensbewertung reserviert ist.",
+          "button": "MISSION SCHLIESSEN",
+          "title1": "Laden Sie Fotos für die Website hoch!",
+          "room": "Treffen Sie eine Raumauswahl",
+          "room1": "Wählen Sie einen Raum für das Anzeigenfoto",
+          "room2": "Laden Sie Ihre Zimmerfotos hoch",
+          "text1": "NUR JPG. PNG EXTENDED FILES WERDEN AKZEPTIERT.",
+          "loading": "Wird geladen",
+          "percent": "%.",
+          "loading1": "Laden gestoppt",
+          "loading2": "Die Installierung ist abgeschlossen",
+          "review": "Laden Sie Fotos zur Inspektion hoch!",
+          "review1": "Wählen Sie einen Raum zur Inspektion",
+          "review2": "Laden Sie Ihre Inspektionsfotos hoch",
+          "add-photo": "Lade ein Foto hoch"
+        },
+        "title": "Aufgaben zum Fotografieren",
+        "text": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Mauris",
+        "mission": "Alle meine Missionen",
+        "mission1": "Meine Aufgaben",
+        "branch": "Ast",
+        "date": "Geplanter Termin",
+        "situation": "Es kommt auf die Situation an",
+        "transaction": "Transaktionen",
+        "address": "Adresse",
+        "upload": "Belastung",
+        "view": "Aussicht"
+      },
+      "calendar": {
+        "title": "Mietplan",
+        "text": "Die Ihrer Niederlassung zugewiesenen Buchungen sind unten aufgeführt.",
+        "month": "Monatskalender",
+        "week": "Wochenkalender",
+        "day": "Tageskalender",
+        "calndar": "Kalender",
+        "last": "BISHERIGE",
+        "today": "HEUTE",
+        "next": "NÄCHSTER"
+      },
+      "customers": {
+        "customer-form": {
+          "error": "Warnung",
+          "user": "Mitgliederinformation",
+          "text": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Mauris",
+          "advertisement": {
+            "attribute": "Anzeigenfunktionen",
+            "forward": "Empfohlene Anzeige",
+            "window": "Showcase Hinweis"
+          },
+          "help": "Hilfe",
+          "title": "Anzeigentitel",
+          "title1": "Schreiben Sie den Anzeigentitel",
+          "address": "Adresse",
+          "code": "CODE",
+          "code1": "+90",
+          "code2": "+91",
+          "text1": "Diese Telefonnummer ist bereits",
+          "text2": "Sie können die Suchkriterien fortsetzen, indem Sie hier klicken.",
+          "adv-info": "Auflistungsinformationen",
+          "adv-exp": "Werbebeschreibung",
+          "explanation": "Geben Sie Ihre Angebotsbeschreibung ein.",
+          "price-meter": "Preis und Quadratmeter Reichweite",
+          "price": "PREIS",
+          "min": "Minimum",
+          "tl": "TL",
+          "max": "Maximal",
+          "area": "BEREICH",
+          "meter": "m2",
+          "properties": "Immobilien auf der Suche nach",
+          "opportunities": "Auf der Suche nach Möglichkeiten zu Hause",
+          "home-prop": "Eigenschaften des Hauses, das er sucht",
+          "button": "Kunden registrieren",
+          "text3": "Zusätzlich zu den Informationen unseres Kunden sollten Sie den Mietvertrag aufzeichnen, an dem er interessiert ist. Auch wenn wir nicht über die Immobilien verfügen, an denen er interessiert ist, wird der Kunde bei der Eingabe des Portfolios informiert.",
+          "save": "sparen",
+          "button1": "Kriterien aktualisieren",
+          "text4": "Erfüllt die Kriterien",
+          "text5": "zur Miete gefunden.",
+          "portfolio": "Filialportfolio anzeigen",
+          "complete": "Ergänze die Konversation"
+        },
+        "title": "Kunden",
+        "title1": "Klicken Sie hier, um zur Hauptseite zurückzukehren",
+        "add-cust": {
+          "button": "Neuen Kunden hinzufügen",
+          "name": "Name und Nachname",
+          "price": "Preis",
+          "visitor": "Besucher",
+          "date": "Datumsbereich",
+          "transaction": "Transaktionen"
+        },
+        "details": "Detail"
+      },
+      "members": {
+        "member-form": {
+          "error": "Warnung",
+          "personal": "Personal Informationen",
+          "text": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Mauris",
+          "help": "Hilfe",
+          "text1": "Diese Telefonnummer ist bereits",
+          "text2": "Klicken Sie für die genannte Person hier, um sie der Niederlassung zuzuweisen.",
+          "personal1": {
+            "title": "Personalbefugnisse",
+            "manager": "Abteilungleiter",
+            "advisor": "Immobilienberater",
+            "expert": "Immobiliengutachter",
+            "image": "Fotograf"
+          },
+          "button": "Mitarbeiter registrieren",
+          "text3": " Nachdem Sie die Berechtigungen des Personals festgelegt haben, können Sie das neue Personal registrieren. Das Personal kann die anderen ihm gehörenden Informationen vervollständigen, nachdem Sie sich telefonisch angemeldet haben.",
+          "button1": "sparen"
+        },
+        "personal": "Zweigstellenmitarbeiter",
+        "button": "Registrieren Sie neue Mitarbeiter",
+        "update": "Warten auf Update",
+        "edit": "Bearbeiten",
+        "report": "Bericht zeigen"
+      },
+      "modals": {
+        "visitor-info-modal": {
+          "phoneNumber": "Telefon:",
+          "advisor": {
+            "title": "Informationen zu Immobilienmaklern",
+            "name": "Name des Beraters:"
+          },
+          "visitor": {
+            "title": "Besucherinformation",
+            "name": "Besuchername:"
+          },
+          "notes": "Besuchsnotizen",
+          "text": "Schreiben Sie eine Notiz über den Besuch",
+          "button": "Gib auf",
+          "button1": "Schließen Sie den Besuch ab"
+        }
+      },
+      "portfolio": {
+        "title": "Branchenportfolio",
+        "text": "Die Buchungen Ihrer Niederlassung sind unten aufgeführt."
+      },
+      "suggestions": {
+        "edit-property": {
+          "portfolio": "In mein Portfolio aufnehmen",
+          "text": "Sie können die Werbung in Ihr Portfolio aufnehmen, indem Sie sich selbst zuweisen.",
+          "add": "Zu meinem Portfolio hinzufügen",
+          "photo": "Fotograf zuweisen",
+          "text1": "Das Schalten von Anzeigen wird aktiviert, nachdem der Fotograf den Vorgang abgeschlossen hat.",
+          "button": "Machen Sie eine Aufgabe",
+          "photo-text": "Fotoshooting wird erwartet",
+          "text2": "Anzeige",
+          "text3": "Tarine Kadar",
+          "text4": "Es wurde zugewiesen. '",
+          "sending": "Anzeige veröffentlichen",
+          "text5": " Damit eine Anzeige veröffentlicht werden kann, müssen die Bilder der Anzeige, der Titel der Anzeige und mindestens 5 Werbefunktionen eingegeben werden. Gesperrte Bereiche in der Anzeige sind Bereiche, die von Leihelefantenteams überprüft wurden. Wenn Sie der Meinung sind, dass falsche Informationen vorliegen, können Sie bei den gemieteten Elefantencrews eine Bestätigung anfordern.",
+          "button1": "Veröffentlichen Sie die Anzeige"
+        },
+        "modal": {
+          "assign-photographer-modal": {
+            "text": "Wählen Sie diese Option, um sie dem Fotografen zuzuweisen. Unten finden Sie eine Liste der Fotografen, die Ihrer Institution zugeordnet sind.",
+            "button1": "Wählen Sie einen Fotografen",
+            "date": "Letztes Transaktionsdatum",
+            "button2": "Gib auf",
+            "button3": "Machen Sie eine Aufgabe"
+          }
+        },
+        "request": "Mietanfragen",
+        "text": "Die Ihrer Niederlassung zugewiesenen Buchungen sind unten aufgeführt.",
+        "host": "Gastgeber",
+        "contact": "Telefon",
+        "date": "Erstellungsdatum",
+        "portfolio": "Portfolio",
+        "situation": "Es kommt auf die Situation an",
+        "transaction": "Transaktionen",
+        "detail": "Zeige Details",
+        "photo": "Dem Fotografen zuweisen",
+        "button": "Suche",
+        "button1": "Zurücksetzen"
+      },
+      "visit-request": {
+        "visit-req": "Besuchsanfragen",
+        "text": "Besuchsanfragen zu Mieten, die Ihrer Filiale zugewiesen sind, sind unten aufgeführt.",
+        "calendar": "Besuchskalender anzeigen",
+        "advertisement": "Anzeigeninformationen",
+        "price": "Preis",
+        "visitor": "Besucher",
+        "date": "Datumsbereich",
+        "plan": "Planung",
+        "completed": "Besuch abgeschlossen",
+        "calceled": "Es wird abgesagt"
+      },
+      "tool": "Tools für die Zweigstellenverwaltung",
+      "text": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Mauris",
+      "personal": "Zweigstellenmitarbeiter",
+      "my-calendar": "Mein Kalender",
+      "rent": "Der Niederlassung zugewiesener Mietvertrag",
+      "branch": "Branchenportfolio",
+      "visit-req": "Besuchsanfragen",
+      "customer": "Kunden",
+      "photo": "Aufgaben des Fotografen",
+      "noter": "Notizen suchen",
+      "value": "1"
+    },
+    "dashboard": {
+      "damage": {
+        "add-damage": {
+          "record": "Erstellen eines neuen Schadensdatensatzes",
+          "text": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Mauris",
+          "form": "Schadensform",
+          "title1": "SCHADENSNAME",
+          "title2": "REPARATURERWARTUNG",
+          "title3": "Geschätzte Schadenskosten",
+          "message": "Deine Nachricht",
+          "picture": "Bilder beschädigen",
+          "upload": "Laden Sie Ihre Dokumente hoch",
+          "text1": "NUR .PDF .JPG. PNG EXTENDED FILES WERDEN AKZEPTIERT.",
+          "attention": "Information!",
+          "text2": "Karotten, verbesserte Erfahrung für Studenten. Mauris id condimentum lectus. Der neueste Preis ultricies kostenlos. Karotten, verbesserte Erfahrung für Studenten. Mauris id condimentum lectus. Der neueste Preis ultricies kostenlos.",
+          "summary": "Schadensformular Zusammenfassung",
+          "date": "Haus 1 - 06. Dezember 2019",
+          "text3": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Relaismitglieder, dass Gas nicht variiert wird oder vor der Fracht. Pellentesque metus turpis, imperdiet kann kompliziert sein, noch ist es Zeit consectetur dolor. Aber ein Element eines großen Mauris Condimentum",
+          "button": "Formular senden"
+        },
+        "title": "Neuen Schadensdatensatz erstellen",
+        "text": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Mauris id condimentum lectus.",
+        "past": "Vergangene Schadensaufzeichnungen",
+        "text1": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Mauris",
+        "button": "Wählen Sie Alle",
+        "date": "Nach Datum",
+        "price": "Nach Preis",
+        "situation": "Es kommt auf die Situation an",
+        "damage-goods": "Beschädigte Ware",
+        "sample": "Kesselausfall",
+        "sample-date": "06.12.2019",
+        "sample-date1": "06. Dezember 2019",
+        "sample-price": "480,00 VERSUCHEN",
+        "notification": "Dem Host gemeldet",
+        "satisfy": "Der gemietete Elefant gleicht den Schaden aus",
+        "reflect": "Schaden reflektiert auf Miete",
+        "waiting": "Warten auf Zahlung",
+        "chosen": "2 Schadensaufzeichnungen ausgewählt",
+        "sample-date2": "Haus 1 - 06. Dezember 2019 / Haus 2 - 09. Dezember 2019",
+        "button1": "Schadensverlauf löschen",
+        "button2": "Supportanfrage erstellen"
+      },
+      "dashboard-mobile": {
+        "button": "Zwischen Konten wechseln",
+        "button1": "Wechseln Sie zum Host-Konto",
+        "notifications": "Benachrichtigungen",
+        "button2": "Alles sehen",
+        "sample-num": "43",
+        "new-notif": "Neuer Hinweis",
+        "sample-num2": "88",
+        "all": "Alles",
+        "sample-num3": "16",
+        "inbox": "Posteingang",
+        "new-message": "Neue Nachricht",
+        "sample-num4": "59",
+        "access": "Schneller Zugriff",
+        "profile": "Mein Profil",
+        "text": "Lorem ipsum Schmerz.",
+        "favorite": "meine Favoriten",
+        "text1": "Lorem ipsum Schmerz.",
+        "notification": "Gewinn- und Verlustrechnung",
+        "text2": "Lorem ipsum Schmerz.",
+        "button3": "Benachrichtigung senden",
+        "text3": "Lorem ipsum Schmerz.",
+        "pay": "Mietzahlung",
+        "text4": "Lorem ipsum Schmerz.",
+        "text5": "Lorem ipsum Schmerz.",
+        "approve": "Bestätigen Sie ihr Konto",
+        "approve1": "Bestätigen Sie Ihr Konto und nutzen Sie die Möglichkeiten!"
+      },
+      "documents": {
+        "document": "Dokumentation",
+        "text": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Mauris",
+        "upload": "Laden Sie Ihre Dokumente hoch",
+        "text1": "NUR .PDF .JPG. PNG EXTENDED FILES WERDEN AKZEPTIERT.",
+        "loading": "Wird geladen",
+        "status": "67% - noch 8 Sekunden",
+        "completed": "Die Installierung ist abgeschlossen",
+        "rent-contract": "MIETVEREINBARUNG.PDF",
+        "past": "Meine früheren Downloads",
+        "text2": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Mauris",
+        "button": "Wählen Sie Alle",
+        "date": "Nach Datum",
+        "size": "Nach Größe",
+        "ext": "Durch Erweiterung",
+        "rent-contract1": "Mietvertrag",
+        "sample": "1 Datei",
+        "sample-date": "06.12.2019",
+        "sample-date1": "06. Dezember 2019",
+        "sample-memory": "48MG",
+        "sample-ext1": ".PDF",
+        "chosen": "1 Ihr Dokument wurde ausgewählt",
+        "sample-date2": "Mietvertrag - 06. Dezember 2019",
+        "delete": "Dokumentverlauf löschen",
+        "help": "Supportanfrage erstellen"
+      },
+      "end-of-contract": {
+        "title": "Beendigung des Vertrages",
+        "text1": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Mauris id condimentum lectus. Die neuesten Preis-Ultricies können kostenlos vorbereitet werden. Mikrowelle oder Fußball jetzt. Nulla. Um das Lachen zu befreien. In der Tat, die Enden der für Pakistan, aus dem Tal,",
+        "information": "Information!",
+        "text2": "Karotten, verbesserte Erfahrung für Studenten. Mauris id condimentum lectus. Der neueste Preis ultricies kostenlos.",
+        "start-date": "Vertragsbeginn",
+        "sample-date": "06. Dezember 2019",
+        "finish-date": "Vertragsenddatum",
+        "sample-date1": "06. Dezember 2020",
+        "time": "Verbleibende Zeit",
+        "sample-time": "2 Jahre 254 Tage",
+        "contract-clauses": "Vertragsklauseln",
+        "text": "erstellt von",
+        "host": {
+          "title": "Gastgeber",
+          "item": "Lorem ipsum Schmerz",
+          "item1": "Lorem ipsum Schmerz",
+          "item2": "Lorem ipsum Schmerz",
+          "item3": "Lorem ipsum Schmerz",
+          "item4": "Lorem ipsum Schmerz",
+          "item5": "Lorem ipsum Schmerz"
+        },
+        "rental": {
+          "title": "Mieter",
+          "item": "Lorem ipsum Schmerz",
+          "item1": "Lorem ipsum Schmerz",
+          "item2": "Lorem ipsum Schmerz",
+          "item3": "Lorem ipsum Schmerz",
+          "item4": "Lorem ipsum Schmerz",
+          "item5": "Lorem ipsum Schmerz"
+        },
+        "download": "Laden Sie Ihre Vereinbarung herunter",
+        "text3": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Mauris id condimentum lectus."
+      },
+      "income": {
+        "document": "Dokumentieren Sie Ihr Einkommen",
+        "text": " Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Mauris id condimentum lectus. Die neuesten Preis-Ultricies können kostenlos vorbereitet werden. Mikrowelle oder Fußball jetzt. Nulla. Um das Lachen zu befreien. In der Tat sind die Enden der für Pakistan, aber von den Grenzen von Convallis Arcu. Mauris id condimentum urna. Nun das Element Chili-Spieler. Ernährung Bewohner Fußball traurig alt und hässlich Netus et Maleuada Hunger und Armut.",
+        "text1": "Leider gibt es bei felis auch nicht das Leben id nisl interdum nunc elit. Köcher Hausaufgaben schüchtern, Fudge Region Fußballmann. Die Mikrowellenregion, Halsfußball ist Fußball, langschwangere Propaganda. Das Neueste oder Teuerste. Betonen Sie, dass der Autor, aber Kartonentwickler. Vivamus sitzt amet, für die Zeit des Autors oder eines anderen Bettes. Sed ultricies ac, außer in der Fluggesellschaft. Clinical erhält einen Nibh-Fußballcomputer. Smartphones. Immobilienentwickler umgehen kostenlose Ernährung Karotten. Proin Interdum Aliquet Justo. Maecenas klinische Netzwerke. Aber nur durch Copyright Salat Ultricies Mitarbeiter. Beim Volleyballstart. Auch als Bogen oder weiche Kiefer. Herstellung von Schokolade und ist ein Köcher."
+      },
+      "my-property": {
+        "form": {
+          "edit-property": {
+            "send-advertisement": "Anzeige veröffentlichen",
+            "text": " Sie sehen Informationen zu Ihrer Immobilie. Informationen wie Adresse und Quadratmeter sind verifizierte Daten, sodass Sie sie nicht bearbeiten können. Sie können die Eigenschaften Ihres Hauses aktualisieren, bis die Anzeige veröffentlicht wird.",
+            "update": "Liste aktualisieren"
+          }
+        },
+        "my-properties": "Meine Eigenschaften",
+        "text": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Mauris id condimentum lectus.",
+        "all-properties": "Alle meine Eigenschaften",
+        "advertisement": "Anzeige",
+        "advertisement-date": "Listing Date",
+        "rent": "Miete",
+        "situation": "Es kommt auf die Situation an",
+        "button": "Bearbeiten"
+      },
+      "mylist": {
+        "favorite": "Meine Lieblingsanzeigen",
+        "text": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Mauris",
+        "choice": "Triff eine Entscheidung ...",
+        "order": "Sortieren"
+      },
+      "notifications": {
+        "title": "Benachrichtigung",
+        "text": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Mauris",
+        "all-properties": "Alle meine Eigenschaften",
+        "test": "Prüfung",
+        "test1": "Prüfung",
+        "test2": "Prüfung",
+        "test3": "Prüfung",
+        "all": "Wählen Sie Alle",
+        "date": "Nach Datum",
+        "situation": "Es kommt auf die Situation an",
+        "about-rental": "Über den Mieter",
+        "problem": "Hallo verdiene ein Problem ..",
+        "sample-date": "06.12.2019",
+        "sample-date1": "06. Dezember 2019",
+        "answered": "Antwortete",
+        "answer": "Antworten",
+        "closed": "Geschlossen",
+        "notification": "Benachrichtigung gelöst",
+        "chosen": "2 Ihre Mitteilung wurde ausgewählt",
+        "sample-date2": "Haus 1 - 06. Dezember 2019 / Haus 2 - 09. Dezember 2019",
+        "delete": " Benachrichtigungsverlauf löschen",
+        "create": "Neue Mitteilung erstellen"
+      },
+      "payment": {
+        "title": "Mietzahlung",
+        "text": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Mauris",
+        "button": "Wählen Sie Alle",
+        "date": "Nach Datum",
+        "price": "Nach Preis",
+        "sample-date": "06.12.2019",
+        "sample-date1": "06. Dezember 2019",
+        "sample-price": "600,45 TL",
+        "about": "Hallo verdiene ein Problem ..",
+        "sample": {
+          "title": "Haus 1",
+          "place": "Beylikduzu, Beykent",
+          "text": "Überfällige Miete",
+          "button": "Zahlen Sie jetzt"
+        },
+        "sample1": {
+          "title": "Haus 2",
+          "place": "Sisli, Mecidiyekoy",
+          "text": "Bill bezahlt"
+        },
+        "text1": "2 Ihre Mitteilung wurde ausgewählt",
+        "date1": "Haus 1 - 06. Dezember 2019 / Haus 2 - 09. Dezember 2019",
+        "button1": "Rechnungsverlauf löschen",
+        "button2": "Supportanfrage erstellen"
+      },
+      "profile": {
+        "profile-mobile": {
+          "photo": {
+            "text": "Kontoverknüpfungsfehler",
+            "photo-upload": "Lade ein Foto hoch",
+            "social": "Link Facebook Account",
+            "save": "SPEICHERN SIE MEIN PROFILFOTO"
+          },
+          "profile-address": {
+            "title": "Adressinformationen ändern",
+            "text": "Wenn Sie Ihre Adressinformationen aktualisieren, können Sie sich über die Vermietungen in Ihrer Nähe informieren.",
+            "confirm": "Adressverifikation",
+            "info": "ADRESSE",
+            "update": "AKTUALISIEREN SIE MEINE INFORMATIONEN"
+          },
+          "profile-email": {
+            "title": "Änderung der E-Mail-Adresse",
+            "text": "Die E-Mail-Adresse, mit der Sie sich in Ihrem Konto anmelden. Eine Bestätigungsnachricht wird an Ihre E-Mail-Adresse gesendet.",
+            "information": "Information",
+            "text1": "Um Ihre E-Mail-Adresse zu ändern, müssen Sie ein Passwort erstellen.",
+            "error": "Aktualisierungsfehler",
+            "mail": "E-MAIL-ADDRESSE",
+            "update": "AKTUALISIEREN SIE MEINE INFORMATIONEN"
+          },
+          "profile-income": {
+            "title": "Dokumentieren Sie Ihr Einkommen",
+            "text": " Durch die Dokumentation Ihres Einkommens werden diese Dokumente und Informationen während Ihres Online-Besuchs oder bei der Anmietung eines Hauses nützlich sein."
+          },
+          "profile-mylist": {
+            "favorite": "Meine Lieblingsanzeigen",
+            "text": "Hier können Sie Ihre Lieblingsbeiträge hinzufügen und später vergleichen. Die Anzeigen, die Sie aus den unten stehenden Favoriten entfernen, sind gültig, bis sie in einen anderen Bereich verschoben werden.",
+            "choice": "Triff eine Entscheidung ...",
+            "order": "Sortieren"
+          },
+          "profile-name": {
+            "change": "Name Nachname Änderung",
+            "text": "Ihre Vor- und Nachnameninformationen werden bei der T.C-Authentifizierung verwendet. Daher sollten Sie Ihre realen Informationen verwenden.",
+            "name": "DEIN NAME",
+            "surname": "DEIN FAMILIENNAME",
+            "update": "AKTUALISIEREN SIE MEINE INFORMATIONEN"
+          },
+          "profile-password": {
+            "change": "Passwortänderung",
+            "text": " Sie können Ihr Passwort hier aktualisieren. Wenn Sie eine Mitgliedschaft in sozialen Netzwerken erstellt haben, erstellen Sie Ihr Passwort hier. Sie können Ihre E-Mail-Adresse usw. nicht ohne Ihr Passwort ändern.",
+            "error": "Aktualisierungsfehler",
+            "passwrd": "PASSWORT",
+            "passwrd-repeat": "PASSWORT WIEDERHOLEN",
+            "update": "AKTUALISIEREN SIE MEINE INFORMATIONEN"
+          },
+          "profile-phone": {
+            "title": "Aktualisieren Sie Ihre Telefonnummer",
+            "text": " Sie können Ihr Konto mit einer Telefonnummer verknüpfen. Ein Bestätigungscode wird an Ihr Telefon gesendet.",
+            "error": "Aktualisierungsfehler",
+            "num": "+90",
+            "num1": "+91",
+            "code": "CODE",
+            "phone": "DEINE TELEFONNUMMER",
+            "update": "AKTUALISIEREN SIE MEIN TELEFON",
+            "text1": "SMS nicht empfangen?",
+            "text2": "Fordern Sie eine neue SMS an",
+            "button": "SMS PRÜFEN"
+          },
+          "profile-tckn": {
+            "title": "T.R. Hinzufügen einer ID-Nummer",
+            "text": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Mauris id condimentum lectus. Die neuesten Preis-Ultricies können kostenlos vorbereitet werden.",
+            "notification": "Die TCK-Nummer konnte nicht überprüft werden",
+            "tcno": "T.R. Identifikationsnummer",
+            "year": "Dein Geburtsjahr",
+            "update": "AKTUALISIEREN SIE MEINE INFORMATIONEN"
+          },
+          "pp": "Profilfoto",
+          "update1": "Aktualisieren Sie Ihr Profilfoto",
+          "info": "Name Nachname Informationen",
+          "update2": "Aktualisieren Sie Ihren Vor- und Nachnamen",
+          "mail": "E-Mail-Addresse",
+          "update3": "Aktualisieren Sie Ihre E-Mail-Adresse",
+          "phone": "Telefonnummer",
+          "update4": "Aktualisieren Sie Ihre Telefonnummer",
+          "password": "Passwort festlegen",
+          "update5": "Aktualisieren Sie Ihr Passwort",
+          "address": "Adresse",
+          "update6": "Aktualisieren Sie Ihre Adresse",
+          "tcno": "T.R. Identifikationsnummer",
+          "text": "Erforderlich für Transaktionen.",
+          "button": "Öffnen Sie Kampagnenbenachrichtigungen",
+          "button1": "Ich möchte über die Kampagnen informiert werden"
+        },
+        "title": "Herzlich willkommen",
+        "text": "Sie müssen ein Passwort für die nächste Anmeldung definieren. Darüber hinaus empfehlen wir Ihnen, die Pflichtfelder im Formular zur weiteren Bearbeitung auszufüllen.",
+        "num": "9",
+        "num1": "4",
+        "complete-profile": "Vervollständige dein Profil",
+        "add-phone": "Fügen Sie Ihre Telefonnummer hinzu",
+        "confirm-mail": "E-Mail bestätigen",
+        "confirm-tcno": "TR ID Nummer bestätigen",
+        "bank-account": "Bankkonto hinzufügen",
+        "available": "Ihr aktuelles Guthaben",
+        "num2": "0,00 $",
+        "account": {
+          "pp": "Profilfoto",
+          "text": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Mauris id condimentum lectus. Das Neueste",
+          "upload-pp": "Profilfoto hochladen",
+          "text1": "NUR JPG. PNG EXTENDED FILES WERDEN AKZEPTIERT.",
+          "personal-info": "Persönliche Angaben",
+          "text2": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Mauris id condimentum lectus. Das Neueste",
+          "name": "DEIN NAME",
+          "surname": "DEIN FAMILIENNAME",
+          "mail": "EMAIL",
+          "code": "CODE",
+          "num": "+90",
+          "num1": "+91",
+          "phone": "DEINE TELEFONNUMMER",
+          "tcno": "T.R. IDENTIFIKATIONSNUMMER",
+          "info": "(Erforderlich aufgrund gesetzlicher Verpflichtungen)",
+          "year": "DEIN GEBURTSTAG",
+          "info1": "(Zur Überprüfung ist eine TR-ID erforderlich.)",
+          "note": "T.R. Ihre Identitätsnummer konnte nicht überprüft werden.",
+          "password": "Passwort",
+          "passwrd-repeat": "Passwort wiederholen",
+          "address": "ADRESSE",
+          "city": "PROVINZ SIE LEBEN",
+          "town": "DAS DISTRIKT, DAS SIE LEBEN",
+          "button": "Ich möchte Informationen über Kampagnen und Innovationen per SMS und E-Mail erhalten.",
+          "update": "Mein Profil aktualisieren"
+        }
+      },
+      "reporting": {
+        "title": "Host benachrichtigen",
+        "text": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Mauris",
+        "notification": {
+          "title": "Benachrichtigung erstellen",
+          "header": "KAPUZE",
+          "amount": "MENGE ANGEFORDERT",
+          "message": "Deine Nachricht",
+          "title1": "Geänderte / beschädigte / bezahlte Bedürfnisse",
+          "request": "WAS BITTEN SIE?",
+          "sample": "Kombi",
+          "sample1": "Erdgas installiert",
+          "sample2": "Die Wand wurde gestrichen",
+          "add": "Anhängen eines Dokuments",
+          "upload": "Laden Sie Ihre Dokumente hoch",
+          "text": "NUR .PDF .JPG. PNG EXTENDED FILES WERDEN AKZEPTIERT.",
+          "information": "Information!",
+          "text1": "Karotten, verbesserte Erfahrung für Studenten. Mauris id condimentum lectus. Der neueste Preis ultricies kostenlos. Karotten, verbesserte Erfahrung für Studenten. Mauris id condimentum lectus. Der neueste Preis ultricies kostenlos."
+        },
+        "summary": "Benachrichtigungszusammenfassung",
+        "sample-date": "Haus 1 - 06. Dezember 2019",
+        "text1": " Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Relaismitglieder, dass Gas nicht variiert wird oder vor der Fracht. Pellentesque metus turpis, imperdiet kann kompliziert sein, noch ist es Zeit consectetur dolor. Aber ein Element eines großen Mauris Condimentum",
+        "button": "Formular senden"
+      },
+      "statistics": {
+        "title": "Statistiken",
+        "text": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Mauris",
+        "total-payed": "Ganz bezahlt",
+        "sample-num": "2.420 VERSUCHEN",
+        "total-gain": "Gesammelte Einnahmen",
+        "sample-num1": "480 VERSUCHEN",
+        "rental-time": "Mietdauer",
+        "sample-num2": "487 Tage",
+        "credit": "Kreditbeurteilung",
+        "sample-num3": "9,5 Punkte",
+        "notification": "Anzahl der Benachrichtigungen",
+        "sample-num4": "84 Stück",
+        "contract": "Geladene Dokumente",
+        "sample-num5": "4 Einheiten",
+        "damage": "Schadensaufzeichnungen",
+        "sample-num6": "22 Stück",
+        "message": "Support-Nachrichten",
+        "sample-num7": "65 Stück"
+      },
+      "suggest-rental": {
+        "add-suggest": {
+          "title": "Ein Haus vorschlagen",
+          "text": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Mauris id condimentum lectus. Die neuesten Preis-Ultricies können kostenlos vorbereitet werden. Mikrowelle oder Fußball jetzt. Nulla. Um das Lachen zu befreien. In der Tat sind die Enden der für Pakistan, aber von den Grenzen von Convallis Arcu. Mauris id condimentum urna. Nun das Element Chili-Spieler. Ernährung Bewohner Fußball traurig alt und hässlich Netus et Maleuada Hunger und Armut.",
+          "text1": "Leider gibt es bei felis auch nicht das Leben id nisl interdum nunc elit. Köcher Hausaufgaben schüchtern, Fudge Region Fußballmann. Die Mikrowellenregion, Halsfußball ist Fußball, langschwangere Propaganda. Das Neueste oder Teuerste. Betonen Sie, dass der Autor, aber Kartonentwickler. Vivamus sitzt amet, für die Zeit des Autors oder eines anderen Bettes. Sed ultricies ac, außer in der Fluggesellschaft. Klinisch",
+          "text2": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Mauris id condimentum lectus. Die neuesten Preis-Ultricies können kostenlos vorbereitet werden. Mikrowelle oder Fußball jetzt. Nulla. Um das Lachen zu befreien. In der Tat sind die Enden der für Pakistan, aber von den Grenzen von Convallis Arcu. Mauris id condimentum urna. Nun das Element Chili-Spieler. Ernährung Bewohner Fußball traurig alt und hässlich Netus et Maleuada Hunger und Armut."
+        }
+      },
+      "support": {
+        "support-request": {
+          "help-code": "Support-Code",
+          "sample-code": "# 4353565",
+          "situation": "Status",
+          "situation1": "Auf Rückantwort warten",
+          "date": "Geschichte",
+          "sample-date": "06. Dezember 2019",
+          "button": "Bewerten Sie das Interview",
+          "button1": "Bericht sprechen",
+          "text": " Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Relaismitglieder, dass Gas nicht variiert wird oder vor der Fracht. Pellentesque metus turpis, imperdiet kann kompliziert sein, noch ist es Zeit consectetur dolor.",
+          "personal-name": "Furkan Tirit,",
+          "personal": "Technische Behörde",
+          "text1": " Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Relaismitglieder, dass Gas nicht variiert wird oder vor der Fracht. Pellentesque metus turpis, imperdiet kann kompliziert sein, noch ist es Zeit consectetur dolor.",
+          "message": "Nachricht senden",
+          "photo": "Foto hinzufügen",
+          "video": "Video hinzufügen"
+        },
+        "title": "Neue Supportanfrage erstellen",
+        "text": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Mauris id condimentum lectus.",
+        "past": "Meine früheren Supportanfragen",
+        "text1": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Mauris",
+        "all": "Wählen Sie Alle",
+        "date": "Nach Datum",
+        "situation": "Es kommt auf die Situation an",
+        "about-host": "Über den Host",
+        "help-code": "Support-Code: # 4353513",
+        "sample-date": "06.12.2019",
+        "sample-date1": "06. Dezember 2019",
+        "closed": "Geschlossen",
+        "solved": "Anfrage gelöst",
+        "waiting": "Auf Rückantwort warten",
+        "answered": "Antwortete",
+        "answer": "Antworten",
+        "title1": "2 Support-Anfragen ausgewählt",
+        "sample-date2": "Haus 1 - 06. Dezember 2019 / Haus 2 - 09. Dezember 2019",
+        "button": "Schadenverlauf löschen"
+      },
+      "visit-requests": {
+        "modal": {
+          "rate-modal": {
+            "title": "Bewerten Sie Ihren Besuch online",
+            "text": "Lorem ipsum Karotten, erweiterter Student",
+            "sample-personal": "Berkay Erdinc",
+            "personal": "Elefantenberater zu mieten",
+            "past": "Bisherige",
+            "evaluate": "Bewertung",
+            "next": "Nächster"
+          }
+        },
+        "title": "Terminanfragen",
+        "text": "Lorem ipsum dolor sitzen amet, consectetur adipiscing elit. Mauris",
+        "advertisement-info": "Anzeigeninformationen",
+        "price": "Preis",
+        "date": "Termin",
+        "advisor": "Ihr Berater"
+      }
+    }
+  }
+}

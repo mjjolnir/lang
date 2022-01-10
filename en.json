@@ -1,0 +1,2435 @@
+{
+  "layouts": {
+    "header": {
+      "logo": {
+        "title": "Click to return to the main page"
+      },
+      "search": {
+        "placeholder": "Search by keyword."
+      },
+      "menu": {
+        "owner_manual": {
+          "text": "Host Directory",
+          "title": "Publish your property with Satılıkfil."
+        },
+        "hirer_manual": {
+          "text": "Tenant Directory",
+          "title": "No deposit! Professional Solutions!"
+        },
+        "publish": {
+          "text": "POST",
+          "title": "Send notifications of new ads earn money"
+        },
+        "login": {
+          "text": "Login",
+          "title": "You must log in to declare a house, rent it, pay rent"
+        },
+        "user": {
+          "notifications": {
+            "title": "Click to see notifications"
+          },
+          "messages": {
+            "title": "Click to view messages"
+          },
+          "avatar": {
+            "title": "Select from the menu to access the user panel"
+          },
+          "links": {
+            "code": {
+              "text": "Support Code",
+              "title": "You will be asked to provide this code for support when asked."
+            },
+            "customer_panel": {
+              "text": "Customer Panel",
+              "title": "Click to access the customer panel."
+            },
+            "account": {
+              "text": "My account",
+              "title": "Click to view your profile information."
+            },
+            "estate": {
+              "text": "Ad Management",
+              "title": "Click here to manage your posting."
+            },
+            "suggest": {
+              "text": "Suggest a House and Earn",
+              "title": "Click to earn money by making house suggestions."
+            },
+            "favorites": {
+              "text": "Favorite Listings",
+              "title": "Click to view your favorite postings."
+            },
+            "logout": {
+              "text": "Sign out",
+              "title": "Click here to log out."
+            }
+          }
+        },
+        "language": {
+          "title": "Choose from the menu for language selection."
+        }
+      }
+    },
+    "footer": {
+      "text": "Your smart real estate assistant Satılıkfil, offers a new generation approach to your home buying and selling processes. Safer, more profitable, faster digital real estate! Contact Us!",
+      "email": "email@satilikfil.com",
+      "career": {
+        "title": "Career",
+        "item": "Be a broker",
+        "item1": "Be a photographer",
+        "item2": "Be a researcher",
+        "item3": "Regions Served",
+        "item4": "Rental price per neighborhood"
+      },
+      "list": {
+        "title": "List a property",
+        "text": "Meet real estate partners",
+        "goal": "Do you work at the concierge?",
+        "goal1": "About the Fifth Floor",
+        "goal2": "Find out about the Fifth Floor Warranty",
+        "goal3": "Help center"
+      },
+      "text1": "© 2019 satilikfil.com All rights reserved.",
+      "contract1": "Privacy Policy",
+      "contract2": "User Agreement",
+      "contract3": "Distance Selling Contract"
+    },
+    "mobile-layout": {
+      "account": {
+        "login": "Login to your account",
+        "register": "Create Account"
+      },
+      "panel": {
+        "title": "My Access Panel",
+        "host-guide": "Host Directory",
+        "tenant-guide": "Tenant Directory",
+        "post-ad": "Post Ad",
+        "sss": "Frequently Asked Questions",
+        "contract1": "User Agreement",
+        "contract2": "Privacy Policy",
+        "logout": "Sign out"
+      },
+      "title": "WELCOME AGAIN"
+    },
+    "panel-layout": {
+      "dashboard": {
+        "home": "Home page",
+        "profile": "Profile",
+        "my-favorite": "My Favorites",
+        "partner":"Partner",
+        "gain": "Earn Money",
+        "my-property": "My Properties"
+      },
+      "available-account": "Your Current Balance",
+      "menu": {
+        "access": "Fast Access",
+        "pay-rent": "Housing Sales",
+        "notification": "Notification",
+        "contract": "Documentation",
+        "damage": "Damages",
+        "support": "Support",
+        "statistic": "Statistics",
+        "end-contract": "Termination of the Contract"
+      },
+      "button": "Confirm your account and take advantage of Satılıkfil deals!",
+      "button1": "Confirm My Account",
+      "account": {
+        "title": "Welcome,",
+        "button": "View My Profile Information",
+        "logout": "Sign out"
+      },
+      "re-account": "Switch Between Accounts",
+      "host-page": "Host Account",
+      "notifications": "Notifications",
+      "header": {
+        "title1": "A new home ad has been posted in your area!",
+        "title2": "Your new ad has become popular!",
+        "title3": "Your ad has been reported!"
+      },
+      "inbox": "Your Inbox"
+    }
+  },
+  "data": {
+    "affinity": {
+      "my_neighbor": "My neighbor",
+      "owner": "I own the house",
+      "my_relative": "My relative",
+      "friend": "Friend",
+      "no_relation": "I don't have any intimacy"
+    },
+    "suggest": {
+      "status": {
+        "wait": "Awaiting Approval",
+        "publish": "Published on the Site",
+        "loan": "House Held",
+        "expired": "Expired",
+        "noaccept": "Not approved",
+        "inprogress": "Processed"
+      },
+      "substatus": {
+        "inprogress": "Processing Data",
+        "inspecting": "Ad Under Review",
+        "publish": "Ad is Online",
+        "perc10": "10% of Initial Rent",
+        "total": "Your Total Earnings",
+        "noaccept": "Confirmation Failed",
+        "notreachable": "Phone could not be reached"
+      },
+      "localstatus": {
+        "wait": "Waiting for Transaction",
+        "appointed": "Photographer Appointed",
+        "photowait": "Awaiting Photo Upload",
+        "upload": "Photos Uploaded",
+        "publish": "Published on the Site"
+      },
+      "photostatus": {
+        "wait": "Awaiting Photo Upload",
+        "upload": "Photos Uploaded"
+      }
+    }
+  },
+  "core": {
+    "forms": {
+      "common": {
+        "price-area": "Price and m2 Information",
+        "square-meter": "Square Meters",
+        "net-meter": "Net Square Meters",
+        "price": "Price",
+        "exchange-rate": "Exchange Rate"
+      },
+      "income-form": {
+        "header":"MAKE A BRIEF INFORMATION ABOUT YOUR INCOME",
+        "title": "ABOUT INCOME",
+        "text": "Please Add Files to Prove Your Extra Income!",
+        "text1": "ONLY .JPG .PNG EXTENDED FILES ARE ACCEPTED.",
+        "update": "UPDATE MY INFORMATION"
+      },
+      "property-edit-form": {
+        "title": "Advert Information",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. mauris",
+        "properties": {
+          "title": "Ad Features",
+          "property1": "Featured Ad",
+          "property2": "Showcase Ad"
+        },
+        "advertisement-title": "Advert Title",
+        "help": "Help",
+        "add-advertisement": "Write Ad Title",
+        "address": "Address information",
+        "advertisement-description": "Ad Description",
+        "add-advertisement1": "Write your advert description",
+        "home-facility": "Home Facilities",
+        "locked": "This Part is Locked",
+        "home-property": "House Features",
+        "save": "Save"
+      },
+      "suggest-form": {
+        "header": {
+          "title": "Tell us about your property",
+          "p": "and We'll take care of the rest!"
+        },
+        "notification": "Warning",
+        "text": "You cannot offer for sale without confirming your phone number.",
+        "button": "Click here",
+        "button1": "confirm your phone.",
+        "field": {
+          "affinity": {
+            "placeholder": "What is your relationship with the host?",
+            "default": "What is your relationship with the host?"
+          },
+          "host": {
+            "code": "Code",
+            "num": "+90",
+            "num1": "+91",
+            "phone-number": "Host Phone Number"
+          },
+          "owner": {
+            "placeholder": "Host Name Surname"
+          },
+          "address": {
+            "placeholder": "Host Address"
+          }
+        },
+        "submit": {
+          "text": "Suggest a Home",
+          "title": "Click here to suggest a new home"
+        },
+        "success": {
+          "title": "Your report has been submitted.",
+          "p1": "After reviewing your ad information, you can follow the progress on the list.",
+          "p2": "Thank you for reporting.",
+          "button": {
+            "text": "Make Other Notice",
+            "title": "Click here to post new ad notifications"
+          }
+        }
+      },
+      "suggestion-edit-form": {
+        "header": {
+          "title": "Host Information",
+          "text": "Property owner and contact information. Verify property status and direct to membership if host has no membership."
+        },
+        "notification": "Warning",
+        "text": "With this sale information, you can no longer make any changes, as the process has been started by the satılıkfil.com teams. However, you can write to us using the note entry field below.",
+        "owner": {
+          "name": "Name and Surname",
+          "phone-number": "Phone Number"
+        },
+        "notification1": "User Creation Error",
+        "property-owner": "Start subscription with the property owner's phone.",
+        "explanation": "This phone",
+        "explanation1": "registered with the name.",
+        "button": "You can update the host's name by clicking here.",
+        "property-info": {
+          "address-info": "Real Estate Address Information",
+          "confirm": "After confirming the condition of the house from the property owner, verify the address information.",
+          "address": "Property Address"
+        },
+        "title":"This part has been verified by Satılıkfil teams.",
+        "location": "I want to choose my location on the map",
+        "notification2": "Address Incorrect",
+        "update": "Update Property Information",
+        "notes": "Notes",
+        "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nutrition salad and warm smile deductible, vulputate peanut said. Maecenas malesuada therapy box or at the time.",
+        "add-note": "Write a note for the ad",
+        "help": "Help"
+      }
+    },
+    "modules": {
+      "card-item": {
+        "header": "FEATURED POST",
+        "header2":"COMPANY ADVERTISEMENT",
+        "meter": "m",
+        "apartment": "Apartment",
+        "rental": "For Sale",
+        "total": "Total",
+        "start-visit": "Start a Visit"
+      },
+      "expandable": {
+        "header": "FEATURED POST",
+        "month": "monthly",
+        "photo": "Photo",
+        "room": "Room",
+        "saloon": "Living room",
+        "bath": "Bathroom"
+      },
+      "file-uploader": {
+        "title": "Upload Profile Photo",
+        "text": "ONLY .JPG .PNG EXTENDED FILES ARE ACCEPTED.",
+        "button": "x"
+      },
+      "like-button": {
+        "button": "Add to Favorites",
+        "button1": "In your Favorite List"
+      },
+      "property-filter-panel": {
+        "close": "Close",
+        "count-adv": "ads found.",
+        "clean-filter": "Clear Filter",
+        "property": {
+          "price": "Price",
+          "min": "Minimum",
+          "max": "Maximum",
+          "tl": "TL",
+          "meter": "m2",
+          "area": "AREA"
+        },
+        "label": "It does not matter",
+        "homepage": "Home page",
+        "order": {
+          "state": "Most Relevant",
+          "state1": "Descending by Price",
+          "state2": "Increasing by Price"
+        },
+        "button": "filters",
+        "popular": "Popular Picks",
+        "text": "By U.S",
+        "text1": "selected properties.",
+        "button1": "View"
+      },
+      "uploader-modal": {
+        "button": "give up",
+        "button1": "Send"
+      },
+      "photo-browser": {
+        "close": "Close"
+      }
+    }
+  },
+  "modules": {
+    "common": {
+      "mobile": {
+        "title": "Satılıkfil",
+        "title1": "In your pocket!",
+        "statement": "Haven't Downloaded Our Mobile App?",
+        "statement1":"Download the Satılıkfil mobile app for free now, and follow the entire sales process of your house on your phone. Moreover, you will be informed before the latest promotions!",
+        "text": "Download App",
+        "appstore": "App Store",
+        "playstore": "Play Store"
+      }
+    },
+    "home": {
+      "home-mobile": {
+        "text": "Satılıkfil makes your job easy!",
+        "text1": "If you want to see the house, our professional consultant will accompany you free of charge.",
+        "options:": {
+          "city": "SELECT CITY",
+          "neighborhood": "SELECT TOWN",
+          "budget": "SELECT RENTAL BUDGET",
+          "room": "SELECT THE NUMBER OF ROOMS",
+          "button": "QUERY"
+        }
+      },
+      "header": {
+        "title": "Meet the New Generation Digital Real Estate Understanding!",
+        "sub1": "Satılıkfil",
+        "sub2": "Sells Your Home Faster, Safer and Worthwhile!"
+      },
+      "buttons": {
+        "top-city": {
+          "title": "City"
+        },
+        "top-neighboorhood": {
+          "title": "Town"
+        },
+        "price": {
+          "text": "Ad Budget"
+        },
+        "bed-info": {
+          "text": "Number of rooms"
+        },
+        "text": "QUERY"
+      },
+      "host": {
+        "text": "For Homeowners",
+        "statement": "Worth sales guarantee",
+        "statement1": "Rental income for each unsold month",
+        "statement2": "Comprehensive sales process method"
+      },
+      "extra-info-host": {
+        "text": "Sell My House"
+      },
+      "renter": {
+        "text": "For Buyers",
+        "statement": "Exclusive real estate portfolio",
+        "statement1": "Price always worth home",
+        "statement2": "Reliable and transparent sales process"
+      },
+      "extra-info-rent": {
+        "text": "Find a House"
+      },
+      "advertisement": {
+        "title": "Latest Ads on Satılıkfil!",
+        "text": "Satılıkfil has brought you many new postings this week.",
+        "text-1": "Find your dream house now with advanced filtering options!",
+        "more":"Get More Information"
+      },
+      "advantages": {
+        "title": "Why Satılıkfil?",
+        "text": "Discover the Benefits of the First Digital System in the Real Estate System in Turkey!",
+        "button1": "I Want to Sell My House",
+        "button2": "I Want to Buy a House",
+        "title1": "We Sell Fast!",
+        "text1": "We are confident! Report your property, we will list your house! We will sell your house to its full value in the fastest way with our wide investor and customer portfolio!",
+        "title2": "We Guarantee!",
+        "text2": "If our team of professionals can't sell your home, we'll pay you rent for each non-sale month! Moreover, even while you live in your home!",
+        "title3": "We Work Clear!",
+        "text3": "Watch every process that takes place regarding the sale of your home on the Satılıkfil mobile application. You will love the easy and convenient seller panel!",
+        "text4": "Explore Now"
+      },
+      "advantages-rental":{
+        "title1":"We Sell Honestly!",
+        "text1":"Satılıkfil’de gördüğünüz her ilan görüntüsü profesyonel fotoğrafçılar tarafından çekilir. İlanı yalnızca Satılıkfil düzenler. Güvenliğiniz garanti altında!",
+        "title2":"We Sell According to Value!",
+        "text2":"We put an end to the villa payment period when buying an apartment! Your digital real estate solution Satılıkfil, determines the value of homes with expertise!",
+        "title3":"We Sell A Lot!",
+        "text3":"Our team sells hundreds of homes every year. Our biggest secret is our rich real estate portfolio. Only Satılıkfil finds the house you are looking for!"
+      },
+      "solution": {
+        "title": "For Home Owners Satılıkfil Solutions",
+        "text": "Satılıkfil uses all the",
+        "text1": "possibilities of the digital",
+        "text2": "world to highlight your home.",
+        "statement": "We highlight the residences in our list using various digital advertising models and always address more. Moreover, at no request to additional cost! That's why your house is sold fast at Satılıkfil! Ready for innovation?",
+        "text3": "Explore Now"
+      },
+      "nest": {
+        "title": "FINDING A HOME WITH YUVA IS VERY EASY!",
+        "text": "Hi I'm,",
+        "text1": "Yuva!",
+        "text2": "100% Free",
+        "statement": "Satılıkfil shows around to only real buyers your home. Your home is safe with us from the moment we receive your key! It won't happen, but let's just say it, We covering all of the damage that may occur during the house showing process. Satılıkfil makes you feel like you are working with a professional partner. All you have to do is to follow the process using your phone from where you are!",
+        "text3": "Sell My House Now"
+      },
+      "list-inf": {
+        "title": "Thousands of Satılıkfil Visitors are Looking House!",
+        "text": "List Your Home Now!",
+        "statement": "Modern and digital real estate is now a click away with its innovative solutions! Sign up Satılıkfil now and submit a property declaration.",
+        "statement1":"Sit back and wait for a call from us! We will take care of every step from the ad photo shooting to the publishing process.",
+        "text1": "List Your Property"
+      },
+      "cities": {
+        "title": "Satılıkfil is in 29 CITIES",
+        "text": "Where You Are, Satılıkfil is There!",
+        "statement": "Satılıkfil came to your city to find buyers closest to you. We are everywhere in 29 cities. Soon in 81 cities!"
+      },
+      "component-cities": {
+        "text": "Explore Now"
+      }
+    },
+    "auth": {
+      "forms": {
+        "enter-password-form": {
+          "title": "In order to make changes, you must confirm your login password to the application.",
+          "passform": {
+            "provider": "Select Your Account Login Management",
+            "password": "Password"
+          },
+          "button1": "Cancel",
+          "button2": "Approve"
+        },
+        "login-form": {
+          "text": "Could not login",
+          "text1": "E-MAIL OR PHONE",
+          "loginPsw": "PASSWORD",
+          "lostPsw": "Did you forget your password?",
+          "button1": "Login",
+          "button2": "Create New Account",
+          "social-buttons": "LOGIN WITH YOUR SOCIAL MEDIA ACCOUNT"
+        },
+        "reset-password-form": {
+          "title": "Password Operations",
+          "resetForm": {
+            "text": "E-MAIL ADDRESS"
+          }
+        },
+        "sms-validator-form": {
+          "text": "Enter the 6 digit verification code",
+          "text1": "We send to your phone number",
+          "text2": "you need to enter the code.",
+          "notification": {
+            "text3": "Sms code could not be verified, please try again.",
+            "text4": "SMS Not Received?",
+            "tex5": "Request a New SMS"
+          },
+          "button": {
+            "text1": "Cancel",
+            "text2": "Confirm"
+          }
+        }
+      },
+      "login": {
+        "title": "Get acquainted with the",
+        "title1": "easy",
+        "title2": "way to sell your house!",
+        "text": "Register now, list your property, take advantage of digital real estate opportunities!",
+        "text1": "100 $",
+        "text2": "plus first rent",
+        "text3": "% 10",
+        "text4": "earn the flour",
+        "button": "Create New Account",
+        "button1": "Login",
+        "text5": "Welcome back!"
+      },
+      "mobile": {
+        "m-login": {
+          "title": "WELCOME",
+          "button": "Login to your account",
+          "loginForm": {
+            "text": "E-Mail - or - Phone",
+            "text1": "PASSWORD",
+            "text2": "Password is not required to log in with phone number.",
+            "text3": "You will need to confirm it with the sms code."
+          },
+          "doLogin": {
+            "title": "LOGIN TO YOUR ACCOUNT",
+            "button": "Did you forget your password?",
+            "text": "Don't have an account yet?",
+            "button1": "Create an account"
+          }
+        }
+      },
+      "modal": {
+        "login-modal": {
+          "button": "Cancel",
+          "button1": "Login"
+        },
+        "reset-modal": {
+          "button": "Cancel",
+          "button1": "Reset Password"
+        }
+      },
+      "register": {
+        "kvkk-modal": {
+          "text": "Duis eleifend, metus vel adipiscing pellentesque ipsum nulla convallis massa, non ornare pharetra faucibus eu at the pharmacy. Ut carton and peanut valley. I had no brakes, now ecological life skirt graduated. Each author of players from a macro makeup computer. elit dignissim ultricies of life itself, the power of chocolate. Lorem football football pot until soft across the country. Duis ut nulla luctus, elit at tellus sit amet, consectetuer adipiscing elit. Soccer football but now real estate financing. Nullam cursus enim congue velit quis fringilla. Donec eget tristique great, the jaws of life now. Before the very first taste of mourning and clinical, basketball set their care; Consectetuer justo ac, my dear, nor feugiat posuere tortor arcu feugiat fear, is not a disgrace not only enhanced the price of a great. The porch and do not sit amet, accumsan nulla non, lobortis lacus. Nutrition element nibh the jaws of Japan and the pot. Such as volleyball and the temperature was pregnant. Donec eu venenatis risus, nec dignissim urna.",
+          "button": "I agree",
+          "button1": "Cancel"
+        },
+        "tcno-modal": {
+          "text": "Duis eleifend, metus vel adipiscing pellentesque ipsum nulla convallis massa, non ornare pharetra faucibus eu at the pharmacy. Ut carton and peanut valley. I had no brakes, now ecological life skirt graduated. Each author of players from a macro makeup computer. elit dignissim ultricies of life itself, the power of chocolate. Lorem football football pot until soft across the country. Duis ut nulla luctus, elit at tellus sit amet, consectetuer adipiscing elit. Soccer football but now real estate financing. Nullam cursus enim congue velit quis fringilla. Donec eget tristique great, the jaws of life now. Before the very first taste of mourning and clinical, basketball set their care; Consectetuer justo ac, my dear, nor feugiat posuere tortor arcu feugiat fear, is not a disgrace not only enhanced the price of a great. The porch and do not sit amet, accumsan nulla non, lobortis lacus. Nutrition element nibh the jaws of Japan and the pot. Such as volleyball and the temperature was pregnant. Donec eu venenatis risus, nec dignissim urna.",
+          "button": "Close"
+        },
+        "title": "An existing",
+        "title1": "Your account",
+        "title2": "Is there?",
+        "text": "Super! Log in now, let's continue our digital adventure where we left off!",
+        "button": "Login to your account",
+        "create": {
+          "title": "Create Account",
+          "text": "Satılıkfil Family Excitedly Awaits You!",
+          "title1": "Your T.C credentials.",
+          "text1": "We need this information when making an appointment.",
+          "text2": "You can skip this step if you wish.",
+          "text3": "One last step left!",
+          "text4": "At the end of the membership, you can start the appointment process immediately.",
+          "title2": "Enter the 6 digit verification code",
+          "text5": "We send to your phone number",
+          "text6": "you need to enter the code."
+        },
+        "userForm": {
+          "text": "YOUR NAME",
+          "text1": "YOUR SURNAME",
+          "text2": "E-MAIL",
+          "text3": "Password",
+          "text4": "Password Repeat",
+          "text5": "Passwords are not the same.",
+          "text6": "KVKK",
+          "text6-1": "I read and accepted his contract.",
+          "text6-2": "For membership, you must approve the KVKK Agreement.",
+          "text7": "E-mail address is already registered, instead of membership transactions",
+          "button": "Login to",
+          "text8": "would you like",
+          "text9": "Next step",
+          "num": "02/03"
+        },
+        "userInfo": {
+          "text": "YOUR NAME",
+          "text1": "YOUR SURNAME",
+          "text2": "T.R. Identification number",
+          "text3": "Your Year of Birth",
+          "text4": "T.R. Why am I giving my ID number?",
+          "text5": "I want to skip this step for now!",
+          "text6": "T.R. The ID number could not be verified, please check the information and try again.",
+          "text7": "Next step",
+          "num": "02/03",
+          "text8": "City",
+          "text8-1": "City",
+          "text9": "CODE",
+          "text9-1": "+90",
+          "text9-2": "+91",
+          "text10": "YOUR TELEPHONE NUMBER",
+          "text11": "I want to skip this step for now!",
+          "num1": "03/03"
+        },
+        "confirm": {
+          "text": "SMS Not Received?",
+          "text1": "Request a New SMS"
+        },
+        "regist": {
+          "text": "Register Now",
+          "text1": "OR"
+        }
+      }
+    },
+    "detail": {
+      "common": {
+        "view": "View 360°",
+        "text1": "Do you like the house? Make a visit appointment now and visit the house. Let's talk about the details later!",
+        "text2": "You have already requested a visit to this house, if you have not yet been given a date, to contact our solution partner",
+        "text3": "click here.",
+        "text4": "Your request to visit has been sent to our solution partner for the time period you have determined, you will be contacted for the appropriate date and time, thank you.",
+        "text5": "We have encountered an error while creating the appointment request. We apologize for this, please try again as soon as possible.",
+        "text6": "You cannot request an appointment without verifying your phone number.",
+        "text6-1": "Click to verify your phone number",
+        "text7": "Turkish Identity Number",
+        "text7-1": "If you specify, it can increase your potential to rent the house. If you do not have a Turkish ID number",
+        "text7-2": "document your income",
+        "text7-3": "we recommend.",
+        "text8": "Stating your income can increase your rental potential.",
+        "text8-1": "To document your income",
+        "request": {
+          "button1": "Choose the time frame that suits you",
+          "button2": "Until tomorrow at the latest",
+          "button3": "Before noon on weekdays",
+          "button4": "Afternoon on weekdays",
+          "button5": "Weekend before noon",
+          "button6": "Weekend afternoon"
+        }
+      },
+      "detail-mobile": {
+        "component": {
+          "title": "Rent",
+          "title1": "Listing Details",
+          "title2": "Ad Description",
+          "title3": "Home Amenities",
+          "title4": "House Details",
+          "title5": "House Features",
+          "title6": "See on the map"
+        },
+        "image": {
+          "text": "Photo"
+        },
+        "rental": {
+          "title": "Renting price",
+          "text": "Rent Price",
+          "request": {
+            "button": "Create an Online Visit Program"
+          }
+        },
+        "ad-detail": {
+          "title": "Listing Details",
+          "text": "Listing Number",
+          "text1": "Area"
+        },
+        "ad-exp": {
+          "title": "Ad Description"
+        },
+        "environment": {
+          "title": "Knowing the Environment",
+          "button": "View All Photo",
+          "button1": "Browse Images!"
+        },
+        "home-env": {
+          "title": "Take a Close Look at the Features of the House!",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id condimentum lectus. The latest price ultricies free to be prepared. Microwave or football now. Nulla. In order to free laughter. In fact, the ends of the for Pakistan, but from the borders of convallis arcu.",
+          "title1": "Take a Close Look at the Location of the House!",
+          "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id condimentum lectus. The latest price ultricies free to be prepared. Microwave or football now. Nulla. In order to free laughter."
+        }
+      },
+      "button": "Share",
+      "image": "Photo",
+      "menu": {
+        "title": "Ad Details",
+        "title1": "Ad Description",
+        "title2": "Home Opportunities",
+        "title3": "Discover the House",
+        "title4": "Know the Home Closer",
+        "title5": "Where is the house?"
+      },
+      "container": {
+        "text": "Ad Number",
+        "text1": "Area",
+        "text2": "Ad Date",
+        "text3": "Net Square Meter",
+        "text4": "Rent Price",
+        "text5": "Dues",
+        "text6": "Total price"
+      },
+      "request": {
+        "text": "Create a Visit Schedule."
+      },
+      "sections":{
+        "explain":"AD DETAILS",
+        "facility":"HOME OPPORTUNITIES",
+        "details":"DISCOVER THE HOUSE",
+        "explore":"Are you ready to explore house room by room?",
+        "meet":"KNOW THE HOME CLOSER",
+        "view-detail":"Check out the details now!",
+        "map":"SEE ON MAP",
+        "view":"Take a Close Look at the Location of the House!"
+      },
+      "button2":"View All Photo",
+      "button3":"Browse Images!",
+      "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id condimentum lectus. Aliquam ultricies pretium libero ut efficitur. Proin eu nunc neque. Nulla facilisi. In ut libero risus.Nam finibus enim dui, a convallis arcu finibus sed. Mauris id condimentum urna. Nunc elementum purus nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+      "text1":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id condimentum lectus. Aliquam ultricies pretium libero ut efficitur. Proin eu nunc neque. Nulla facilisi. In ut libero risus.Nam finibus enim dui, a convallis arcu finibus sed. Mauris id condimentum urna. Nunc elementum purus nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. (BURAYA SABİT BİR YAZ LAIM)",
+      "solutions": {
+        "title": "DISCOVER RENTAL FIL SOLUTIONS!",
+        "title1": "What do i need to rent this property?",
+        "text": "About",
+        "text1": "$ 10,000",
+        "text2": "verify gross monthly income",
+        "text3": "Rent can be up to 4 people. This amount may vary depending on the final lease agreed.",
+        "text4": "Submit digital documents and pass our credit review",
+        "text5": "We analyzed various income and expense history metrics to profile your tenants based on the coupons you sent.",
+        "button": "View Documents",
+        "text6": "Simulate your loan",
+        "text7": "and simplify your rental process!",
+        "button1": "Learn More",
+        "title2": "Why should I rent with a Rental Elephant?",
+        "text8": "You don't need a surety",
+        "text9": "Just pass our credit review, you don't need to run after any collateral",
+        "text10": "Rent independently",
+        "text11": "Schedule online visits and talk directly to the owner",
+        "text12": "No surprises and no hidden costs",
+        "text13": "We have already told you everything that will be on your ticket at no surprise cost."
+      },
+      "advertisement": {
+        "title": "Latest Ads on Satılıkfil!",
+        "filter": "Satılıkfil has also brought you many new postings this week.",
+        "filter-1":"Find your dream house now with advanced filtering options!",
+        "more":"Learn More"
+      }
+    },
+    "static": {
+      "career": {
+        "common": {
+          "part": {
+            "title": "With the Satılıkfil Family,",
+            "title1": "Join the Digital Real Estate Adventure!",
+            "text": "We are ready to meet with colleagues who are open to innovations, who know the digital world closely and who can offer the real ‘’smart real estate’’ experience to the Satılıkfil users! We can't wait to see your CV!"
+          },
+          "cv": {
+            "title": "Satılıkfil Waiting For Your CV!",
+            "title1": "Let's meet",
+            "form": {
+              "text": "Name Surname",
+              "text1": "Code",
+              "text2": "+90",
+              "text3": "+91",
+              "text4": "Phone number",
+              "text5": "E-MAIL",
+              "button": "Select City",
+              "opt": "İstanbul",
+              "opt1": "Ankara",
+              "opt2": "Izmir",
+              "button1": "Select Position",
+              "text6": "Upload CV",
+              "text7": "ONLY .PDF EXTENDED FILES ARE ACCEPTED.",
+              "text8": "Your message",
+              "button2": "Send CV"
+            }
+          }
+        },
+        "career-mobile": {
+          "main": {
+            "title": "Why U.S?",
+            "title1": "Open positions",
+            "title2": "Send CV"
+          },
+          "section": {
+            "title": "Senior UI UX Designer",
+            "text": "Lorem ipsum carrots, nsectetur",
+            "title1": "Call Center Support",
+            "text1": "Lorem ipsum carrots, nsectetur",
+            "title2": "Art Director",
+            "text2": "Lorem ipsum carrots, nsectetur",
+            "title3": "Senior UI UX Designer",
+            "text3": "Lorem ipsum carrots, nsectetur",
+            "title4": "Senior UI UX Designer",
+            "text4": "Lorem ipsum carrots, nsectetur"
+          }
+        },
+        "title": "View Open Positions",
+        "title1": "Always Young and Dynamic Working Environment with Satılıkfil",
+        "title2": "Why",
+        "title3": "Satılıkfil",
+        "text": "As Satılıkfil, we are a big team that is excited, young and always chasing innovations! We love to offer our customers digital real estate solutions that are becoming more and more innovative every day in their adventures of selling and buying homes! We are sure that you too will reveal your full potential in this exciting team. Contact us now, let's meet!",
+        "button": "Send CV to Satılıkfil!",
+        "title4": "Are You Ready for Innovations in Satılıkfil?",
+        "title5": "Discover Suitable Positions Now!",
+        "title6": "Learn about our services we offer!",
+        "section": {
+          "title": "Senior UI UX Designer",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit facilisis turpis, sit amet tincidunt mi aliquamLorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit facilisis turpis, sit amet tincidunt mi aliquamLorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit facilisis turpis, some sit amet tincidunt mi",
+          "button": "Make a Job Application",
+          "title1": "Call Center Support",
+          "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit facilisis turpis, some sit amet tincidunt mi",
+          "title2": "Art Director",
+          "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit facilisis turpis, some sit amet tincidunt mi",
+          "title3": "Senior UI UX Designer",
+          "text3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit facilisis turpis, some sit amet tincidunt mi",
+          "title4": "Senior UI UX Designer",
+          "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit facilisis turpis, some sit amet tincidunt mi",
+          "title5": "Senior UI UX Designer",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit facilisis turpis, some sit amet tincidunt mi"
+        },
+        "title7": "Meet Us!",
+        "title8": "Add Privilege to Your Career with Satılıkfil!",
+        "text1": "We care about maximum motivation and perseverance to work  in our team. Therefore, we have many performance rewarding methods that we apply among our colleagues. For those who love dynamism, increased competence and privileges with increasing performance in business life, Satılıkfil is the right career address. Send your CV immediately, let's examine it. We will return as soon as possible!",
+        "text2": "Name and Surname",
+        "text3": "CODE",
+        "text4": "PHONE NUMBER",
+        "text5": "E-MAIL"
+      },
+      "earn": {
+        "earn-mobile": {
+          "title": "What?",
+          "title1": "How does it work?",
+          "title2": "Get paid",
+          "title3": "Our Solutions",
+          "part1": {
+            "text": "For rent",
+            "text2": "to properties",
+            "text3": "by applying",
+            "text4": "earn money",
+            "text5": "Check out properties for Elephant for Rent and earn $ 100 per published property plus 10% of the initial rent",
+            "text6": "If you propose $ 3,500 for a property and rent it, you get $ 450!",
+            "button": "I Want to Specify Property"
+          },
+          "part2": {
+            "text": "With a Rental Elephant",
+            "text1": "It's Easy to Make Money!",
+            "text2": "List your customer's property to a friend or neighbor of the same building.",
+            "text3": "Once the property is declared, you get $ 100 for the stream!",
+            "text4": "When leased, you earn 10% more than your initial rent!",
+            "title": "Questions to Post?",
+            "text9": "Contact us 0800 608 2129"
+          },
+          "part3": {
+            "text": "To your bank account",
+            "text0": "Get paid!",
+            "text1": "You track your results and how much you will earn per month. Your earnings are",
+            "text2": "Every 15 days",
+            "text3": "deposited directly into your account."
+          },
+          "day": "Mon",
+          "day1": "SHALL",
+          "day2": "FOUR",
+          "day3": "FOR",
+          "day4": "HOW",
+          "day5": "CTS",
+          "day6": "PEACE",
+          "num": "01",
+          "num1": "02",
+          "num2": "03",
+          "num3": "04",
+          "num4": "05",
+          "num5": "06",
+          "num6": "07",
+          "num7": "08",
+          "num8": "09",
+          "num9": "10",
+          "num10": "11",
+          "num11": "12",
+          "num12": "13",
+          "num13": "14",
+          "num14": "15",
+          "num15": "16",
+          "num16": "17",
+          "num17": "18",
+          "num18": "19",
+          "num19": "20",
+          "num20": "21",
+          "num21": "22",
+          "num22": "23",
+          "num23": "24",
+          "num24": "25",
+          "num25": "26",
+          "num26": "27",
+          "num27": "28",
+          "num28": "29",
+          "num29": "30",
+          "title4": "Estate",
+          "title5": "The Easy Way to Indicate!",
+          "text": "You record the property's address and owner's contact. By registering the property address, you can indicate your property along with the name, telephone and e-mail of the owner."
+        },
+        "title": "Satılıkfil",
+        "title1": "meet",
+        "title2": "the",
+        "title3": "Digital Real Estate System! ",
+        "text": "Satılıkfil earns! Both the seller and the  intermediary!",
+        "text1": "Are there homeowners around you who are not familiar with the new generation digital real estate system?",
+        "text2": "Meet us, let us earn you money while selling their house in the most profitable way!",
+        "button": "Be Reference Now",
+        "adv": "ADVANTAGES OF FIL FOR RENT",
+        "soln": "DISCOVER RENTAL FIL SOLUTIONS!",
+        "advantage": {
+          "header":"Satılıkfil Earns",
+          "title1": "Meet the",
+          "title2": "Satılıkfil Digital Reference system!",
+          "num": "1",
+          "item": "Build your own earning system! Let us know from users around you who want to sell their home. Register your property through the membership system.",
+          "num1": "2",
+          "item1": "Our call center calls the registered person immediately tells about Satılıkfil. If the home is listed, your promotional payment will automatically be credited to your account at the beginning of the month. Even if the house is not sold!",
+          "num2": "3",
+          "item2": "If your recommended home is sold, earn xx% more money! It's that simple!"
+        },
+        "solution": {
+          "header":"How To Introduce Your Friends With Satılıkfil?",
+          "title1": "Report Properties",
+          "title2": "For Sale Around You!",
+          "title3": "Please send us the property you want to sell with the contact information of the owner and we will call the owner immediately!",
+          "title4": "It is enough to provide the address information of the property with a short description and fill in the owner information form.",
+          "user": {
+            "text": "Address Information",
+            "text1": "Phone Number",
+            "text2": "Explanation",
+            "text3": "Owner Contact Information",
+            "text4": "Owner Name Surname",
+            "text5": "5xx xxx xx xx"
+          }
+        },
+        "advantage2": {
+          "header":"Satılıkfil Earns",
+          "title": "One Month After The Proposed House is Listed, Your Money is in Your Account!",
+          "title1": "We introduce ourselves by meeting with the owner, then we list the house in our system. With the consent of the owner, your money will be automatically deposited into your account",
+          "title2": "one month after",
+          "title3": "the house is listed!",
+          "button":"Join the Reference System Now"
+        },
+        "customers":{
+          "header":"Satılıkfil Satisfys",
+          "title":"Our best happy customers talk about us!",
+          "text1":"As someone who prefers to invest in real estate, I must say that it is a great pleasure to meet Satılıkfil. I didn't need to do anything but follow the money flow process!",
+          "customer1":"Mehmet Toygan",
+          "profession1":"Real Estate Investor",
+          "text2":"We had to need to dispose of our house urgently to move to a larger house. Actually, we were already convinced to complete the sale for a value much less than its value. At the last moment, we met with Satılıkfil and managed to protect our investment. We thank you!",
+          "customer2":"Ayşe Korkmaz",
+          "profession2":"Housewife",
+          "text3":"It is wonderful not to be involved in the sales process at all! I was able to follow every transaction, including the instant locations of professional photographers who came to my house, from the mobile application. Thanks for Satılıkfil!",
+          "customer3":"Ahmet Harmanlı",
+          "profession3":"Doctor"
+        },
+        "header":"Have a Question for Satılıkfil?",
+        "contact":"Contact us immediately!",
+        "contact1":"To find answers to your questions, you can first visit our Frequently Asked Questions Page!",
+        "sss":{
+          "title":"FREQUENTLY ASKED QUESTIONS",
+          "questions":"Have a Question?",
+          "text":"Satılıkfil experts are ready to hear any questions or problems you may have. Our frequently asked questions are here. If you want to report a problem, contact us now!",
+          "question1":"Does the Satılıkfil charge commission?",
+          "answer1":"Yes, Satılıkfil requires a fair amount of commission from the buyer and seller. For details, create your property declaration and let's meet!",
+          "question2":"I liked a house from Satılıkfil! When can I see?",
+          "answer2":"Create a visit notification via the application or web page, let's navigate together! We are there whenever you want!",
+          "question3":"Until when can I get a rental fee if my house is not sold?",
+          "answer3":"If your house, which is advertised on for sale, is not sold, you will receive a rental fee during the unsold period. No limit!",
+          "question4":"Will I be informed by Satılıkfil about the activities carried out",
+          "question4-1":"during the sale of my house?",
+          "answer4":"We will not bother you! You will be able to watch every activity we carry out, from photographing about your home to walk the house through our mobile application or web page. Here is real-time real estate!",
+          "button":"See More Questions"
+        }
+      },
+      "listing": {
+        "listing-mobile": {
+          "advantage": {
+            "title": "Elephant for Hire",
+            "title1": "with",
+            "title2": "Publish your property!",
+            "advertisement": {
+              "text": "Advertise For Free!",
+              "text1": "Lorem ipsum carrots",
+              "text2": "Direct Negotiation with the Tenant",
+              "text3": "Lorem ipsum carrots",
+              "text4": "Get Rent On Time",
+              "text5": "Lorem ipsum carrots",
+              "text6": "Questions to Post?",
+              "text7": "Lorem ipsum carrots"
+            },
+            "text": "To get the rent on the day",
+            "text1": "Enjoy!"
+          },
+          "costs": {
+            "title": "Rental Elephant Costs",
+            "title1": "Traditional Real Estate Costs",
+            "special-prc": {
+              "title": "FIFTH FLOOR SPECIAL",
+              "text": "First rent + monthly",
+              "text1": "%",
+              "text2": "6.9"
+            },
+            "advantage": {
+              "title": "You post advertisements on Rental Elephant, and you can also post advertisements for real estate, advertisements and temporary rental services.",
+              "text": "Free Professional Photos",
+              "text1": "Fully online trading and contracting",
+              "text2": "Even if the tenant is late, payment is made every 12",
+              "text3": "Up to $ 50,000 damage",
+              "text4": "Accurate credit analysis"
+            },
+            "text": " Special Ad"
+          },
+          "differences": {
+            "create": "Create An Ad For My Property",
+            "find-adv": "I Want To Find Property",
+            "information": {
+              "text": "Online advertising and fast rental.",
+              "text1": "Tenants in the Rented Elephant do not need bureaucracy as guarantors and security control. That's why our experts do a rigorous credit analysis that ensures our tenants are good taxpayers.",
+              "text2": "You receive it regardless of the tenant payment.",
+              "text3": "Powerful credit analysis in Rental Elephant.",
+              "text4": "Protection against damage at the end of the contract.",
+              "text5": "Our ad is free.",
+              "text6": "Save money for you!"
+            }
+          },
+          "payment": {
+            "text": "On a Rental Elephant you only pay when you rent!",
+            "text1": "You pay for the rent and discuss the value directly with the tenant. As soon as the property is rented, a monthly rental fee is charged. From the second month, 8% of the rent is charged for non-exclusive advertising or 6.9% for exclusive advertising.",
+            "button": "Advertise My Property"
+          },
+          "working": {
+            "title": "Advertising and",
+            "title1": "How Does Renting Work?",
+            "direction": {
+              "text": "Register your property and advertise for free",
+              "text1": "Registration of your house or house can be done on the website or at the application Rental Fil for Owners.",
+              "text2": "Schedule Professional Photo Shoot",
+              "text3": "All free. We send a photographer to your facility to take pictures (normal and 360º) and video.",
+              "text4": "Start taking visits and rent your home or flat",
+              "text5": "Sign the contract online and get the rent on time",
+              "text6": "You are guaranteed to receive the rental fee every 12 days without any errors. Management is with us until the end of the contract."
+            },
+            "text1": "Questions to Post?",
+            "text2": "Contact us 0800 608 2129"
+          },
+          "advantages1": "Our advantages",
+          "differences1": "Our differences",
+          "button": "Publish Property",
+          "costs1": "Costs",
+          "working1": "How does it work",
+          "payment1": "Payment",
+          "under": {
+            "text": "On a Rental Elephant you only pay when you rent!",
+            "text1": "You pay for the rent and discuss the value directly with the tenant. As soon as the property is rented, a monthly rental fee is charged. From the second month, 8% of the rent is charged for non-exclusive advertising or 6.9% for exclusive advertising.",
+            "button": "Advertise My Property"
+          }
+        },
+        "header": "Satılıkfil",
+        "header1": "Lists Your Property Finds Its",
+        "header2": "Buyer",
+        "header3": "and Sells It!",
+        "subheader": {
+          "title": "Let us pay you rent until we sell your house!",
+          "title1": "Let the professionals photograph your house!",
+          "title2": "Let us show you around your house!"
+        },
+        "text": "Do you have a question?",
+        "text1": "0800 608 2129",
+        "text2": "numbered",
+        "text3": "from the phone",
+        "text4": "Contact us",
+        "recognize": {
+          "title": "Get to Know the Innovative World of Satılıkfil!",
+          "title1": "Now",
+          "title2": "Time for Digital Real Estate!",
+          "button": "Sell My House",
+          "button1": "Buy House"
+        },
+        "solution": {
+          "header1": "SELLER SOLUTIONS",
+          "title1": "Satılıkfil frees you from the trouble of ‘’selling’’ your house.",
+          "text1": "Let the professionals do the marketing work. Selling a house requires ‘’knowing your job’’ at any time, from taking a photo to walking around the house. Satılıkfil publishes advertisements, finds buyers, deals the best bargain for you and sells your house. Which our team sell thousands of homes in Turkey and around the world, will take you to your true customer!",
+          "header2": "SOLUTIONS OF GAIN",
+          "title2": "Satılıkfil earns you without selling it.",
+          "text2": "We are as assertive in this regard as we are willing to sell your house! Satılıkfil sells your house in a short time and pays you rent for each month he cannot sell. Moreover, you will continue to live in your home while you receive your rent payment.",
+          "header3": "VALUE SOLUTIONS",
+          "title3": "Satılıkfil sells your house for a higher price than the other apartment.",
+          "text3": "We know the value of your savings and sell your house worth.",
+          "header4": "ADVERTISING SOLUTIONS",
+          "title4": "Satılıkfil shows your home to more people. Moreover, at no additional cost!",
+          "text4": "Satılıkfil advertises on various digital platforms and shows your home to more people. More views mean faster sales!",
+          "header5": "SOLUTIONS OF TRUST",
+          "title5": "Satılıkfil protects the house and fulfill the damage.",
+          "text5": "Let you entrust your key to us and we will show around your house. We will look at your home throughout the process! We are ready to fully compensate for even the slightest damage that may occur."
+        },
+        "costs": {
+          "block1": {
+            "title": "Satılıkfil Online Smart Real Estatet",
+            "text": "Satılıkfil sells without tiring you, without waiting and ‘’leaving your business to chance’’.",
+            "label": "FIFTH FLOOR SPECIAL",
+            "info": "First rent + monthly",
+            "info1": "%",
+            "info2": "6.9",
+            "description": "FASTER",
+            "description1": "SMARTER",
+            "item": "Professional photography service - Free",
+            "item1": "Reliable, fast, contracted, online sales",
+            "item2": "Professional touring, promotional service",
+            "item3": "FREE Ads",
+            "item4": "Satılıkfil in house custody assurance (possible damage coverage)",
+            "item5":"Rent payment for each month the house is not sold",
+            "item6":"Professional sales team"
+          },
+          "vs": "VS.",
+          "block2": {
+            "title": "Traditional Real Estate",
+            "text": "Get rid of amateur, slow and tiring processes!",
+            "label": "EXCEPT FOR THE FIFTH FLOOR",
+            "info": "First rent + monthly",
+            "info1": "%",
+            "info2": "8",
+            "description": "Bureaucracy, lost time, lost cash!",
+            "item": "Amateur photos in ads",
+            "item1": "A long queues of bureaucracy",
+            "item2": "Long negotiations and bargain in the sales process",
+            "item3": "Money lost until the sale takes place",
+            "item4": "Insecure and without guarantee house custody"
+          }
+        },
+        "title": "Satlıkfil Ready to Sell Your Home, Are You Ready?",
+        "title1": "Meet the New Generation",
+        "title2": "Smart Real Estate!",
+        "text5": "Sign up to contact Satılıkfil experts and let us know your property. We will come to your door and collect the house key from you. While the whole process is protected by legal contracts, we will take photos of your home with our professional photographers and publish them as soon as possible. From the moment the advertisement is published, at the end of each month it is not sold, the rental fee is in your pocket!",
+        "button": "Click and from the mobile application",
+        "button3":"follow all the developments about your home instantly!",
+        "title6":"Digital, Innovative, New Generation and Young! Discover The Benefits Of Satılıkfil.",
+        "title3": "Sell Your Home in 10 Steps!",
+        "title4": "Discover the benefits of renting with us!",
+        "text6": "Let us know the house.",
+        "text7": "We take care of the remaining 9 items :)",
+        "media": {
+          "title": "WHAT DOES THE PRESS SAY ABOUT SATILIKFİL?",
+          "title1": "Satılıkfil In The Press",
+          "text": "\"Satılıkfil managed to rent a property 10 times faster than traditional real estate, on average every 4 days.\"",
+          "auth": "- Forbes"
+        },
+        "step":{
+          "title":"The Innovative Face of Digital Real Estate",
+          "header1":"How Does Satılıkfil Work?",
+          "num1":"1",
+          "title1":"Let us know your property.",
+          "text1":"Sign up for free and fill out the relevant form. You can download the Satılıkfil mobile application or subscribe from the web page.",
+          "num2":"2",
+          "title2":"Let's take a picture of your house!",
+          "text2":"Let's come to take a picture of your house completely free of charge with our professional photographers. Both photo and video!",
+          "num3":"3",
+          "title3":"Let's show you around your house!",
+          "text3":"Our team, which sells dozens of homes a year, will direct a professional to your home. Let's take your house walk around for free!",
+          "num4":"4",
+          "title4":"Receive a rental payment for each non-sale month.",
+          "text4":"As long as your ad is on the air, Satılıkfil will pay you every month that is not sold!"
+        },
+        "button1":"Sell My House",
+        "button2":"Buy a House",
+        "button4":"Download App Now",
+        "text8":"Meet the Advantages of Digital Real Estate Understanding!",
+        "text9":"Satılıkfil offers you a sale guarantee and pays you rent every month until your home is sold. Moreover, while you continue to sit in your house! No waiting for real profit. We are confident! Our numerous contacts nationally and internationally enable us to sell your home at full value. Leave the job to the expert! Our professionals know the intricacies of selling a house, just sit back, follow everything from the mobile application.",
+        "advertisement":{
+          "title":"Satılıkfil Highlights",
+          "text":"How Does Advertising on Satılıkfil Work?",
+          "text1":"Everything is faced with the challenges faced by the company's founders and the owner and tenant",
+          "sample":"While selling your home, we advertise where your target audience is!",
+          "sample1":"Forget about the slow-moving, bureaucratic and time-consuming system of traditional real estate. Real estate is now more innovative, completely digital and very practical! With the housing notification you will make via the Satılıkfil system, the process will proceed very quickly. So now we have to ask: ",
+          "sample2":"Ready to leave your home? "
+        },
+        "title5":"Report your property, we will list it!",
+        "text12":"Start receiving visits immediately with our digital advertising models!",
+        "text13":"Satılıkfil benefits from numerous digital advertising models without additional charge and promotes your home to your entire city.",
+        "sss":{
+          "title":"FREQUENTLY ASKED QUESTIONS",
+          "questions":"Have a Question?",
+          "text":"Satılıkfil experts are ready to hear any questions or problems you may have. Our frequently asked questions are here. If you want to report a problem, contact us now!",
+          "question1":"Does the Satılıkfil charge commission?",
+          "answer1":"Yes, Satılıkfil requires a fair amount of commission from the buyer and seller. For details, create your property declaration and let's meet!",
+          "question2":"I liked a house from Satılıkfil! When can I see?",
+          "answer2":"Create a visit notification via the application or web page, let's navigate together! We are there whenever you want!",
+          "question3":"Until when can I get a rental fee if my house is not sold?",
+          "answer3":"If your house, which is advertised on for sale, is not sold, you will receive a rental fee during the unsold period. No limit!",
+          "question4":"Will I be informed by Satılıkfil about the activities carried out",
+          "question4-1":"during the sale of my house?",
+          "answer4":"We will not bother you! You will be able to watch every activity we carry out, from photographing about your home to walk the house through our mobile application or web page. Here is real-time real estate!"
+        }
+      },
+      "solition-partners": {
+        "solition-partners-mobile": {
+          "title": "Why Elephant Hire?",
+          "button": "Discover",
+          "reason": {
+            "title": "Why Should My Customers",
+            "title1": "Use The Satılıkfil?",
+            "text": "The Elephant for Rent is faster than traditional real estate. We take care of all the work except taking the customer around the house so that you can take care of more customers. That's why you can deal with more customers and work more result-oriented with our digital solutions."
+          },
+          "percent": {
+            "title": "Solution Partner's property:",
+            "title1": "Solution Partner Customer",
+            "percentage": "100% Profit",
+            "title2": "Property From Site:",
+            "title3": "Solution Partner Customer",
+            "percentage1": "50% Profit",
+            "title4": "Customer Coming From The Site",
+            "title5": "From the site",
+            "title6": "Incoming Property:",
+            "title7": "Incoming Customer",
+            "percentage2": "25% Profit",
+            "percentage3": "20% Profit"
+          },
+          "content": {
+            "title": "Team management",
+            "text": "It can be difficult to distribute tasks. Thanks to our high-tech infrastructure, you can distribute tasks and control more.",
+            "title1": "Performance Measurement",
+            "text1": "We report to you what he thinks about your company free of charge and offer you daily. Thanks to the feedback of customers, you will constantly improve yourself.",
+            "title2": "Separate account for each employee",
+            "text2": "You can create separate accounts for each employee. You can authorize each account separately, and by distributing different tasks, everything is very orderly. We evaluate the performance of all employees according to the information we receive from the customer and publish this report free of charge on your panel.",
+            "title3": "Photo shoot",
+            "title3-1": "we take care of it!",
+            "text3": "You can create separate accounts for each employee. You can authorize each account separately, and by distributing different tasks, everything is very orderly. We evaluate the performance of all employees according to the information we receive from the customer and publish this report free of charge on your panel.",
+            "title4": "Totally Free and Transparent",
+            "text4": "Everything is free here. You can have photo shoots, advertisements, call center, our software developed with the latest technology and much more without paying.",
+            "title5": "To more people",
+            "title5-1": "you address.",
+            "text5": "It can be difficult to distribute tasks. Thanks to our high-tech infrastructure, you can distribute tasks and control more."
+          }
+        },
+        "reason": {
+          "title": "We are the Digital",
+          "title1": "Solution Partner of the",
+          "title2": "Traditional",
+          "title3": "Real Estate Market!",
+          "text": "You can control your customers' residences more easily by getting support from Satılıkfil, get rid of the business of walk around houses and have the energy and time to serve a wider audience. Combine years of experience and your customer base with our digital solutions!",
+          "button": "Explore Satılıkfil Now"
+        },
+        "percent":{
+          "header1":"Satılıkfil shows around",
+          "home":"Get rid of showing around the house",
+          "time":"Save Time",
+
+          "header2":"Satılıkfil sells",
+          "sale":"Sell homes faster",
+          "customers":"Satisfied Customers",
+
+          "header3":"Satılıkfil visualizes",
+          "professional":"Our professionals take a photo of the house",
+          "adv":"Trusted Ads",
+
+          "header4":"Satılıkfil earns those who make suggestions.",
+          "meet":"Meet the Satılıkfil reference system",
+          "more":"More Earnings"
+        },
+        "content":{
+          "title":"Professional and Expert Team",
+          "text":"It should be carried out by every business professional in real estate. While our sales professionals take your customers' homes around, the photos will be taken by those who know digital photography best. We believe in quality!",
+          "title1":"Current Analysis and Performance Measurements",
+          "text1":"May our cooperation achieve success! We perform periodic analyzes and performance measurements regarding your company's home sales rates and performance and present them to you.",
+          "title2":"Manage your business with your employees on a single platform!",
+          "text2":"Each employee in your team can be informed and updated about their work schedule from the system. In this way, you get the chance to manage the entire process on a single platform.",
+          "title3":"Satılıkfil",
+          "title3-1":"takes pictures of housing!",
+          "text3":"We take care of the details of the work! Our expert residential photographers in our team take decent photos that appeal to the potential buyer. This will save you time to communicate with more customers!",
+          "title4":"Every Step Taken Regarding Houses is in Follow Up!",
+          "text4":"Information about all residences you want to sell is automatically updated on the Satılıkfil mobile application. Is our team touring a residence? Satılıkfil will send you a notification! Has the photographer finished taking pictures of the residence? Satılıkfil informs you!",
+          "title5":"Reach Broader Audiences With Less Effort!",
+          "text5":"Thanks to your new generation digital real estate solution Satılıkfil you will show your customers' homes to the right target audience more often and expand the audience. This will increase your sales speed!"
+        },
+        "header":"Meet the Satılıkfil Solutions",
+        "header1":"Satılıkfil Recreates Real Estate with Digital Solutions!",
+        "header2":"Get in touch now, let's start working together!",
+        "title1":"Watch Introductory Video",
+        "title2":"Support After Sale",
+        "title3":"You appeal to more people."
+      },
+      "sss": {
+        "title": "Ask Satılıkfil!",
+        "text": "We have compiled the most frequently asked questions and answers for you!",
+        "questions-rental": {
+          "header": "Do You Have Questions About the Process of Buying a House from Satılıkfil?",
+          "title": "Frequently Asked Questions and Answers for Buyers",
+          "question1": "Which real estate objects can I buy from For Satılıkfil?",
+          "answer1": "Satılıkfil has a core staff working as the sales office of many real estate housing projects in Istanbul. Contact for sale now and check out a wide range of properties, from residences to shops, to shopping malls and hospitals.",
+          "question2": "Can I bargain on Satılıkfil?",
+          "answer2": "Of course! Deal with experts in bargaining and purchasing processes! Satılıkfil experts sell ''worth at '' properties for you. Prices are determined by our expert team after negotiations with the landlord.",
+          "question3": "Are Satılıkfil ads reliable?",
+          "answer3": "All of the ads for sale can only be published and edited by our team. All photos in the ads are taken by our professional photographers with care. Reliable ads with the most accurate, most accurate information and details!",
+          "question4": "Can I use the Satılıkfil on my phone?",
+          "answer4": "Of course! Download the Satılıkfil app to your phone now and have the chance to review the postings easily and quickly.",
+          "question5": "Who are the Satılıkfil experts?",
+          "answer5": "Our experts, who have been in the real estate and housing sector for years and sell dozens of houses every year, are the veterans of the sector!",
+          "question6": "Can I contact the host on Satılıkfil?",
+          "answer6": "Yes, you can contact the landlord if you wish via your private receiver panel.",
+          "question7": "What are the ad search tips on Satılıkfil?",
+          "answer7": "You can find your dream home more easily by taking advantage of detailed filtering options in Satılıkfil. Type of residence, number of rooms, square meters or number of floors. Your dreams are waiting for you here!",
+          "question8": "How can I create an appointment for the house I want to see on Satılıkfil?",
+          "answer8": "You can create an appointment for the day and time you want with a single click through your receiver panel. The Satılıkfil team is ready to show you around the house!"
+        },
+        "questions-host": {
+          "header": "Do You Have Questions About The Process Of Selling Your House In Satılıkfil?",
+          "title": "Frequently Asked Questions and Answers for Hosts",
+          "question1": "How can I create an ad in Satılıkfil?",
+          "answer1": "Contact us immediately and we will get all the necessary information about your home. After a short meeting, we will visit your residence, photograph it and make the advertisement ready. You sit back!",
+          "question2": "How can I remove my home ad on Satılıkfil?",
+          "answer2": "You can remove your home advertisement at any time by contacting us. Home postings can only be edited by Satılıkfil experts.",
+          "question3": "Will the Satılıkfil give me a rental fee?",
+          "answer3": "Yes, Satılıkfil experts will deposit a rental fee into your account for each month when they cannot sell your home at the agreed price. Moreover, even while you continue to live in the residence!",
+          "question4": "How does the process of selling a house Satılıkfil work?",
+          "answer4": "Once your property is listed, we will find potential buyers and we will show them around. We sell your house at the price we have agreed with you, and we pay you to rent for each month we cannot sell. Satılıkfil makes your job easy!",
+          "question5": "Will it post my listing Satılıkfil house for sale behind other postings?",
+          "answer5": "No! Special promotion and advertising system that will show some advertisements ahead of others does not work in the Satılıkfil system. All postings appear together in a completely neutral environment. Moreover, thanks to the new generation of smart digital real estate, your residences reach a wider target audience more quickly.",
+          "question6": "How can I follow the sales processes of my home in Satılıkfil?",
+          "answer6": "Download the Satılıkfil application from the Google Play Store or App Store right now, and see all the transactions related to your home from the homeowner's panel. Photoshoots, buyer visits and much more will be visible in detail.",
+          "question7": "Can the Satılıkfil team sell my house?",
+          "answer7": "Satılıkfil many years in Istanbul, in Turkey is the project of a team specialized in the field of residential real estate sales in different cities. We are not new to this industry! Our innovative smart real estate solution is strengthened by our traditional experience and field practice.",
+          "question8": "How does the Satılıkfil reference system work?",
+          "answer8": "Do you know someone who wants to sell their house? Let us know right away and we will talk to him. Earn reference fee separately for listing and for sale of housing!"
+        },
+        "sss-mobile": {
+          "menu": {
+            "title": "See all",
+            "title1": "Tenants",
+            "title2": "Homeowners"
+          },
+          "section1": {
+            "title1": "With the owner",
+            "title1-1": "what can i negotiate",
+            "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam the boat. Even Reserved sad time, it is important for pregnant and law enforcement. Even with the element",
+            "title2": "Visiting days",
+            "title2-1": "and what are the hours?",
+            "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam the boat. Even Reserved sad time, it is important for pregnant and law enforcement. Even with the element",
+            "title3": "With the owner",
+            "title3-1": "what can i negotiate",
+            "text3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam the boat. Even Reserved sad time, it is important for pregnant and law enforcement. Even with the element",
+            "title4": "With the owner",
+            "title4-1": "what can i negotiate",
+            "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam the boat. Even Reserved sad time, it is important for pregnant and law enforcement. Even with the element"
+          },
+          "section2": {
+            "title1": "With the owner",
+            "title1-1": "and what are the hours?",
+            "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam the boat. Even Reserved sad time, it is important for pregnant and law enforcement. Even with the element",
+            "title2": "Visiting days",
+            "title2-1": "and what are the hours?",
+            "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam the boat. Even Reserved sad time, it is important for pregnant and law enforcement. Even with the element",
+            "title3": "With the owner",
+            "title3-1": "what can i negotiate",
+            "text3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam the boat. Even Reserved sad time, it is important for pregnant and law enforcement. Even with the element"
+          },
+          "section3": {
+            "title1": "With the owner",
+            "title1-1": "what can i negotiate",
+            "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam the boat. Even Reserved sad time, it is important for pregnant and law enforcement. Even with the element",
+            "title2": "With the owner",
+            "title2-1": "what can i negotiate",
+            "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam the boat. Even Reserved sad time, it is important for pregnant and law enforcement. Even with the element"
+          }
+        }
+      },
+      "tenant": {
+        "entry": {
+          "title": "Meet the New Generation Digital Real Estate!",
+          "title1": "All Houses Are Listed Worth in Satılıkfil!",
+          "text": "No inflated prices, everything is under our control!",
+          "button": "Find a House for Sale"
+        },
+        "topic": {
+          "title": "Satılıkfil Offers Solution!",
+          "title1": "Buyer-Specific Solutions",
+          "title2": "Imagine Your Home, We Find It!",
+          "step": {
+            "item1": "No inflated prices!",
+            "text1": "Our successful experts in this field determine the price of each advertisement posted on the Satılıkfil.",
+            "item2": "No misleading images!",
+            "text2": "All the visuals and videos in the postings posted on Satılıkfil are taken by our professional photographers. No cheats, no scams!",
+            "item3": "No surprises!",
+            "text3": "Only the administration can edit the postings on Satılıkfil. This way there are no misleading / deceptive or incomplete statements. What you see in the ad is what you will visit!",
+            "item4": "No panic!",
+            "text4": "Satılıkfil experts will meet you in the neighborhood where the house is located and shows around the house. You can set an appointment for any time you want. Just one click from the mobile application!"
+          },
+          "advantage": {
+            "header": "How To Buy A House From Satılıkfil?",
+            "title": "Reliable Purchase",
+            "title1": "Process With Satılıkfil",
+            "num1": "1",
+            "text1": "Sign in now for hundreds of alternatives.",
+            "description1": "Log into your Satılıkfil account, take advantage of the filtering options on the platform to find the most suitable house for you!",
+            "num2": "2",
+            "text2": "Create a visit record.",
+            "description2": "We will be directing our professionals to your address at the date and time you specify. Moreover, you can follow the team coming to your home in real-time!",
+            "num3": "3",
+            "text3": "Continue the process with confidence",
+            "description3": "During the purchasing process, entrust your savings to the reliable Satılıkfil sales contract!"
+          }
+        },
+        "question": "Questions to Post?",
+        "contact": "Contact us 0800 608 2129",
+        "solutions": "Our Solutions",
+        "working": "How does it work?",
+        "cost": "Costs",
+        "title1":"Satılıkfil Costs",
+        "title2":"Traditional Real Estate Costs",
+        "costs":{
+          "title":"Satılıkfil Online Smart Real Estatet",
+          "text":"Satılıkfil sells without tiring you, without waiting and ‘’leaving your business to chance’’.",
+          "block1":{
+            "title":"FIFTH FLOOR SPECIAL",
+            "text":"First rent + monthly",
+            "text1":"%",
+            "text2":"6.9",
+            "description":"FASTER",
+            "description1":"SMARTER",
+            "advantage1":"Professional photography service - Free",
+            "advantage2":"Reliable, fast, contracted, online sales",
+            "advantage3":"Professional touring, promotional service",
+            "advantage4":"FREE Ads",
+            "advantage5":"Satılıkfil in house custody assurance (possible damage coverage)",
+            "advantage6":"Rent payment for each month the house is not sold",
+            "advantage7":"Professional sales team",
+            "button":"Special Ad"
+          },
+          "vs":"VS.",
+          "block2":{
+            "title":"Traditional Real Estate",
+            "text":"Get rid of amateur, slow and tiring processes!",
+            "label":"EXCEPT FOR THE FIFTH FLOOR",
+            "info":"First rent + monthly",
+            "info1":"%",
+            "info2":"8",
+            "description":"Bureaucracy, lost time, lost cash!",
+            "bad":"Amateur photos in ads",
+            "bad1":"A long queues of bureaucracy",
+            "bad2":"Long negotiations and bargain in the sales process",
+            "bad3":"Money lost until the sale takes place",
+            "bad4":"Insecure and without guarantee house custody"
+          }
+        },
+        "text":"Meet the Advantages of Digital Real Estate Understanding!",
+        "text1":"Satılıkfil offers you a sale guarantee and pays you rent every month until your home is sold. Moreover, while you continue to sit in your house! No waiting for real profit. We are confident! Our numerous contacts nationally and internationally enable us to sell your home at full value. Leave the job to the expert! Our professionals know the intricacies of selling a house, just sit back, follow everything from the mobile application.",
+        "button":"Download App Now",
+        "sss":{
+          "title":"FREQUENTLY ASKED QUESTIONS",
+          "questions":"Have a Question?",
+          "text":"Satılıkfil experts are ready to hear any questions or problems you may have. Our frequently asked questions are here. If you want to report a problem, contact us now!",
+          "question1":"Does the Satılıkfil charge commission?",
+          "answer1":"Yes, Satılıkfil requires a fair amount of commission from the buyer and seller. For details, create your property declaration and let's meet!",
+          "question2":"I liked a house from Satılıkfil! When can I see?",
+          "answer2":"Create a visit notification via the application or web page, let's navigate together! We are there whenever you want!",
+          "question3":"Until when can I get a rental fee if my house is not sold?",
+          "answer3":"If your house, which is advertised on for sale, is not sold, you will receive a rental fee during the unsold period. No limit!",
+          "question4":"Will I be informed by Satılıkfil about the activities carried out",
+          "question4-1":"during the sale of my house?",
+          "answer4":"We will not bother you! You will be able to watch every activity we carry out, from photographing about your home to walk the house through our mobile application or web page. Here is real-time real estate!"
+        }
+      }
+    },
+    "rental": {
+      "advertisement": "ads found",
+      "filter1": "Most Relevant",
+      "filter2": "By Price: Ascending",
+      "filter2-1": "Increasing by Price",
+      "filter3": "By Price: Descending",
+      "filter3-1": "Descending by Price",
+      "button1": "Filters",
+      "advertisement-title": "FEATURED POST",
+      "month": "monthly",
+      "image": "Photo",
+      "room": "Room",
+      "saloon": "Living room",
+      "bath": "Bathroom",
+      "popular": "Popular Picks",
+      "popular1": "By U.S",
+      "popular2": " selected properties.",
+      "button": "View",
+      "price": "PRICE",
+      "area": "AREA",
+      "min": "Minimum",
+      "max": "Maximum",
+      "tl": "TL",
+      "meter": "m2",
+      "text": "Disastrous",
+      "main": "Home page",
+      "button2": "Close",
+      "button3": "Clear filter"
+    },
+    "admin": {
+      "suggestions": {
+        "title": "Home Suggestions",
+        "list": "List of home suggestions submitted by users",
+        "host": "Host",
+        "phone":"Phone Number",
+        "date": "Creation Date",
+        "situation": "Depends on the Situation",
+        "button": "Edit",
+        "call": "Call by Phone",
+        "button1": "Search",
+        "button2": "Reset",
+        "suggestion-edit": {
+          "warning": "Warning",
+          "sender": "Sender",
+          "advertisement": "Ad Confirmation",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id condimentum lectus. The latest price ultricies free to be prepared.",
+          "choice": {
+            "text": "Make a choice ...",
+            "text1": "Host could not be reached",
+            "text2": "The house is not for sale",
+            "text3": "Assign solution partner",
+            "text4": "Status of the proposal"
+          },
+          "button1": "Update Progress Status"
+        },
+        "modals": {
+          "partner-modal": {
+            "choice": " Choose to assign to solution partner",
+            "choice1": "Choose your solution partner",
+            "choice2": "Select branch",
+            "button": "Cancel",
+            "button1": "Make an Assignment"
+          }
+        }
+      },
+      "call-center":"Admin and Call Center Management Tools",
+      "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id",
+      "suggest-home":"Home Suggestions"
+    },
+    "mobile-search": {
+      "text": "Home Found",
+      "text1": "No Sale Found",
+      "month": "monthly",
+      "room": "Room",
+      "saloon": "Living room",
+      "bath": "Bathroom"
+    },
+    "partner": {
+      "common": {
+        "contact": "Contact Information",
+        "id-info": "ID Information",
+        "name": "Name",
+        "surname": "Surname",
+        "phoneNumber": "Telephone",
+        "mail": "E-Mail"
+      },
+      "assignments": {
+        "photo": {
+          "notes-modal": {
+            "notes": "Notes",
+            "text": "You can post your notes on the damage here.",
+            "text1": "Damage Record Note",
+            "close":"Close"
+          },
+          "title": "Upload Your Photos",
+          "text": "In order to be published on the site, you must choose separately for each room and upload the photos to the opened areas. You can also upload the photos of the damaged places in the right column reserved for damage assessment.",
+          "button": "CLOSE MISSION",
+          "title1": "Upload photos for the site!",
+          "room": "Make a Room Selection",
+          "room1": "Choose a room for the ad photo",
+          "room2": "Upload Your Room Photos",
+          "text1": "ONLY .JPG .PNG EXTENDED FILES ARE ACCEPTED.",
+          "loading": "Loading",
+          "percent": "%",
+          "loading1": "Loading Stopped",
+          "loading2": "Installation Complete",
+          "review": "Upload photos for inspection!",
+          "review1": "Choose a room for inspection",
+          "review2": "Upload Your Inspection Photos",
+          "add-photo": "Upload a Photo"
+        },
+        "title": "Photo Shooting Tasks",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. mauris",
+        "mission": "All My Missions",
+        "mission1": "My Duties",
+        "branch": "Branch",
+        "date": "Planned Date",
+        "situation": "Depends on the Situation",
+        "transaction": "Transactions",
+        "address": "address",
+        "upload": "Load",
+        "view": "View"
+      },
+      "calendar": {
+        "title": "Sale Calendar",
+        "text": "The postings assigned to your branch are listed below.",
+        "month": "Monthly Calendar",
+        "week": "Weekly Calendar",
+        "day": "Daily Calendar",
+        "calndar": "Calendar",
+        "last": "PREVIOUS",
+        "today": "TODAY",
+        "next": "NEXT"
+      },
+      "company-portfolio":{
+        "title":"Company Ads",
+        "text":"All ads of your company are listed",
+        "customer-info":"Customer Information",
+        "text1":"The visit will be initiated for",
+        "text2":"through the branch portfolio.",
+        "button":"Complete Task"
+      },
+      "customers": {
+        "customer-edit-form":{
+          "customer-move":{
+            "title":"Customer Movements",
+            "online-req":"Online Visit Requests",
+            "like":"Likes"
+          },
+          "notes":"Notes",
+          "file":{
+            "title":"File Archive",
+            "send-file":"Submit Files for Customer Archive",
+            "picture-format":"Only files in image format are accepted."
+          },
+          "customer-detail":"Customer Details",
+          "text":"Any changes you make in other fields except customer name and contact information are updated in real-time."
+        },
+        "customer-form": {
+          "error": "Warning",
+          "user": "Member Information",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. mauris",
+          "advertisement": {
+            "attribute": "Ad Features",
+            "forward": "Featured Ad",
+            "window": "Showcase Notice"
+          },
+          "help": "Help",
+          "title": "Advert Title",
+          "title1": "Write Ad Title",
+          "address": "Address information",
+          "code": "CODE",
+          "code1": "+90",
+          "code2": "+91",
+          "text1": "This phone number already belongs to the customer named",
+          "text2": "you can continue the search criteria by clicking here.",
+          "adv-info": "Ad Information",
+          "adv-exp": "Ad Description",
+          "explanation": "Type in your ad description.",
+          "price-meter": "Price and Square Meter Range",
+          "price": "PRICE",
+          "min": "Minimum",
+          "tl": "TL",
+          "max": "Maximum",
+          "area": "AREA",
+          "meter": "m2",
+          "properties": "Real Estate Properties Looking For",
+          "opportunities": "Looking For Home Opportunities",
+          "home-prop": "Properties of the House he is looking for",
+          "button": "Register Customer",
+          "text3": "In addition to the information of our customers, you should record the sales they are interested in. Even if we do not have the real estate that they are interested in, the customer is informed when the portfolio is entered.",
+          "save": "Save",
+          "button1": "Update Criteria",
+          "new-account":"Click here to start a new subscription.",
+          "call-criteria":"Search Criteria",
+          "send-adv":{
+            "ad-criteria":"Reklam Ölçütleri",
+            "text":"Perform real estate presentation by updating the ad criteria, criteria changes are made automatically, 'start a visit' on the advertisement to show the house, or if the meeting is concluded without a visit, finalize the transaction with the 'Complete Interview' button.",
+            "show":"Show Ad Criteria",
+            "text1":"There are",
+            "text2":"rental advertisements that match the criteria.",
+            "portfolio":"View Branch Portfolio",
+            "complete":"Complete the Conversation"
+          },
+          "text4":"There are",
+          "text5":"rental advertisements that match the criteria.",
+          "portfolio":"View Branch Portfolio",
+          "complete":"Complete the Conversation"
+        },
+        "title": "Customers",
+        "title1": "Click to return to the main page",
+        "add-cust": {
+          "button": "Add New Customer",
+          "name": "Name and Surname",
+          "price": "Price",
+          "phone": "Phone Number",
+          "visitor":"Visitor",
+          "date":"Date Range",
+          "transaction":"Transaction",
+          "timestamp": "Time",
+          "personal": "Representative"
+        },
+        "details": "Details"
+      },
+      "members": {
+        "member-form": {
+          "error": "Warning",
+          "personal": "Personnel Information",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. mauris",
+          "help": "Help",
+          "text1": "This phone number already belongs to the customer named",
+          "text2": "you can continue the search criteria by clicking here.",
+          "personal1": {
+            "title": "Personel Powers",
+            "manager": "Branch Manager",
+            "advisor": "Real Estate Consultant",
+            "expert": "Real Estate Appraiser",
+            "image": "Photographer",
+            "allow-property":"Can Entry Real Estate",
+            "allow-customer-inf":"Can See Customer Information"
+          },
+          "button": "Register Staff",
+          "text3": "After determining the authorizations of the personnel, you can register the new personnel, the personnel can complete the other information belonging to him after loging in by phone.",
+          "button1": "Save",
+          "remove-personal":"Delete Personnel",
+          "cancel":"Cancel"
+        },
+        "member-report":{
+          "report":"Personnel Operations Report",
+          "text":"Below is a list of staff visits and client presentations.",
+          "table":{
+            "customer":"Customer",
+            "process":"Operation",
+            "date":"Creation Date",
+            "situation":"Status"
+          }
+        },
+        "personal": "Branch Staff",
+        "button": "Register New Staff",
+        "update": "Waiting for Update",
+        "edit": "Edit",
+        "report": "Show Report"
+      },
+      "modals": {
+        "visitor-info-modal": {
+          "phoneNumber": "Phone:",
+          "advisor": {
+            "title": "Real Estate Agent Information",
+            "name": "Consultant Name:"
+          },
+          "visitor": {
+            "title": "Visitor Information",
+            "name": "Visitor Name:"
+          },
+          "notes": "Visiting Notes",
+          "text": "Write a note about the visit",
+          "button": "Cancel",
+          "button1": "Complete the Visit"
+        },
+        "assign-photographer-modal":{
+          "explanation":"Choose to assign to the photographer. Below is a list of photographers assigned to your institution.",
+          "select":"Choose a photographer",
+          "last-date":"Last Transaction Date",
+          "cancel":"Cancel",
+          "assign":"Make an Assignment"
+        }
+      },
+      "portfolio": {
+        "portfolio-form":{
+          "notification":"Warning",
+          "form":{
+            "host-info":"Host Information",
+            "text":"Property owner and contact information. Verify property status and direct to membership if host has no membership."
+          },
+          "userError":"User Creation Error",
+          "creatin-user":"Start your subscription with the property owner's phone.",
+
+          "address-inf":"Real Estate Address Information",
+          "text":"After confirming the condition of the house from the property owner, verify the address information.",
+          "address":"Property Address",
+
+          "informationAdv":{
+            "title":"Price and m2 Information",
+            "help":"Help",
+            "meter":"square meter",
+            "net-meter":"Net square meter",
+            "price":"Price",
+            "curr":"Exchange rate",
+            "purchase-price":"Purchase price",
+            "save":"Save Home Proposal"
+          },
+
+          "opportunitiesAdv":{
+            "title":"Ad Features",
+            "featured":"Featured Ad",
+            "showcase":"Showcase Ad",
+            "no-publish":"The ad should NOT be published on the site!",
+            "company":"Is the Firm's Own Property?"
+          },
+
+          "adv-header":"Advert Title",
+          "help":"Help",
+          "create-title":"Write Advert Title",
+          "info-adv":"Listing Information",
+          "adv-explanation":"Ad Description",
+          "create-exp":"Write Ad Description",
+          "opportunities":"House Opportunities",
+          "features":"House Features",
+
+          "new-portfolio":{
+            "title":"New Portfolio",
+            "text":" You can publish a new post belonging to your branch in your own portfolio. You must appoint a photographer after home registration. After completing the photographer tasks, if there is no missing home data, you can publish the ad.",
+            "assign-photo":"Assign Photographer",
+            "text1":"Posting will be activated after the photographer completes the process.",
+            "assign":"Make an Assignment"
+          }
+        },
+        "title": "Branch Portfolio",
+        "text": "The postings of your branch are listed below.",
+        "new": "Add New Portfolio",
+        "notification":{
+          "customer-info":"Customer Information",
+          "text1":"The visit will be initiated for",
+          "text2":"through the branch portfolio.",
+          "button":"Complete Task"
+        }
+      },
+      "suggestions": {
+        "edit-property": {
+          "left":{
+            "adv-info":"Ad Information",
+            "notes":"Notes",
+            "past":"Past"
+          },
+          "right-box":{
+            "notes":"Notes",
+            "text":"Advertiser, house proposer, call-center or branch notes regarding the advertisement",
+            "adv-note":"Ad Note"
+          },
+          "portfolio": "Take to My Portfolio",
+          "text": "You can take the advertisement to your portfolio by assigning yourself.",
+          "add": "Add to My Portfolio",
+          "photo": "Assign Photographer",
+          "text1": "Posting ads will be activated after the photographer completes the process.",
+          "button": "Make an Assignment",
+          "photo-text": "Photo shoot is expected",
+          "text2": "The announcement until",
+          "text3": "has been",
+          "text4": "'to assigned'",
+          "sending": "Posting Ad",
+          "notification":"Warning",
+          "online":"Ad is Online",
+          "text6":"The announcement is published for 3 months, it will not be canceled automatically at the end of the period, but it is a warning for the re-evaluation of the advertisement.",
+          "removeAt":"Unpublish Ad",
+          "adv-notes":"Ad Notes",
+          "text7":"Multiple users, including the person who posted the ad, can interfere with home data from the home suggestion until it is posted. These stages are sometimes limited and sometimes full access, so the notes shared by the parties regarding the advertisement are shown here.",
+          "adv-past":"Ad History",
+          "text8":"This is the section where the distribution of tasks related to the stages of the announcement is also shown. You can recover the data of the advertisement at any time or return it to a certain time.",
+          "text5":"In order for an advertisement to be published, the pictures of the advertisement, the title of the advertisement and at least 5 advertisement features must be entered. Locked areas in the ad are the areas that have been verified by Satılıkfil team. If you think there is incorrect information, you can request verification from Satılıkfil teams.",
+          "button1":"Publish the Ad"
+        },
+        "request": "Sale Criteria",
+        "text": "The postings assigned to your branch are listed below.",
+        "host": "Host",
+        "contact": "Phone",
+        "date": "Creation Date",
+        "portfolio": "Portfolio",
+        "situation": "Depends on the Situation",
+        "transaction": "Transactions",
+        "detail": "Show Details",
+        "photo": "Assign to Photographer",
+        "button": "Search",
+        "button1": "Reset"
+      },
+      "visit-request": {
+        "visit-req": "Visit Requests",
+        "text": "Visit requests for rents assigned to your branch are listed below.",
+        "calendar": "View Visit Calendar",
+        "advertisement": "Ad Information",
+        "price": "Price",
+        "visitor": "Visitor",
+        "date": "Date Range",
+        "plan": "Planning",
+        "completed": "Visit Completed",
+        "calceled": "It is canceled"
+      },
+      "phone-calls":{
+        "phone-records":{
+          "call-form":{
+           "error":"Warning",
+           "title":"Search Information",
+           "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id",
+           "help":"Help",
+           "notes":{
+             "title":"Search Notes"
+            },
+           "form": {
+             "publish-site": "Published Site",
+             "publish-id": "Ad Number",
+             "publish-date": "Ad Date",
+             "owner": "Ad Owner",
+             "currency-code": "Exchange Rate",
+             "price": "Price",
+             "phone": "Phone Number",
+             "phone-2": "Phone Number 2",
+             "note": "Write the Interview Note Here"
+           },
+           "button":"Save Ad",
+           "text3":"You can create notes regarding the calls made with the hosts by saving the advertisement information obtained from external sources.",
+           "button1":"Save"
+          }
+        },
+        "notes":{
+          "header":"Phone Call Notes",
+          "text":"Here you can create the interviews and notes of the postings found from other sources.",
+          "new-record":"Create New Registry",
+          "web":"Published Site",
+          "number":"Ad Number",
+          "host":"Ad Owner",
+          "phone-number":"Phone Number",
+          "price":"Price",
+          "last-call":"Last Search",
+          "details":"Details"
+        },
+        "personal":"Branch Staff",
+        "button":"Register New Staff",
+        "update":"Waiting for Update",
+        "edit":"Update",
+        "report":"Show Report"
+      },
+      "tool": "Branch Management Tools",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. mauris",
+      "personal": "Branch Staff",
+      "my-calendar": "My Calendar",
+      "rent": "Lease Assigned to Branch",
+      "branch": "Branch Portfolio",
+      "visit-req": "Visit Requests",
+      "customer": "Customers",
+      "photo": "Photographer Assignments",
+      "notes": "Phone Call Notes",
+      "value": "1"
+    },
+    "dashboard": {
+      "damage": {
+        "add-damage": {
+          "record": "Creating a New Damage Record",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. mauris",
+          "form": "Damage Form",
+          "title1": "DAMAGE NAME",
+          "title2": "REPAIR EXPECTATION",
+          "title3": "ESTIMATED DAMAGE COST",
+          "message": "Your Message",
+          "picture": "Damage Images",
+          "upload": "Upload Your Documents",
+          "text1": "ONLY .PDF .JPG PNG EXTENDED FILES ARE ACCEPTED.",
+          "attention": "Information!",
+          "text2": "carrots, enhanced undergraduate experience. Mauris id condimentum lectus. The latest price ultricies free. carrots, enhanced undergraduate experience. Mauris id condimentum lectus. The latest price ultricies free.",
+          "summary": "Damage Form Summary",
+          "date": "House 1 - 06 December 2019",
+          "text3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Relay members that gas is not varied or before the freight. Pellentesque metus turpis, imperdiet may be complicated, nor, it is time consectetur dolor. But an element of a great mauris condimentum",
+          "button": "Submit Form"
+        },
+        "title": "Create New Damage Record",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id condimentum lectus.",
+        "past": "Past Damage Records",
+        "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. mauris",
+        "button": "Select all",
+        "date": "By Date",
+        "price": "By Price",
+        "situation": "Depends on the Situation",
+        "damage-goods": "Damaged Goods",
+        "sample": "Boiler Failure",
+        "sample-date": "06.12.2019",
+        "sample-date1": "06 December 2019",
+        "sample-price": "480.00 TRY",
+        "notification": "Reported to the Host",
+        "satisfy": "Satılıkfil Compensates Damage ",
+        "reflect": "Damage Reflected to Rent",
+        "waiting": "Waiting for Payment",
+        "chosen": "2 Damage Records Selected",
+        "sample-date2": "House 1 - 06 December 2019 / House 2 - 09 December 2019",
+        "button1": "Delete Damage History",
+        "button2": "Create Support Request"
+      },
+      "dashboard-mobile": {
+        "button": "Switch Between Accounts",
+        "button1": "Switch to Host Account",
+        "notifications": "Notifications",
+        "button2": "See all",
+        "sample-num": "43",
+        "new-notif": "New Notice",
+        "sample-num2": "88",
+        "all": "All",
+        "sample-num3": "16",
+        "inbox": "Inbox",
+        "new-message": "New message",
+        "sample-num4": "59",
+        "access": "Fast access",
+        "profile": "My Profile",
+        "text": "Lorem ipsum pain.",
+        "favorite": "My Favorites",
+        "text1": "Lorem ipsum pain.",
+        "notification": "Income Statement",
+        "text2": "Lorem ipsum pain.",
+        "button3": "Submit Notification",
+        "text3": "Lorem ipsum pain.",
+        "pay": "Rent Payment",
+        "text4": "Lorem ipsum pain.",
+        "text5": "Lorem ipsum pain.",
+        "approve": "Confirm Your Account",
+        "approve1": "Confirm your account and take advantage of the opportunities!"
+      },
+      "documents": {
+        "document": "Documentation",
+        "text": "Upload official documents about your home purchase process, follow everything from a single platform!",
+        "upload": "Upload Your Documents",
+        "text1": "ONLY .PDF.JPG PNG EXTENDED FILES ARE ACCEPTED.",
+        "loading": "Loading",
+        "status": "67% - 8 seconds remaining",
+        "completed": "Installation Complete",
+        "rent-contract": "RENTAL AGREEMENT.PDF",
+        "past": "My Past Downloads",
+        "text2": "All documents related to your home purchase process.",
+        "button": "Select all",
+        "date": "By Date",
+        "size": "By Size",
+        "ext": "By Extension",
+        "rent-contract1": "Rental contract",
+        "sample": "1 File",
+        "sample-date": "06.12.2019",
+        "sample-date1": "06 December 2019",
+        "sample-memory": "48MG",
+        "sample-ext1": ".PDF",
+        "chosen": "1 your document has been selected",
+        "sample-date2": "Lease Agreement - 06 December 2019",
+        "delete": "Delete Document History",
+        "help": "Create Support Request"
+      },
+      "end-of-contract": {
+        "title": "Termination of the Contract",
+        "text1": "You can review the contract used in the sale of housing at any time here.",
+        "information": "Information!",
+        "text2": "carrots, enhanced undergraduate experience. Mauris id condimentum lectus. The latest price ultricies free.",
+        "start-date": "Contract Start Date",
+        "sample-date": "06 December 2019",
+        "finish-date": "Contract end date",
+        "sample-date1": "06 December 2020",
+        "time": "Time remaining",
+        "sample-time": "2 Years 254 Days",
+        "contract-clauses": "Contractual Clauses",
+        "text": "created by",
+        "host": {
+          "title": "Host",
+          "item": "Lorem ipsum pain",
+          "item1": "Lorem ipsum pain",
+          "item2": "Lorem ipsum pain",
+          "item3": "Lorem ipsum pain",
+          "item4": "Lorem ipsum pain",
+          "item5": "Lorem ipsum pain"
+        },
+        "rental": {
+          "title": "Buyer",
+          "item": "Lorem ipsum pain",
+          "item1": "Lorem ipsum pain",
+          "item2": "Lorem ipsum pain",
+          "item3": "Lorem ipsum pain",
+          "item4": "Lorem ipsum pain",
+          "item5": "Lorem ipsum pain"
+        },
+        "download": "Download Your Agreement",
+        "text3": "You can download your sales contract to your device with a single click. Press the orange button."
+      },
+      "income": {
+        "document": "Document Your Income",
+        "text": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id condimentum lectus. The latest price ultricies free to be prepared. Microwave or football now. Nulla. In order to free laughter. In fact, the ends of the for Pakistan, but from the borders of convallis arcu. Mauris id condimentum urna. Now the element chili players. Nutrition residents soccer sad old and ugly netus et malesuada hunger and poverty.",
+        "text1": "Unfortunately, neither is there the life id nisl interdum nunc elit at felis. Quiver homework shy, Fudge region football man. The microwave region, throat football is football, long-pregnant propaganda. The latest or expensive. Stress that the author, but carton developer. Vivamus sit amet, for the time of the author or any other bed. Sed ultricies ac, except in the airline. Clinical receives a nibh football computer. Smartphones. Real estate developers skirt free nutrition carrots. Proin interdum aliquet justo. Maecenas clinical networks. But just by copyright salad ultricies employee. On the volleyball start. Even as a bow or soft jaws. Manufacturing chocolate and is one quiver."
+      },
+      "my-property": {
+        "form": {
+          "edit-property": {
+            "send-advertisement": "Posting Ad",
+            "text": "You are viewing information about your property. Information such as address and square meter are verified data, so you cannot edit them; You can update the properties of your home until the ad is published.",
+            "update": "Update Listing"
+          }
+        },
+        "my-properties": "My Properties",
+        "text": "Easily track the active status of all your properties listed on Satılıkfil.",
+        "all-properties": "All My Properties",
+        "advertisement": "Ad",
+        "advertisement-date": "Listing Date",
+        "rent": "Rent",
+        "situation": "Depends on the Situation",
+        "button": "Edit"
+      },
+      "mylist": {
+        "favorite": "My Favorite Ads",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. mauris",
+        "choice": "Make a choice ...",
+        "order": "Sort"
+      },
+      "notifications": {
+        "title": "Notification",
+        "text": "Our team solves all your problems related to the housing purchase process. Notify us!",
+        "all-properties": "All My Properties",
+        "test": "test",
+        "test1": "test",
+        "test2": "test",
+        "test3": "test",
+        "all": "Select all",
+        "date": "By Date",
+        "situation": "Depends on the Situation",
+        "about-rental": "About the Tenant",
+        "problem": "Hello deserve a problem ..",
+        "sample-date": "06.12.2019",
+        "sample-date1": "06 December 2019",
+        "answered": "Answered",
+        "answer": "Answer",
+        "closed": "Closed",
+        "notification": "Notification Solved",
+        "chosen": "2 Your Notice Has Been Selected",
+        "sample-date2": "House 1 - 06 December 2019 / House 2 - 09 December 2019",
+        "delete": " Delete Notification History",
+        "create": "Create New Notice"
+      },
+      "payment": {
+        "title": "Housing Costs",
+        "text": "Categorize and review your housing costs and find your bills.",
+        "button": "Select all",
+        "date": "By Date",
+        "price": "By Price",
+        "sample-date": "06.12.2019",
+        "sample-date1": "06 December 2019",
+        "sample-price": "600.45 TL",
+        "about": "Hello deserve a problem ..",
+        "sample": {
+          "title": "House 1",
+          "place": "Beylikduzu, Beykent",
+          "text": "Overdue Rent",
+          "button": "Pay now"
+        },
+        "sample1": {
+          "title": "House 2",
+          "place": "Sisli, Mecidiyekoy",
+          "text": "Bill Paid"
+        },
+        "text1": "2 Your Notice Has Been Selected",
+        "date1": "House 1 - 06 December 2019 / House 2 - 09 December 2019",
+        "button1": "Delete Invoice History",
+        "button2": "Create Support Request"
+      },
+      "profile": {
+        "profile-mobile": {
+          "photo": {
+            "text": "Account Linking Error",
+            "photo-upload": "Upload a Photo",
+            "social": "Link Facebook Account",
+            "save": "SAVE MY PROFILE PHOTO"
+          },
+          "profile-address": {
+            "title": "Address Information Change",
+            "text": "By updating your address information, you can be aware of the rentals near you.",
+            "confirm": "Address Verification",
+            "info": "ADDRESS INFORMATION",
+            "update": "UPDATE MY INFORMATION"
+          },
+          "profile-email": {
+            "title": "E-Mail Address Change",
+            "text": "The e-mail address you use to log into your account. A confirmation message will be sent to your e-mail address.",
+            "information": "Information",
+            "text1": "To change your e-mail address, you must create a password.",
+            "error": "Update Error",
+            "mail": "E-MAIL ADDRESS",
+            "update": "UPDATE MY INFORMATION"
+          },
+          "profile-income": {
+            "title": "Document Your Income",
+            "text": " By documenting your income, these documents and information will be useful during your online visit or if you rent a house."
+          },
+          "profile-mylist": {
+            "favorite": "My Favorite Ads",
+            "text": "You can add your favorite postings here and compare them later. The advertisements that you remove from the favorites below will be valid until they move to another section.",
+            "choice": "Make a choice ...",
+            "order": "Sort"
+          },
+          "profile-name": {
+            "change": "Name Surname Change",
+            "text": "Your name and surname information is used in T.C authentication. Therefore, you should use your real information.",
+            "name": "YOUR NAME",
+            "surname": "YOUR SURNAME",
+            "update": "UPDATE MY INFORMATION"
+          },
+          "profile-password": {
+            "change": "Password Change",
+            "text": " You can update your password here, if you have created a membership from social media networks, create your password here. You cannot change your e-mail address, etc. without your password.",
+            "error": "Update Error",
+            "passwrd": "PASSWORD",
+            "passwrd-repeat": "PASSWORD REPEAT",
+            "update": "UPDATE MY INFORMATION"
+          },
+          "profile-phone": {
+            "title": "Update Your Phone Number",
+            "text": " You can link your account with a phone number. A verification code will be sent to your phone.",
+            "error": "Update Error",
+            "num": "+90",
+            "num1": "+91",
+            "code": "CODE",
+            "phone": "YOUR TELEPHONE NUMBER",
+            "update": "UPDATE MY PHONE",
+            "text1": "SMS Not Received?",
+            "text2": "Request a New SMS",
+            "button": "SMS VERIFY"
+          },
+          "profile-tckn": {
+            "title": "T.R. Adding an ID Number",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id condimentum lectus. The latest price ultricies free to be prepared.",
+            "notification": "TCK Number Could Not Verify",
+            "tcno": "T.R. Identification number",
+            "year": "Your Year of Birth",
+            "update": "UPDATE MY INFORMATION"
+          },
+          "pp": "Profile photo",
+          "update1": "Update your profile photo",
+          "info": "Name Surname Information",
+          "update2": "Update your first and last name",
+          "mail": "E-mail address",
+          "update3": "Update your e-mail address",
+          "phone": "Phone number",
+          "update4": "Update your phone number",
+          "password": "Setting a Password",
+          "update5": "Update Your Password",
+          "address": "Address information",
+          "update6": "Update your address",
+          "tcno": "T.R. Identification number",
+          "text": "Required for transactions.",
+          "button": "Open Campaign Notifications",
+          "button1": "I want to be informed about the campaigns"
+        },
+        "title": "Welcome",
+        "text": "You have to define a password for the next login. In addition, we recommend that you fill in the mandatory fields on the form for further processing.",
+        "num": "9",
+        "num1": "4",
+        "complete-profile": "Complete Your Profile",
+        "add-phone": "Add Your Phone Number",
+        "confirm-mail": "Verify Email",
+        "confirm-tcno": "TR ID Number Confirm",
+        "bank-account": "Suggest a House, Earn Money",
+        "available": "Your Current Balance",
+        "num2": "$ 0.00",
+        "account": {
+          "pp": "Profile photo",
+          "text": "Upload your profile photo in the space below and personalize your profile.",
+          "upload-pp": "Upload Profile Photo",
+          "text1": "ONLY .JPG PNG EXTENDED FILES ARE ACCEPTED.",
+          "personal-info": "Your Personnel Information",
+          "text2": "Save your personnel information on your profile, and Satılıkfil will notify you of suitable benefits!",
+          "name": "YOUR NAME",
+          "surname": "YOUR SURNAME",
+          "mail": "E-MAIL",
+          "code": "CODE",
+          "num": "+90",
+          "num1": "+91",
+          "phone": "YOUR TELEPHONE NUMBER",
+          "tcno": "T.R. IDENTIFICATION NUMBER",
+          "info": "(Required due to legal obligations)",
+          "year": "YOUR BIRTHDAY",
+          "info1": "(TR ID number is required for verification.)",
+          "note": "T.R. Your Identity Number Could Not Be Verified.",
+          "password": "Password",
+          "passwrd-repeat": "Password Repeat",
+          "address": "ADDRESS INFORMATION",
+          "city": "PROVINCE YOU LIVE",
+          "town": "THE DISTRICT YOU LIVE",
+          "button": "I want to receive information about campaigns and innovations via SMS and e-mail.",
+          "update": "Update My Profile"
+        }
+      },
+      "reporting": {
+        "title": "Notify Host",
+        "text": "Notify the owner of the house you want to buy. You can get information about the house, ask questions about the damaged areas, and send your request.",
+        "notification": {
+          "title": "Create Notification",
+          "header": "TITLE",
+          "amount": "AMOUNT REQUESTED",
+          "message": "Your message",
+          "title1": "Changed / Damaged / Paid Needs",
+          "request": "WHAT DO YOU REQUEST FOR",
+          "sample": "Combi",
+          "sample1": "Natural Gas Installed",
+          "sample2": "The Wall Was Painted",
+          "add": "Attaching a Document",
+          "upload": "Upload Your Documents",
+          "text": "ONLY .PDF .JPG PNG EXTENDED FILES ARE ACCEPTED.",
+          "information": "Information!",
+          "text1": "carrots, enhanced undergraduate experience. Mauris id condimentum lectus. The latest price ultricies free. carrots, enhanced undergraduate experience. Mauris id condimentum lectus. The latest price ultricies free."
+        },
+        "summary": "Notification Summary",
+        "sample-date": "House 1 - 06 December 2019",
+        "text1": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Relay members that gas is not varied or before the freight. Pellentesque metus turpis, imperdiet may be complicated, nor, it is time consectetur dolor. But an element of a great mauris condimentum",
+        "button": "Submit Form"
+      },
+      "statistics": {
+        "title": "Statistics",
+        "text": "Track how much you earned, how much you paid, your credit score and much more on your Satılıkfil account here!",
+        "total-payed": "Total paid",
+        "sample-num": "2,420 TRY",
+        "total-gain": "Collected Earnings",
+        "sample-num1": "480 TRY",
+        "rental-time": "Tenancy period",
+        "sample-num2": "487 Days",
+        "credit": "Credit Rating",
+        "sample-num3": "9.5 Pts",
+        "notification": "Number of notifications",
+        "sample-num4": "84 Pieces",
+        "contract": "Loaded documents",
+        "sample-num5": "4 units",
+        "damage": "Damage records",
+        "sample-num6": "22 Pieces",
+        "message": "Support Messages",
+        "sample-num7": "65 Piece"
+      },
+      "suggest-rental": {
+        "add-suggest": {
+          "title": "Suggesting a House",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id condimentum lectus. The latest price ultricies free to be prepared. Microwave or football now. Nulla. In order to free laughter. In fact, the ends of the for Pakistan, but from the borders of convallis arcu. Mauris id condimentum urna. Now the element chili players. Nutrition residents soccer sad old and ugly netus et malesuada hunger and poverty.",
+          "text1": "Unfortunately, neither is there the life id nisl interdum nunc elit at felis. Quiver homework shy, Fudge region football man. The microwave region, throat football is football, long-pregnant propaganda. The latest or expensive. Stress that the author, but carton developer. Vivamus sit amet, for the time of the author or any other bed. Sed ultricies ac, except in the airline. Clinical",
+          "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id condimentum lectus. The latest price ultricies free to be prepared. Microwave or football now. Nulla. In order to free laughter. In fact, the ends of the for Pakistan, but from the borders of convallis arcu. Mauris id condimentum urna. Now the element chili players. Nutrition residents soccer sad old and ugly netus et malesuada hunger and poverty."
+        },
+        "table":{
+          "header":"Suggesting a House",
+          "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id",
+          "new":"Suggest a New Home and Earn"
+        },
+        "advert":{
+          "info":"Ad Information",
+          "gain":"Earned Earnings",
+          "situation":"Depends on the Situation"
+        },
+        "button":"View"
+      },
+      "support": {
+        "support-request": {
+          "help-code": "Support Code",
+          "sample-code": "#4353565",
+          "situation": "Status",
+          "situation1": "Waiting for Response",
+          "date": "Date",
+          "sample-date": "06 December 2019",
+          "button": "Evaluate the Interview",
+          "button1": "Report Speaking",
+          "text": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Relay members that gas is not varied or before the freight. Pellentesque metus turpis, imperdiet may be complicated, nor, it is time consectetur dolor.",
+          "personal-name": "Furkan Tirit,",
+          "personal": "Technical Authority",
+          "text1": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Relay members that gas is not varied or before the freight. Pellentesque metus turpis, imperdiet may be complicated, nor, it is time consectetur dolor.",
+          "message": "Send Message",
+          "photo": "Add Photo",
+          "video": "Add Video"
+        },
+        "title": "Create New Support Request",
+        "text": "Tell us about the problem you are experiencing, and our team will reply as soon as possible!",
+        "past": "My Past Support Requests",
+        "text1": "All support requests you have submitted so far are listed.",
+        "all": "Select All",
+        "date": "By Date",
+        "situation": "Depends on the Situation",
+        "about-host": "About the Host",
+        "help-code": "Support Code: # 4353513",
+        "sample-date": "06.12.2019",
+        "sample-date1": "06 December 2019",
+        "closed": "Closed",
+        "solved": "Request Resolved",
+        "waiting": "Waiting for Response",
+        "answered": "Answered",
+        "answer": "Answer",
+        "title1": "2 Support Requests Selected",
+        "sample-date2": "House 1 - 06 December 2019 / House 2 - 09 December 2019",
+        "button": "Delete Claims History"
+      },
+      "visit-requests": {
+        "modal": {
+          "rate-modal": {
+            "title": "How Did Your Online Visit Go?",
+            "text": "We need your ideas! Rate now!",
+            "sample-personal": "Berkay Erdinc",
+            "personal": "Satılıkfil Advisor",
+            "past": "Previous",
+            "evaluate": "Rate",
+            "next": "Next"
+          }
+        },
+        "title": "Appointment Requests",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. mauris",
+        "advertisement-info": "Ad Information",
+        "price": "Price",
+        "date": "Appointment Date",
+        "advisor": "Your advisor"
+      },
+      "unauthorized-account":{
+        "account-confirm":"Confirm Your Account",
+        "text":"Satılıkfil'in tüm fonksiyonlarını kullanabilmek için hesabınızı hemen onaylayın. Tek yapmanız gereken T.C. Kimlik Belgenizi buraya yükleyin. Satılıkfil, verilerinizi herhangi bir üçüncü şahıs uygulamasında paylaşmaz veya kullanmaz.",
+        "block":{
+          "account":"Earn",
+          "text":"a",
+          "rosette":"blue badge",
+          "text1":"with your verified account."
+        },
+        "upload":{
+          "header":"T.R. How to Upload an Identity Card?",
+          "text":"To confirm your Satılıkfil account, T.R. Photograph the front and back of your ID document separately and upload them here. The texts on the photos you upload must be legible.",
+          "tc-card":"T.R. YOUR ID CARD",
+          "text1":"Articles Must Be Readable with Loading",
+          "front-face":"T.R. Identity Document Front Face",
+          "sample":"Please T.R. Add Your Identity Document as in the Example!",
+          "file-type":"ONLY .JPG  .PNG EXTENDED FILES ARE ACCEPTED.",
+          "back-face":"T.R. Identity Document Back Face",
+          "confirm":"Confirm My Account"
+        }
+      },
+      "opportunities":{
+        "header":"Ready to Take Advantage of Satılıkfil Deals?",
+        "text":"Satılıkfil offers additional income with various opportunities to all its users who want to buy housing. Get to know the opportunities closely and keep winning with the digital real estate system!",
+        "block":{
+          "rosette":"Blue Bagdet",
+          "text":"it working! We have prepared all of the",
+          "opportunity":"opportunities",
+          "text1":"below for you!"
+        },
+        "items":{
+          "list":"Earn by Listing Houses withSatılıkfil",
+          "text":"Do you have acquaintances around who want to sell housing? Notify property to Satılıkfil now. Earn income from the referral campaign!",
+          "sell":"Earn By Selling Housing With Satılıkfil",
+          "text1":"Satılıkfil gives you a certain commission on the sale of each property listed through you. Here is the real additional income opportunity!",
+          "button":"Explore Now"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,2631 @@
+{
+	"layouts": {
+		"header": {
+			"logo": {
+				"title": "Ana sayfaya dönmek için tıklayın"
+			},
+			"search": {
+				"placeholder": "Anahtar kelime ile ara."
+			},
+			"menu": {
+				"owner_manual": {
+					"text": "Ev Sahibi Rehberi",
+					"title": "Satılıkfil ile mülkünüzü yayınlayın."
+				},
+				"hirer_manual": {
+					"text": "Alıcı Rehberi",
+					"title": "Depozito yok! Profesyonel Çözümler!"
+				},
+				"publish": {
+					"text": "İLAN YAYINLA",
+					"title": "Yeni ilan bildirimleri gönderin para kazanın"
+				},
+				"login": {
+					"text": "Giriş Yap",
+					"title": "Ev bildirmek, satmak, satın almak için giriş yapmalısınız"
+				},
+				"user": {
+					"notifications": {
+						"title": "Bildirimleri görmek için tıklayın"
+					},
+					"messages": {
+						"title": "Mesajları görüntülemek için tıklayın"
+					},
+					"avatar": {
+						"title": "Kullanıcı paneline erişim için menüden seçim yapın"
+					},
+					"links": {
+						"code": {
+							"text": "Destek Kodu",
+							"title": "Sorulduğunda destek için bu kodu vermeniz istenir."
+						},
+						"customer_panel": {
+							"text": "Müşteri Paneli",
+							"title": "Müşteri paneline erişim için tıklayın."
+						},
+						"account": {
+							"text": "Hesabım",
+							"title": "Profil bilgilerinizi görüntülemek için tıklayın."
+						},
+						"estate": {
+							"text": "İlan Yönetimi",
+							"title": "İlanlarızı yönetmek için buraya tıklayın."
+						},
+						"suggest": {
+							"text": "Ev Öner ve Kazan",
+							"title": "Ev önerileri yaparak para kazanmak için tıklayın."
+						},
+						"favorites": {
+							"text": "Favori İlanlar",
+							"title": "Favori ilanlarınızı görüntülemek için tıklayın."
+						},
+						"logout": {
+							"text": "Çıkış Yap",
+							"title": "Çıkış yapmak için burayı tıklayın."
+						}
+					}
+				},
+				"language": {
+					"title": "Dil seçimi için menuden seçim yapınız."
+				}
+			}
+    },
+    "footer":{
+      "text":"Akıllı emlak yardımcınız Satılıkfil, konut satın alma ve satma süreçlerinize yeni nesil bir yaklaşım sunuyor. Daha güvenli, daha kazançlı, daha hızlı dijital emlakçılık! Bize yazın!",
+      "email":"email@satilikfil.com",
+      "career":{
+        "title":"Hakkımızda",
+        "item":"Üyelik Sözleşmesi",
+        "item1":"İnsan Kaynakları",
+        "item2":"İletişim",
+        "item3":"Hizmet Verilen Bölgeler",
+        "item4":"Mahalle başına satış bedeli"
+      },
+      "list":{
+        "title":"7/24 Müşteri Hizmetleri",
+        "text":"Yardım Merkezi",
+        "goal":"Sıkça Sorulan Sorular",
+        "goal1":"Beşinci Kat Hakkında",
+        "goal2":"Beşinci Kat Garantisini Öğrenin",
+        "goal3":"Yardım Merkezi"
+      },
+      "services":{
+        "item1":"Ev Sahibi Rehberi",
+        "item2":"Alıcı Rehberi",
+        "item3":"Kariyer",
+        "item4":"Para Kazan",
+        "item5":"Çözüm Ortaklarımız"
+      },
+      "text1":"© 2019 satilikfil.com Tüm hakları saklıdır.",
+      "contract1":"Gizlilik Politikası",
+      "contract2":"Kullanıcı Sözleşmesi",
+      "contract3":"Mesafeli Satış Sözleşmesi"
+    },
+    "mobile-layout":{
+      "account":{
+        "login":"Hesabına Giriş Yap",
+        "register":"Hesap Oluştur"
+      },
+      "panel":{
+        "title":"Erişim Panelim",
+        "host-guide":"Ev Sahibi Rehberi",
+        "tenant-guide":"Ev Alım Rehberi",
+        "post-ad":"İlan Yayınla",
+        "sss":"Sıkça Sorulan Sorular",
+        "contract1":"Kullanıcı Sözleşmesi",
+        "contract2":"Gizlilik Politikası",
+        "logout":"Çıkış Yap"
+      },
+      "title":"TEKRAR HOŞGELDİN"
+    },
+    "panel-layout":{
+      "dashboard":{
+        "home":"Anasayfa",
+        "profile":"Profil",
+        "my-favorite":"Favorilerim",
+        "gain":"Para Kazan",
+        "my-property":"Mülklerim",
+        "partner": "Partner",
+        "admin": "Call Center",
+        "campaign": "Kampanyalar"
+      },
+      "more":"Daha Fazlası",
+      "available-account":"Mevcut Bakiyeniz",
+      "menu":{
+        "access":"Hızlı Erişim",
+        "pay-rent":"Konut Satışı",
+        "notification":"Bildirimde Bulunma",
+        "contract":"Belgeler",
+        "damage":"Hasarlar",
+        "support":"Destek",
+        "statistic":"İstatistikler",
+        "end-contract":"Tapu Senedi",
+        "visit-home":"Ev Ziyaretlerim"
+      },
+      "button":"Hesabınızı onaylayın ve Satılıkfil fırsatlarından yararlanın!",
+      "button1":"Hesabımı Onayla",
+      "account":{
+        "title":"Hoşgeldiniz,",
+        "button":"Profil Bilgilerimi Görüntüle",
+        "logout":"Çıkış Yap"
+      },
+      "re-account":"Hesaplar Arası Geçiş Yap",
+      "host-page":"Ev Sahibi Hesabı",
+      "notifications":"Bildirimler",
+      "header":{
+        "title1":"Bölgenizde yeni bir ev ilanı yayınlandı!",
+        "title2":"Yeni ilanınız popüler oldu!",
+        "title3":"İlanınız şikayet edildi!"
+      },
+      "inbox":"Gelen Kutunuz"
+    }
+	},
+
+	"data": {
+		"affinity": {
+			"my_neighbor": "Komşum",
+			"owner": "Evin Sahibiyim",
+			"my_relative": "Akrabam",
+			"friend": "Arkadaşım",
+			"no_relation": "Herhangi bir yakınlığım yok"
+		},
+		"suggest": {
+			"status": {
+				"wait": "Onay Bekleniyor",
+				"publish": "Sitede Yayınlandı",
+				"loan": "Ev Tutuldu",
+				"expired": "Süresi Doldu",
+				"noaccept": "Onaylanmadı",
+				"inprogress" : "İşleme Alındı"
+			},
+			"substatus": {
+				"inprogress": "Veriler İşleniyor",
+				"inspecting": "İlan İnceleniyor",
+				"publish": "İlan Yayında",
+				"perc10": "İlk Satışın %10",
+				"total": "Toplam Kazancınız",
+				"noaccept": "Onay Alınamadı",
+				"notreachable": "Telefona ulaşılamadı"
+			},
+			"localstatus": {
+				"wait": "İşlem Bekleniyor",
+				"appointed": "Fotoğrafçı Atandı",
+				"photowait": "Fotoğraf Yüklemesi Bekleniyor",
+				"upload": "Fotoğraflar Yüklendi",
+				"publish": "Sitede Yayınlandı"
+			},
+			"photostatus": {
+				"wait": "Fotoğraf Yüklemesi Bekleniyor",
+				"upload": "Fotoğraflar Yüklendi"
+			}
+		}
+	},
+
+  "core": {
+    "forms": {
+      "common":{
+        "price-area":"Fiyat ve m2 Bilgileri",
+        "square-meter":"Metrekare",
+        "net-meter":"Net Metrekare",
+        "price":"Fiyat",
+        "exchange-rate":"Döviz Kuru"
+      },
+      "income-form":{
+        "header":"GELİRLERİNİZ HAKKINDA KISA BİLGİLENDİRME YAPIN",
+        "title":"GELİRLERİNİZ HAKKINDA",
+        "text":"Lütfen Ekstra Gelirinizi Kanıtlayacak Dosyaları Ekleyin!",
+        "text1":"YALNIZCA .JPG .PNG UZANTILI DOSYALAR KABUL EDİLİR.",
+        "update":"BİLGİLERİMİ GÜNCELLE"
+      },
+      "property-edit-form":{
+        "title":"İlan Bilgileri",
+        "text":"Bildireceğiniz konut ile ilgili bilgilerle aşağıdaki formu doldurabilirsiniz.",
+        "properties":{
+          "title":"İlan Özellikleri",
+          "property1":"Öne Çıkarılmış İlan",
+          "property2":"Vitrin İlanı"
+        },
+        "advertisement-title":"İlan Başlığı",
+        "help":"Yardım",
+        "add-advertisement":"İlan Başlığı Yazın",
+        "address":"Adres Bilgisi",
+        "advertisement-description":"İlan Açıklaması",
+        "add-advertisement1":"İlan açıklamanızı yazın",
+        "home-facility":"Ev Olanakları",
+        "locked":"Bu Alan Kilitli",
+        "home-property":"Evin Özellikleri",
+        "save":"Kaydet"
+      },
+      "suggest-form": {
+        "header": {
+          "title": "Bize Satılık Konut Bildirin",
+          "p": "Gerisini biz halledelim!"
+        },
+        "notification":"Uyarı",
+        "text":" Telefon numaranızı onaylatmadan satılık önerisinde bulunamazsınız.",
+        "button":"Buraya tıklayarak",
+        "button1":"telefonunuzu onaylayın.",
+        "field": {
+          "affinity": {
+            "placeholder": "Ev sahibi neyiniz oluyor ?",
+            "default": "Ev sahibi neyiniz oluyor ?"
+          },
+          "host":{
+            "code":"Kodu",
+            "num":"+90",
+            "num1":"+91",
+            "phone-number":"Ev Sahibi Telefon Numarası"
+          },
+          "owner": {
+            "placeholder": "Ev Sahibi Adı Soyadı"
+          },
+          "address": {
+            "placeholder": "Ev Sahibi Adresi"
+          }
+        },
+
+        "submit": {
+          "text": "Ev Önerisinde Bulun",
+          "title": "Yeni bir ev önerisinde bulunmak için burayı tıklayın"
+        },
+
+        "success": {
+          "title": "Bildiriniz iletilmiştir.",
+          "p1": "İlan bilgileriniz incelendikten sonra ilerleme durumunu listeden takip edebilirsiniz.",
+          "p2": "Bildirimde bulunduğunuz için teşekkür ederiz.",
+          "button": {
+            "text": "Başka Bildirimde Bulun",
+            "title": "Yeni ilan bildirimlerinde bulunmak için burayı tıklayın"
+          }
+        }
+      },
+      "suggestion-edit-form":{
+        "header":{
+          "title":"Ev Sahibi Bilgileri",
+          "text":"Emlak sahibi ve iletişim bilgileri. Emlak durumunu doğrulayın ve Ev sahibinin üyeliği yoksa üyeliğe yönlendirin."
+        },
+        "notification":"Uyarı",
+        "text":"Bu satılık bilgileri ile satılıkfil.com ekipleri tarafından işlem başlatıldığı için artık bir değişiklik yapamazsınız. Ancak yine de aşağıdaki not girişi alanını kullanarak bize yazabilirsiniz.",
+        "owner":{
+          "name":"Adı & Soyadı",
+          "phone-number":"Telefon Numarası"
+        },
+        "notification1":"Kullanıcı Oluşturma Hatası",
+        "property-owner":"Emlak sahibinin telefonu ile üyelini başlat.",
+        "explanation":"Bu telefon",
+        "explanation1":"ismi ile kayıtlı.",
+        "button":"Ev sahibinin adını buraya tıklayarak güncelleyebilirsiniz.",
+        
+        "property-info":{
+          "address-info":"Emlak Adres Bilgileri",
+          "confirm":"Emlak sahibinden evin durumunu teyid ettikten sonra adres bilgilerini doğrulayınız.",
+          "address":"Emlak Adresi"
+        },
+        "title":"Bu alan Satılıkfil ekipleri tarafından doğrulanmıştır.",
+        "location":"Konumumu harita üzerinden seçmek istiyorum",
+        "notification2":"Adres Hatalı",
+        "update":"Emlak Bilgilerini Güncelle",
+        "notes":"Notlar",
+        "text1":"İlan hakkında paylaşmak istediğiniz görüşlerinizi aşağıda yer alan boşluğu doldurarak yayınlayabilirsiniz.",
+        "add-note":"İlan için bir not yazın",
+        "customer-note":"Müşteri için bir not yazın",
+        "help":"Yardım"
+      }
+    },
+    "modules":{
+      "card-item":{
+        "header":"ÖNE ÇIKAN İLAN",
+        "header2":"FİRMA İLANI",
+        "meter":"m",
+        "apartment":"Daire",
+        "rental":"Satılık",
+        "total":"Toplam",
+        "start-visit":"Ziyaret Başlat"
+      },
+      "expandable":{
+        "header":"ÖNE ÇIKAN İLAN",
+        "month":"aylık",
+        "photo":"Fotoğraf",
+        "room":"Oda",
+        "saloon":"Salon",
+        "bath":"Banyo"
+      },
+      "file-uploader":{
+        "title":"Profil Fotoğrafı Yükleyin",
+        "text":"YALNIZCA .JPG .PNG UZANTILI DOSYALAR KABUL EDİLİR.",
+        "button":"x"
+      },
+      "like-button":{
+        "button":"Favorilere Ekle",
+        "button1":"Favori Listenizde"
+      },
+      "property-filter-panel":{
+        "close":"Kapat",
+        "count-adv":"adet ilan bulundu.",
+        "clean-filter":"Filtreyi Temizle",
+        "property":{
+          "price":"Fiyat",
+          "min":"Minimum",
+          "max":"Maksimum",
+          "tl":"TL",
+          "meter":"m2",
+          "area":"ALAN"
+        },
+        "label":"Farketmez",
+        "homepage":"Anasayfa",
+        "order":{
+          "state":"En Alakalı",
+          "state1":"Fiyata Göre Azalan",
+          "state2":"Fiyata Göre Artan"
+        },
+        "button":"Filtrele",
+        "popular":"Popüler Seçimleri",
+        "text":"Bizim tarafımızdan",
+        "text1":"seçilen emlaklar.",
+        "button1":"Görüntüle",
+        "empty": "Aradığınız bölgeye ya da kriterlere göre ilan bulunamadı"
+      },
+      "uploader-modal":{
+        "button":"Vazgeç",
+        "button1":"Gönder"
+      },
+      "photo-browser": {
+        "close": "Kapat"
+      }
+    }
+  },
+
+  "modules": {
+    "common":{
+      "mobile":{
+        "title":"Satılıkfil",
+        "title1":"Cebinde!",
+        "statement":"Hala Mobil Uygulamamızı İndirmedin Mi?",
+        "statement1":"Hemen Satılıkfil mobil uygulamasını ücretsiz olarak indir, evinle ilgili tüm satış sürecini telefonundan takip et. Üstelik en güncel promosyonlardan da önce sen haberdar olacaksın!",
+        "text":"Uygulamayı İndir",
+        "appstore":"App Store",
+        "playstore":"Play Store"
+      }
+    },
+    "home": {
+      "home-mobile":{
+        "text":"Satılıkfil işinizi kolaylaştırır!",
+        "text1":"Evi görmek isterseniz ücretsiz bir şekilde profesyonel danışmanımız size eşlik edecektir.",
+        "options":{
+          "city":"ŞEHİR",
+          "neighborhood":"SEMT",
+          "budget":"BÜTÇE",
+          "room":"ODA SAYISI",
+          "button":"SORGULA"
+        }
+      },
+      "header": {
+        "title": "Yeni Nesil Dijital Emlakçılık Anlayışıyla Tanışın!",
+        "sub1": "Satılıkfil ",
+        "sub2": "Evinizi Daha Hızlı, Daha Güvenli ve Değerinde Satar!"
+      },
+      "buttons": {
+        "top-city": {
+          "title": "Şehir"
+        },
+        "top-neighboorhood": {
+          "title": "Semt"
+        },
+        "price": {
+          "text": "Bütçe"
+        },
+        "bed-info": {
+          "text": "Oda Sayısı"
+        },
+        "text": "SORGULA"
+      },
+      "host": {
+        "text": "Ev Sahipleri İçin",
+        "statement": "Değerinde satış garantisi",
+        "statement1": "Satılmayan her ay için kira getirisi",
+        "statement2": "Kapsamlı satış süreci yöntemi"
+      },
+      "extra-info-host": {
+        "text": "Evimi Sat"
+      },
+      "renter": {
+        "text": "Alıcılar İçin",
+        "statement": "Seçkin gayrimenkul portföyü",
+        "statement1": "Her zaman değerinde fiyat",
+        "statement2": "Güvenilir ve şeffaf satış süreci"
+      },
+      "extra-info-rent": {
+        "text": "Ev Bul"
+      },
+      "advertisement": {
+        "title": "Satılıkfil’de En Yeni İlanlar!",
+        "text": "Satılıkfil bu hafta da çok sayıda yeni ilanı size getirdi.",
+        "text-1":"Gelişmiş filtreleme seçenekleri ile hemen hayalinizdeki konutu bulun!",
+        "more": "Daha Fazla Bilgi Al"
+      },
+      "advantages": {
+        "title": "Neden Satılıkfil?",
+        "text": "Türkiye’deki İlk Dijital Emlakçılık Sisteminin Avantajlarını Keşfedin!",
+        "button1": "Evimi Satmak İstiyorum",
+        "button2": "Ev Satın Almak İstiyorum",
+        "title1": "Hızlı Satarız!",
+        "text1": "Kendimize güveniyoruz! Mülkünüzü bildirin, evinizi listeleyelim! Geniş yatırımcı ve müşteri portförüyümüzle evinizi tam değerine en hızlı şekilde satacağız!",
+        "title2": "Garanti Veririz!",
+        "text2": "Profesyonellerden oluşan ekibimiz evinizi satamazsa, satışın gerçekleşmediği her ay için size kira öderiz! Üstelik siz evinizde yaşarken bile!",
+        "title3": "Şeffaf Çalışırız!",
+        "text3": "Satılıkfil mobil uygulaması üzerinden evinizin satışı ile ilgili gerçekleşen her süreci izleyin. Kolay ve kullanışlı satıcı panelini çok seveceksiniz!",
+        "text4": "Şimdi Keşfedin"
+      },
+      "advantages-rental":{
+        "title1":"Dürüst Satarız!",
+        "text1":"Satılıkfil’de gördüğünüz her ilan görüntüsü profesyonel fotoğrafçılar tarafından çekilir. İlanı yalnızca Satılıkfil düzenler. Güvenliğiniz garanti altında!",
+        "title2":"Değerinde Satarız!",
+        "text2":"Apartman alırken villa ödeme devrine son veriyoruz! Dijital emlak çözümünüz Satılıkfil, konutların değerini ekspertizler ile belirler!",
+        "title3":"Çok Satarız!",
+        "text3":"Ekibimiz her yıl yüzlerce evin satışını gerçekleştiriyor. En büyük sırrımız zengin gayrimenkul portföyümüz. Aradığınız evi ancak Satılıkfil bulur!"
+      },
+      "solution": {
+        "title": "Ev Sahipleri İçin Satılıkfil Çözümleri",
+        "text": "Satılıkfil, evinizi öne çıkarmak için dijital",
+        "text1": "dünyanın tüm olanaklarından",
+        "text2": "yararlanır!",
+        "statement": "Çeşitli dijital reklam modellerini kullanarak listemizdeki konutları öne çıkarıyor ve her zaman daha fazlasına hitap ediyoruz. Üstelik hiçbir ek ücret talep etmeden! Satılıkfil’de eviniz bu yüzden hızlı satılır! Yeniliğe hazır mısınız?",
+        "text3": "Şimdi Keşfet"
+      },
+      "nest": {
+        "title": "SATILIKFİL GÜVEN VERİR",
+        "text": "Evinizin Değeri,",
+        "text1": "Satılıkfil'de!",
+        "text2": "Dijital Dünyayı Keşfet!",
+        "statement": "Satılıkfil sadece gerçek alıcılara evinizi gezdirir. Anahtarınızı teslim aldığımız andan itibaren eviniz bizimle güvende! Çıkmaz ama, yine de söyleyelim, ev gezdirme süreçlerinde ortaya çıkacak herhangi bir hasarın tamamını biz karşılıyoruz. Satılıkfil profesyonel bir partner ile çalıştığınızı hissettirir. Size ise sadece bulunduğunuz yerden telefonunuzu kullanarak süreci takip etmek kalır!",
+        "text3": "Şimdi Evimi Sat!"
+      },
+      "list-inf": {
+        "title": "Binlerce Satılıkfil Ziyaretçisi Ev Bakıyor!",
+        "text": "Evinizi Hemen Listeleyin!",
+        "statement": "Modern ve dijital emlakçılık, inovatif çözümleri ile şimdi bir tık uzağınızda! Hemen Satılıkfil’e üye olun ve mülk bildirimi yapın.",
+        "statement1": "Siz arkanıza yaslanın ve bizden telefon bekleyin! İlan fotoğraf çekiminden yayınlama sürecine kadar her adımı biz halledeceğiz. ",
+        "text1": "Mülkünüzü Listeleyin"
+      },
+      "cities": {
+        "title": "Satılıkfil 29 ŞEHİRDE", 
+        "text": "Sen Neredeysen Satılıkfil Orada!",
+        "statement": "Satılıkfil sana en yakın alıcıları bulmak için kentine geldi. 29 şehirde, her yerdeyiz. Yakında 81 ilde!"
+      },
+      "component-cities": {
+        "text": "Şimdi Keşfet"
+      }
+    },
+    "auth": {
+      "forms": {
+        "enter-password-form": {
+          "title": "Değişiklikleri yapabilmeniz için uygulamaya giriş şifrenizi onaylamalısınız.",
+          "passform": {
+            "provider": "Hesap Giriş Yönetminizi Seçiniz",
+            "password": "Şifre"
+          },
+          "button1": "Vazgeç",
+          "button2": "Onayla"
+        },
+        "login-form": {
+          "text": "Giriş yapılamadı",
+          "text1": "E-POSTA YA DA TELEFON",
+          "loginPsw": "ŞİFRE",
+          "lostPsw": "Şifreni mi unuttun?",
+          "button1": "Giriş Yap",
+          "button2": "Yeni Hesap Oluştur",
+          "social-buttons": "SOSYAL MEDYA HESABINLA GİRİŞ YAP"
+        },
+        "reset-password-form": {
+          "title": "Şifre işlemleri",
+          "resetForm": {
+            "text": "E-POSTA ADRESİNİZ"
+          }
+        },
+        "sms-validator-form": {
+          "text": "6 haneli doğrulama kodunu girin",
+          "text1": "Telefon numarana gönderdiğimiz",
+          "text2": "kodu girmen gerekiyor.",
+          "notification": {
+            "text3": "Sms kodu doğrulanamadı, lütfen tekrar deneyin.",
+            "text4": "SMS Gelmedi mi ? ",
+            "text5": "Yeni Bir SMS İsteyin"
+          },
+          "button": {
+            "text1": "Vazgeç",
+            "text2": "Doğrula"
+          }
+        }
+      },
+      "login": {
+        "title": "Evini satmanın",
+        "title1": "kolay",
+        "title2": "yoluyla hemen tanış!",
+        "text": "Hemen kayıt ol, mülkünü listele, dijital emlakçılık olanaklarından faydalan!",
+        "text1": "100 $",
+        "text2": "artı ilk kiranın",
+        "text3": "% 10",
+        "text4": "'unu kazanın",
+        "button": "Hesap Oluştur",
+        "button1": "Giriş Yap",
+        "text5": "Tekrar Hoşgeldiniz!"
+      },
+      "mobile": {
+        "m-login": {
+          "title": "HOŞGELDİNİZ",
+          "button": "Hesabınıza Giriş Yapın",
+          "loginForm": {
+            "text": "E-Posta - yada - Telefon",
+            "text1": "ŞİFRE",
+            "text2": "Telefon numarası ile giriş için şifreye gerek yoktur.",
+            "text3": "Sms kodu ile onaylayın"
+          },
+          "doLogin": {
+            "title": "HESABINA GİRİŞ YAP",
+            "button": "Şifreni mi unuttun?",
+            "text": "Henüz hesabınız yok mu?",
+            "button1": "Hesap oluşturun"
+          }
+        }
+      },
+      "modal": {
+        "login-modal": {
+          "button": "Vazgeç",
+          "button1": "Giriş Yap"
+        },
+        "reset-modal": {
+          "button": "Vazgeç",
+          "button1": "Şifremi Sıfırla"
+        }
+      },
+      "register": {
+        "kvkk-modal": {
+          "text": "Duis eleifend, metus vel viverra pellentesque, ipsum nulla convallis massa, non ornare lacus risus in velit. Vestibulum sodales lobortis eros nec convallis. Nullam non ante iaculis, fringilla nunc vitae, lacinia lectus. Quisque auctor nisl a tortor rutrum ornare. uis scelerisque ipsum vitae tellus dignissim ultricies. Donec ornare urna eu lorem mollis congue. Duis ut nulla luctus, commodo tellus sit amet, vulputate purus. Morbi imperdiet nunc at ornare placerat. Cras ultrices congue velit quis fringilla. Donec eget tristique magna, vitae faucibus nunc. Vestibulum ante ipsum primis in faucibus orci luctus et, ultrices posuere cubilia Curae; Vestibulum lacinia, mi nec feugiat posuere, tortor arcu feugiat metus, non pretium turpis est consectetur magna. Vestibulum et neque consequat, accumsan nulla non, lobortis lacus. Pellentesque elementum nibh nulla, in faucibus urna eleifend et. Ut pulvinar dictum tortor ac gravida. Donec eu venenatis risus, nec dignissim urna.",
+          "button": "Kabul Ediyorum",
+          "button1": "Vazgeç"
+        },
+        "tcno-modal": {
+          "text": "Duis eleifend, metus vel viverra pellentesque, ipsum nulla convallis massa, non ornare lacus risus in velit. Vestibulum sodales lobortis eros nec convallis. Nullam non ante iaculis, fringilla nunc vitae, lacinia lectus. Quisque auctor nisl a tortor rutrum ornare. uis scelerisque ipsum vitae tellus dignissim ultricies. Donec ornare urna eu lorem mollis congue. Duis ut nulla luctus, commodo tellus sit amet, vulputate purus. Morbi imperdiet nunc at ornare placerat. Cras ultrices congue velit quis fringilla. Donec eget tristique magna, vitae faucibus nunc. Vestibulum ante ipsum primis in faucibus orci luctus et, ultrices posuere cubilia Curae; Vestibulum lacinia, mi nec feugiat posuere, tortor arcu feugiat metus, non pretium turpis est consectetur magna. Vestibulum et neque consequat, accumsan nulla non, lobortis lacus. Pellentesque elementum nibh nulla, in faucibus urna eleifend et. Ut pulvinar dictum tortor ac gravida. Donec eu venenatis risus, nec dignissim urna.",
+          "button": "Kapat"
+        },
+        "title": "Zaten bir",
+        "title1": "Hesabınız",
+        "title2": "var mı?",
+        "text": "Süper! Hemen giriş yapın, dijital serüvenimize kaldığımız yerden devam edelim!",
+        "button": "Hemen Giriş Yapın",
+        "create": {
+          "new-account": "Hesap Oluştur",
+          "text": "Satılıkfil Ailesi Heyecanla Seni Bekliyor!",
+          "tc-info": "T.C Kimlik bilgileriniz",
+          "text1": "Randevu alırken bu bilgiye ihtiyacımız var.",
+          "text2": "Dilerseniz bu adımı atlayabilirsiniz.",
+          "text3": "Son bir adım kaldı!",
+          "text4": "Üyelik bitiminde hemen randevu işlemlerine başlayabilirsiniz.",
+          "title2": "6 haneli doğrulama kodunu girin",
+          "text5": "Telefon numaranıza altı haneli bir",
+          "text6": "doğrulama kodu gönderdik!"
+        },
+        "userForm": {
+          "name": "ADINIZ",
+          "surname": "SOYADINIZ",
+          "e-mail": "E-POSTA",
+          "password": "Şifre",
+          "password1": "Şifre Tekrarı",
+          "text": "Şifreler aynı değil.",
+          "kvkk": "KVKK",
+          "kvkk1": "sözleşmesini okudum ve kabul ettim.",
+          "kvkk2": "Üyelik için KVKK Sözleşmesini onaylamalısınız.",
+          "text2": "E-Posta adresi zaten kayıtlı, Üyelik işlemleri yerine",
+          "button": "Giriş yapmak",
+          "text3": "ister misiniz?",
+          "next": "Sonraki Adım",
+          "num": "02/03",
+          "text10": "Telefon numarası zaten kayıtlı, Üyelik işlemleri yerine"
+        },
+        "userInfo": {
+          "name": "ADINIZ",
+          "surname": "SOYADI",
+          "tc-info": "T.C. Kimlik Numarası",
+          "year": "Doğum Yılınız",
+          "text4": "T.C. Kimlik numaramı neden veriyorum?",
+          "text5": "Bu adımı şimdilik geçmek istiyorum!",
+          "text6": "T.C. Kimlik numarası doğrulanamadı, lütfen bilgileri kontrol edip tekrar deneyin.",
+          "text7": "Sonraki Adım",
+          "num": "02/03",
+          "city": "Şehir",
+          "city1": "Şehir",
+          "text9": "KOD",
+          "text9-1": "+90",
+          "text9-2": "+91",
+          "phone": "TELEFON NUMARANIZ",
+          "text11": "Bu adımı şimdilik geçmek istiyorum!",
+          "text12": "Bu adımı geç ve üyeliğimi tamamla.",
+          "num1": "03/03"
+        },
+        "confirm": {
+          "sms": "SMS Gelmedi mi ?",
+          "new-sms": "Yeni Bir SMS İsteyin"
+        },
+        "regist": {
+          "text": "Hemen Kayıt Ol",
+          "text1": "YA DA"
+        }
+      }
+    },
+    "detail":{
+      "common":{
+        "view":"360° Görüntüle",
+        "text1":"Evi beğendiniz mi? Hemen ziyaret randevusu oluşturun ve evi gezin. Detayları sonra konuşalım!",
+        "text2":"Bu ev için zaten ziyaret isteğinde bulunmuşsunuz, size henüz bir tarih belirtilmedi ise çözüm ortağımız ile iletişime geçmek için",
+        "text3":"burayı tıklayın.",
+        "text4":"Çözüm ortağımıza belirlediğin zaman dilimi için ziyaret isteğiniz gönderildi, uygun tarih ve saat için sizinle temasa geçilecektir, teşekkür ederiz.",
+        "text5":"Randevu talebini oluştururken bir hata ile karşılaştık bu durumdan dolayı özür dileriz, lütfen en kısa zamanda tekrar deneyin.",
+        "text6":"Telefon numaranızı doğrulamadan randevu talebinde bulunamazsınız.",
+        "text6-1":"Telefon numaranızı doğrulamak için tıklayın",
+        "text7":"T.C Kimlik numarası",
+        "text7-1":"belirtirseniz evi satın alma potansiyelinizi artırabilir. T.C kimlik numaranız yoksa",
+        "text7-2":"gelirlerinizi belgelemenizi",
+        "text7-3":"tavsiye ederiz.",
+        "text8":"Gelirlerinizi belirtmeniz evi satın alma potansiyelinizi arttırabilir.",
+        "text8-1":"Gelirlerinizi belgelemenizi",
+        "request":{
+          "button1":"Kendinize uygun zaman aralığı seçin",
+          "button2":"En geç yarına kadar",
+          "button3":"Hafta içi öğleden önce",
+          "button4":"Hafta içi öğleden sonra",
+          "button5":"Hafta sonu öğleden önce",
+          "button6":"Hafta sonu öğleden sonra"
+        }
+      },
+      "detail-mobile":{
+        "component":{
+          "title":"İlan Fiyatı",
+          "title1":"İlan Detayları",
+          "title2":"İlan Açıklaması",
+          "title3":"Evin Olanakları",
+          "title4":"Evi Keşfet",
+          "title5":"Evin Özellikleri",
+          "title6":"Haritada Gör"
+        },
+        "image":{
+          "text":"Fotoğraf"
+        },
+        "rental":{
+          "title":"Evin Bedeli",
+          "text":"Satılık Fiyatı",
+          "request":{
+            "button":"Çevrimiçi Ziyaret Programı Oluştur"
+          }
+        },
+        "ad-detail":{
+          "title":"İlan Detayları",
+          "text":"İlan Numarası",
+          "text1":"Alan"
+        },
+        "ad-exp":{
+          "title":"İlan Açıklaması"
+        },
+        "environment":{
+          "title":"Evi oda oda keşfetmeye hazır mısınız?",
+          "button":"Fotoğrafın Tümünü Görüntüle",
+          "button1":"Görsellere Göz Atın!"        
+        },
+        "home-env":{
+          "title":"Evin Özelliklerine Yakından Göz Atın!",
+          "text":"Aşağıda konutla ilgili detay bilgilerin bulunduğu tabloyu inceleyebilirsiniz.",
+          "title1":"Evin Konumuna Yakından Göz Atın!",
+          "text1":"Satın almayı planladığınız konut tam olarak nerede? Sizin için evin harita üzerindeki konumunu hazırladık."
+        }
+      },
+      "button":"Paylaş",
+      "image":"Fotoğraf",
+      "menu":{
+        "title":"İlan Detayları",
+        "title1":"İlan Açıklama",
+        "title2":"Evin Olanakları",
+        "title3":"Evi Keşfet",
+        "title4":"Evi Daha Yakından Tanı",
+        "title5":"Ev Nerede?"
+      },
+      "container":{
+        "text":"İlan Numarası",
+        "text1":"Alan",
+        "text2":"İlan Tarihi",
+        "text3":"Net Metrekare",
+        "text4":"Satılık Fiyatı",
+        "text5":"Aidat",
+        "text6":"Toplam Fiyat"
+      },
+      "request":{
+        "text":"Ziyaret Randevusu Oluştur"
+      },
+      "sections":{
+        "explain":"İLAN DETAYLARI",
+        "facility":"EVİN OLANAKLARI",
+        "details":"EVİ KEŞFET",
+        "explore":"Evi oda oda keşfetmeye hazır mısınız?",
+        "meet":"EVİ DAHA YAKINDAN TANIYIN",
+        "view-detail":"Hemen detaylara göz atın!",
+        "text":"Aşağıda konutla ilgili detay bilgilerin bulunduğu tabloyu inceleyebilirsiniz. Konutun cephesi, iç özellikleri ve bulunduğu muhit dolayısıyla sunduğu fırsatları kolayca gözden geçirdikten sonra bizimle iletişime geçerek hemen bir randevu oluşturun. ",
+        "map":"HARİTADA GÖR",
+        "view":"Evin Konumuna Yakından Göz Atın!",
+        "text1":"Satın almayı planladığınız konut tam olarak nerede? Sizin için evin harita üzerindeki konumunu hazırladık. Konutun bulunduğu sokağı, çevresindeki yapıları inceleyin. Daha detaylı bilgi edinmek için hemen online olarak randevu oluşturun."
+      },
+      "button2":"Fotoğrafın Tümünü Görüntüle",
+      "button3":"Görsellere Göz Atın!",
+      "solutions":{
+        "header":"Satılıkfil Çözüm Sunar!",
+        "header1":"Bu mülkü satın almak için neye ihtiyacınız var?",
+        "item1":"Uygun bütçe",
+        "text1":"Satılıkfil yüzlerce farklı konut seçeneği ile bütçenize uygun gayrimenkul seçenekleri sunar. Konut bütçenize uygun mu? O halde devam edelim!",
+        "item2":"Randevu ",
+        "text2":"Konutu satın almadan önce detaylı olarak gezin ve yakından inceleyin. Hemen bir randevu ayarlayın.",
+        "item3":"Tapu İşlemleri",
+        "text3":"Satılıkfil ile iletişime geçin ve tapu işlemlerini adım adım en güvenli şekilde gerçekleştirin.",
+
+        "header2":"Konut Satın Almak İçin Neden Satılıkfil?",
+        "item5":"Satılıkfil Randevu Sistemi Sunar",
+        "text5":"Satın almak istediğiniz konutu gezmek için randevu oluşturun ve zamandan kazanın.",
+        "item6":"Satılıkfil Güvence Sunar",
+        "text6":"Konutunuzla ilgili herhangi bir problemde Satılıkfil güvencesi eşliğinde ev sahibi ile iletişime geçin.",
+        "item7":"Satılıkfil Seçenek Sunar",
+        "text7":"Aradığınız konumda, aradığınız özelliklere sahip yüzlerce farklı konut seçeneği tek bir platformda.",
+        "button":"Daha Fazlasını Keşfedin"
+      },
+      "advertisement":{
+        "title":"Satılıkfil’de En Yeni İlanlar!",
+        "filter":"Satılıkfil bu hafta da çok sayıda yeni ilanı size getirdi.",
+        "filter-1":"Gelişmiş filtreleme seçenekleri ile hemen hayalinizdeki konutu bulun!",
+        "more":"Daha Fazla Bilgi Al"
+      }
+    },
+    "static":{
+      "career":{
+        "common":{
+          "part":{
+            "title":"Satılıkfil",
+            "title1":"Ailesi ile Dijital Emlakçılık Serüvenine Katıl!",
+            "text":"Yeniliklere açık, dijital dünyayı yakından tanıyan ve Satılıkfil kullanıcılarına gerçek ‘’akıllı emlakçılık’’ deneyimini sunabilecek çalışma arkadaşları ile tanışmaya hazırız! CV’ni görmek için sabırsızlanıyoruz!"
+          },
+          "cv":{ 
+            "title":"Satılıkfil CV’ni Bekliyor!",
+            "title1":"Tanışalım!",
+            "form":{
+             "text":"Ad Soyad",
+              "text1":"Kodu",
+              "text2":"+90",
+              "text3":"+91",
+              "text4":"Telefon Numarası",
+              "text5":"E-POSTA",
+              "button":"Şehir Seçiniz",
+              "opt":"İstanbul",
+              "opt1":"Ankara",
+              "opt2":"İzmir",
+              "button1":"Pozisyon Seçiniz",
+              "text6":"CV Yükleyin",
+              "text7":"YALNIZCA .PDF UZANTILI DOSYALAR KABUL EDİLİR.",
+              "text8":"Mesajınız",
+              "button2":"CV Gönder"
+            }
+          }
+        },
+        "career-mobile":{
+          "main":{
+            "title":"Neden Satılıkfil?",
+            "title1":"Açık Pozisyonlar",
+            "title2":"CV Gönder"
+          },
+          "section":{
+            "title":"Gayrimenkul Danışmanı",
+            "text":"İletişim becerisine ve sektör tecrübesine güvenen gayrimenkul danışmanı çalışma arkadaşlarıyla tanışmaya hazırız.",
+            "title1":"Call Center",
+            "text1":"Müşteri ilişkilerinde her zaman ilgili, sabırlı ve nazik olmaya hazır çalışma arkadaşları arıyoruz.",
+            "title2":"Fotoğrafçı",
+            "text2":"Satılıkfil kullanıcılarını etkileyecek gerçekçi, profesyonel ve modern konut fotoğraflarını çekebilecek çalışma arkadaşları arıyoruz.",
+            "title3":"Tanıtım, Marka İletişim",
+            "text3":"Pazarlamayı marka gücü ile birleştirebilecek yaratıcı çalışanlara her zaman ihtiyacımız var!",
+            "title4":"Angular Developer",
+            "text4":"Satılıkfil’i kullanıcı dostu bir anlayışla birlikte büyütüp geliştireceğimiz çalışma arkadaşlarıyla tanışmaya hazırız.",
+            "title5":"Backend Developer",
+            "text5":"Daha modern ve profesyonel bir Satılıkfil, güçlü Backend Developer’lar ile mümkün!"
+          }
+        },
+        "title":"Açık Pozisyonları Gör",
+        "title1":"Satılıkfil İle Her Zaman Genç ve Dinamik Çalışma Ortamı",
+        "title2":"Neden",
+        "title3":"Satılıkfil?",
+        "text":"Satılıkfil olarak bizler, heyecanlı, genç ve her zaman yenilikleri kovalayan büyük bir ekibiz! Müşterilerimizin ev satma ve satın alma serüvenlerinde onlara her geçen gün daha inovatif hale gelen dijital emlakçılık çözümlerini sunmayı seviyoruz! Senin de bu heyecanlı ekipte tüm potansiyelini ortaya çıkaracağından eminiz. Hemen bizimle iletişime geç, tanışalım!",
+        "button":"Satılıkfil’e CV İlet",
+        "title4":"Satılıkfil’de Yeniliklere Hazır Mısın?",
+        "title5":"Hemen Uygun Pozisyonları Keşfet!",
+        "title6":"Sunduğumuz hizmetlerimiz hakkında bilgi edinin!",
+        "section":{
+          "title":"Gayrimenkul Danışmanı",
+          "text":"İletişim becerisine ve sektör tecrübesine güvenen gayrimenkul danışmanı çalışma arkadaşlarıyla tanışmaya hazırız.",
+          "button":"Hemen Başvur",
+          "title1":"Call Center",
+          "text1":"Müşteri ilişkilerinde her zaman ilgili, sabırlı ve nazik olmaya hazır çalışma arkadaşları arıyoruz.",
+          "title2":"Fotoğrafçı",
+          "text2":"Satılıkfil kullanıcılarını etkileyecek gerçekçi, profesyonel ve modern konut fotoğraflarını çekebilecek çalışma arkadaşları arıyoruz.",
+          "title3":"Tanıtım, Marka İletişim",
+          "text3":"Pazarlamayı marka gücü ile birleştirebilecek yaratıcı çalışanlara her zaman ihtiyacımız var!",
+          "title4":"Angular Developer",
+          "text4":"Satılıkfil’i kullanıcı dostu bir anlayışla birlikte büyütüp geliştireceğimiz çalışma arkadaşlarıyla tanışmaya hazırız.",
+          "title5":"Backend Developer",
+          "text5":"Daha modern ve profesyonel bir Satılıkfil, güçlü Backend Developer’lar ile mümkün!"
+        },
+        "title7":"Bizimle Tanış!",
+        "title8":"Satılıkfil’le Kariyerine Ayrıcalık Kat!",
+        "text1":"Ekibimizde maksimum motivasyon ve çalışma azmini önemsiyoruz. Bu yüzden çalışma arkadaşlarımız arasında uyguladığımız çok sayıda performans ödüllendirme yöntemlerine sahibiz. İş yaşamında dinamizmi, artan yetkinliği ve yükselen performansla elde edilen ayrıcalıkları sevenler için Satılıkfil doğru bir kariyer adresi. Hemen CV’ni gönder, inceleyelim. En kısa sürede dönüş yapacağız!",
+        "text2":"Adı & Soyadı",
+        "text3":"KOD",
+        "text4":"TELEFON NUMARASI",
+        "text5":"E-POSTA"
+      },
+      "earn":{
+        "earn-mobile":{
+          "title":"Nedir?",
+          "title1":"Nasıl Çalışır?",
+          "title2":"Ödeme Alın",
+          "title3":"Çözümlerimiz",
+          "part1":{
+            "text":"Satılık",
+            "text2":"mülklere",
+            "text3":"başvurarak",
+            "text4":"para kazanın",
+            "text5":"Satılıkfil için mülklere bakın ve yayınlanan emlak başına 500₺'e kadar kazanın.",
+            "text6":"Çevrenizde evini satmak isteyen ev sahipleri mi var? Bizi tanıştırın, onların evini en karlı şekilde satarken size de para kazandıralım!",
+            "button":"Mülk Belirtmek İstiyorum"
+          },
+          "part2":{
+            "text":"Satılıkfil ile",
+            "text1":"Para Kazanmak Çok Kolay!",
+            "text2":"Çevrenizde evini satmak isteyen ev sahiplerini bize bildirin.",
+            "text3":"Mülk ilan edildiğinde yayınlanan emlak başına 500₺'e kadar kazanın.",
+            "text4":"Kazandığınız paranın keyfini yaşayın!",
+            "title":"Bir Sorunuz Mu Var?",
+            "text9":"Bize ulaşın 0850 307 0 345"
+          },
+          "part3":{
+            "text":"Banka hesabınıza",
+            "text0":"ödeme alın!",
+            "text1":"Sonuçlarınızı ve ayda ne kadar kazanacağınızı izlersiniz. Kazançlarınız her",
+            "text2":"15 günde bir",
+            "text3":"doğrudan hesabınıza yatırılır ."
+          },
+          "day":"PZT",
+          "day1":"SAL",
+          "day2":"ÇAR",
+          "day3":"PER",
+          "day4":"CUM",
+          "day5":"CTS",
+          "day6":"PAZ",
+          "num":"01",
+          "num1":"02",
+          "num2":"03",
+          "num3":"04",
+          "num4":"05",
+          "num5":"06",
+          "num6":"07",
+          "num7":"08",
+          "num8":"09",
+          "num9":"10",
+          "num10":"11",
+          "num11":"12",
+          "num12":"13",
+          "num13":"14",
+          "num14":"15",
+          "num15":"16",
+          "num16":"17",
+          "num17":"18",
+          "num18":"19",
+          "num19":"20",            
+          "num20":"21",
+          "num21":"22",
+          "num22":"23",
+          "num23":"24",
+          "num24":"25",
+          "num25":"26",            
+          "num26":"27",
+          "num27":"28",
+          "num28":"29",
+          "num29":"30",
+          "title4":"Gayrimenkulü",
+          "title5":"Belirtmenin Kolay Yolu!",
+          "text":"Bildirmek istediğiniz mülkün adresini kaydederek mülk sahibinin Adı-Soyadı, telefonu ve e-postasıyla birlikte tesisinizi belirtebilirsiniz."
+        },
+        "title":"Satılıkfil",
+        "title1":"Dijital",
+        "title2":"Referans",
+        "title3":"Sistemiyle Tanışın!",
+        "text":"Satılıkfil kazandırır! Hem evini satana, hem de sattırana!",
+        "text1":"Çevrenizde yeni nesil dijital emlakçılık sistemi ile henüz tanışmamış ev sahipleri mi var?",
+        "text2":"Bizi tanıştırın, onların evini en karlı şekilde satarken size de para kazandıralım!",
+        "button":"Hemen Referans Olun",
+        "advantage":{
+          "header":"Satılıkfil Kazandırır",
+          "title1":"Satılıkfil",
+          "title2":"Dijital Referans Sistemiyle Tanışın!",
+          "num":"1",
+          "item":"Kendi kazanç sisteminizi kurun! Çevrenizde evini satmak isteyen kullanıcılardan bizi haberdar edin. Üyelik sistemi üzerinden mülkiyet kaydı gerçekleştirin.",
+          "num1":"2",
+          "item1":"Çağrı merkezimiz eklediğiniz kayıttaki kişiyi hemen arar ve Satılıkfil’i anlatır. Ev listelenirse, ay başında promosyon ödemeniz otomatik olarak hesabınıza yatar. Ev satılmasa bile!",
+          "num2":"3",
+          "item2":"Tavsiye ettiğiniz ev satılırsa 500₺'e kadar para kazanın! İşte bu kadar basit!"
+        },
+        "solution":{
+          "header":"Satılıkfil ile Arkadaşlarınızı Nasıl Tanıştırırsınız?",
+          "title1":"Çevrenizdeki",
+          "title2":"Satılık Gayrimenkulleri Bildirin!",
+          "title3":"Satılması istenen gayrimenkulu mal sahibinin iletişim bilgileri ile bize iletin, hemen mal sahibini arayalım!",
+          "title4":"Gayrimenkulun adres bilgisini kısa bir açıklama ile bildirmeniz ve mal sahibi bilgi formunu doldurmanız yeterli.",
+          "user":{
+            "text":"Adres Bilgisi",
+            "text1":"Telefon Numarası",
+            "text2":"Açıklama",
+            "text3":"Mal Sahibi İletişim Bilgileri",
+            "text4":"Mal Sahibi Adı Soyadı",
+            "text5":"5xx xxx xx xx"
+          }
+        },
+        "advantage2":{
+          "header":"Satılıkfil Kazandırır!",
+          "title":"Önerdiğiniz Ev Listelensin, Bir Ay Sonra Paranız Hesabınızda!",
+          "title1":"Mal sahibi ile görüşerek kendimizi tanıtıyor, ardından evi sistemimizde listeliyoruz. Mal sahibinin rızası ile ev listelendikten",
+          "title2":"bir ay sonra",
+          "title3":"paranız hesabınıza otomatik olarak yatar!",
+          "button":"Hemen Referans Sistemine Katıl"
+        },
+        "customers":{
+          "header":"Satılıkfil Memnun Eder",
+          "title":"Bizi en iyi mutlu müşterilerimiz anlatır!",
+          "text1":"Gayrimenkul yatırımı yapmayı tercih eden biri olarak Satılıkfil ile tanışmanın büyük bir keyif olduğunu söylemeliyim. Para akış sürecini takip etmekten başka hiçbir şey yapmama gerek kalmadı!",
+          "customer1":"Mehmet Toygan",
+          "profession1":"Gayrimenkul Yatırımcısı",
+          "text2":"Daha geniş bir eve geçmek için evimizi acilen elden çıkarmamız gerekiyordu, doğrusu ederinden çok daha düşük bir değere satışı tamamlamaya çoktan ikna olmuştuk. Son anda Satılıkfil ile tanıştık ve yatırımımızı korumayı başardık. Teşekkür ederiz!",
+          "customer2":"Ayşe Korkmaz",
+          "profession2":"Ev Hanımı",
+          "text3":"Satış sürecine hiç dahil olmamak mükemmel bir şey! Evime gelen profesyonel fotoğrafçıların anlık konumları dahil olmak üzere her işlemi mobil uygulamadan takip edebildim. Teşekkürler Satılıkfil!",
+          "customer3":"Ahmet Harmanlı",
+          "profession3":"Doktor"
+        },
+        "header":"Satılıkfil’e Sorunuz Mu Var?",
+        "contact":"Hemen bizimle iletişime geçin!",
+        "contact1":"Sorularınıza yanıt bulabilmek için öncelikle Sık Sorulan Sorular Sayfamızı ziyaret edebilirsiniz!",
+        "sss":{
+          "title":"SIKÇA SORULAN SORULAR",
+          "questions":"Bir Sorunuz mu var ?",
+          "text":"Satılıkfil uzmanları her türlü soru ve sorununuzu duymaya hazır. Sık sorulan sorularımız burada. Eğer sorun bildirmek istiyorsanız, hemen bize ulaşın!",
+          "question1":"Satılıkfil komisyon alır mı?",
+          "answer1":"Evet, Satılıkfil alıcıdan ve satıcıdan cuzi miktarlarda komisyon talep eder. Detaylar için mülk bildiriminizi oluşturun, görüşelim!",
+          "question2":"Satılıkfil’den bir ev beğendim! Ne zaman görebilirim?",
+          "answer2":"Uygulama ya da web sayfası üzerinden hemen ziyaret bildirimi oluşturun, birlikte gezelim! Siz ne zaman isterseniz biz oradayız!",
+          "question3":"Evim satılmazsa ne zamana kadar kira bedeli alabilirim?",
+          "answer3":"Satılıkfil üzerinden ilanı yayınlanan eviniz satılmaz ise, satılmadığı süre boyunca kira bedeli alacaksınız. Sınır yok!",
+          "question4":"Satılıkfil’in evimi satma sürecindeki faaliyetleri hakkında",
+          "question4-1":"bilgilendirilecek miyim?",
+          "answer4":"Sizi rahatsız etmeyeceğiz! Mobil uygulamamız ya da web sayfamız üzerinden eviniz ile ilgili fotoğraflamadan ev gezdirmeye kadar gerçekleştirdiğimiz her faaliyeti izleyebileceksiniz. İşte gerçek zamanlı emlakçılık!",
+          "button":"Daha Fazla Soru Gör"
+        }
+      },
+      "listing":{
+        "listing-mobile":{
+          "advantage":{
+            "title":"Satılıkfil",
+            "title1":"Mülkünüzü Listeler, Alıcısını Bulur",
+            "title2":"ve Satar!",
+            "advertisement":{
+              "text":"Evinizi satana kadar size kira ödeyelim!",
+              "text1":"Satılıkfil, size satış garantisi sunar ve eviniz satılana kadar her ay size kira öder.",
+              "text2":"Evinizi profesyoneller fotoğraflasın!",
+              "text3":"Tamamen ücretsiz olarak evinizin fotoğrafını çekmeye gelelim. Hem fotoğraf, hem video!",
+              "text4":"Evinizi biz gezdirelim!",
+              "text5":"Anahtarınızı bize emanet edin. Süreç boyunca evinize gözümüz gibi bakacağız!",
+              "text6":"Sorunuz mu var?",
+              "text7":"0850 307 0 345 numaralı telefonun başındayız!"
+            },
+            "text":"Kirayı gününde almanın",
+            "text1":"keyfini yaşayın!"
+          },
+          "costs":{
+            "title":"Satılıkfil Online Akıllı Emlakçılık",
+            "title1":"Geleneksel Emlakçılık Anlayışı",
+            "special-prc":{
+              "title":"SATILIKFİL AYRICALIKLARI",
+              "text":"Memnuniyet + Teknoloji + Süreç",
+              "text1":"%",
+              "text2":"100"
+            },
+            "advantage":{
+              "title":"Daha HIZLI",
+              "title1":"Daha AKILLI",
+              "text":"Profesyonel fotoğraflama hizmeti – Ücretsiz",
+              "text1":"Güvenilir, hızlı, sözleşmeli, çevrimiçi satış",
+              "text2":"Profesyonel ev gezdirme, tanıtım hizmeti",
+              "text3":"Ücretsiz reklam ",
+              "text4":"Ev emanetinde Satılıkfil güvencesi - Olası hasar karşılama",
+              "text5":"Evin satılmadığı her ay için kira ödemesi",
+              "text6":"Profesyonel satış ekibi"
+            },
+             "text":"Evimi Sat"
+          },
+          "differences":{
+            "button":"Evimi Sat",
+            "button1":"Emlak Bulmak İstiyorum",
+            "information":{
+              "title1":"Satılıkfil sizi evinizi ‘’satma’’ derdinden kurtarır.",
+              "text1":"Satılıkfil ilan yayınlar, alıcı bulur, sizin yerinize en iyi pazarlığı eder ve evinizi satar. Türkiye’de ve dünyada binlerce ev satan ekibimiz sizi gerçek müşterinize götürecek!",
+              "title2":"Satılıkfil size satmadan kazandırır.",
+              "text2":"Satılıkfil evinizi kısa süre içerisinde satar, satamadığı her ay için ise size kira öder. Üstelik bir yandan kira ödemenizi alırken evinizde oturmaya devam ediyor olursunuz.",
+              "title3":"Satılıkfil, evinizi yan daireden daha yüksek fiyata satar.",
+              "text3":"Birikimlerinizin değerini biliyor, evinizi değerinde satıyoruz.",
+              "title4":"Satılıkfil evinizi daha çok kişiye gösterir -Üstelik ek ücret istemeden!",
+              "text4":"Satılıkfil çeşitli dijital platformlarda reklam verirerek evinizin daha çok kişiye gösterir. Daha çok görüntüleme, daha hızlı satış anlamına gelir!",
+              "title5":"Satılıkfil korur ve",
+              "title6":"hasar karşılar.",
+              "text5":"Anahtarınızı bize emanet edin, evinizi biz gezdirelim. Ortaya çıkabilecek en ufak hasarı bile tamamen karşılamaya hazırız."
+            }
+          },
+          "payment":{
+            "text":"Dijital Emlakçılık Anlayışının Avantajları ile Tanışın!",
+            "text1":"Satılıkfil, size satış garantisi sunar ve eviniz satılana kadar her ay size kira öder. Üstelik siz evinizde oturmaya devam ederken! Gerçek kazanç için beklemek yok. Kendimize güveniyoruz! Ulusal ve uluslararası alanda çok sayıda bağlantımız, evinizi tam değerinde satmamızı sağlıyor. İşi uzmanına bırakın! Ev satmanın inceliklerini profesyonellerimiz bilir, siz arkanıza yaslanın, mobil uygulamadan her şeyi takip edin.",
+            "button":"Evimi Sat"
+          },
+          "working":{
+            "title":"Satılıkfil",
+            "title1":"Nasıl Çalışır?",
+            "direction":{
+              "title1":"Mülkünüzü bize bildirin!",
+              "text1":"Ücretsiz olarak üye olun ve ilgili formu doldurun. Ardından bize bir mülk bildirin!",
+              "title2":"Evinizin fotoğrafını çekelim!",
+              "text2":"Profesyonel fotoğrafçılarımızla tamamen ücretsiz olarak evinizin fotoğrafını çekmeye gelelim. Hem fotoğraf, hem video!",
+              "title3":"Evinizi gezdirelim!",
+              "text3":"Yılda onlarca ev satan ekibimiz evinize bir profesyoneli yönlendirecek. Evinizi ücretsiz gezdirelim!",
+              "title4":"Her ay için kira ödemesi alın!",
+              "text4":"İlanınız yayında olduğu sürece, satış gerçekleşmeyen her ay Satılıkfil size ödeme yapar!"
+            },
+            "text1":"İlan Edilecek Sorular?",
+            "text2":"Bize ulaşın 0850 307 0 345"
+          },
+          "advantages1":"Avantajlarımız",
+          "differences1":"Farklarımız",
+          "button":"Mülk Yayınla",
+          "costs1":"Maliyetler",
+          "working1":"Nasıl Çalışır",
+          "payment1":"Ödeme",
+          "under":{
+            "text":"Dijital Emlakçılık Anlayışının Avantajları ile Tanışın!",
+            "text1":"Satılıkfil, size satış garantisi sunar ve eviniz satılana kadar her ay size kira öder. Üstelik siz evinizde oturmaya devam ederken! Ulusal ve uluslararası alanda çok sayıda bağlantımız, evinizi tam değerinde satmamızı sağlıyor. Ev satmanın inceliklerini profesyonellerimiz bilir, siz arkanıza yaslanın, mobil uygulamadan her şeyi takip edin.",
+            "button":"Evimi Sat"
+          }
+        },
+        "header":"Satılıkfil",
+        "header1":"Mülkünüzü Listeler",
+        "header2":"Alıcısını",
+        "header3":"Bulur ve Satar!",
+        "subheader":{
+          "title":"Evinizi satana kadar size kira ödeyelim!",
+          "title1":"Evinizi profesyoneller fotoğraflasın!",
+          "title2":"Evinizi biz gezdirelim!"
+        },
+        "text":"Sorunuz mu var?",
+        "text1":"0850 307 0 345",
+        "text2":"numaralı",
+        "text3":"telefonun",
+        "text4":"başındayız!",
+        "recognize":{
+          "title":"Satılıkfil’in Yenilikçi Dünyasını Yakından Tanıyın!",
+          "title1":"Şimdi",
+          "title2":"Dijital Emlakçılık Zamanı!",
+          "button":"Evimi Sat",
+          "button1":"Ev Satın Al"
+        },
+        "solution":{
+          "header1":"SATICI ÇÖZÜMLERİ",
+          "title1":"Satılıkfil sizi evinizi ‘’satma’’ derdinden kurtarır.",
+          "text1":"Pazarlama işini profesyoneller yapsın. Ev satmak, fotoğraf çekiminden ev gezdirme adımına kadar her an ‘’işini bilmeyi’’ gerektirir. Satılıkfil’, ilan yayınlar, alıcı bulur, sizin yerinize en iyi pazalığı eder ve evinizi satar. Türkiye’de ve dünyada binlerce ev satan ekibimiz sizi gerçek müşterinize götürecek!",
+          "header2":"KAZANÇ ÇÖZÜMLERİ",
+          "title2":"Satılıkfil size satmadan kazandırır.",
+          "text2":"Evinizi satmaya gönüllü olduğumuz kadar bu konuda iddialıyız da! Satılıkfil evinizi kısa süre içerisinde satar, satamadığı her ay için ise size kira öder. Üstelik bir yandan kira ödemenizi alırken evinizde oturmaya devam ediyor olursunuz.",
+          "header3":"DEĞER ÇÖZÜMLERİ",
+          "title3":"Satılıkfil, evinizi yan daireden daha yüksek fiyata satar.",
+          "text3":"Birikimlerinizin değerini biliyor, evinizi değerinde satıyoruz.",
+          "header4":"REKLAM ÇÖZÜMLERİ",
+          "title4":"Satılıkfil evinizi daha çok kişiye gösterir. Üstelik ek ücret istemeden!",
+          "text4":"Satılıkfil çeşitli dijital platformlarda reklam vererek evinizi daha çok kişiye gösterir. Daha çok görüntüleme, daha hızlı satış anlamına gelir!",
+          "header5":"GÜVEN ÇÖZÜMLERİ",
+          "title5":"Satılıkfil korur ve hasar karşılar.",
+          "text5":"Anahtarınızı bize emanet edin, evinizi biz gezdirelim. Süreç boyunca evinize gözümüz gibi bakacağız! Ortaya çıkabilecek en ufak hasarı bile tamamen karşılamaya hazırız."
+        },
+        "costs":{
+          "block1":{
+            "title":"Satılıkfil Online Akıllı Emlakçılık",
+            "text":"Satılıkfil, yormadan, bekletmeden ve ‘’işinizi şansa bırakmadan’’ satar.",
+            "label":"SATILIKFİL AYRICALIKLARI",
+            "info":"Memnuniyet + Teknoloji + Süreç",
+            "info1":"%",
+            "info2":"100",
+            "description":"Daha HIZLI",
+            "description1":"Daha AKILLI",
+            "item":"Profesyonel fotoğraflama hizmeti – Ücretsiz",
+            "item1":"Güvenilir, hızlı, sözleşmeli, çevrimiçi satış",
+            "item2":"Profesyonel ev gezdirme, tanıtım hizmeti",
+            "item3":"Ücretsiz reklam",
+            "item4":"Ev emanetinde Satılıkfil güvencesi - Olası hasar karşılama ",
+            "item5":"Evin satılmadığı her ay için kira ödemesi",
+            "item6":"Profesyonel satış ekibi"
+          },
+          "vs":"VS.",
+          "block2":{
+            "title":"Geleneksel Emlakçılık Anlayışı",
+            "text":"Amatör, yavaş ve yorucu süreçler yaratır!",
+            "label":"GELENEKSEL EMLAKÇILIK",
+            "info":"Memnuniyet + Teknoloji + Süreç",
+            "info1":"%",
+            "info2":"8",
+            "description":"Bürokrasi, kaybedilen zaman, kaybedilen nakit!",
+            "item":"İlanlarda amatör fotoğraflar",
+            "item1":"Uzun bürokrasi kuyrukları ",
+            "item2":"Satış sürecinde uzun pazarlıklar, müzakereler",
+            "item3":"Satış gerçekleşene kadar kaybedilen para",
+            "item4":"Güvencesiz ve garantisiz ev emaneti",
+            "item5":"Farklı satıcılar farklı fiyatlar"
+          }
+        },
+        "title":"Satılıkfil Evinizi Satmaya Hazır, Siz Hazır Mısınız?",
+        "title1":"Yeni Nesil",
+        "title2":"Akıllı Emlakçılıkla Tanışın!",
+        "text5":"Satılıkfil uzmanlarıyla iletişime geçmek için üye olun ve bize mülkünüzü bildirin. Kapınıza kadar gelerek sizden ev anahtarını teslim alacağız. Tüm süreç yasal sözleşmeler ile korunurken profesyonel fotoğrafçılarımızla evinizin fotoğraflarını çekecek ve en kısa sürede yayına alacağız. İlan yayına alındığı andan itibaren satılmadığı her ayın sonunda kira ücreti cebinizde!",
+        "button":"Tıklayın ve mobil uygulamadan evinizle",
+        "button3":"ilgili tüm gelişmeleri anlık takip edin!",
+        "title6":"Dijital, İnovatif, Yeni Nesil ve Genç! Satılıkfil Avantajlarını Keşfedin.",
+        "title3":"Evinizi 10 Adımda Satın!",
+        "title4":"Bizimle birlikte kiralamanın faydalarını keşfedin!",
+        "text6":"Evi bize bildirin.",
+        "text7":"Kalan 9 maddeyi biz hallederiz :)",
+        "media":{
+          "title":"BASIN SATILIKFİL HAKKINDA NE DİYOR?",
+          "title1":"Basında Satılıkfil",
+          "text":"“Satılıkfil, geleneksel emlaktan 10 kat daha hızlı, ortalama 4 günde bir mülk kiralamayı başardı”",
+          "auth":"- Forbes"
+        },
+        "step":{
+          "title":"Dijital Emlakçılığın İnovatif Yüzü",
+          "header1":"Satılıkfil Nasıl Çalışır?",
+          "num1":"1",
+          "title1":"Mülkünüzü bize bildirin.",
+          "text1":"Ücretsiz olarak üye olun ve ilgili formu doldurun. Satılıkfil mobil uygulamasını indirebilir ya da web sayfasından üye olabilirsiniz.",
+          "num2":"2",
+          "title2":"Evinizin fotoğrafını çekelim!",
+          "text2":"Profesyonel fotoğrafçılarımızla tamamen ücretsiz olarak evinizin fotoğrafını çekmeye gelelim. Hem fotoğraf, hem video!",
+          "num3":"3",
+          "title3":"Evinizi gezdirelim!",
+          "text3":"Yılda onlarca ev satan ekibimiz evinize bir profesyoneli yönlendirecek. Evinizi ücretsiz gezdirelim!",
+          "num4":"4",
+          "title4":"Satışın gerçekleşmediği her ay için kira ödemesi alın.",
+          "text4":"İlanınız yayında olduğu sürece, satış gerçekleşmeyen her ay Satılıkfil size ödeme yapar!"
+        },
+        "button1":"Evimi Sat",
+        "button2":"Ev Satın Al",
+        "button4":"Hemen Uygulamayı İndir",
+        "text8":"Dijital Emlakçılık Anlayışının Avantajları ile Tanışın!",
+        "text9":"Satılıkfil, size satış garantisi sunar ve eviniz satılana kadar her ay size kira öder. Üstelik siz evinizde oturmaya devam ederken! Gerçek kazanç için beklemek yok. Kendimize güveniyoruz! Ulusal ve uluslararası alanda çok sayıda bağlantımız, evinizi tam değerinde satmamızı sağlıyor. İşi uzmanına bırakın! Ev satmanın inceliklerini profesyonellerimiz bilir, siz arkanıza yaslanın, mobil uygulamadan her şeyi takip edin.",
+        "advertisement":{
+          "title":"Satılıkfil Öne Çıkarır",
+          "text":"Satılıkfil’de Reklam Verme Nasıl Çalışır?",
+          "text1":"Her şey, şirketin kurucuları ile mal sahibi ve kiracının karşılaştığı zorluklarla karşı karşıya",
+          "sample":"Konutunuzu satarken hedef kitleniz neredeyse oraya nokta atışı reklam veriyoruz! Daha fazla ziyaretçi, daha fazla potansiyel alıcı ve daha hızlı satış süreci! Satılıkfil reklam vermek için sizden hiçbir ücret talep etmez.",
+          "sample1":"Geleneksel emlakçılığın yavaş işleyen, bürokrasi ile zaman kaybeden ve sizi epey yoran sistemini unutun. Emlakçılık artık daha inovatif, tamamen dijital ve çok pratik! Satılıkfil sistemi üzerinden yapacağınız konut bildirimi ile birlikte süreç çok hızlı ilerleyecek. Bu yüzden şimdi sormak zorundayız: ",
+          "sample2":"Evinizden ayrılmaya hazır mısınız? "
+        },
+        "title5":"Mülkünüzü bildirin, listeleyelim! ",
+        "text12":"Dijital reklam modellerimizle hemen ziyaret almaya başlayın!",
+        "text13":"Satılıkfil hiçbir ek ücret talep etmeden çok sayıda dijital reklam modelinden yararlanır ve konutunuzu tüm kentinize tanıtır.",
+        "sss":{
+          "title":"SIKÇA SORULAN SORULAR",
+          "questions":"Bir Sorunuz Mu Var ?",
+          "text":"Satılıkfil uzmanları her türlü soru ve sorununuzu duymaya hazır. Sık sorulan sorularımız burada. Eğer sorun bildirmek istiyorsanız, hemen bize ulaşın!",
+          "question1":"Satılıkfil komisyon alır mı?",
+          "answer1":"Evet, Satılıkfil alıcıdan ve satıcıdan cuzi miktarlarda komisyon talep eder. Detaylar için mülk bildiriminizi oluşturun, görüşelim!",
+          "question2":"Satılıkfil’den bir ev beğendim! Ne zaman görebilirim?",
+          "answer2":"Uygulama ya da web sayfası üzerinden hemen ziyaret bildirimi oluşturun, birlikte gezelim! Siz ne zaman isterseniz biz oradayız!",
+          "question3":"Evim satılmazsa ne zamana kadar kira bedeli alabilirim?",
+          "answer3":"Satılıkfil üzerinden ilanı yayınlanan eviniz satılmaz ise, satılmadığı süre boyunca kira bedeli alacaksınız. Sınır yok!",
+          "question4":"Satılıkfil’in evimi satma sürecindeki faaliyetleri hakkında",
+          "question4-1":"bilgilendirilecek miyim?",
+          "answer4":"Sizi rahatsız etmeyeceğiz! Mobil uygulamamız ya da web sayfamız üzerinden eviniz ile ilgili fotoğraflamadan ev gezdirmeye kadar gerçekleştirdiğimiz her faaliyeti izleyebileceksiniz. İşte gerçek zamanlı emlakçılık!"
+        }
+      },
+      "solition-partners":{
+        "solition-partners-mobile":{
+          "title":"Neden Satılıkfil?",
+          "button":"Keşfedin",
+          "reason":{
+            "title":"Müşterilerim Neden",
+            "title1":"Satılıkfil'i Kullanmalı?",
+            "text":"Satılıkfil gelenekselleşmiş emlakçılığa göre daha hızlıdır. Siz daha çok müşteriyle ilgilenebilmeniz için müşteriye evi gezdirme dışındaki tüm işleri biz hallederiz. Bu yüzden siz daha fazla müşteri ile ilgilenebilir ve dijital çözümlerimiz ile daha çok sonuç odaklı çalışırsınız."
+          },
+          "percent":{
+            "title":"Çözüm Ortağının mülkü:",
+            "title1":"Çözüm Ortağı Müşterisi",
+            "percentage":"%100 Kazanç",
+            "title2":"Siteden Gelen Mülk:",
+            "title3":"Çözüm Ortağı Müşterisi",
+            "percentage1":"%50 Kazanç",
+            "title4":"Siteden Gelen Müşteri",
+
+            "title5":"Siteden",
+            "title6":"Gelen Mülk:",
+            "title7":"Gelen Müşteri",
+            "percentage2":"%25 Kazanç",
+            "percentage3":"%20 Kazanç"
+          },
+          "content":{
+            "title":"Profesyonel ve Uzman Ekip",
+            "text":"Görev dağılımı yapmak zor olabilir. Yüksek teknolojili altyapımız sayesinde görev dağılımı yapar ve daha fazlasını kontrol edersiniz.",
+            "title1":"Performans Ölçümü",
+            "text1":"Şirketinizin konut satış oranları ve performansı ile ilgili dönemsel analizler ve performans ölçümleri gerçekleştirir, bunları size sunarız.",
+            "title2":"Her Çalışan İçin Ayrı Hesap",
+            "text2":"Her bir çalışan için ayrı hesap oluşturabilir, her hesap için ayrı yetki verebilirsiniz. Çalışanların performanslarını müşteriden aldığımız bilgilere göre değerlendirir ve panelinizde bu raporu ücretsiz yayınlarız.",
+            "title3":"Fotoğraf Çekimini",
+            "title3-1":"Biz Hallederiz!",
+            "text3":"Ekibimizdeki uzman konut fotoğrafçılarımız potansiyel alıcıya hitap eden hilesiz fotoğraflar çeker. Bu sayede daha fazla müşteri ile iletişim kurmaya zamanınız kalır!",
+            "title4":"Tamamen Ücretsiz ve Şeffaf",
+            "text4":"Burada her şey ücretsizdir. Fotoğraf çekimleri, reklamlar, call center, son teknoloji ile geliştirdiğimiz yazılımlarımız ve çok daha fazlasına ücret ödemeden sahip olursunuz.",
+            "title5":"Daha fazla insana",
+            "title5-1":"hitap edersiniz.",
+            "text5":"Yeni nesil dijital emlakçılık çözümünüz Satılıkfil sayesinde, müşterilerinizin konutlarını doğru hedef kitlesine daha sık gösterecek ve kitleyi genişleteceksiniz."
+          }
+        },
+        "reason":{
+          "title":"Geleneksel",
+          "title1":"Emlak Piyasasının",
+          "title2":"Dijital",
+          "title3":"Çözüm Ortağıyız!",
+          "text":"Satılıkfil’den destek alarak müşterilerinizin konutlarını daha kolay kontrol edebilir, konut gezdirme işinden kurtularak daha geniş bir kitleye hizmet verecek enerji ve zamana sahip olabilirsiniz. Yılların deneyimini ve sahip olduğunuz müşteri kitlesini dijital çözümlerimizle birleştirin!",
+          "button":"Hemen Satılıkfil’i Keşfedin"
+        },
+        "percent":{
+          "header1":"Satılıkfil gezdirir",
+          "home":"Ev gezdirmekten kurtulun",
+          "time":"Zamandan Kazanç",
+
+          "header2":"Satılıkfil satar",
+          "sale":"Evleri daha hızlı satın",
+          "customers":"Memnun Müşteriler",
+
+          "header3":"Satılıkfil fotoğraflar",
+          "professional":"Evleri profesyonellerimiz çeksin",
+          "adv":"Güvenilir İlanlar",
+
+          "header4":"Satılıkfil önerenlere kazandırır",
+          "meet":"Satılıkfil referans sistemiyle tanışın",
+          "more":"Daha Fazla Kazanç"
+        },
+        "content":{
+          "title":"Profesyonel ve Uzman Ekip",
+          "text":"Emlakçılıkta her bir iş profesyoneli tarafından gerçekleştirilmeli. Müşterilerinizin evlerini satış uzmanlarımız gezdirirken, fotoğrafları dijital fotoğraflamayı en iyi bilenler çekecek. Kaliteye inanıyoruz!",
+          "title1":"Güncel Analiz ve Performans Ölçümleri",
+          "text1":"İş birliğimiz başarılara imza atsın! Şirketinizin konut satış oranları ve performansı ile ilgili dönemsel analizler ve performans ölçümleri gerçekleştirir, bunları size sunarız.",
+          "title2":"Çalışanlarınızla tek bir platform üzerinden işinizi yönetin!",
+          "text2":"Ekibinizdeki her bir çalışan kendi iş takvimi ile ilgili bilgilendirme ve güncellemeleri sistemden yapabilir. Bu sayede tek bir platform üzerinden tüm süreci yönetme şansı yakalarsınız.",
+          "title3":"Satılıkfil",
+          "title3-1":"konut fotoğraflarını çeker!",
+          "text3":"İşin detayları ile biz ilgileniriz! Ekibimizdeki uzman konut fotoğrafçılarımız potansiyel alıcıya hitap eden hilesiz fotoğraflar çeker. Bu sayede daha fazla müşteri ile iletişim kurmaya zamanınız kalır!",
+          "title4":"Konutlarla İlgili Atılan Her Adım Takibinizde!",
+          "text4":"Satılıkfil mobil uygulaması üzerinden satmak istediğiniz tüm konutlarla ilgili bilgiler otomatik olarak güncellenir. Ekibimiz bir konutu mu gezdiriyor? Satılıkfil size bildirim gönderir! Fotoğrafçı konutun fotoğraflarını çekmeyi bitirdi mi? Satılıkfil size haber verir!",
+          "title5":"Daha Az Eforla Daha Geniş Kitlelere Ulaşın!",
+          "text5":"Yeni nesil dijital emlakçılık çözümünüz Satılıkfil sayesinde, müşterilerinizin konutlarını doğru hedef kitlesine daha sık gösterecek ve kitleyi genişleteceksiniz. Bu sayede satış hızınız artacak!"
+        },
+        "header":"Satılıkfil Çözümleriyle Tanışın!",
+        "header1":"Satılıkfil Dijital Çözümlerle Emlakçılığı Yeniden Yaratıyor!",
+        "header2":"Hemen iletişime geçin, birlikte çalışmaya başlayalım!",
+        "title1":"Tanıtım Videosunu İzle",
+        "title2":"Satış Sonrası Destek",
+        "title3":"Daha fazla insana hitap edersiniz."
+      },
+      "sss":{
+        "title":"Satılıkfil'e Sorun!",
+        "text":"Sizin için en sık sorulan soruları ve yanıtlarını derledik!",
+        "questions-rental":{
+          "header":"Satılıkfil’den Ev Satın Alma Süreci İle İlgili Sorularınız Mı Var? ",
+          "title":"Alıcılar İçin Sık Sorulan Sorular ve Cevaplar",
+          "question1":"Satılıkfil’den hangi tür gayrimenkul nesnelerini satın alabilirim?",
+          "answer1":"Satılıkfil’in, İstanbul’da çok sayıda emlak konut projesinin satış ofisi olarak çalışan bir çekirdek kadroya sahip. Satılıkfil ile hemen iletişime geçin ve konuttan dükkana, mağazaya, alışveriş merkezlerine ve hastanelere kadar çok sayıda mülkü inceleyin.",
+          "question2":"Satılıkfil’de pazarlık yapabilir miyim? ",
+          "answer2":"Elbette! Pazarlık ve satın alım süreçlerinde uzmanlarla muhatap olun! Satılıkfil uzmanları sizin için ‘’değerinde’’ konut satar. Fiyatlar uzman ekibimiz tarafından ev sahibi ile gerçekleştirilen görüşmeler sonrasında belirlenir.",
+          "question3":"Satılıkfil ilanları güvenilir mi?",
+          "answer3":"Satılıkfil ilanlarının tamamı yalnızca ekibimiz tarafından yayınlanıp düzenlenebilir. İlanlardaki tüm fotoğraflar profesyonel fotoğrafçılarımız tarafından özenle çekilir. Gerçeğe en yakın, en doğru bilgi ve detayları barındıran güvenilir ilanlar!",
+          "question4":"Satılıkfil’i telefonumda kullanabilir miyim?",
+          "answer4":"Elbette! Hemen Satılıkfil app’ini telefonunuza indirin, kolay ve hızlı şekilde ilanları inceleme şansı yakalayın.",
+          "question5":"Satılıkfil uzmanları kimlerden oluşuyor? ",
+          "answer5":"Yıllardır emlak konut sektöründe bulunan ve her yıl onlarca konutu güvenle satan uzmanlarımız, sektörün duayenleri!",
+          "question6":"Satılıkfil’de ev sahibi ile iletişim kurabilir miyim?",
+          "answer6":"Evet, özel alıcı paneliniz üzerinden dilerseniz ev sahibi ile iletişime geçebilirsiniz.",
+          "question7":"Satılıkfil’de ilan arama ipuçları nelerdir?",
+          "answer7":"Satılıkfil’de detaylı filtreleme seçeneklerinden yararlanarak hayalinizdeki evi daha kolay bulabilirsiniz. Konut tipi, oda sayısı, metrekare ya da kat sayısı. Burada hayalleriniz sizi bekliyor!",
+          "question8":"Satılıkfil’de görmek istediğim ev için nasıl randevu oluşturabilirim?",
+          "answer8":"Alıcı paneliniz üzerinden tek tıkla sizin istediğiniz gün ve saat için randevu oluşturabilirsiniz. Satılıkfil ekibi size evi gezdirmek için hazır!"
+        },
+        "questions-host":{
+          "header":"Satılıkfil’de Ev Satma Süreci İle İlgili Sorularınız Mı Var? ",
+          "title":"Ev Sahipleri İçin Sık Sorulan Sorular ve Cevaplar",
+          "question1":"Satılıkfil’de nasıl ilan oluşturabilirim?",
+          "answer1":"Hemen bizimle iletişime geçin, konutunuzla ilgili gerekli tüm bilgileri alalım. Kısa bir görüşmeden sonra konutunuzu ziyaret edecek, fotoğraflayacak ve ilanı hazır hale getireceğiz. Siz arkanıza yaslanın!",
+          "question2":"Satılıkfil’de evimin ilanını nasıl kaldırabilirim?",
+          "answer2":"Ev ilanınızı dilediğiniz zaman bizimle iletişime geçerek kaldırtabilirsiniz. Ev ilanları yalnızca Satılıkfil uzmanları tarafından düzenlenebilir.",
+          "question3":"Satılıkfil bana kira bedeli verecek mi?",
+          "answer3":"Evet, Satılıkfil uzmanları konutunuzu mutabık kalınan fiyat üzerinden satamadığı her ay için hesabınıza kira bedeli yatırır. Üstelik siz konutta yaşamaya devam ediyorken bile!",
+          "question4":"Satılıkfil ev satma süreci nasıl işler?",
+          "answer4":"Konutunuz listelendikten sonra potansiyel alıcıları biz bulur, bu alıcılara konutunuzu biz gezdiririz. Sizinle kararlaştığımız fiyat üzerinden konutunuzu satar, satamadığımız her ay için size kira bedeli öderiz. Satılıkfil işinizi kolaylaştırır!",
+          "question5":"Satılıkfil konut ilanımı diğer ilanların gerisine atar mı?",
+          "answer5":"Hayır! Satılıkfil sistemi içerisinde bazı ilanları diğerlerinden daha önde gösterecek özel bir promosyon ve reklam sistemi çalışmaz. Tamamen nötr bir ortamda tüm ilanlar bir arada görünür. Üstelik yeni nesil akıllı dijital emlakçılık sayesinde konutlarınız daha geniş bir hedef kitlesine daha çabuk ulaşır.",
+          "question6":"Satılıkfil’de konutumun satış süreçlerini nasıl takip edebilirim?",
+          "answer6":"Hemen Google Play Store ya da App Store’dan Satılıkfil uygulamasını indirin, ev sahibi panelinden konutunuzla ilgili yapılan tüm işlemleri görün. Fotoğraf çekimleri, alıcı ziyaretleri ve çok daha fazlası detaylı olarak görülebiliyor olacak.",
+          "question7":"Satılıkfil ekibi evimi satabilir mi?",
+          "answer7":"Satılıkfil, uzun yıllardır başta İstanbul olmak üzere Türkiye’nin farklı kentlerinde emlak konut satış alanında uzmanlaşmış bir ekibin projesidir. Bu sektörde yeni değiliz! İnovatif akıllı emlakçılık çözümümüz, geleneksel deneyimimiz ve saha pratiğimiz ile güçleniyor. ",
+          "question8":"Satılıkfil referans sistemi nasıl çalışır?",
+          "answer8":"Evini satmak isteyen birini mi tanıyorsunuz? Hemen bize bildirin, kendisi ile görüşelim. Listeleme için ve konut satışı için ayrı ayrı referans bedeli kazanın!"
+        },
+        "sss-mobile":{
+          "menu":{
+            "title":"Tümünü Gör",
+            "title1":"Alıcılar",
+            "title2":"Ev Sahipleri"
+          }
+        }
+      },
+      "tenant":{
+        "entry":{
+          "title":"Yeni Nesil Dijital Emlakçılıkla Tanış!",
+          "title1":"Satılıkfil’de Tüm Konutlar Değerinde Listelenir!",
+          "text":"Şişirilmiş fiyatlar yok, her şey bizim kontrolümüzde!",
+          "button":"Satılık Ev Bul"
+        },
+        "topic":{
+          "title":"Satılıkfil Çözüm Sunar!",
+          "title1":"Alıcıya Özel Çözümlerimiz",
+          "title2":"Evinizi Siz Hayal Edin, Biz Bulalım!",
+          "step":{
+            "item1":"Şişirilmiş fiyatlar yok!",
+            "text1":"Satılıkfil’de yayınlanan her ilanın fiyatını alanında uzman ekspertizlerimiz belirler.",
+            "item2":"Yanıltıcı görseller yok!",
+            "text2":"Satılıkfil’de yayınlanan ilanlardaki görsel ve videoların tümü profesyonel fotoğrafçılarımız tarafından çekilir. Hile yok, aldatmaca yok!",
+            "item3":"Sürprizler yok!",
+            "text3":"Satılıkfil’de ilanları yalnızca yönetim düzenleyebilir. Bu sayede yanıltıcı / aldatıcı ya da eksik ifadeler yok. İlanda gördüğünüz ne ise, ziyaret edeceğiniz de o!",
+            "item4":"Panik yok!",
+            "text4":"Satılıkfil uzmanları sizinle evin bulunduğu muhitte buluşacak ve evi gezdirecek. Dilediğiniz zaman için randevu ayarlayabilirsiniz. Mobil uygulamadan sadece tek tıkla!"
+          },
+          "advantage":{
+            "header":"Satılıkfil’den Nasıl Ev Alınır?",
+            "title":"Satılıkfil İle",
+            "title1":"Güvenilir Satın Alma Süreci",
+            "num1":"1",
+            "text1":"Yüzlerce alternatif için hemen giriş yapın.",
+            "description1":"Satılıkfil hesabınıza giriş yapın, size en uygun evi bulmak için platformdaki filtreleme seçeneklerinden yararlanın!",
+            "num2":"2",
+            "text2":"Ziyaret kaydı oluşturun.",
+            "description2":"Profesyonellerimizi sizin belirlediğiniz tarih ve saatte adresinize yönlendiriyor olacağız. Üstelik gezeceğiniz eve doğru gelen ekibi gerçek zamanlı olarak takip edebilirsiniz!",
+            "num3":"3",
+            "text3":"Süreci güvenle sürdürün.",
+            "description3":"Satın alma sürecinde birikiminizi güvenilir Satılıkfil satış sözleşmesine emanet edin!"
+          }
+        },
+        "question":"İlan Edilecek Sorular?",
+        "contact":"Bize ulaşın 0850 307 0 345",
+        "solutions":"Çözümlerimiz",
+        "working":"Nasıl Çalışır?",
+        "cost":"Maliyetler",
+        "title1":"Satılıkfil Maliyetleri",
+        "title2":"Geleneksel Emlak Maliyetleri",
+        "costs":{
+          "title":"Satılıkfil Online Akıllı Emlakçılık",
+          "text":"Satılıkfil, yormadan, bekletmeden ve ‘’işinizi şansa  bırakmadan’’ satar.",
+          "block1":{
+            "title":"SATILIKFİL AYRICALIKLARI",
+            "text":"Memnuniyet + Teknoloji + Süreç",
+            "text1":"%",
+            "text2":"100",
+            "description":"Daha HIZLI",
+            "description1":"Daha AKILLI",
+            "advantage1":"Profesyonel fotoğraflama hizmeti – Ücretsiz",
+            "advantage2":"Güvenilir, hızlı, sözleşmeli, çevrimiçi satış",
+            "advantage3":"Profesyonel ev gezdirme, tanıtım hizmeti",
+            "advantage4":"Ücretsiz reklam ",
+            "advantage5":"Ev emanetinde Satılıkfil güvencesi - Olası hasar karşılama",
+            "advantage6":"Evin satılmadığı her ay için kira ödemesi",
+            "advantage7":"Profesyonel satış ekibi",
+            "button":"Ev Bul"
+          },
+          "vs":"VS.",
+          "block2":{
+            "title":"Geleneksel Emlakçılık Anlayışı",
+            "text":"Amatör, yavaş ve yorucu süreçler yaratır!",
+            "label":"GELENEKSEL EMLAKÇILIK",
+            "info":"Memnuniyet + Teknoloji + Süreç",
+            "info1":"%",
+            "info2":"8",
+            "description":"Bürokrasi, kaybedilen zaman, kaybedilen nakit!",
+            "item":"İlanlarda amatör fotoğraflar",
+            "item1":"Uzun bürokrasi kuyrukları ",
+            "item2":"Satış sürecinde uzun pazarlıklar, müzakereler",
+            "item3":"Satış gerçekleşene kadar kaybedilen para",
+            "item4":"Güvencesiz ve garantisiz ev emaneti",
+            "item5":"Farklı satıcılar farklı fiyatlar"
+          }
+        },
+        "text":"Dijital Emlakçılık Anlayışının Avantajları ile Tanışın!",
+        "text1":"Satılıkfil, size satış garantisi sunar ve eviniz satılana kadar her ay size kira öder. Üstelik siz evinizde oturmaya devam ederken! Gerçek kazanç için beklemek yok. Kendimize güveniyoruz! Ulusal ve uluslararası alanda çok sayıda bağlantımız, evinizi tam değerinde satmamızı sağlıyor. İşi uzmanına bırakın! Ev satmanın inceliklerini profesyonellerimiz bilir, siz arkanıza yaslanın, mobil uygulamadan her şeyi takip edin.",
+        "button":"Hemen Uygulamayı İndir",
+        "sss":{
+          "title":"SIKÇA SORULAN SORULAR",
+          "questions":"Bir Sorunuz Mu Var ?",
+          "text":"Satılıkfil uzmanları her türlü soru ve sorununuzu duymaya hazır. Sık sorulan sorularımız burada. Eğer sorun bildirmek istiyorsanız, hemen bize ulaşın!",
+          "question1":"Satılıkfil komisyon alır mı?",
+          "answer1":"Evet, Satılıkfil alıcıdan ve satıcıdan cuzi miktarlarda komisyon talep eder. Detaylar için mülk bildiriminizi oluşturun, görüşelim!",
+          "question2":"Satılıkfil’den bir ev beğendim! Ne zaman görebilirim?",
+          "answer2":"Uygulama ya da web sayfası üzerinden hemen ziyaret bildirimi oluşturun, birlikte gezelim! Siz ne zaman isterseniz biz oradayız!",
+          "question3":"Evim satılmazsa ne zamana kadar kira bedeli alabilirim?",
+          "answer3":"Satılıkfil üzerinden ilanı yayınlanan eviniz satılmaz ise, satılmadığı süre boyunca kira bedeli alacaksınız. Sınır yok!",
+          "question4":"Satılıkfil’in evimi satma sürecindeki faaliyetleri hakkında",
+          "question4-1":"bilgilendirilecek miyim?",
+          "answer4":"Sizi rahatsız etmeyeceğiz! Mobil uygulamamız ya da web sayfamız üzerinden eviniz ile ilgili fotoğraflamadan ev gezdirmeye kadar gerçekleştirdiğimiz her faaliyeti izleyebileceksiniz. İşte gerçek zamanlı emlakçılık!"
+        }
+      }
+    },
+    "rental":{
+      "advertisement":"adet ilan bulundu",
+      "filter1":"En Alakalı",
+      "filter2":"Fiyata Göre: Artan",
+      "filter2-1":"Fiyata Göre Artan",
+      "filter3":"Fiyata Göre: Azalan",
+      "filter3-1":"Fiyata Göre Azalan",
+      "button1":"Filtrele",
+      "advertisement-title":"ÖNE ÇIKAN İLAN",
+      "image":"Fotoğraf",
+      "room":"Oda",
+      "saloon":"Salon",
+      "bath":"Banyo",
+      "popular":"Popüler Seçimleri",
+      "popular1":"Bizim tarafımızdan",
+      "popular2":" seçilen emlaklar.",
+      "button":"Görüntüle",
+      "price":"FİYAT",
+      "area":"ALAN",
+      "min":"Minimum",
+      "max":"Maksimum",
+      "tl":"TL",
+      "meter":"m2",
+      "text":"Farketmez",
+      "main":"Anasayfa",
+      "button2":"Kapat",
+      "button3":"Filtreyi temizle"
+    },
+    "admin":{
+      "suggestions":{
+        "title":"Ev Önerileri",
+        "list":"Kullanıcıların gönderdikleri ev önerileri listesini görüntüleyebilirsiniz.",
+        "host":"Ev Sahibi",
+        "phone":"Telefonu",
+        "date":"Oluşturulma Tarihi",
+        "situation":"Duruma Göre",
+        "button":"Düzenle",
+        "call":"Telefon ile Ara",
+        "button1":"Ara",
+        "button2":"Sıfırla",
+        "suggestion-edit":{
+          "warning":"Uyarı",
+          "sender":"Gönderen",
+          "advertisement":"İlan Onaylama",
+          "text":"Ev sahibi ile yapılan görüşme sonunda Ev Sahibinin ad soyad, telefon, adres bilgileri doğrulanmalı, emlak bilgileri alınmalıdır. Yapılan görüşmenin sonucuna göre bir seçim yapın ve ilan onayı verin. ",
+          "choice":{
+            "text":"Bir seçim yapın...",
+            "text1":"Ev sahibine ulaşılamadı",
+            "text2":"Ev satılık değil",
+            "text3":"Çözüm ortağına atama yap",
+            "text4":"Önerinin Durumu"
+          },
+          "button1":"İlerleme Durumunu Güncelle"
+        },
+        "modals":{
+          "partner-modal":{
+            "choice":"Çözüm ortağına atama yapmak için seçim yapınız",
+            "choice1":"Çözüm ortağını seçiniz",
+            "choice2":"Şubesini seçiniz",
+            "button":"Vazgeç",
+            "button1":"Atama Yap"
+          }
+        }
+      },
+      "system-logs":{
+        "server-logs":"Sunucu Logları",
+        "text":"Sunucu tarafında oluşan hataları, bilgilendirme ve uyarıları aşağıdaki tablodan inceleyebilirsiniz.",
+        "type":"Log Type",
+        "section":"Section",
+        "title":"title",
+        "timestamp":"Timestamp",
+        "menu":{
+          "section":"Bölüm ismi ile Ara",
+          "search":"Ara",
+          "show-all":"Tümünü Göster"
+        }
+      },
+      "call-center":"Admin ve Call-Center Yönetim Araçları",
+      "text":"Ev önerilerini düzenleyebilir, ilan onayını verebilirsiniz. Sistemde meydana gelen hareketleri görüntüleyebilirsiniz.",
+      "suggest-home":"Ev Önerileri",
+      "log":"Sistem Logları"
+    },
+    "mobile-search":{
+      "find-home":"Ev Bulundu",
+      "text1":"Hiç Satılık Bulunamadı",
+      "month":"aylık",
+      "room":"Oda",
+      "saloon":"Salon",
+      "bath":"Banyo",
+      "no-sale":"Bölgede Satılık Bulunamadı"
+    },
+    "partner":{
+      "common":{
+        "contact":"İletişim Bilgileri",
+        "id-info":"Kimlik Bilgileri",
+        "host-name":"Ev Sahibinin Adı",
+        "host-surname":"Ev Sahibinin Soyadı",
+        "name":"Adı",
+        "surname":"Soyadı",
+        "phoneNumber":"Telefon",
+        "sample":"5xx xxx xx xx",
+        "mail":"E-Posta"
+      },
+      "assignments":{
+        "photo":{
+          "notes-modal":{
+            "notes":"Notlar",
+            "text":"Hasarla ilgili notlarınızı buradan yayınlayabilirsiniz.",
+            "text1":"Hasar Kayıt Notu",
+            "close":"Kapat"
+          },
+          "title":"Fotoğraflarınızı Yükleyin",
+          "text":"Konut ziyaretleriniz sırasında çektiğiniz fotoğrafları hemen kolayca yükleyin. Sitede yayınlanması için her oda için ayrı ayrı seçim yaparak açılan alanlara fotoğrafları yüklemelisiniz. Hasar tespiti için ayrılmış sağdaki sütunda da hasarlı yerlerin fotoğraflarını yükleyebilirsiniz.",
+          "button":"GÖREVİ KAPAT",
+          "title1":"Site için fotoğraf yükleyin!",
+          "room":"Oda Seçimi Yapın",
+          "room1":"İlan fotoğrafı için oda seçimi yapın",
+          "room2":"Oda Fotoğraflarınızı Yükleyin",
+          "text1":"YALNIZCA .JPG .PNG UZANTILI DOSYALAR KABUL EDİLİR.",
+          "loading":"Yükleniyor",
+          "percent":"%",
+          "loading1":"Yükleme Durduruldu",
+          "loading2":"Yükleme Tamamlandı",
+          "review":"Teftiş için fotoğraf yükleyin!",
+          "review1":"Teftiş için oda seçimi yapın",
+          "review2":"Teftiş Fotoğraflarınızı Yükleyin",
+          "add-photo":"Fotoğraf Yükle"
+        },
+        "title":"Fotoğraf Çekim Görevleri",
+        "text":"Adınıza atanmış fotoğraf çekim görevlerinin tamamını bu sayfada görebilirsiniz.",
+        "mission":"Tüm Görevlerim",
+        "mission1":"Görevlerim",
+        "branch":"Şube",
+        "date":"Planlanan Tarih",
+        "situation":"Duruma Göre",
+        "transaction":"İşlemler",
+        "address":"adresi",
+        "upload":"Yükle",
+        "view":"Görüntüle"
+      },
+      "calendar":{
+        "schedule-form":{
+          "title":"Etkinlik Başlığı",
+          "allDay":"Tam Gün",
+          "note":"Not Ekleyebilirsiniz",
+          "notes":"Notlar",
+          "save":"Kaydet",
+          "cancel":"Vazgeç"
+        },
+        "title":"Satılık Takvimi",
+        "text":"Şubenize atanan ilanlar hakkındaki bildirimleri takvim üzerinde yer alan bildiri şablonlarını dikkate alarak inceleyebilirsiniz.",
+        "month":"Aylık Takvim",
+        "week":"Haftalık Takvim",
+        "day":"Günlük Takvim",
+        "calndar":"Takvim",
+        "last":"ÖNCEKİ",
+        "today":"BUGÜN",
+        "next":"SONRAKİ"
+      },
+      "company-portfolio":{
+        "title":"Firma İlanları",
+        "text":"Firmanıza ait tüm ilanlar listelenmektedir",
+        "customer-info":"Müşteri Bilgileri",
+        "text1":"Şube portföyü üzerinden ziyaret",
+        "text2":"için başlatılacaktır.",
+        "button":"Görevi Tamamla"
+      },
+      "customers":{
+        "customer-edit-form":{
+          "customer-move":{
+            "title":"Müşteri Hareketleri",
+            "online-req":"Online Ziyaret İstekleri",
+            "like":"Beğenileri"
+          },
+          "notes":"Notlar",
+          "file":{
+            "title":"Dosya Arşivi",
+            "send-file":"Müşteri Arşivi için Dosya Gönderin",
+            "picture-format":"Sadece resim formatındaki dosyalar kabul edilir."
+          },
+          "customer-detail":"Müşteri Detayları",
+          "text":" Müşteri isim ve iletişim bilgileri haricinde diğer alanlarda yapacağınız her değişiklik gerçek zamanlı olarak güncellenir."
+        },
+        "customer-form":{
+          "error":"Uyarı",
+          "user":"Üye Bilgileri",
+          "text":"Sayfada yer alan üyelik bilgilerini doldurarak yeni müşteri kaydı oluşturabilirsiniz.",
+          "advertisement":{
+            "attribute":"İlan Özellikleri",
+            "forward":"Öne Çıkarılmış İlan",
+            "window":"Vitrin İlanı"
+          },
+          "help":"Yardım",
+          "title":"İlan Başlığı",
+          "title1":"İlan Başlığı Yazın",
+          "address":"Adres Bilgisi",
+          "code":"KOD",
+          "code1":"+90",
+          "code2":"+91",
+          "text-1":"adlı kayıtlı müşterimiz ile",
+          "text-2":"ilan numaraları evi ziyaret için BURAYA TIKLAYIN",
+          "text1":"Bu telefon numarası zaten",
+          "text2":"adlı müşteriye ait, buraya tıklayarak arama kriterlerine devam edebilirsiniz.",
+          "adv-info":"İlan Bilgileri",
+          "adv-exp":"İlan Açıklaması",
+          "explanation":"İlan açıklamanızı yazın.",
+          "price-meter":"Fiyat ve Metrekare Aralığı",
+          "price":"FİYAT",
+          "min-prc":"En az fiyat",
+          "max-prc":"En çok fiyat",
+          "min":"Minimum",
+          "tl":"TL",
+          "max":"Maksimum",
+          "area":"ALAN",
+          "meter":"m2",
+          "properties":"Aradığı Emlak Özellikleri",
+          "opportunities":"Aradığı Ev Olanakları",
+          "home-prop":"Aradığı Evin Özellikleri",
+          "button":"Müşteri Kaydet",
+          "text3":"Müşterimize ait bilgilerin yanısıra ilgilendiği satılıkları kaydetmelisiniz, hedef odaklı olarak elimizde ilgilendiği emlak yoksa bile portföye giriş olduğu zaman müşterinin bilgilendirilmesi sağlanır.",
+          "save":"Kaydet",
+          "button1":"Kriterleri Güncelle",
+          "new-account":"Yeni üyelik başlatmak için buraya tıklayın.",
+          "call-criteria":"Arama Kriterleri",
+          "send-adv":{
+            "ad-criteria":"İlan Kriterleri",
+            "text":"İlan kriterlerini güncelleyerek emlak sunumunu gerçekleştirin, kriter değişiklikleri otomatik gerçekleşir, ev göstermek için ilan üzerinden 'Ziyaret Başlatın' ya da görüşme ziyaret yapılmadan neticelendi ise 'Görüşmeyi Tamamla' butonu ile işlemi neticelendirin.",
+            "show":"İlan Kriterlerini Göster",
+            "text1":"Kriterlere uygun",
+            "text2":"adet kiralık ilan bulundu.",
+            "portfolio":"Şube Portyöyünü Görüntüle",
+            "complete":"Görüşmeyi Tamamla"
+          },
+          "text4":"Kriterlere uygun",
+          "text5":"adet satılık ilan bulundu.",
+          "portfolio":"Şube Portföyünü Görüntüle",
+          "complete":"Görüşmeyi Tamamla"
+        },
+        "title":"Müşteriler",
+        "title1":"Ana sayfaya dönmek için tıklayın",
+        "add-cust":{
+          "button":"Yeni Müşteri Ekle",
+          "name":"Adı Soyadı",
+          "price":"Fiyatı",
+          "phone": "Telefon Numarası",
+          "visitor":"Ziyaretçi",
+          "date":"Tarih Aralığı",
+          "transaction":"İşlemler",
+          "timestamp": "Zaman",
+          "personal": "Temsilcisi"
+        },
+        "details":"Detaylar"
+      },
+      "members":{
+        "member-form":{
+          "error":"Uyarı",
+          "personal":"Personel Bilgileri",
+          "text":"Sayfada yer alan formu doldurarak yeni personel kaydı oluşturabilir, personel yetkilerini belirleyebilirsiniz.",
+          "help":"Yardım",
+          "text1":"Bu telefon numarası zaten",
+          "text2":"adlı kişiye ait, buraya tıklayarak şubeye atama yapınız.",
+          "personal1":{
+            "title":"Personel Yetkileri",
+            "manager":"Şube Yöneticisi",
+            "advisor":"Emlak Danışmanı",
+            "expert":"Emlak Değerleme Uzmanı",
+            "image":"Fotoğrafçı",
+            "allow-property":"Emlak Girişi Yapabilir",
+            "allow-customer-inf":"Müşteri Bilgilerini Görebilir"
+          },
+          "button":"Personel Kaydet",
+          "text3":" Personelin yetkilerini belirledikten sonra yeni personel kaydını yapabilirsiniz, personel kendine ait diğer bilgileri telefon ile giriş işlemi yaptıktan sonra tamamlayabilir.",
+          "button1":"Kaydet",
+          "remove-personal":"Personeli Sil",
+          "cancel":"Vazgeç"
+        },
+        "member-report":{
+          "report":"Personel İşlemleri Raporu",
+          "text":"Aşağıda personelin ziyaretleri ve müşteri sunumlarının listesi bulunmaktadır.",
+          "table":{
+            "customer":"Müşteri",
+            "process":"İşlem",
+            "date":"Oluşturulma Tarihi",
+            "situation":"Durum"
+          }
+        },
+        "personal":"Şube Personeli",
+        "text":"Şube personellerinin görevlerini ve raporlarını burada görüntüle.",
+        "button":"Yeni Personel Kaydet",
+        "update":"Güncelleme Bekleniyor",
+        "edit":"Düzenle",
+        "report":"Raporu göster"
+      },
+      "modals":{
+        "visitor-info-modal":{
+          "phoneNumber":"Telefonu :",
+          "advisor":{
+           "title":"Emlak Danışmanı Bilgileri",
+            "name":"Danışman Adı :"
+          },
+          "visitor":{
+            "title":"Ziyaretçi Bilgileri",
+            "name":"Ziyaretçi Adı :"
+         },
+         "notes":"Ziyaret Notları",
+         "text":"Ziyaret ile ilgili bir not yazın",
+         "button":"Vazgeç",
+         "start":"Ziyaret Başlat",
+         "button1":"Ziyareti Tamamla",
+         "finish":"Ziyareti Bitir"
+        },
+        "assign-photographer-modal":{
+          "explanation":"Fotoğrafçıya atama yapmak için seçim yapınız. Aşağıda kurumunuza atanan fotoğrafçıların listesi mevcuttur.",
+          "select":"Fotoğrafçı seçiniz",
+          "last-date":"Son İşlem Tarihi",
+          "cancel":"Vazgeç",
+          "assign":"Atama Yap"
+        },
+        "note-modal":{
+          "text":"Görüşme notlarınız",
+          "cancel":"Vazgeç",
+          "save":"Kaydet"
+        },
+        "visit-confirmation-modal":{
+          "online":"Online Ziyaret İstekleri",
+          "text":"Mevcut ziyaret isteklerini aşağıda inceleyebilir ve düzenleme yapabilirsiniz.",
+          "edit":"Tarih ve Saati Düzenle",
+          "note":"Tarih seçimi ile randevu kesinleşir.",
+          "visit-cancel":"Ziyareti İptal Et!",
+          "exp":"Belirlediğiniz tarih müşteriye bildiri olarak gönderilecektir.",
+          "save":"Değişiklikleri Kaydet",
+          "cancel":"Vazgeç"
+        }
+      },
+      "portfolio":{
+        "portfolio-form":{
+          "notification":"Uyarı",
+          "form":{
+            "host-info":"Ev Sahibi Bilgileri",
+            "text":"Emlak sahibi ve iletişim bilgileri. Emlak durumunu doğrulayın ve Ev Sahibinin üyeliği yoksa üyeliğe yönlendirin."
+          },
+          "userError":"Kullanıcı Oluşturma Hatası",
+          "creatin-user":" Emlak sahibinin telefonu ile üyeliğini başlat.",
+
+          "address-inf":"Emlak Adres Bilgileri",
+          "text":"Emlak sahibinden evin durumunu teyid ettikten sonra adres bilgilerini doğrulayınız.",
+          "address":"Emlak Adresi",
+
+          "informationAdv":{
+            "title":"Fiyat ve m2 Bilgileri",
+            "help":"Yardım",
+            "meter":"Metrekare",
+            "net-meter":"Net Metrekare",
+            "price":"Fiyat",
+            "curr":"Döviz Kuru",
+            "purchase-price":"Alış Fiyatı",
+            "save":"Ev Önerisi Kaydet"
+          },
+
+          "opportunitiesAdv":{
+            "title":"İlan Özellikleri",
+            "featured":"Öne Çıkarılmış İlan",
+            "showcase":"Vitrin İlanı",
+            "no-publish":"İlan Sitede YAYIMLANMASIN!",
+            "company":"Firmanın Kendi Mülkü mü?"
+          },
+
+          "adv-header":"İlan Başlığı",
+          "help":"Yardım",
+          "create-title":"İlan Başlığı Yazın",
+          "info-adv":"İlan Bilgileri",
+          "adv-explanation":"İlan Açıklaması",
+          "create-exp":"İlan Açıklamanızı Yazın",
+          "opportunities":"Ev Olanakları",
+          "features":"Evin Özellikleri",
+
+          "new-portfolio":{
+            "title":"Yeni Portföy",
+            "text":" Şubenize ait yeni bir ilanı kendi portföyünüzde yayınlayabilirsiniz. Ev kayıt işleminden sonra fotoğrafçı ataması yapmalısınız. Fotoğrafçı görevlerini bitirdikten sonra ilan bilgilerinde herhangi bir eksik yoksa ilanı yayına alabilirsiniz.",
+            "assign-photo":"Fotoğrafçı Ata",
+            "text1":"Fotoğrafçı, işlemleri tamamladıktan sonra 'ilan Yayınlama' aktif hale gelecektir.",
+            "assign":"Atama Yap"
+          }
+
+        },
+        "title":"Şube Portföyü",
+        "text":"Şubenize ait yayında olan ilanlar aşağıda listelenmektedir.",
+        "new": "Yeni Portföy Ekle",
+        "notification":{
+          "customer-info":"Müşteri Bilgileri",
+          "text1":"Şube portföyü üzerinden ziyaret",
+          "text2":"için başlatılacaktır.",
+          "button":"Görevi Tamamla"
+        }
+      },
+      "suggestions":{
+        "edit-property":{
+          "left":{
+            "adv-info":"İlan Bilgileri",
+            "notes":"Notlar",
+            "past":"Geçmiş"
+          },
+          "right-box":{
+            "notes":"Notlar",
+            "text":"İlan ile ilgili ilan sahibi, ev öneren kişi, call-center veya şube notları",
+            "adv-note":"İlan Notu"
+          },
+          "portfolio":"Portföyüme Al",
+          "text":"İlanı kendinize atama yaparak portföyünüze alabilirsiniz.",
+          "add":"Portföyüme Ekle",
+          "photo":"Fotoğrafçı Ata",
+          "text1":"Fotoğrafçı, işlemleri tamamladıktan sonra 'İlan Yayınlama' aktif hale gelecektir.",
+          "button":"Atama Yap",
+          "photo-text":"Fotoğraf çekimi bekleniyor",
+          "text2":"İlan",
+          "text3":"tarihine kadar",
+          "text4":"'a atanmıştır.'",
+          "sending":"İlan Gönderme",
+          "notification":"Uyarı",
+          "online":"İlan Yayında",
+          "text6":"İlan 3 ay süre ile yayındadır, süre dolumunda otomatik iptal olmayacak ancak ilanın yeniden değerlendirilmesi açısından uyarı niteliğindedir.",
+          "removeAt":"İlanı Yayından Kaldır",
+          "adv-notes":"İlan Notları",
+          "text7":" İlanı yayınlayan kişide dahil olmak üzere ev önerisinden itibaren yayınlanıncaya kadar birden çok kullanıcı ev verisine müdahale edebilir. Bu aşamalar bazen kısıtlı bazen tam erişimlidir, dolayısı ile tarafların ilan ile ilgili paylaştığı notlar burada gösterilir.",
+          "adv-past":"İlan Geçmişi",
+          "text8":" İlanın aşamaları ile ilgili görev dağılımlarının da gösterildiği bölümdür. Herhangi bir anda ilanın verisini kurtarabilir ya da belli bir zamana geri alabilirsiniz.",
+          "text5":" Bir ilanın yayınlanabilmesi için ilana ait resimlerin, ilan başlığının ve en az 5 adet ilan özelliğinin girilmiş olması gereklidir. İlan içerisindeki kilitli alanlar Satılıkfil ekipleri tarafından doğrulanmış alanlardır. Yanlış bir bilgi olduğunu düşünüyorsanız Satılıkfil ekiplerinden doğrulama isteyebilirsiniz. ",
+          "button1":"İlanı Yayına Al"
+        },
+        "request":"Satılık İstekleri",
+        "text":"Şubenize atanan ilanlar aşağıda listelenmektedir.",
+        "host":"Ev Sahibi",
+        "contact":"Telefonu",
+        "id":"Tanı Kimlikleri",
+        "date":"Oluşturulma Tarihi",
+        "portfolio":"Portföy",
+        "situation":"Duruma Göre",
+        "transaction":"İşlemler",
+        "detail":"Detayları Göster",
+        "photo":"Fotoğrafçıya Atama Yap",
+        "button":"Ara",
+        "button1":"Sıfırla"
+      },
+      "tasks":{
+        "mission":"Görevlerim",
+        "text":"Müşteri işlemleriniz aşağıda listelenmiştir, açık işlemleri tamamlayınız.",
+        "name":"Görev Adı",
+        "customer":"Müşteri",
+        "start":"Başlangıç Saati",
+        "end":"Bitiş Saati",
+        "situation":"Durum"
+      },
+      "visit-requests":{
+        "visit-req":"Ziyaret İstekleri",
+        "text":"Konut ziyaretlerinin takibini tek sayfadan kolayca yapın.",
+        "calendar":"Ziyaret Takvimini görüntüle",
+        "advertisement":"İlan Bilgisi",
+        "price":"Fiyatı",
+        "visitor":"Ziyaretçi",
+        "date":"Tarih Aralığı",
+        "date-plan":"Tarihi için planlandı",
+        "plan":"Planlama",
+        "completed":"Ziyaret Tamamlandı",
+        "canceled":"İptal Edildi",
+        "range": {
+          "until_tomorrow": "En geç yarına kadar",
+          "before_noon_on_weekdays": "Hafta içi öğleden önce",
+          "after_noon_on_weekdays": "Hafta içi öğleden sonra",
+          "weekend_before_noon": "Hafta sonu öğleden önce",
+          "weekend_afternoon": "Hafta sonu öğleden sonra"
+        }
+      },
+      "phone-calls":{
+        "phone-records":{
+          "call-form":{
+           "error":"Uyarı",
+           "title":"Arama Bilgileri",
+           "text":"İlanlara ait yapılan görüşmeleri formu doldurarak oluşturabilirsiniz",
+           "help":"Yardım",
+           "notes":{
+             "title":"Telefonla Arama Notları"
+            },
+           "form": {
+             "publish-site": "Yayınlandığı Site",
+             "publish-id": "İlan Numarası",
+             "publish-date": "İlan Tarihi",
+             "owner": "İlan Sahibi",
+             "currency-code": "Döviz Kuru",
+             "price": "Fiyat",
+             "phone": "Telefon Numarası",
+             "phone-2": "Telefon Numarası 2",
+             "note": "Görüşme Notunu Buraya Yazın"
+           },
+           "button":"İlan Kaydet",
+           "text3":" Harici kaynaklardan elde edilen ilan bilgilerini kayıt ederek ev sahipleri ile yapılan görüşmeler ile ilgili notlar oluşturabilirsiniz.",
+           "button1":"Kaydet"
+          }
+        },
+        "notes":{
+          "header":"Telefonla Arama Notları",
+          "text":"Diğer kaynaklardan bulunan ilanlara ait görüşme ve notları burada oluşturabilirsiniz.",
+          "new-record":"Yeni Kayıt Oluştur",
+          "web":"Yayınlandığı Site",
+          "number":"İlan Numarası",
+          "host":"İlan Sahibi",
+          "phone-number":"Telefon Numarası",
+          "price":"Fiyat",
+          "last-call":"Son Arama",
+          "details":"Detaylar"
+        },
+        "personal":"Şube Personeli",
+        "button":"Yeni Personel Kaydet",
+        "update":"Güncelleme Bekleniyor",
+        "edit":"Düzenle",
+        "report":"Raporu göster"
+      },
+      "statistics":{
+        "title":"İstatistikler",
+        "text":"Aylık ve günlük ev gezdirme / ev satma istatistiklerine bu sayfadan ulaşabilirsiniz.",
+        "home":"AYLIK EV ZİYARETİ",
+        "cust-portf":"MÜŞTERİ PORTFÖYÜM",
+        "adv-portf":"İLAN PORTFÖYÜM",
+        "call":"TELEFON GÖRÜŞMELERİ",
+        "weekly":"HAFTALIK İSTATİSTİKLER",
+        "mission":{
+          "title":"Görev İstatistikleri",
+          "task":"Bekleyen Görevlerim",
+          "text":"Başlatılmış ve henüz kapatılmamış görevleriniz.",
+          "close":"Görevi Kapat",
+          "unavailable":"Henüz bir görev başlatmamışsınız."
+        },
+        "variation":"Bir önceki aya göre",
+        "variation1":"değişim"
+      },
+      "branch":{
+        "tool":"Şube Yönetim Araçları",
+        "text":"Şubenize yapılan istekleri, yaptığınız ziyaretleri ve şubenize ait ilan portföyünü buradan yönetebilirsiniz.",
+        "missions":"Bekleyen Görevler",
+        "personal":"Şube Personeli",
+        "pers-exp":"Şube çalışanlarını listele",
+        "my-calendar":"Takvimim",
+        "calendar-exp":"Görevler ve görüşmeler için anımsatıcı",
+        "sale":"Şubeye Atanan Satılıklar",
+        "sale-exp":"Call-Center tarafından şubeye atanan ilanlar",
+        "branch-portfolio":"Şube Portföyü",
+        "branch-exp":"Şubenin yayında olan ilanları",
+        "company-portfolio":"Firma Portföyü",
+        "company-exp":"Firmanın toplam portföyü",
+        "visit-req":"Ziyaret İstekleri",
+        "visit-exp":"Online ev ziyareti istekleri",
+        "customer":"Müşteriler",
+        "customer-exp":"Şube Müşterileri",
+        "photo":"Fotoğrafçı Atamaları",
+        "photo-task":"Fotoğraf Görevleri",
+        "photo-exp":"Fotoğrafçı görev listesi",
+        "notes":"Telefonla Arama Notları",
+        "notes-exp":"Harici ilanlar için yapılan görüşmeler",
+        "all":"Tümünü Gör"
+      }
+    },
+    "dashboard":{
+      "damage":{
+        "add-damage":{
+          "record":"Yeni Hasar Kaydı Oluşturma",
+          "text":"Hasar kaydını oluşturmak için aşağıda yer alan Hasar Formu'nu ve Hasar Görselleri'ni tamamlayın.",
+          "form":"Hasar Formu",
+          "title1":"HASAR ADI",
+          "title2":"ONARIM BEKLENTİSİ",
+          "title3":"TAHMİNİ HASAR BEDELİ",
+          "message":"Mesajınız",
+          "picture":"Hasar Görselleri",
+          "upload":"Belgelerinizi Yükleyin",
+          "text1":"YALNIZCA .PDF .JPG .PNG UZANTILI DOSYALAR KABUL EDİLİR.",
+          "attention":"Bilgilendirme!",
+          "text2":"Hasar Formu'nda yer alan boşlukları eksiksiz ve anlaşılır olacak şekilde açıklayın. Hasar Görselleri'ne eklenen dosyanın yalnızca .JPG .PNG .PDF uzantılı olması gerekmektedir. Yüklenmiş olan görselin yüksek çözünürlüklü olmasına dikkat edin. ",
+          "summary":"Hasar Formu Özeti",
+          "date":"Ev 1 - 06 Aralık 2019",
+          "text3":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sodales ipsum felis, non varius ante feugiat vel. Pellentesque metus turpis, imperdiet ut turpis nec, tempus consectetur dolor. Mauris condimentum nisi elementum magna",
+          "button":"Formu Gönder"
+        },
+        "search":"Hasar Kayıtlarında Ara",
+        "title":"Yeni Hasar Kaydı Oluştur",
+        "text":"Evinizde herhangi bir hasar mı var? Hasarı bize bildirmek için bir kayıt oluşturun. İlerlemek için tıklayın. ",
+        "past":"Geçmiş Hasar Kayıtları",
+        "text1":"Daha önce oluşturduğunuz hasar kayıtlarını burada görüntüleyebilirsiniz.",
+        "button":"Tümünü Seç",
+        "date":"Tarihe Göre",
+        "price":"Fiyata Göre",
+        "situation":"Duruma Göre",
+        "damage-goods":"Hasarlı Eşya",
+        "sample":"Kombi Arızası",
+        "sample-date":"06.12.2019",
+        "sample-date1":"06 Aralık 2019",
+        "sample-price":"480.00 TL",
+        "notification":"Ev Sahibine Bildirildi",
+        "satisfy":"Satılıkfil Hasarı Karşıladı",
+        "reflect":"Hasar Ödemeye Yansıtıldı",
+        "waiting":"Ödeme Bekleniyor",
+        "chosen":"2 Hasar Kaydı Seçildi",
+        "sample-date2":"Ev 1 - 06 Aralık 2019 / Ev 2 - 09 Aralık 2019",
+        "button1":"Hasar Geçmişini Sil",
+        "button2":"Destek Talebi Oluştur"
+      },
+      "dashboard-mobile":{
+        "button":"Hesaplar Arası Geçiş Yap",
+        "button1":"Ev Sahibi Hesabına Geç",
+        "notifications":"Bildirimler",
+        "button2":"Tümünü Gör",
+        "sample-num":"43",
+        "new-notif":"Yeni Bildirim",
+        "sample-num2":"88",
+        "all":"Tümü",
+        "sample-num3":"16",
+        "inbox":"Gelen Kutusu",
+        "new-message":"Yeni Mesaj",
+        "sample-num4":"59",
+        "access":"Hızlı Erişim",
+        "profile":"Profilim",
+        "text":"Profilimi Güncelle",
+        "favorite":"Favorilerim",
+        "text1":"Favori İlanlarımı Gör",
+        "notification":"Gelir Bildirimi",
+        "text2":"Bildirimleri Listele",
+        "button3":"Bildirimde Bulun",
+        "text3":"Bildiri Yap",
+        "pay":"Ödeme Yap",
+        "text4":"Lorem ipsum dolor.",
+        "text5":"Lorem ipsum dolor.",
+        "approve":"Hesabınızı Onaylayın",
+        "approve1":"Hesabınızı onaylayın ve fırsatlardan yararlanın!"
+      },
+      "documents":{
+        "search":"Belgelerde Ara",
+        "document":"Belgeler",
+        "text":"Konut alım sürecinizle ilgili resmi belgeleri yükleyin, her şeyi tek platformdan takip edin!",
+        "upload":"Belgelerinizi Yükleyin",
+        "text1":"YALNIZCA .PDF .JPG .PNG UZANTILI DOSYALAR KABUL EDİLİR.",
+        "loading":"Yükleniyor",
+        "status":"%67 - 8 saniye kaldı",
+        "completed":"Yükleme Tamamlandı",
+        "rent-contract":"KİRA SÖZLEŞMESİ.PDF",
+        "past":"Geçmiş Yüklemelerim",
+        "text2":"Konut alım sürecinizle ilgili tüm belgeleriniz.",
+        "button":"Tümünü Seç",
+        "date":"Tarihe Göre",
+        "size":"Boyuta Göre",
+        "ext":"Uzantıya Göre",
+        "rent-contract1":"Konut Sözleşmesi",
+        "sample":"1 Dosya",
+        "sample-date":"06.12.2019",
+        "sample-date1":"06 Aralık 2019",
+        "sample-memory":"48MG",
+        "sample-ext1":".PDF",
+        "chosen":"1 Belgeniz Seçildi",
+        "sample-date2":"Konut Sözleşmesi - 06 Aralık 2019",
+        "delete":"Belge Geçmişini Sil",
+        "help":"Destek Talebi Oluştur"
+      },
+      "end-of-contract":{
+        "title":"Satış Sözleşmesi",
+        "text1":"Konut satışında kullanılan sözleşmeyi dilediğiniz zaman buradan inceleyebilirsiniz.",
+        "information":"Bilgilendirme!",
+        "text2":"Konut satış sözleşmesi, satışın gerçekleştiği tarihi, satış için mutabık kalınan fiyatı ve tarafların kimlik bilgilerini içerir. Daha fazla detay için sözleşmeye göz atın.",
+        "start-date":"Sözleşme Başlangıç Tarihi",
+        "sample-date":"06 Aralık 2019",
+        "finish-date":"Sözleşme Bitiş Tarihi",
+        "sample-date1":"06 Aralık 2020",
+        "time":"Kalan süre",
+        "sample-time":"2 Sene 254 Gün",
+        "contract-clauses":"Sözleşme Maddeleri",
+        "text":"tarafından oluşturulan",
+        "host":{
+          "title":"Ev Sahibi",
+          "item":"Lorem ipsum dolor",
+          "item1":"Lorem ipsum dolor",
+          "item2":"Lorem ipsum dolor",
+          "item3":"Lorem ipsum dolor",
+          "item4":"Lorem ipsum dolor",
+          "item5":"Lorem ipsum dolor"
+        },
+        "rental":{
+          "title":"Alıcı",
+          "item":"Lorem ipsum dolor",
+          "item1":"Lorem ipsum dolor",
+          "item2":"Lorem ipsum dolor",
+          "item3":"Lorem ipsum dolor",
+          "item4":"Lorem ipsum dolor",
+          "item5":"Lorem ipsum dolor"
+        },
+        "download":"Satış Sözleşmenizi Hemen İndirin.",
+        "text3":"Tek tıkla satış sözleşmenizi cihazınıza indirebilirsiniz. Turuncu butona basın."
+      },
+      "income":{
+        "document":"Gelirlerinizi Belgeleyin",
+        "text":" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id condimentum lectus. Aliquam ultricies pretium libero ut efficitur. Proin eu nunc neque. Nulla facilisi. In ut libero risus. Nam finibus enim dui, a convallis arcu finibus sed. Mauris id condimentum urna. Nunc elementum purus nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+        "text1":"Donec nec est at felis cursus ornare vitae id nisl. Duis pharetra sem tellus, in pharetra tellus ornare quis. Proin tellus ante, faucibus eu enim eu, tempor gravida augue. Aliquam vel facilisis nulla. Suspendisse id auctor est, sed lobortis elit. Vivamus sit amet enim nec lectus tempus auctor. Sed ultricies ac nisi in porttitor. Fusce suscipit a nibh eu ornare. Suspendisse potenti. Pellentesque mattis dolor sit amet libero tincidunt lacinia. Vestibulum nec aliquet justo. Maecenas a orci ligula. Suspendisse iaculis justo at sem ultricies molestie. In ut pulvinar mauris. Etiam ut enim vel arcu mollis faucibus. Vestibulum scelerisque ac est quis pharetra."
+      },
+      "my-property":{
+        "form":{
+          "edit-property":{
+            "send-advertisement":"İlan Gönderme",
+            "text":" Mülkünüze ait bilgileri görüntülemektesiniz. Adres ve metrekare gibi bilgiler doğrulanmış veriler olduğu için onları düzenleyemezsiniz ancak; İlan yayına alınana kadar evinizin özelliklerini güncelleyebilirsiniz.",
+            "update":"İlanı Güncelle"
+          }
+        },
+        "my-properties":"Mülklerim",
+        "text":"Satılıkfil’de listelenen tüm mülklerinizin aktif durumlarını kolayca takip edin.",
+        "all-properties":"Tüm Mülklerim",
+        "advertisement":"İlan",
+        "advertisement-date":"İlan Tarihi",
+        "rent":"Evin Değeri",
+        "situation":"Duruma Göre",
+        "button":"Düzenle"
+      },
+      "mylist":{
+        "favorite":"Favori İlanlarım",
+        "text":"Favorilere eklediğiniz ilanların tamamını burada bulabilirsiniz.",
+        "choice":"Bir seçim yapın...",
+        "order":"Sıralama Yapın"
+      },
+      "notifications":{
+        "title":"Satılıkfil Bildirimleri",
+        "text":"Konut alım süreci ile ilgili tüm problemlerinizi ekibimiz çözer. Bize bildirin!",
+        "all-properties":"Tüm Mülklerim",
+        "all":"Tümünü Seç",
+        "date":"Tarihe Göre",
+        "date-inc":"Tarihe Göre Azalan",
+        "date-dec":"Tarihe Göre Artan",
+        "delet":"Sil",
+        "situation":"Duruma Göre",
+        "answered":"Cevaplanmış",
+        "answer":"Yanıtla",
+        "closed":"Kapandı",
+        "notification":"Bildirim Çözüldü",
+        "unnotification":"Henüz bir bildiriminiz yok.",
+        "chosen":"2 Bildiriminiz Seçildi",
+        "delete":" Bildirim Geçmişini Sil",
+        "clear-all":"Tüm Bildirimleri Temizle",
+        "date1":"Tarih",
+        "create":"Yeni Bildirim Oluştur"
+      },
+      "payment":{
+        "title":"Konut Masrafları",
+        "text":"Konut masraflarınızı kategorilendirin, inceleyin ve faturalarınızı bulun.",
+        "button":"Tümünü Seç",
+        "date":"Tarihe Göre",
+        "price":"Fiyata Göre",
+        "sample-date":"06.12.2019",
+        "sample-date1":"06 Aralık 2019",
+        "sample-price":"600.45 TL",
+        "about":"Merhaba bir sorun hak..",
+        "sample":{
+          "title":"Ev 1",
+          "place":"Beylikdüzü, Beykent",
+          "text":"Gecikmiş Kira",
+          "button":"Şimdi Öde"
+        },
+        "sample1":{
+          "title":"Ev 2",
+          "place":"Şişli, Mecidiyeköy",
+          "text":"Fatura Ödendi"
+        },
+        "text1":"2 Bildiriminiz Seçildi",
+        "date1":"Ev 1 - 06 Aralık 2019 / Ev 2 - 09 Aralık 2019",
+        "button1":"Fatura Geçmişini Sil",
+        "button2":"Destek Talebi Oluştur"
+      },
+      "profile":{
+        "profile-mobile":{
+          "photo":{
+            "text":"Hesap Bağlama Hatası",
+            "photo-upload":"Fotoğraf Yükle",
+            "social":"Facebook Hesabını Bağla",
+            "save":"PROFİL FOTOĞRAFIMI KAYDET"
+          },
+          "profile-address":{
+            "title":"Adres Bilgisi Değişikliği",
+            "text":"Adres bilgilerinizi güncelleyerek yakınınızdaki satılıklardan haberdar olabilirsiniz.",
+            "confirm":"Adres Doğrulama",
+            "info":"ADRES BİLGİLERİNİZ",
+            "update":"BİLGİLERİMİ GÜNCELLE"
+          },
+          "profile-email":{
+            "title":"E-Posta Adresi Değişikliği",
+            "text":"Hesapınıza giriş için kullandığınız e-posta adresinizdir. E-Posta adresinize doğrulama mesajı gönderilecektir.",
+            "information":"Bilgilendirme",
+            "text1":"E-Posta adresinizi değiştirmek için şifre oluşturmalısınız.",
+            "error":"Güncelleme Hatası",
+            "mail":"E-POSTA ADRESİ",
+            "update":"BİLGİLERİMİ GÜNCELLE"
+          },
+          "profile-income":{
+            "title":"Gelirlerinizi Belgeleyin",
+            "text":" Gelirlerinizi belgeleyerek online ziyaret sırasında ya da evi satın alma durumunda bu belgeler ve bilgiler yararınıza olacaktır."
+          },
+          "profile-mylist":{
+            "favorite":"Favori İlanlarım",
+            "text":"Favori ilanlarınızı buraya ekleyerek daha sonra karşılaştırabilirsiniz. Aşağıdaki ilanlardan favorilerden çıkardığınız ilanlar başka bir bölüme geçene kadar geçerli olacaktır.",
+            "choice":"Bir seçim yapın...",
+            "order":"Sıralama Yapın"
+          },
+          "profile-name":{
+            "change":"Ad Soyad Değişikliği",
+            "text":"Ad ve Soyad bilgileriniz T.C Kimlik doğrulamada kullanılmaktadır. O nedenle gerçek bilgilerinizi kullanmalısınız. ",
+            "name":"ADINIZ",
+            "surname":"SOYADINIZ",
+            "update":"BİLGİLERİMİ GÜNCELLE"
+          },
+          "profile-password":{
+            "change":"Şifre Değişikliği",
+            "text":" Şifrenizi buradan güncelleyebilirsiniz, eğer sosyal medya ağlarından üyelik oluşturduysanız buradan şifrenizi oluşturun. Şifreniz olmadan e-posta adresi vb. bilgileri değiştiremezsiniz.",
+            "error":"Güncelleme Hatası",
+            "passwrd":"ŞİFRE",
+            "passwrd-repeat":"ŞİFRE TEKRARI",
+            "update":"BİLGİLERİMİ GÜNCELLE"
+          },
+          "profile-phone":{
+            "title":"Telefon Numaranızı Güncelleyin",
+            "text":" Hesabınızı bir telefon numarası ile bağlayabilirsiniz. Telefonunuza doğrulama kodu gönderilecektir.",
+            "error":"Güncelleme Hatası",
+            "num":"+90",
+            "num1":"+91",
+            "code":"KOD",
+            "phone":"TELEFON NUMARANIZ",
+            "update":"TELEFONUMU GÜNCELLE",
+            "text1":"SMS Gelmedi mi ?",
+            "text2":"Yeni Bir SMS İsteyin",
+            "button":"SMS DOĞRULA"
+          },
+          "profile-tckn":{
+            "title":"T.C. Kimlik Numarası Ekleme",
+            "text":"Kişisel bilgilerinizin güvenliği açısından ve faturanızda yer alabilmesi adına T.C Kimlik numaranızı eklemelisiniz.",
+            "notification":"TCKNo Doğrulanamadı",
+            "tcno":"T.C. Kimlik Numarası",
+            "year":"Doğum Yılınız",
+            "update":"BİLGİLERİMİ GÜNCELLE"
+
+          },
+          "pp":"Profil Fotoğrafı",
+          "update1":"Profil fotoğrafınızı güncelleyin",
+          "info":"Ad Soyad Bilgisi",
+          "update2":"Adınız ve soyadınızı güncelleyin",
+          "mail":"E-Posta Adresi",
+          "update3":"E-Posta adresinizi güncelleyin",
+          "phone":"Telefon Numarası",
+          "update4":"Telefon numaranızı güncelleyin",
+          "password":"Şifre Belirleme",
+          "update5":"Şifrenizi Güncelleyin",
+          "address":"Adres Bilgisi",
+          "update6":"Adresinizi güncelleyin",
+          "tcno":"T.C. Kimlik Numarası",
+          "text":"İşlemler için gereklidir.",
+          "button":"Kampanya Bildirimlerini Aç",
+          "button1":"Kampanyalardan haberdar olmak istiyorum"
+        },
+        "title":"Hoşgeldiniz",
+        "text":"Bir sonraki giriş için kendinize bir şifre tanımlamalısınız. Ayrıca ilerleyen işlemler için formdaki zorunlu alanları doldurmanızı tavsiye ederiz.",
+        "num":"9",
+        "num1":"4",
+        "complete-profile":"Profilini Tamamla",
+        "add-phone":"Telefon Numaranı Ekle",
+        "confirm-mail":"E-Posta Doğrula",
+        "confirm-tcno":"TC Kimlik No Onayla",
+        "bank-account":"Bir Ev Öner, Para Kazan",
+        "available":"Mevcut Bakiyeniz",
+        "num2":"0,00 TL",
+        "account":{
+          "address-info":"Adres Bilgileriniz",
+          "text3":"İkamet adresinizi bize bildirirseniz size ikametkahınıza yakın bölgelerden öneriler sunma şansımız olur.",
+          "pp":"Profil Fotoğrafı",
+          "text":"Profil fotoğrafınızı aşağıdaki alana yükleyin ve profilinizi kişiselleştirin.",
+          "upload-pp":"Profil Fotoğrafı Yükleyin",
+          "text1":"YALNIZCA .JPG .PNG UZANTILI DOSYALAR KABUL EDİLİR.",
+          "personal-info":"Kişisel Bilgileriniz",
+          "text2":"Kişisel bilgilerinizi profilinize kaydedin, Satılıkfil uygun avantajları size bildirsin!",
+          "name":"ADINIZ",
+          "surname":"SOYADINIZ",
+          "mail":"E-POSTA",
+          "code":"KOD",
+          "num":"+90",
+          "num1":"+91",
+          "phone":"TELEFON NUMARANIZ",
+          "tcno":"T.C. KİMLİK NUMARASI",
+          "info":"(Yasal zorunluluklardan dolayı gereklidir)",
+          "year":"DOĞUM YILINIZ",
+          "info1":"(T.C. Kimlik Numarası doğrulama için gereklidir.)",
+          "note":"T.C. Kimlik Numaranız Doğrulanamadı.",
+          "password":"Şifre",
+          "passwrd-repeat":"Şifre Tekrarı",
+          "address":"ADRES BİLGİLERİNİZ",
+          "city":"YAŞADIĞINIZ İL",
+          "town":"YAŞADIĞINIZ İLÇE",
+          "button":"Kampanya ve yeniliklerden SMS ve e-posta aracılığı ile bilgi almak istiyorum.",
+          "update":"Profilimi Güncelle"
+        }
+      },
+      "reporting":{
+        "title":"Ev Sahibine Bildirimde Bulun",
+        "text":"Satın almak istediğiniz evin sahibine bildirimde bulunun. Konutla ilgili bilgi alabilir, hasarlı alanlar ile ilgili soru sorabilir talebinizi iletebilirsiniz.",
+        "notification":{
+          "title":"Bildirim Oluştur",
+          "header":"BAŞLIK",
+          "amount":"TALEP EDİLEN TUTAR",
+          "message":"Mesajınız",
+          "title1":"Değişen / Hasar Gören / Ödeme Yapılan İhtiyaçlar",
+          "request":"NE İÇİN TALEP OLUŞTURUYORSUNUZ?",
+          "sample":"Kombi",
+          "sample1":"Doğalgaz Takıldı",
+          "sample2":"Duvar Boyandı",
+          "add":"Belge Ekleme",
+          "upload":"Belgelerinizi Yükleyin",
+          "text":"YALNIZCA .PDF .JPG .PNG UZANTILI DOSYALAR KABUL EDİLİR.",
+          "information":"Bilgilendirme!",
+          "text1":"Eklenen dosyanın yalnızca .JPG .PNG .PDF uzantılı olması gerekmektedir. Yüklenmiş olan görselin yüksek çözünürlüklü olmasına dikkat edin."
+        },
+        "summary":"Bildirim Özeti",
+        "sample-date":"Ev 1 - 06 Aralık 2019",
+        "text1":" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sodales ipsum felis, non varius ante feugiat vel. Pellentesque metus turpis, imperdiet ut turpis nec, tempus consectetur dolor. Mauris condimentum nisi elementum magna",
+        "button":"Formu Gönder"
+      },
+      "statistics":{
+        "title":"İstatistikler",
+        "text":"Satılıkfil hesabınızda ne kadar kazandığınızı, ne kadar ödediğinizi, kredi skorunuzu ve çok daha fazlasını buradan takip edin!",
+        "total-payed":"Toplam ödenen",
+        "sample-num":"2.420 TL",
+        "total-gain":"Toplam Kazanç",
+        "sample-num1":"480 TL",
+        "rental-time":"Kiracılık Süresi",
+        "sample-num2":"487 Gün",
+        "credit":"Kredi Notu",
+        "sample-num3":"9.5 Puan",
+        "notification":"Bildirim Sayısı",
+        "sample-num4":"84 Adet",
+        "contract":"Yüklü Belgeler",
+        "sample-num5":"4 Adet",
+        "damage":"Hasar Kayıtları",
+        "sample-num6":"22 Adet",
+        "message":"Destek Mesajları",
+        "sample-num7":"65 Adet"
+      },
+      "settings":{
+        "account":"Hesap Detayları ve Ayarları",
+        "text":"Buradan hesabınız ile ilgili şifre işlemleri, telefon, T.C. Kimlik doğrulama ve diğer sosyal medya hesaplarınızı bu hesabınıza bağlayabilirsiniz.",
+        "e-mail":{
+          "mail":"E-Posta Adresiniz",
+          "text":"Kullanıcı girişi ve diğer işlemleriniz için e-posta adresinizi bildirmelisiniz.",
+          "update":"E-Posta adresimi güncelle"
+        },
+        "password":{
+          "passwrd":"Uygulamaya Giriş Şifreniz",
+          "text":"Kullanıcı girişi için şifre belirlemelisiniz, daha önceden telefon veya sosyal ağlar üzerinden giriş yaptıysanız buradan şifre oluşturabilirsiniz.",
+          "update":"Şifremi güncelle",
+          "create":"Şifremi değiştirmek ya da oluşturmak istiyorum."
+        },
+        "phone":{
+          "telephone":"Telefon Numaranız",
+          "text":"Kullanıcı girişi ve diğer işlemleriniz için telefon numaranızı ekleyin.",
+          "update":"Telefon numaramı güncelle"
+        },
+        "tc":{
+          "info":"T.C. Kimlik Bilginiz",
+          "text":"Çevrimiçi ziyaret yapmak, kredi sorgulama ve satış işlemleriniz için T.C. Kimlik doğrulaması yapmanızı öneririz.",
+          "update":"T.C No Güncelle"
+        },
+        "social":{
+          "account":"Sosyal Medya Hesaplarınızı Bağlayın",
+          "text":"Sosyal medya hesaplarınızı bu hesaba bağlayarak her zaman aynı hesap üzerinden giriş yapmayı garantilemiş olursunuz.",
+          "error":"Hesap Bağlanamadı!"
+        }
+      },
+      "suggest-rental":{
+        "add-suggest":{
+          "title":"Konut Bildirimi Nasıl Çalışır?",
+          "text":"Satılıkfil çevrenizde satılmak için bekleyen konutları bilmek istiyor! Hemen bizimle iletişime geçin ve bize satılması istenen konutu gösterin. Konut sahibi ile görüşecek ve Satılıkfil avantajlarından söz edeceğiz. Konutun listelenmesi halinde size ‘’Referans Sistemi’’ dahilinde kazanç sağlıyoruz. Harika, öyle değil mi?",
+          "text1":"Kazancınız bununla sınırlı değil! Listelenmesi dolayısıyla komisyon kazandığınız daire satıldığında, size yeniden komisyon ödemeyeceğiz. Paylaşmayı seviyoruz!"
+        },
+        "table":{
+          "header":"Bize Konut Bildirimi Yapın!",
+          "text":"Satışı beklenen bir ev mi biliyorsunuz? Hemen bize bildirin, konutun listelenmesinden ve satışından ayrı ayrı komisyon alın!",
+          "new":"Yeni Konut Bildir ve Kazan"
+        },
+        "advert":{
+          "info":"İlan Bilgisi",
+          "gain":"Elde Edilen Kazanç",
+          "situation":"Duruma Göre"
+        },
+        "button":"Göster"
+      },
+      "support":{
+        "support-request":{
+          "help-code":"Destek Kodu",
+          "sample-code":"#4353565",
+          "situation":"Durum",
+          "situation1":"Cevap Bekleniyor",
+          "date":"Tarih",
+          "sample-date":"06 Aralık 2019",
+          "button":"Görüşmeyi Değerlendir",
+          "button1":"Konuşmayı Şikayet Et",
+          "text":" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sodales ipsum felis, non varius ante feugiat vel. Pellentesque metus turpis, imperdiet ut turpis nec, tempus consectetur dolor.",
+          "personal-name":"Furkan Tirit ,",
+          "personal":"Teknik Yetkili",
+          "text1":" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sodales ipsum felis, non varius ante feugiat vel. Pellentesque metus turpis, imperdiet ut turpis nec, tempus consectetur dolor.",
+          "message":"Mesaj Gönder",
+          "photo":"Fotoğraf Ekle",
+          "video":"Video Ekle"
+        },
+        "search":"Destek Taleplerinde Ara",
+        "title":"Yeni Destek Talebi Oluştur",
+        "text":"Yaşadığınız sorunu bize iletin, ekibimiz en kısa sürede yanıtlasın!",
+        "past":"Geçmiş Destek Taleplerim",
+        "text1":"Şimdiye kadar ilettiğiniz tüm destek talepleri listelenmiştir.",
+        "all":"Tümünü Seç",
+        "date":"Tarihe Göre",
+        "situation":"Duruma Göre",
+        "about-host":"Ev Sahibi Hakkında",
+        "help-code":"Destek Kodu: #4353513",
+        "sample-date":"06.12.2019",
+        "sample-date1":"06 Aralık 2019",
+        "closed":"Kapandı",
+        "solved":"Talep Çözüldü",
+        "waiting":"Yanıt Bekleniyor",
+        "answered":"Cevaplanmış",
+        "answer":"Yanıtla",
+        "title1":"2 Destek Talebi Seçildi",
+        "sample-date2":"Ev 1 - 06 Aralık 2019 / Ev 2 - 09 Aralık 2019",
+        "button":"Talep Geçmişini Sil"
+      },
+      "visit-requests":{
+        "modal":{
+          "rate-modal":{
+            "title":"Çevrimiçi Ziyaretiniz Nasıl Geçti?",
+            "text":"Fikirlerinize ihtiyacımız var! Hemen puanlayın!",
+            "sample-personal":"Berkay Erdinç",
+            "personal":"Satılıkfil Danışmanı",
+            "past":"Önceki",
+            "evaluate":"Değerlendir",
+            "next":"Sonraki"
+          },
+          "visit-request-info-modal":{
+            "title":"Gelecek Ziyaret Detayları",
+            "text":"Bir sonraki ziyaretiniz çoktan hazır! Detayları inceleyin.",
+            "support":"Desteğe ihtiyacınız mı var?",
+            "text1":"Bize",
+            "text3":"0850 000 00 00",
+            "text2":"üzerinden ulaşın!",
+            "change":"Ziyaret Tarihini Değiştir",
+            "determine-date":"Tarih aralığı belirleyin",
+            "text4":"15 günlük aralıkta seçim yapabilirsiniz. Müsait olduğunuz tarih aralığına göre size yeni randevu tarihi atanacaktır.",
+            "save":"Değişiklikleri Kaydet",
+            "cancel":"Vazgeç"
+          }
+        },
+        "title":"Randevu Taleblerim",
+        "text":"Randevu taleplerinizi bu sayfadan izleyebilir, değişikliklerden haberdar olabilirsiniz.",
+        "filter":{
+          "all-visit":"Tüm Ziyaretler",
+          "past-visit":"Geçmiş Ziyaretlerim",
+          "future-visit":"Gelecek Ziyaretlerim"
+        },
+        "filter2":{
+          "time":"Zaman Aralığı",
+          "situation":"Duruma Göre",
+          "point":"Puana Göre",
+          "date":"Tarih Aralığı"
+        },
+        "table":{
+          "date":"Tarihi için Planlandı",
+          "past":"Geçmiş Ziyaret",
+          "expected":"Randevu tarihi bekleniyor",
+          "cancel":"Randevunuz iptal edildi"
+        },
+        "edit":"Düzenle",
+        "points":"Puan Ver",
+        "n-available":"Herhangi bir ziyaret isteğiniz yok.",
+        "text2":"Beğendiğiniz ilanların detay bölümünde istek yapabilirsiniz",
+        "advertisement-info":"İlan Bilgisi",
+        "price":"Fiyatı",
+        "date":"Randevu Tarihi",
+        "advisor":"Danışmanınız",
+        "status": {
+          "all": "Tüm Ziyaretler",
+          "online_visit_request": {
+            "label": "Onay Bekleyenler",
+            "value": "Onay Bekleyeniyor"
+          },
+          "set_scheduled": {
+            "label": "Planlanmış Ziyaretler",
+            "value": "Planlandı"
+          },
+          "change_visit_range": {
+            "label": "Tarihi Değişenler",
+            "value": "Yeni Randevu"
+          },
+          "cancel_visit": {
+            "label": "İptal Edilenler",
+            "value": "İptal Edildi"
+          },
+          "start_visiting_in_branch": {
+            "label": "Ev Ziyareti",
+            "value": "Ev Ziyareti"
+          },
+          "visit_completed": {
+            "label": "Tamamlanmış Ziyaretler",
+            "value": "Tamamlandı"
+          }
+        }
+      },
+      "unauthorized-account":{
+        "account-confirm":"Hesabınızı Onaylayın",
+        "text":"Satılıkfil’in tüm fonksiyonlarını kullanabilmek için hemen hesabınızı onaylayın. Tek yapmanız gereken şey T.C. Kimlik Belgenizi buraya yüklemek. Satılıkfil, verilerinizi hiçbir üçüncü parti uygulamada paylaşmaz ya da kullanmaz.",
+        "block":{
+          "account":"Onaylı hesabınız",
+          "text":"ile",
+          "rosette":"mavi rozet",
+          "text1":"kazanın."
+        },
+        "upload":{
+          "header":"T.C. Kimlik Belgesi Nasıl Yüklenmeli?",
+          "text":"Satılıkfil hesabınızı onaylamak için T.C. Kimlik Belgenizin ön ve arka yüzünü ayrı ayrı fotoğraflayarak buraya yükleyin. Yüklediğiniz fotoğraflarda yazıların okunaklı olması gerekmektedir.",
+          "tc-card":"T.C. KİMLİK KARTINIZ",
+          "text1":"Yazılar Okunacak Şekilde Yüklenmeli",
+          "front-face":"T.C. Kimlik Belgesi Önyüz",
+          "sample":"Lütfen T.C. Kimlik Belgenizi Örnekteki Gibi Ekleyin!",
+          "file-type":"YALNIZCA JPG . PNG UZANTILI DOSYALAR KABUL EDİLİR.",
+          "back-face":"T.C. Kimlik Belgesi Arkayüz",
+          "confirm":"Hesabımı Onayla"
+        }
+      },
+      "opportunities":{
+        "header":"Satılıkfil Fırsatlarından Yararlanmaya Hazır Mısınız?",
+        "text":"Satılıkfil, konut almak isteyen tüm kullanıcılarına çeşitli fırsatlarla ek gelir sunar. Fırsatları yakından tanıyın ve dijital emlakçılık sistemi ile kazanmaya devam edin!",
+        "block":{
+          "rosette":"Mavi Rozet",
+          "text":"çalışıyor! Aşağıdaki ",
+          "opportunity":"fırsatların",
+          "text1":"hepsini sizin için hazırladık!"
+        },
+        "items":{
+          "list":"Satılıkfil ile Konut Listeleterek Kazan",
+          "text":"Çevrende konut satmak isteyen tanıdıkların mı var? Hemen Satılıkfil’e mülk bildirimi yap. Referans kampanyasından gelir elde et!",
+          "sell":"Satılıkfil ile Konut Sattırarak Kazan",
+          "text1":"Satılıkfil, senin aracılığın ile listelenen her konutun satışında sana belli bir oranda komisyon verir. İşte gerçek ek gelir fırsatı!",
+          "talk":"Satılıkfil ile Konuş",
+          "text2":"Ev hakkında kafana takılan bir şey mi var? Satılıkfil güvencesinden faydalan! Ev sahibi ile iletişime geçmeye hiç gerek kalmadan hemen bizimle görüş. Biz sorunu hallederiz!",
+          "sale":"Satılıkfil ile İndirimleri Yakala",
+          "text3":"Partnerlik yaptığımız şirketlerden aldığın hizmetlerde ek indirimlerden yararlanarak evini yeniden kur. Bu süreçte masraflarının çok olduğunu biliyoruz! Satılıkfil destek olur.",
+          "surprise":"Satılıkfil ile Sürprizlere Hazır Ol",
+          "text4":"Sahip olduğun mavi rozet, sadece senin için hazırlanan sürpriz fırsatlar anlamına gelebilir. Beklemede kal, harika şeyler hazırlıyoruz!",
+          "time":"Satılıkfil ile Zaman Kazan",
+          "text5":"Dijital emlakçığın en iyi yanı, modern randevu sistemi ile kazandırdığı zaman! Satılıkfil seni ve zamanını önemser.",
+          "button":"Hemen Keşfet"
+        }
+      }
+    }
+  } 
+}

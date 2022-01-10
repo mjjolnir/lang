@@ -1,0 +1,2137 @@
+{
+  "layouts": {
+    "header": {
+      "logo": {
+        "title": "Fare clic per tornare alla pagina principale"
+      },
+      "search": {
+        "placeholder": "Cerca per parola chiave."
+      },
+      "menu": {
+        "owner_manual": {
+          "text": "Directory host",
+          "title": "Pubblica la tua proprietà con Elephant for Hire."
+        },
+        "hirer_manual": {
+          "text": "Elenco tenant",
+          "title": "Nessun deposito! Soluzioni professionali!"
+        },
+        "publish": {
+          "text": "INVIARE",
+          "title": "Invia notifiche di nuovi annunci per guadagnare denaro"
+        },
+        "login": {
+          "text": "Accesso",
+          "title": "Devi accedere per dichiarare una casa, affittarla, pagare l'affitto"
+        },
+        "user": {
+          "notifications": {
+            "title": "Fare clic per visualizzare le notifiche"
+          },
+          "messages": {
+            "title": "Fare clic per visualizzare i messaggi"
+          },
+          "avatar": {
+            "title": "Selezionare dal menu per accedere al pannello utente"
+          },
+          "links": {
+            "code": {
+              "text": "Codice supporto",
+              "title": "Ti verrà chiesto di fornire questo codice per il supporto quando richiesto."
+            },
+            "customer_panel": {
+              "text": "Pannello cliente",
+              "title": "Fare clic per accedere al pannello del cliente."
+            },
+            "account": {
+              "text": "Il mio account",
+              "title": "Fare clic per visualizzare le informazioni sul profilo."
+            },
+            "estate": {
+              "text": "Gestione degli annunci",
+              "title": "Fare clic qui per gestire la pubblicazione."
+            },
+            "suggest": {
+              "text": "Suggerisci una casa e guadagna",
+              "title": "Fare clic per guadagnare denaro dando suggerimenti sulla casa."
+            },
+            "favorites": {
+              "text": "Elenchi preferiti",
+              "title": "Fare clic per visualizzare i messaggi preferiti."
+            },
+            "logout": {
+              "text": "disconnessione",
+              "title": "Clicca qui per chiudere la sessione."
+            }
+          }
+        },
+        "language": {
+          "title": "Scegli dal menu per la selezione della lingua."
+        }
+      }
+    },
+    "footer": {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Domani è specializzato nel prezzo di fermentazione Mauris. Anche di lorem manifatturiero. Sapien si siede in chat",
+      "email": "email@satilikfil.com",
+      "career": {
+        "title": "carriera",
+        "item": "Essere un broker",
+        "item1": "Diventa un fotografo",
+        "item2": "Diventa un ricercatore",
+        "item3": "Regioni servite",
+        "item4": "Prezzo di affitto per quartiere"
+      },
+      "list": {
+        "title": "Elenca una proprietà",
+        "text": "Incontra partner immobiliari",
+        "goal": "Lavori alla portineria?",
+        "goal1": "Circa il quinto piano",
+        "goal2": "Scopri la garanzia del quinto piano",
+        "goal3": "Centro assistenza"
+      },
+      "text1": "© 2019 satilikfil.com Tutti i diritti riservati.",
+      "contract1": "politica sulla riservatezza",
+      "contract2": "Accordo per gli utenti",
+      "contract3": "Contratto di vendita a distanza"
+    },
+    "mobile-layout": {
+      "account": {
+        "login": "Accedi al tuo account",
+        "register": "Creare un profilo"
+      },
+      "panel": {
+        "title": "Il mio pannello di accesso",
+        "host-guide": "Directory host",
+        "tenant-guide": "Elenco tenant",
+        "post-ad": "Pubblica annuncio",
+        "sss": "Domande frequenti",
+        "contract1": "Accordo per gli utenti",
+        "contract2": "politica sulla riservatezza",
+        "logout": "disconnessione"
+      },
+      "title": "BENVENUTO DI NUOVO"
+    },
+    "panel-layout": {
+      "dashboard": {
+        "home": "Pagina iniziale",
+        "profile": "Profilo",
+        "my-favorite": "i miei preferiti",
+        "gain": "Guadagnare soldi",
+        "my-property": "Le mie proprietà"
+      },
+      "available-account": "Il tuo saldo attuale",
+      "menu": {
+        "access": "Accesso veloce",
+        "pay-rent": "Pagamento dell'affitto",
+        "notification": "Notifica",
+        "contract": "Documentazione",
+        "damage": "Danni",
+        "support": "Supporto",
+        "statistic": "Statistiche",
+        "end-contract": "Risoluzione del contratto"
+      },
+      "button": "Conferma il tuo account e approfitta delle offerte di Elephant Hire!",
+      "button1": "Conferma il mio account",
+      "account": {
+        "title": "Benvenuto,",
+        "button": "Visualizza le informazioni del mio profilo",
+        "logout": "disconnessione"
+      },
+      "re-account": "Passaggio da un account all'altro",
+      "host-page": "Account host",
+      "notifications": "Notifiche",
+      "header": {
+        "title1": "Un nuovo annuncio di casa è stato pubblicato nella tua zona!",
+        "title2": "Il tuo nuovo annuncio è diventato popolare!",
+        "title3": "Il tuo annuncio è stato segnalato!"
+      },
+      "inbox": "La tua casella di posta"
+    }
+  },
+  "data": {
+    "affinity": {
+      "my_neighbor": "Il mio vicino di casa",
+      "owner": "Sono il proprietario della casa",
+      "my_relative": "Mio parente",
+      "friend": "Amico",
+      "no_relation": "Non ho alcuna intimità"
+    },
+    "suggest": {
+      "status": {
+        "wait": "In attesa di approvazione",
+        "publish": "Pubblicato sul sito",
+        "loan": "Casa tenuta",
+        "expired": "Scaduto",
+        "noaccept": "Non approvato",
+        "inprogress": "Elaborato"
+      },
+      "substatus": {
+        "inprogress": "Elaborazione dei dati",
+        "inspecting": "Annuncio in corso di revisione",
+        "publish": "L'annuncio è online",
+        "perc10": "10% dell'affitto iniziale",
+        "total": "I tuoi guadagni totali",
+        "noaccept": "Conferma non riuscita",
+        "notreachable": "Non è stato possibile raggiungere il telefono"
+      },
+      "localstatus": {
+        "wait": "In attesa di transazione",
+        "appointed": "Nomina del fotografo",
+        "photowait": "In attesa di caricamento della foto",
+        "upload": "Foto caricate",
+        "publish": "Pubblicato sul sito"
+      },
+      "photostatus": {
+        "wait": "In attesa di caricamento della foto",
+        "upload": "Foto caricate"
+      }
+    }
+  },
+  "core": {
+    "forms": {
+      "common": {
+        "price-area": "Informazioni su prezzo e m2",
+        "square-meter": "Metri quadrati",
+        "net-meter": "Metro quadro netto",
+        "price": "Prezzo",
+        "exchange-rate": "Tasso di cambio"
+      },
+      "income-form": {
+        "title": "SUL TUO REDDITO",
+        "text": "Aggiungi file per dimostrare il tuo reddito extra!",
+        "text1": "SOLO JPG. SI ACCETTANO FILE ESTESI IN PNG.",
+        "update": "AGGIORNA LE MIE INFORMAZIONI"
+      },
+      "property-edit-form": {
+        "title": "Informazioni sull'elenco",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. mauris",
+        "properties": {
+          "title": "Funzionalità degli annunci",
+          "property1": "Annuncio in primo piano",
+          "property2": "Avviso di vetrina"
+        },
+        "advertisement-title": "Titolo dell'annuncio",
+        "help": "Aiuto",
+        "add-advertisement": "Scrivi il titolo dell'annuncio",
+        "address": "Informazioni sull'indirizzo",
+        "advertisement-description": "Descrizione dell'annuncio",
+        "add-advertisement1": "Scrivi la descrizione del tuo annuncio",
+        "home-facility": "Servizi per la casa",
+        "locked": "Questa area è bloccata",
+        "home-property": "Caratteristiche della casa",
+        "save": "Salva"
+      },
+      "suggest-form": {
+        "header": {
+          "title": "Invia le tue informazioni di proprietà",
+          "p": "e al resto pensiamo noi!"
+        },
+        "notification": "avvertimento",
+        "text": " Non puoi fare un'offerta di noleggio senza confermare il tuo numero di telefono.",
+        "button": "Clicca qui",
+        "button1": "conferma il tuo telefono.",
+        "field": {
+          "affinity": {
+            "placeholder": "Cosa ottieni con l'host?",
+            "default": "Cosa ottieni con l'host?"
+          },
+          "host": {
+            "code": "Casa",
+            "num": "+90",
+            "num1": "+91",
+            "phone-number": "Numero di telefono host"
+          },
+          "owner": {
+            "placeholder": "Ad sooyad"
+          },
+          "address": {
+            "placeholder": "Indirizzo"
+          }
+        },
+        "submit": {
+          "text": "Suggerisci una casa",
+          "title": "Clicca qui per suggerire una nuova casa"
+        },
+        "success": {
+          "title": "La tua segnalazione è stata inviata.",
+          "p1": "Dopo aver esaminato le informazioni sull'annuncio, puoi seguire l'avanzamento nell'elenco.",
+          "p2": "Grazie per la segnalazione.",
+          "button": {
+            "text": "Fai altro avviso",
+            "title": "Fare clic qui per pubblicare nuove notifiche di annunci"
+          }
+        }
+      },
+      "suggestion-edit-form": {
+        "header": {
+          "title": "Informazioni sull'host",
+          "text": "Proprietario della proprietà e informazioni di contatto. Verificare lo stato della proprietà e riferire il proprietario all'iscrizione se non è presente alcuna iscrizione."
+        },
+        "notification": "avvertimento",
+        "text": "Con queste informazioni sul noleggio, non è più possibile apportare modifiche, poiché il processo è stato avviato dai team di kirafil.com. Tuttavia, puoi comunque scriverci utilizzando il campo di immissione della nota sottostante.",
+        "owner": {
+          "name": "Nome e cognome",
+          "phone-number": "Numero di telefono"
+        },
+        "notification1": "Errore di creazione dell'utente",
+        "property-owner": "Inizia l'abbonamento con il telefono del proprietario.",
+        "explanation": "Questo telefono",
+        "explanation1": "Registrato con il nome.",
+        "button": "Puoi aggiornare il nome dell'host facendo clic qui.",
+        "property-info": {
+          "address-info": "Informazioni sull'indirizzo del bene immobile",
+          "confirm": "Dopo aver confermato le condizioni della casa dal proprietario, confermare le informazioni sull'indirizzo.",
+          "address": "Indirizzo della proprietà"
+        },
+        "location": "Voglio scegliere la mia posizione sulla mappa",
+        "notification2": "Indirizzo errato",
+        "update": "Aggiorna le informazioni sulla proprietà",
+        "notes": "Appunti",
+        "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Insalata nutritiva e sorriso caldo deducibili, diceva arachidi volute. Casella di terapia di Mecenate o al momento.",
+        "add-note": "Scrivi una nota per l'elenco",
+        "help": "Aiuto"
+      }
+    },
+    "modules": {
+      "card-item": {
+        "header": "POST IN EVIDENZA",
+        "meter": "m",
+        "apartment": "cerchio",
+        "rental": "Da affittare",
+        "total": "Totale",
+        "start-visit": "Inizia una visita"
+      },
+      "expandable": {
+        "header": "POST IN EVIDENZA",
+        "month": "mensile",
+        "photo": "Foto",
+        "room": "Camera",
+        "saloon": "Soggiorno",
+        "bath": "Bagno"
+      },
+      "file-uploader": {
+        "title": "Carica la foto del profilo",
+        "text": "SOLO .JPG. SI ACCETTANO FILE ESTESI IN PNG.",
+        "button": "X"
+      },
+      "like-button": {
+        "button": "Aggiungi ai preferiti",
+        "button1": "Nella tua lista dei preferiti"
+      },
+      "property-filter-panel": {
+        "close": "Vicino",
+        "count-adv": "annunci trovati.",
+        "clean-filter": "Filtro pulito",
+        "property": {
+          "price": "Prezzo",
+          "min": "Minimo",
+          "max": "Massimo",
+          "tl": "TL",
+          "meter": "m2",
+          "area": "LA ZONA"
+        },
+        "label": "Non importa",
+        "homepage": "Pagina iniziale",
+        "order": {
+          "state": "Più rilevanti",
+          "state1": "Decrescente per prezzo",
+          "state2": "Aumento del prezzo"
+        },
+        "button": "filtri",
+        "popular": "Scelte popolari",
+        "text": "Da noi",
+        "text1": "proprietà selezionate.",
+        "button1": "Visualizza"
+      },
+      "uploader-modal": {
+        "button": "abbandonare",
+        "button1": "Spedire"
+      }
+    }
+  },
+  "modules": {
+    "common": {
+      "mobile": {
+        "title": "FIL IN AFFITTO",
+        "title1": "Adesso in tasca!",
+        "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Bambini di pallavolo per rilassarsi. Stress televisione sapien",
+        "text": "Scarica l'app",
+        "appstore": "App Store",
+        "playstore": "Play Store"
+      }
+    },
+    "home": {
+      "home-mobile": {
+        "text": "Elephant for Hire semplifica il tuo lavoro!",
+        "text1": "Se vuoi vedere la casa, il nostro consulente professionale ti accompagnerà gratuitamente.",
+        "options:": {
+          "city": "SELEZIONA CITTÀ",
+          "neighborhood": "SELEZIONA SEMT",
+          "budget": "SELEZIONA BUDGET AFFITTO",
+          "room": "SCEGLI IL NUMERO DI CAMERE",
+          "button": "INCHIESTA"
+        }
+      },
+      "header": {
+        "title": "È difficile affittare una casa",
+        "sub1": "Elefante a noleggio",
+        "sub2": "ti semplifica il lavoro!"
+      },
+      "buttons": {
+        "top-city": {
+          "title": "Città"
+        },
+        "top-neighboorhood": {
+          "title": "Quartiere"
+        },
+        "price": {
+          "text": "Budget in affitto"
+        },
+        "bed-info": {
+          "text": "Numero di stanze"
+        },
+        "text": "INCHIESTA"
+      },
+      "host": {
+        "text": "Per i proprietari di abitazione",
+        "statement": "Lorem ipsum carote",
+        "statement1": "Lorem ipsum carote",
+        "statement2": "Lorem ipsum carote"
+      },
+      "extra-info-host": {
+        "text": "Per saperne di più"
+      },
+      "renter": {
+        "text": "Per gli inquilini",
+        "statement": "Lorem ipsum carote",
+        "statement1": "Lorem ipsum carote",
+        "statement2": "Lorem ipsum carote"
+      },
+      "extra-info-rent": {
+        "text": "Per saperne di più"
+      },
+      "advertisement": {
+        "title": "Gli elenchi più recenti di Rental Elephant",
+        "text": "Filtra i nuovi annunci per città",
+        "text1": "Per saperne di più"
+      },
+      "advantages": {
+        "title": "PERCHÉ DOVREI USARE IL FIL IN AFFITTO?",
+        "text": "Scopri i vantaggi di un elefante a noleggio!",
+        "button1": "Sto affittando la mia casa",
+        "button2": "Alla ricerca di una nuova casa",
+        "title1": "Locato più velocemente",
+        "text1": "Usiamo la tecnologia per trovare l'inquilino giusto e la tua proprietà ha meno tempi di fermo.",
+        "title2": "Affittare bugie in tempo ogni mese",
+        "text2": "Anche se l'inquilino è inadempiente senza documenti, lo riceverai il giorno dell'accettazione.",
+        "title3": "Tieni traccia di tutte le transazioni",
+        "text3": "Analizziamo l'affitto dall'inizio alla fine e monitoriamo tutto ciò che è mobile: visite, offerte, contratti online e amministrazione.",
+        "text4": "Ottieni maggiori informazioni"
+      },
+      "solution": {
+        "title": "SCOPRI LE SOLUZIONI DI NOLEGGIO!",
+        "text": "Il tuo link, imprenditore",
+        "text1": "sconto e per te",
+        "text2": "vale i soldi.",
+        "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In una chiacchierata odio la salsa di carote. Sito dei prodotti Lipsum.",
+        "text3": "Ottieni maggiori informazioni"
+      },
+      "nest": {
+        "title": "TROVARE UNA CASA CON CASA È MOLTO FACILE!",
+        "text": "Ciao io,",
+        "text1": "Casa!",
+        "text2": "100% gratuito",
+        "statement": "Sono molto intraprendente oltre che dolce. Come sai, gli elefanti sono tra gli animali più intelligenti. Se mi descrivi la casa che cerchi, posso inviare una e-mail se vuoi, se vuoi, posso inviare un SMS se vuoi.",
+        "text3": "Casa, trovami a casa!"
+      },
+      "list-inf": {
+        "title": "È MOLTO FACILE ELENCARE LA PROPRIETÀ DEL FILM A NOLEGGIO!",
+        "text": "Elenca la tua casa ora!",
+        "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Enea e la cura del. Ma ogni livello. dolore. Ora che i grandi giocatori. Cras suscipit, urna sagittis vulputate dignissim, un leone, il dolore del traffico libero, non ci sono proteine lunghe dalla ligula. Fusce si siede amet tortor che desidera. Per.",
+        "text1": "Elenca la tua proprietà"
+      },
+      "cities": {
+        "title": "FIL IN AFFITTO IN 29 CITTÀ",
+        "text": "Ora siamo nella tua città!",
+        "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Enea e la cura del. ogni"
+      },
+      "component-cities": {
+        "text": "Vedi altro"
+      }
+    },
+    "auth": {
+      "forms": {
+        "enter-password-form": {
+          "title": "Per apportare modifiche, è necessario confermare la password di accesso all'applicazione.",
+          "passform": {
+            "provider": "Seleziona Gestione accesso account",
+            "password": "Parola d'ordine"
+          },
+          "button1": "abbandonare",
+          "button2": "Approvare"
+        },
+        "login-form": {
+          "text": "Impossibile accedere",
+          "text1": "EMAIL O TELEFONO",
+          "loginPsw": "PAROLA D'ORDINE",
+          "lostPsw": "Hai dimenticato la tua password?",
+          "button1": "Accesso",
+          "button2": "Crea un nuovo account",
+          "social-buttons": "ACCEDI CON IL TUO ACCOUNT SOCIAL MEDIA"
+        },
+        "reset-password-form": {
+          "title": "Operazioni con password",
+          "resetForm": {
+            "text": "INDIRIZZO EMAIL"
+          }
+        },
+        "sms-validator-form": {
+          "text": "Inserisci il codice di verifica a 6 cifre",
+          "text1": "Che inviamo al tuo numero di telefono",
+          "text2": "è necessario inserire il codice.",
+          "notification": {
+            "text3": "Non è stato possibile verificare il codice SMS, riprova.",
+            "text4": "SMS non ricevuti?",
+            "tex5": "Richiedi un nuovo SMS"
+          },
+          "button": {
+            "text1": "abbandonare",
+            "text2": "Confermare"
+          }
+        }
+      },
+      "login": {
+        "title": "Ancora",
+        "title1": "Il tuo account",
+        "title2": "non è qui?",
+        "text": "Vedi le proprietà per Elephant in affitto e per proprietà pubblicata",
+        "text1": "100 $",
+        "text2": "più primo affitto",
+        "text3": "% 10",
+        "text4": "guadagnare la farina",
+        "button": "Crea un nuovo account",
+        "button1": "Accesso",
+        "text5": "Ben tornato!"
+      },
+      "mobile": {
+        "m-login": {
+          "title": "BENVENUTO",
+          "button": "Accedi al tuo account",
+          "loginForm": {
+            "text": "Email o telefono",
+            "text1": "PAROLA D'ORDINE",
+            "text2": "La password non è richiesta per accedere con il numero di telefono.",
+            "text3": "Dovrai confermarlo con il codice sms."
+          },
+          "doLogin": {
+            "title": "ACCEDI AL MIO ACCOUNT",
+            "button": "Hai dimenticato la tua password?",
+            "text": "Non hai ancora un conto?",
+            "button1": "Crea un account"
+          }
+        }
+      },
+      "modal": {
+        "login-modal": {
+          "button": "abbandonare",
+          "button1": "Accesso"
+        },
+        "reset-modal": {
+          "button": "abbandonare",
+          "button1": "Resetta la password"
+        }
+      },
+      "register": {
+        "kvkk-modal": {
+          "text": "Duis eleifend, metus vel adipiscing pellentesque ipsum nulla convallis massa, non ornare pharetra faucibus eu at the farmacia. Cartone di Ut e valle di arachidi. Non avevo freni, ora la gonna vita ecologica si è laureata. Ogni autore di giocatori da un computer per il trucco macro. elit dignissim ultricies della vita stessa, il potere del cioccolato. Lorem football football pot fino a morbido in tutto il paese. Duis ut nulla luctus, elit at tellus sit amet, consectetuer adipiscing elit. Calcio calcio ma ora finanziamento immobiliare. Nullam cursus enim congue velit quis fringilla. Donec eget tristique great, the jaws of life now. Prima del primo assaggio di lutto e clinica, la pallacanestro ha impostato le loro cure; Consectetuer justo ac, mia cara, né feugiat posuere tortor arcu feugiat fear, non è una disgrazia non solo accresciuta del prezzo di un grande. Il portico e non sedersi amet, accumsan nulla non, lobortis lacus. Elemento nutritivo nibh le fauci del Giappone e il piatto. Come la pallavolo e la temperatura era incinta. Donec eu venenatis risus, nec dignissim urna.",
+          "button": "sono d'accordo",
+          "button1": "abbandonare"
+        },
+        "tcno-modal": {
+          "text": "Duis eleifend, metus vel adipiscing pellentesque ipsum nulla convallis massa, non ornare pharetra faucibus eu at the farmacia. Cartone di Ut e valle di arachidi. Non avevo freni, ora la gonna vita ecologica si è laureata. Ogni autore di giocatori da un computer per il trucco macro. elit dignissim ultricies della vita stessa, il potere del cioccolato. Lorem football football pot fino a morbido in tutto il paese. Duis ut nulla luctus, elit at tellus sit amet, consectetuer adipiscing elit. Calcio calcio ma ora finanziamento immobiliare. Nullam cursus enim congue velit quis fringilla. Donec eget tristique great, the jaws of life now. Prima del primo assaggio di lutto e clinica, la pallacanestro ha impostato le loro cure; Consectetuer justo ac, mia cara, né feugiat posuere tortor arcu feugiat fear, non è una disgrazia non solo accresciuta del prezzo di un grande. Il portico e non sedersi amet, accumsan nulla non, lobortis lacus. Elemento nutritivo nibh le fauci del Giappone e il piatto. Come la pallavolo e la temperatura era incinta. Donec eu venenatis risus, nec dignissim urna.",
+          "button": "Vicino"
+        },
+        "title": "Un esistente",
+        "title1": "Il tuo account",
+        "title2": "È lì?",
+        "text": "Vedi le proprietà per Elephant in affitto e per proprietà pubblicata",
+        "text1": "100 $",
+        "text2": "più primo affitto",
+        "text3": "% 10",
+        "text4": "guadagnare la farina",
+        "button": "Accedi al tuo account",
+        "create": {
+          "title": "Creare un profilo",
+          "text": "Siamo stati felici di vederti tra noi :)",
+          "title1": "Le tue credenziali TC.",
+          "text1": "Abbiamo bisogno di queste informazioni per fissare un appuntamento.",
+          "text2": "Puoi saltare questo passaggio se lo desideri.",
+          "text3": "Ancora un ultimo passo!",
+          "text4": "Al termine dell'iscrizione, è possibile avviare immediatamente la procedura di appuntamento.",
+          "title2": "Inserisci il codice di verifica a 6 cifre",
+          "text5": "Che inviamo al tuo numero di telefono",
+          "text6": "è necessario inserire il codice."
+        },
+        "userForm": {
+          "text": "IL TUO NOME",
+          "text1": "IL TUO COGNOME",
+          "text2": "E-POSTA",
+          "text3": "Parola d'ordine",
+          "text4": "Ripeti password",
+          "text5": "Le password non sono le stesse.",
+          "text6": "KVKK",
+          "text6-1": "Ho letto e accettato il suo contratto.",
+          "text6-2": "Per l'iscrizione, è necessario approvare l'accordo KVKK.",
+          "text7": "L'indirizzo e-mail è già registrato, invece delle transazioni di iscrizione",
+          "button": "Accedere",
+          "text8": "vorresti",
+          "text9": "Passo successivo",
+          "num": "02/03"
+        },
+        "userInfo": {
+          "text": "IL TUO NOME",
+          "text1": "COGNOME",
+          "text2": "T.R. Numero identificativo",
+          "text3": "Il tuo anno di nascita",
+          "text4": "T.R. Perché sto dando il mio numero ID?",
+          "text5": "Voglio saltare questo passaggio per ora!",
+          "text6": "T.R. Non è stato possibile verificare il numero ID, controlla le informazioni e riprova.",
+          "text7": "Passo successivo",
+          "num": "02/03",
+          "text8": "Città",
+          "text8-1": "Città",
+          "text9": "CODICE",
+          "text9-1": "+90",
+          "text9-2": "+91",
+          "text10": "IL TUO NUMERO DI TELEFONO",
+          "text11": "Voglio saltare questo passaggio per ora!",
+          "num1": "03/03"
+        },
+        "confirm": {
+          "text": "SMS non ricevuti?",
+          "text1": "Richiedi un nuovo SMS"
+        },
+        "regist": {
+          "text": "Completa la mia iscrizione",
+          "text1": "O"
+        }
+      }
+    },
+    "detail": {
+      "common": {
+        "view": "Visualizza a 360 °",
+        "text1": "La data e l'ora adatte ai criteri specificati verranno comunicate dal nostro partner per la soluzione. Puoi seguire la sezione I miei programmi di visita dal tuo pannello utente.",
+        "text2": "Hai già richiesto una visita per questa casa, se non ti è stata ancora data una data, per contattare il nostro partner di soluzione",
+        "text3": "clicca qui.",
+        "text4": "La tua richiesta di visita è stata inviata al nostro partner per la soluzione per il periodo di tempo da te stabilito, sarai contattato per la data e l'ora appropriate, grazie.",
+        "text5": "Si è verificato un errore durante la creazione della richiesta di appuntamento. Ci scusiamo per questa situazione, riprova il prima possibile.",
+        "text6": "Non puoi richiedere un appuntamento senza verificare il tuo numero di telefono.",
+        "text6-1": "Fare clic per verificare il numero di telefono",
+        "text7": "Numero di identità turco",
+        "text7-1": "Se si specifica, può aumentare il potenziale per affittare la casa. Se non hai un numero ID turco",
+        "text7-2": "documenta il tuo reddito",
+        "text7-3": "noi raccomandiamo.",
+        "text8": "Dichiarare il tuo reddito può aumentare il tuo potenziale di noleggio.",
+        "text8-1": "Per documentare il tuo reddito",
+        "request": {
+          "button1": "Scegli l'intervallo di tempo che fa per te",
+          "button2": "Fino a domani al più tardi",
+          "button3": "Prima di mezzogiorno nei giorni feriali",
+          "button4": "Pomeriggio nei giorni feriali",
+          "button5": "Fine settimana prima di mezzogiorno",
+          "button6": "Pomeriggio del fine settimana"
+        }
+      },
+      "detail-mobile": {
+        "component": {
+          "title": "Affitto",
+          "title1": "Dettagli dell'inserzione",
+          "title2": "Descrizione dell'annuncio",
+          "title3": "Servizi per la casa",
+          "title4": "Dettagli della casa",
+          "title5": "Caratteristiche della casa",
+          "title6": "Vedi sulla mappa"
+        },
+        "image": {
+          "text": "Foto"
+        },
+        "rental": {
+          "title": "Prezzo di affitto",
+          "text": "Prezzo di affitto",
+          "request": {
+            "button": "Crea un programma di visita online"
+          }
+        },
+        "ad-detail": {
+          "title": "Dettagli dell'inserzione",
+          "text": "Numero di elenco",
+          "text1": "La zona"
+        },
+        "ad-exp": {
+          "title": "Descrizione dell'annuncio"
+        },
+        "environment": {
+          "title": "Conoscere l'ambiente",
+          "button": "Visualizza tutte le foto",
+          "button1": "Sfoglia le immagini!"
+        },
+        "home-env": {
+          "title": "Dai un'occhiata da vicino alle caratteristiche della casa!",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id condimentum lectus. Le ultime novità di prezzo libere di essere preparate. Forno a microonde o calcio adesso. Nulla. Per liberare le risate. In effetti, la fine del per il Pakistan, ma dai confini di convallis arcu.",
+          "title1": "Dai un'occhiata da vicino alla posizione della casa!",
+          "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id condimentum lectus. Le ultime novità di prezzo libere di essere preparate. Forno a microonde o calcio adesso. Nulla. Per liberare le risate."
+        }
+      },
+      "button": "Condividere",
+      "image": "Foto",
+      "menu": {
+        "title": "Informazioni sull'elenco",
+        "title1": "Descrizione dell'annuncio",
+        "title2": "Servizi per la casa",
+        "title3": "Dettagli della casa",
+        "title4": "Caratteristiche della casa",
+        "title5": "Vedi sulla mappa"
+      },
+      "container": {
+        "text": "Numero di elenco",
+        "text1": "La zona",
+        "text2": "Data di quotazione",
+        "text3": "Metro quadro netto",
+        "text4": "Prezzo di affitto",
+        "text5": "Debiti",
+        "text6": "Prezzo totale"
+      },
+      "request": {
+        "text": "Crea un programma di visita."
+      },
+      "title": "DESCRIZIONE DELL'ANNUNCIO",
+      "title1": "OPPORTUNITÀ DELLA CASA",
+      "title3": "DETTAGLI DELLA CASA",
+      "title4": "Conoscere l'ambiente",
+      "button2": "Visualizza tutte le foto",
+      "button3": "Sfoglia le immagini!",
+      "title5": "CARATTERISTICHE DELLA CASA",
+      "button4": "Dai un'occhiata da vicino alle caratteristiche della casa!",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id condimentum lectus. Le ultime novità di prezzo libere di essere preparate. Forno a microonde o calcio adesso. Nulla. Alle estremità libere di risus.Nam per il Pakistan, ma alle estremità dell'arco dalla valle. Mauris id condimentum urna. Ora l'elemento chili players. Nutrizione residenti calcio triste vecchio e brutto netus et maschiuada fame e povertà.",
+      "tittle6": "VEDI SULLA MAPPA",
+      "button5": "Dai un'occhiata da vicino alla posizione della casa!",
+      "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id condimentum lectus. Le ultime novità di prezzo libere di essere preparate. Forno a microonde o calcio adesso. Nulla. Alle estremità libere di risus.Nam per il Pakistan, ma alle estremità dell'arco dalla valle. Mauris id condimentum urna. Ora l'elemento chili players. Nutrizione residenti calcio triste vecchio e brutto netus et maschiuada fame e povertà. (BURAYA Sabi BİR YAZ laimės)",
+      "solutions": {
+        "title": "SCOPRI LE SOLUZIONI DI NOLEGGIO!",
+        "title1": "Di cosa ho bisogno per affittare questa proprietà?",
+        "text": "Di",
+        "text1": "$ 10.000",
+        "text2": "verificare il reddito mensile lordo",
+        "text3": "L'affitto può essere fino a 4 persone. Tale importo può variare a seconda del contratto di locazione finale concordato.",
+        "text4": "Invia documenti digitali e supera la nostra verifica del credito",
+        "text5": "Abbiamo analizzato varie metriche della cronologia delle entrate e delle spese per profilare i tuoi inquilini in base ai coupon inviati.",
+        "button": "Visualizza documenti",
+        "text6": "Simula il tuo prestito",
+        "text7": "e semplifica il tuo processo di noleggio!",
+        "button1": "Per saperne di più",
+        "title2": "Perché dovrei noleggiare con un Elephant a noleggio?",
+        "text8": "Non hai bisogno di una fideiussione",
+        "text9": "Basta superare la nostra verifica del credito, non è necessario correre dietro a nessuna garanzia",
+        "text10": "Affitta in modo indipendente",
+        "text11": "Pianifica le visite online e parla direttamente con il proprietario",
+        "text12": "Nessuna sorpresa e nessun costo nascosto",
+        "text13": "Ti abbiamo già detto tutto ciò che sarà sul tuo biglietto senza costi a sorpresa."
+      },
+      "advertisement": {
+        "title": "Gli elenchi più recenti di Rental Elephant",
+        "text": "Filtra i nuovi annunci per città",
+        "button1": "Per saperne di più"
+      }
+    },
+    "static": {
+      "career": {
+        "common": {
+          "part": {
+            "title": "Elefante a noleggio",
+            "title1": "Unisciti alla sua famiglia!",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Intero suscipit facilisis turpis, sit amet tincidunt mi aliquam quis. Nello sviluppatore del Regno Unito, morbido e senza tempo;"
+          },
+          "cv": {
+            "title": "Inviaci il tuo CV",
+            "title1": "Benvenuti nella famiglia Elephant for Hire!",
+            "form": {
+              "text": "Ad sooyad",
+              "text1": "Casa",
+              "text2": "+90",
+              "text3": "+91",
+              "text4": "Numero di telefono",
+              "text5": "E-POSTA",
+              "button": "Seleziona Città",
+              "opt": "Istanbul",
+              "opt1": "Ankara",
+              "opt2": "Izmir",
+              "button1": "Seleziona posizione",
+              "text6": "Carica CV",
+              "text7": "SI ACCETTANO SOLO FILE ESTESI .PDF.",
+              "text8": "Il tuo messaggio",
+              "button2": "Invia CV"
+            }
+          }
+        },
+        "career-mobile": {
+          "main": {
+            "title": "Perché noi?",
+            "title1": "Posizioni aperte",
+            "title2": "Invia CV"
+          },
+          "section": {
+            "title": "Progettista UX senior dell'interfaccia utente",
+            "text": "Lorem ipsum carote, nsectetur",
+            "title1": "Supporto call center",
+            "text1": "Lorem ipsum carote, nsectetur",
+            "title2": "Direttore artistico",
+            "text2": "Lorem ipsum carote, nsectetur",
+            "title3": "Progettista UX senior dell'interfaccia utente",
+            "text3": "Lorem ipsum carote, nsectetur",
+            "title4": "Progettista UX senior dell'interfaccia utente",
+            "text4": "Lorem ipsum carote, nsectetur"
+          }
+        },
+        "title": "Visualizza posizioni aperte",
+        "title1": "SCOPRI LE SOLUZIONI DI NOLEGGIO!",
+        "title2": "Perché",
+        "title3": "Elefante a noleggio",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Intero suscipit facilisis turpis, sit amet tincidunt mi aliquam quis. Nello sviluppatore del Regno Unito, morbido e senza tempo, la più grande approvazione del calcio. Ma sempre un po 'di dolore da tutto il paese. Dolor porttitor Phasellus aliquam dui warm-up",
+        "button": "Ottieni maggiori informazioni",
+        "title4": "SCOPRI LE SOLUZIONI DI NOLEGGIO!",
+        "title5": "Scopri le posizioni in primo piano",
+        "title6": "Scopri i nostri servizi che offriamo!",
+        "section": {
+          "title": "Progettista UX senior dell'interfaccia utente",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Intero suscipit facilisis turpis, sit amet tincidunt mi aliquamLorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Intero suscipit facilisis turpis, sit amet tincidunt mi aliquamLorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Intero suscipit facilisis turpis, alcuni sit amet tincidunt mi",
+          "button": "Fai una domanda di lavoro",
+          "title1": "Supporto call center",
+          "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Intero suscipit facilisis turpis, alcuni sit amet tincidunt mi",
+          "title2": "Direttore artistico",
+          "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Intero suscipit facilisis turpis, alcuni sit amet tincidunt mi",
+          "title3": "Progettista UX senior dell'interfaccia utente",
+          "text3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Intero suscipit facilisis turpis, alcuni sit amet tincidunt mi",
+          "title4": "Progettista UX senior dell'interfaccia utente",
+          "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Intero suscipit facilisis turpis, alcuni sit amet tincidunt mi",
+          "title5": "Progettista UX senior dell'interfaccia utente",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Intero suscipit facilisis turpis, alcuni sit amet tincidunt mi"
+        },
+        "title7": "AFFITTASI FIL 29 IN CITTÀ!",
+        "title8": "Sei pronto per unirti a noi!",
+        "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Intero suscipit facilisis turpis, sit amet tincidunt mi aliquamLorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Intero suscipit facilisis turpis, sit amet tincidunt mi aliquamLorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Intero suscipit facilisis turpis, alcuni sit amet tincidunt mi",
+        "text2": "Nome e cognome",
+        "text3": "CODICE",
+        "text4": "NUMERO DI TELEFONO",
+        "text5": "E-POSTA"
+      },
+      "earn": {
+        "earn-mobile": {
+          "title": "Che cosa?",
+          "title1": "Come funziona?",
+          "title2": "Essere pagato",
+          "title3": "Le nostre soluzioni",
+          "part1": {
+            "text": "Da affittare",
+            "text2": "alle proprietà",
+            "text3": "applicando",
+            "text4": "guadagnare soldi",
+            "text5": "Visualizza le proprietà per Elephant for Rent e guadagna $ 100 per proprietà pubblicata più il 10% dell'affitto iniziale",
+            "text6": "Se proponi 3.500 dollari per una proprietà e l'affitto, ottieni 450 dollari!",
+            "button": "Voglio specificare la proprietà"
+          },
+          "part2": {
+            "text": "Con un elefante a noleggio",
+            "text1": "È facile guadagnare!",
+            "text2": "Elenca la proprietà del tuo cliente a un amico o vicino dello stesso edificio.",
+            "text3": "Una volta dichiarata la proprietà, ricevi $ 100 per lo streaming!",
+            "text4": "In caso di locazione, guadagni il 10% in più del tuo affitto iniziale!",
+            "title": "Domande da pubblicare?",
+            "text9": "Contattaci 0800608 2129"
+          },
+          "part3": {
+            "text": "Sul tuo conto bancario",
+            "text0": "Essere pagato!",
+            "text1": "Tieni traccia dei tuoi risultati e di quanto guadagnerai al mese. I tuoi guadagni sono",
+            "text2": "Ogni 15 giorni",
+            "text3": "depositato direttamente sul tuo conto."
+          },
+          "day": "Lun",
+          "day1": "DEVE",
+          "day2": "QUATTRO",
+          "day3": "PER",
+          "day4": "COME",
+          "day5": "CTS",
+          "day6": "PACE",
+          "num": "01",
+          "num1": "02",
+          "num2": "03",
+          "num3": "04",
+          "num4": "05",
+          "num5": "06",
+          "num6": "07",
+          "num7": "08",
+          "num8": "09",
+          "num9": "10",
+          "num10": "11",
+          "num11": "12",
+          "num12": "13",
+          "num13": "14",
+          "num14": "15",
+          "num15": "16",
+          "num16": "17",
+          "num17": "18",
+          "num18": "19",
+          "num19": "20",
+          "num20": "21",
+          "num21": "22",
+          "num22": "23",
+          "num23": "24",
+          "num24": "25",
+          "num25": "26",
+          "num26": "27",
+          "num27": "28",
+          "num28": "29",
+          "num29": "30",
+          "title4": "Estate",
+          "title5": "Il modo più semplice per indicare!",
+          "text": "Registri l'indirizzo della proprietà e il contatto del proprietario. Registrando l'indirizzo della struttura, puoi indicare la tua proprietà insieme al nome, al telefono e all'e-mail del proprietario."
+        },
+        "title": "Da affittare",
+        "title1": "alle proprietà",
+        "title2": "applicando",
+        "title3": "guadagnare soldi",
+        "text": "Visualizza le proprietà in affitto e guadagna $ 100 per proprietà pubblicata più il 10% dell'affitto iniziale",
+        "text1": "Se consigli $ 3.500 per una proprietà",
+        "text2": "e quando lo noleggi, ricevi $ 450!",
+        "button": "Voglio indicare",
+        "adv": "VANTAGGI DEL FIL IN AFFITTO",
+        "soln": "SCOPRI LE SOLUZIONI DI NOLEGGIO!",
+        "advantage": {
+          "title1": "Con un elefante a noleggio",
+          "title2": "È facile guadagnare!",
+          "num": "1",
+          "item": "Elenca la proprietà del tuo cliente, un amico o un vicino dello stesso edificio.",
+          "num1": "2",
+          "item1": "Una volta dichiarata la proprietà, ricevi $ 100 per lo streaming!",
+          "num2": "3",
+          "item2": "In caso di locazione, guadagni il 10% in più del tuo affitto iniziale!"
+        },
+        "solution": {
+          "title1": "Estate",
+          "title2": "Il modo più semplice per indicare!",
+          "title3": "Registri l'indirizzo della proprietà e il contatto del proprietario.",
+          "title4": "Registrando l'indirizzo della struttura, puoi indicare la tua proprietà insieme al nome, al telefono e all'e-mail del proprietario.",
+          "user": {
+            "text": "Informazioni sull'indirizzo",
+            "text1": "Numero di telefono",
+            "text2": "Spiegazione",
+            "text3": "Informazioni di contatto del proprietario",
+            "text4": "Proprietario Nome Cognome",
+            "text5": "5xx xxx xx xx"
+          }
+        },
+        "advantage2": {
+          "title": "Ricevi i pagamenti sul tuo conto bancario!",
+          "title1": "Tieni traccia dei tuoi risultati e di quanto guadagnerai al mese. I tuoi guadagni",
+          "title2": "ogni 15 giorni",
+          "title3": "depositato direttamente sul tuo conto."
+        },
+        "soln2": {
+          "title": "Ascoltaci dai nostri clienti felici!",
+          "title1": "Scopri i vantaggi del noleggio con noi!",
+          "title2": "Donec sed felis sollicitudin, fermentum a bed not, arcu eget. una bibita analcolica, ha bisogno di molto tempo.",
+          "ek": "Specialista UI UX"
+        },
+        "title4": "avete domande?",
+        "contact": "Puoi raggiungerci dal nostro WhatsApp o indirizzo e-mail all'indirizzo email@satilikfil.com.",
+        "contact1": "Orario di apertura: dal lunedì al venerdì, dalle 8:00 alle 18:00.",
+        "exp": "SCOPRI IL FIL IN AFFITTO!",
+        "text3": "Scopri di più!",
+        "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed diametro Laoreet, il lago e la valle, il più grande nibh. Tuttavia, i membri della Classe suolo weekend libero.",
+        "question": {
+          "text1": "Come mostro l'immobile?",
+          "text2": "Posso elencare qualsiasi proprietà?",
+          "text3": "Quali sono le città e i quartieri validi nella candidatura?",
+          "text4": "Il canone di locazione è importante nell'indicazione?",
+          "text5": "Vedi altre domande"
+        }
+      },
+      "listing": {
+        "listing-mobile": {
+          "advantage": {
+            "title": "Elefante a noleggio",
+            "title1": "con",
+            "title2": "Pubblica la tua proprietà!",
+            "advertisement": {
+              "text": "Pubblicizza gratis!",
+              "text1": "Lorem ipsum carote",
+              "text2": "Negoziazione diretta con il Locatario",
+              "text3": "Lorem ipsum carote",
+              "text4": "Ottieni l'affitto in tempo",
+              "text5": "Lorem ipsum carote",
+              "text6": "Domande da pubblicare?",
+              "text7": "Lorem ipsum carote"
+            },
+            "text": "Per ottenere l'affitto il giorno stesso",
+            "text1": "Godere!"
+          },
+          "costs": {
+            "title": "Costi dell'elefante di noleggio",
+            "title1": "Costi immobiliari tradizionali",
+            "special-prc": {
+              "title": "SPECIALE QUINTO PIANO",
+              "text": "Primo affitto + mensile",
+              "text1": "%",
+              "text2": "6.9"
+            },
+            "advantage": {
+              "title": "Pubblica annunci su Rental Elephant e puoi anche pubblicare annunci immobiliari, annunci e servizi di affitto temporaneo.",
+              "text": "Foto professionali gratuite",
+              "text1": "Negoziazione e contrattazione completamente online",
+              "text2": "Anche se l'inquilino è in ritardo, il pagamento viene effettuato ogni 12",
+              "text3": "Fino a $ 50.000 di danno",
+              "text4": "Accurata analisi del credito"
+            },
+            "text": " Annuncio speciale"
+          },
+          "differences": {
+            "create": "Crea un annuncio per la mia proprietà",
+            "find-adv": "Voglio trovare una proprietà",
+            "information": {
+              "text": "Pubblicità online e noleggio veloce.",
+              "text1": "Gli inquilini di Rented Elephant non hanno bisogno della burocrazia come garanti e controlli di sicurezza. Ecco perché i nostri esperti eseguono una rigorosa analisi del credito che garantisce che i nostri inquilini siano buoni contribuenti.",
+              "text2": "Lo ricevi indipendentemente dal pagamento dell'inquilino.",
+              "text3": "Potente analisi del credito in Rental Elephant.",
+              "text4": "Protezione contro i danni alla scadenza del contratto.",
+              "text5": "Il nostro annuncio è gratuito.",
+              "text6": "Risparmia soldi per te!"
+            }
+          },
+          "payment": {
+            "text": "Su un Elephant a noleggio paghi solo quando noleggi!",
+            "text1": "Paghi l'affitto e discuti il valore direttamente con l'inquilino. Non appena la proprietà viene affittata, viene addebitato un canone mensile. Dal secondo mese viene addebitato l'8% dell'affitto per pubblicità non esclusiva o il 6,9% per pubblicità esclusiva.",
+            "button": "Pubblicizza la mia proprietà"
+          },
+          "working": {
+            "title": "Pubblicità e",
+            "title1": "Come funziona l'affitto?",
+            "direction": {
+              "text": "Registra la tua struttura e pubblicizza gratuitamente",
+              "text1": "La registrazione della tua casa o casa può essere effettuata sul sito web o sull'applicazione Rental Fil for Owners.",
+              "text2": "Programma un servizio fotografico professionale",
+              "text3": "Tutto gratis. Mandiamo un fotografo presso la tua struttura per scattare foto (normali ea 360º) e video.",
+              "text4": "Inizia a fare visite e affitta la tua casa o appartamento",
+              "text5": "Firma il contratto online e ottieni l'affitto in tempo",
+              "text6": "Hai la garanzia di ricevere il canone di noleggio ogni 12 giorni senza errori. La direzione è con noi fino alla fine del contratto."
+            },
+            "text1": "Domande da pubblicare?",
+            "text2": "Contattaci 0800608 2129"
+          },
+          "advantages1": "I nostri vantaggi",
+          "differences1": "Le nostre differenze",
+          "button": "Pubblica proprietà",
+          "costs1": "Costi",
+          "working1": "Come funziona",
+          "payment1": "Pagamento",
+          "under": {
+            "text": "Su un Elephant a noleggio paghi solo quando noleggi!",
+            "text1": "Paghi l'affitto e discuti il valore direttamente con l'inquilino. Non appena la proprietà viene affittata, viene addebitato un canone mensile. Dal secondo mese viene addebitato l'8% dell'affitto per pubblicità non esclusiva o il 6,9% per pubblicità esclusiva.",
+            "button": "Pubblicizza la mia proprietà"
+          }
+        },
+        "header": "Elefante a noleggio",
+        "header1": "con",
+        "header2": "la tua proprietà",
+        "header3": "Pubblicare.",
+        "subheader": {
+          "title": "Pubblicizza",
+          "title1": "Negoziazione diretta con il Locatario",
+          "title2": "Ottieni l'affitto in tempo"
+        },
+        "text": "Domande da pubblicare?",
+        "text1": "0800 608 2129",
+        "text2": "numerato",
+        "text3": "dal telefono",
+        "text4": "Contattaci",
+        "recognize": {
+          "title": "VIENI A CONOSCERE IL FIL IN AFFITTO!",
+          "title1": "Assumi un elefante",
+          "title2": "Differenze dal patrimonio immobiliare tradizionale",
+          "button": "Pubblicizza la mia proprietà",
+          "button1": "Voglio trovare una proprietà"
+        },
+        "solution": {
+          "tenant": "SOLUZIONI IN LOCO",
+          "title1": "Lo ricevi indipendentemente dal pagamento dell'inquilino.",
+          "text1": "Il noleggio Elephant garantisce che tu riceva sempre l'affitto nel giorno concordato, indipendentemente dal pagamento dell'inquilino. Vogliamo che tu abbia la tranquillità di possedere denaro, senza preoccupazioni o se hai mal di testa.",
+          "online": "SOLUZIONI ONLINE",
+          "title2": "Pubblicità online e noleggio veloce.",
+          "text2": "Non devi avere una cattiva chiamata o andare nel settore immobiliare per fare documenti. Su Rental Elephant fai tutto online e con il pieno controllo di ogni fase del noleggio.",
+          "credit": "SOLUZIONI DI CREDITO",
+          "title3": "Potente analisi del credito!",
+          "text3": "Gli inquilini di Rented Elephant non hanno bisogno della burocrazia come garanti e controlli di sicurezza. Ecco perché i nostri esperti eseguono una rigorosa analisi del credito che garantisce che i nostri inquilini siano buoni contribuenti.",
+          "trust": "SOLUZIONI DI FIDUCIA",
+          "title4": "Protezione contro i danni alla scadenza del contratto.",
+          "text4": "Sappiamo quanto siano importanti le tue risorse. Ispezioniamo ogni dettaglio della tua proprietà all'arrivo e alla partenza dall'inquilino. Hai anche RentalFile Protection, che garantisce contro i danni alla fine del contratto di locazione fino a $ 50.000.",
+          "advertisement": "SOLUZIONI PUBBLICITARIE",
+          "title5": "Il nostro annuncio è gratuito. Più risparmio per te!",
+          "text5": "Non si paga nulla per fare pubblicità su Rental Elephant. Scattiamo foto professionali della tua struttura e le pubblichiamo gratuitamente sul nostro sito e nei più grandi annunci in Brasile. Inoltre, non vogliamo l'esclusività. Hai la libertà di lavorare come desideri."
+        },
+        "costs": {
+          "block1": {
+            "title": "Costo del noleggio con un elefante a noleggio",
+            "text": "Scegli come pubblicizzare la tua proprietà e inizia a pagare solo quando viene affittata.",
+            "label": "SPECIALE QUINTO PIANO",
+            "info": "Primo affitto + mensile",
+            "info1": "%",
+            "info2": "6.9",
+            "description": "Pubblica annunci su Rental Elephant e puoi anche pubblicare annunci immobiliari, annunci e servizi di affitto temporaneo.",
+            "item": "Foto professionali gratuite",
+            "item1": "Negoziazione e contrattazione completamente online",
+            "item2": "Anche se l'inquilino è in ritardo, il pagamento viene effettuato ogni 12",
+            "item3": "Fino a $ 50.000 di danno",
+            "item4": "Accurata analisi del credito"
+          },
+          "vs": "VS.",
+          "block2": {
+            "title": "Confronta con le condizioni della proprietà tradizionale",
+            "text": "Non puoi più godere dei vantaggi unici dell'Hired Elephant",
+            "label": "ESTERNO AL QUINTO PIANO",
+            "info": "Primo affitto + mensile",
+            "info1": "%",
+            "info2": "8",
+            "description": "The Elephant for Hire è stato creato per evitare la burocrazia quando si affitta la tua proprietà:",
+            "item": "Foto amatoriali",
+            "item1": "Negoziazione e contratto con intermediari e code nello studio notarile",
+            "item2": "Pagamento incerto (se l'inquilino è in ritardo, sei pronto)",
+            "item3": "Proprietà vulnerabile ai danni",
+            "item4": "Garanzie burocratiche"
+          }
+        },
+        "title": "SCOPRI LE SOLUZIONI DI NOLEGGIO!",
+        "title1": "Tutto quello che devi fare è",
+        "title2": "aggiungi post.",
+        "text5": "Devi solo iscriverti e informarci sulla casa. Verremo a ritirare la chiave da te. Quindi, dopo aver effettuato gli scatti professionali, la tua casa viene pubblicata sul sito. Inoltre, puoi seguire l'intero processo dall'applicazione mobile o dal nostro sito web.",
+        "button": "Ottieni maggiori informazioni",
+        "title3": "Affitta la tua casa in 10 passaggi!",
+        "title4": "Scopri i vantaggi del noleggio con noi!",
+        "text6": "Fateci sapere la casa.",
+        "text7": "Ci prendiamo cura dei restanti 9 elementi :)",
+        "media": {
+          "title": "COSA DICONO LA STAMPA DEL FIL IN AFFITTO?",
+          "title1": "Elefante a noleggio nella stampa",
+          "text": "\"Rented Elephant è riuscita ad affittare una proprietà 10 volte più velocemente rispetto agli immobili tradizionali, in media ogni 4 giorni\"",
+          "auth": "- Forbes"
+        },
+        "step": {
+          "header1": "Come funzionano la pubblicità e l'affitto?",
+          "num1": "1",
+          "title1": "Registra la tua proprietà e",
+          "title1-1": "Pubblicizza gratuitamente",
+          "text1": "La registrazione della tua casa o casa può essere effettuata sul sito web o sull'applicazione Rental Fil for Owners.",
+          "num2": "2",
+          "title2": "Foto professionale",
+          "title2-1": "Pianifica lo scatto",
+          "text2": "Tutto gratis. Mandiamo un fotografo presso la tua struttura per scattare foto (normali ea 360º) e video.",
+          "num3": "3",
+          "title3": "Inizia a ricevere visite",
+          "title3-1": "e la tua casa o appartamento",
+          "title3-2": "affitto",
+          "num4": "4",
+          "title4": "Il contratto online",
+          "title4-1": "segno e in tempo",
+          "title4-2": "ottenere l'affitto",
+          "text4": "Hai la garanzia di ricevere il canone di noleggio ogni 12 giorni senza errori. La direzione è con noi fino alla fine del contratto."
+        },
+        "button1": "Pubblicizza la mia proprietà",
+        "button2": "Voglio trovare una proprietà",
+        "text8": "Paghi solo quando noleggi!",
+        "text9": "Paghi l'affitto e discuti il valore direttamente con l'inquilino. Non appena la proprietà viene affittata, viene addebitato un canone mensile. Dal secondo mese viene addebitato l'8% dell'affitto per pubblicità non esclusiva o il 6,9% per pubblicità esclusiva.",
+        "text10": "Che cos'è un elefante a noleggio?",
+        "text11": "Tutto deve affrontare le sfide affrontate dai fondatori dell'azienda, dal proprietario e dall'affittuario",
+        "sample": "Gabriel Braga, CEO di QuintoAndar, ha trascorso molto tempo ad affittare un appartamento a San Paolo perché le informazioni online che ha trovato sul sito immobiliare non erano sufficienti. Non c'era nemmeno un garante nella sua città.",
+        "sample1": "Già André Penha, CTO QuintoAndar, viveva dall'altra parte della storia. Il suo appartamento a Campinas è rimasto bloccato per mesi nelle mani di una tradizionale proprietà immobiliare. Una volta preso l'iniziativa, è stato in grado di affittare una proprietà entro due settimane.",
+        "sample2": "L'idea di QuintoAndar è nata mentre studiava alla Stanford University in California, che ospita aziende innovative come Google, Facebook e Instagram.",
+        "sample3": "Nel 2012, QuintoAndar è stata fondata per dare vita a questa visione di innovazione nel mercato immobiliare. L'azienda è partita a Campinas, poi ha raggiunto San Paolo, Rio de Janeiro, Curitiba, Porto Alegre, Goiania, Brasilia, Florianopolis e presto sarà in tutto il Brasile.",
+        "title5": "Promuovi la tua struttura e inizia a ricevere visite",
+        "text12": "Scatta e programma un servizio fotografico professionale gratuito per la tua struttura. Successivamente, sarà pubblicato e pronto a ricevere visite da inquilini interessati.",
+        "questions": "DOMANDE FREQUENTI",
+        "questions1": "Hai una domanda?",
+        "text-1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed diametro Laoreet, il lago e la valle, il più grande nibh. Tuttavia, i membri della Classe suolo weekend libero.",
+        "questions2": "Domanda sull'elefante a noleggio",
+        "text-2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ora adornare la mia bocca, sorriso e sviluppatori. Blocco clinico del trucco sterilizzato. Ma massa purus, tempor sed luctus ac, un morbido si alza dal.",
+        "text-3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ora adornare la mia bocca, sorriso e sviluppatori. Blocco clinico del trucco sterilizzato. Ma massa purus, tempor sed luctus ac, un morbido si alza dal.",
+        "text-4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ora adornare la mia bocca, sorriso e sviluppatori. Blocco clinico del trucco sterilizzato. Ma massa purus, tempor sed luctus ac, un morbido si alza dal.",
+        "text-5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ora adornare la mia bocca, sorriso e sviluppatori. Blocco clinico del trucco sterilizzato. Ma massa purus, tempor sed luctus ac, un morbido si alza dal."
+      },
+      "solution-partners": {
+        "solution-partners-mobile": {
+          "title": "Perché Elephant Hire?",
+          "button": "Scoprire",
+          "reason": {
+            "title": "Perché i miei clienti",
+            "title1": "Dovrebbe usare l'elefante per il noleggio?",
+            "text": "The Elephant for Rent è più veloce degli immobili tradizionali. Ci occupiamo di tutto il lavoro tranne portare il cliente in casa in modo che tu possa occuparti di più clienti. Ecco perché puoi trattare con più clienti e lavorare in modo più orientato ai risultati con le nostre soluzioni digitali."
+          },
+          "percent": {
+            "title": "Proprietà del Solution Partner:",
+            "title1": "Cliente partner della soluzione",
+            "percentage": "100% di profitto",
+            "title2": "Proprietà dal sito:",
+            "title3": "Cliente partner della soluzione",
+            "percentage1": "50% di profitto",
+            "title4": "Cliente proveniente dal sito",
+            "title5": "Dal sito",
+            "title6": "Proprietà in entrata:",
+            "title7": "Cliente in arrivo",
+            "percentage2": "25% di profitto",
+            "percentage3": "20% di profitto"
+          },
+          "content": {
+            "title": "Gestione della squadra",
+            "text": "Può essere difficile distribuire le attività. Grazie alla nostra infrastruttura high-tech, puoi distribuire le attività e controllare di più.",
+            "title1": "Valutazione della prestazione",
+            "text1": "Ti riportiamo gratuitamente cosa pensa della tua azienda e ti offriamo quotidianamente. Grazie al feedback dei clienti, migliorerai costantemente te stesso.",
+            "title2": "Conto separato per ogni dipendente",
+            "text2": "È possibile creare account separati per ogni dipendente. Puoi autorizzare ogni account separatamente e, distribuendo compiti diversi, tutto è molto ordinato. Valutiamo le prestazioni di tutti i dipendenti in base alle informazioni che riceviamo dal cliente e pubblichiamo questo report gratuitamente sul tuo pannello.",
+            "title3": "servizio fotografico",
+            "title3-1": "ce ne occupiamo noi!",
+            "text3": "È possibile creare account separati per ogni dipendente. Puoi autorizzare ogni account separatamente e, distribuendo compiti diversi, tutto è molto ordinato. Valutiamo le prestazioni di tutti i dipendenti in base alle informazioni che riceviamo dal cliente e pubblichiamo questo report gratuitamente sul tuo pannello.",
+            "title4": "Totalmente gratuito e trasparente",
+            "text4": "Tutto è gratis qui. Puoi avere servizi fotografici, pubblicità, call center, il nostro software sviluppato con le ultime tecnologie e molto altro senza pagare.",
+            "title5": "A più persone",
+            "title5-1": "ti rivolgi.",
+            "text5": "Può essere difficile distribuire le attività. Grazie alla nostra infrastruttura high-tech, puoi distribuire le attività e controllare di più."
+          }
+        },
+        "reason": {
+          "title": "I miei clienti",
+          "title1": "Perché",
+          "title2": "Elefante a noleggio",
+          "title3": "Dovrebbe usare?",
+          "text": "The Elephant for Rent è più veloce degli immobili tradizionali. Ci occupiamo di tutto il lavoro tranne portare il cliente in casa in modo che tu possa occuparti di più clienti. Ecco perché puoi trattare con più clienti e lavorare in modo più orientato ai risultati con le nostre soluzioni digitali.",
+          "button": "Ottieni maggiori informazioni"
+        },
+        "header": "SCOPRI LE SOLUZIONI DI NOLEGGIO!",
+        "header1": "Soluzioni professionali di noleggio Elephant",
+        "header2": "Scopri i nostri servizi che offriamo!",
+        "title1": "Guarda il video introduttivo",
+        "title2": "Assistenza post vendita",
+        "title3": "Ti appelli a più persone."
+      },
+      "sss": {
+        "title": "Domande frequenti",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. arachidi stessa. Classificare le affiliazioni del passato con twist",
+        "questions-rental": {
+          "header": "SOLUZIONI SPECIALI PER NOLEGGIO FIL",
+          "title": "Domande e risposte per gli inquilini",
+          "question1": "Cosa posso negoziare con il proprietario?",
+          "answer1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam la barca. Anche Riservato tempo triste, è importante per le donne incinte e le forze dell'ordine. Anche elemento con un arco, una ricetta propagandistica imposizione della vita. Nel più grande sorriso e chat lo odio. Android e una grande carriera, rispetto al sit amet laoreet.",
+          "question2": "Cosa posso negoziare con il proprietario?",
+          "answer2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam la barca. Anche Riservato tempo triste, è importante per le donne incinte e le forze dell'ordine. Anche elemento con un arco, una ricetta propagandistica imposizione della vita. Nel più grande sorriso e chat lo odio. Android e una grande carriera, rispetto al sit amet laoreet.",
+          "question3": "Cosa posso negoziare con il proprietario?",
+          "answer3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam la barca. Anche Riservato tempo triste, è importante per le donne incinte e le forze dell'ordine. Anche elemento con un arco, una ricetta propagandistica imposizione della vita. Nel più grande sorriso e chat lo odio. Android e una grande carriera, rispetto al sit amet laoreet.",
+          "question4": "Cosa posso negoziare con il proprietario?",
+          "answer4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam la barca. Anche Riservato tempo triste, è importante per le donne incinte e le forze dell'ordine. Anche elemento con un arco, una ricetta propagandistica imposizione della vita. Nel più grande sorriso e chat lo odio. Android e una grande carriera, rispetto al sit amet laoreet.",
+          "question5": "Cosa posso negoziare con il proprietario?",
+          "answer5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam la barca. Anche Riservato tempo triste, è importante per le donne incinte e le forze dell'ordine. Anche elemento con un arco, una ricetta propagandistica imposizione della vita. Nel più grande sorriso e chat lo odio. Android e una grande carriera, rispetto al sit amet laoreet.",
+          "question6": "Cosa posso negoziare con il proprietario?",
+          "answer6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam la barca. Anche Riservato tempo triste, è importante per le donne incinte e le forze dell'ordine. Anche elemento con un arco, una ricetta propagandistica imposizione della vita. Nel più grande sorriso e chat lo odio. Android e una grande carriera, rispetto al sit amet laoreet.",
+          "question7": "Cosa posso negoziare con il proprietario?",
+          "answer7": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam la barca. Anche Riservato tempo triste, è importante per le donne incinte e le forze dell'ordine. Anche elemento con un arco, una ricetta propagandistica imposizione della vita. Nel più grande sorriso e chat lo odio. Android e una grande carriera, rispetto al sit amet laoreet.",
+          "question8": "Cosa posso negoziare con il proprietario?",
+          "answer8": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam la barca. Anche Riservato tempo triste, è importante per le donne incinte e le forze dell'ordine. Anche elemento con un arco, una ricetta propagandistica imposizione della vita. Nel più grande sorriso e chat lo odio. Android e una grande carriera, rispetto al sit amet laoreet."
+        },
+        "questions-host": {
+          "header": "SOLUZIONI SPECIALI PER NOLEGGIO FIL PER FAMIGLIE",
+          "title": "Domande e risposte per i proprietari di abitazione",
+          "question1": "Cosa posso negoziare con il proprietario?",
+          "answer1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam la barca. Anche Riservato tempo triste, è importante per le donne incinte e le forze dell'ordine. Anche elemento con un arco, una ricetta propagandistica imposizione della vita. Nel più grande sorriso e chat lo odio. Android e una grande carriera, rispetto al sit amet laoreet.",
+          "question2": "Cosa posso negoziare con il proprietario?",
+          "answer2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam la barca. Anche Riservato tempo triste, è importante per le donne incinte e le forze dell'ordine. Anche elemento con un arco, una ricetta propagandistica imposizione della vita. Nel più grande sorriso e chat lo odio. Android e una grande carriera, rispetto al sit amet laoreet.",
+          "question3": "Cosa posso negoziare con il proprietario?",
+          "answer3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam la barca. Anche Riservato tempo triste, è importante per le donne incinte e le forze dell'ordine. Anche elemento con un arco, una ricetta propagandistica imposizione della vita. Nel più grande sorriso e chat lo odio. Android e una grande carriera, rispetto al sit amet laoreet.",
+          "question4": "Cosa posso negoziare con il proprietario?",
+          "answer4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam la barca. Anche Riservato tempo triste, è importante per le donne incinte e le forze dell'ordine. Anche elemento con un arco, una ricetta propagandistica imposizione della vita. Nel più grande sorriso e chat lo odio. Android e una grande carriera, rispetto al sit amet laoreet.",
+          "question5": "Cosa posso negoziare con il proprietario?",
+          "answer5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam la barca. Anche Riservato tempo triste, è importante per le donne incinte e le forze dell'ordine. Anche elemento con un arco, una ricetta propagandistica imposizione della vita. Nel più grande sorriso e chat lo odio. Android e una grande carriera, rispetto al sit amet laoreet.",
+          "question6": "Cosa posso negoziare con il proprietario?",
+          "answer6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam la barca. Anche Riservato tempo triste, è importante per le donne incinte e le forze dell'ordine. Anche elemento con un arco, una ricetta propagandistica imposizione della vita. Nel più grande sorriso e chat lo odio. Android e una grande carriera, rispetto al sit amet laoreet.",
+          "question7": "Cosa posso negoziare con il proprietario?",
+          "answer7": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam la barca. Anche Riservato tempo triste, è importante per le donne incinte e le forze dell'ordine. Anche elemento con un arco, una ricetta propagandistica imposizione della vita. Nel più grande sorriso e chat lo odio. Android e una grande carriera, rispetto al sit amet laoreet.",
+          "question8": "Cosa posso negoziare con il proprietario?",
+          "answer8": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam la barca. Anche Riservato tempo triste, è importante per le donne incinte e le forze dell'ordine. Anche elemento con un arco, una ricetta propagandistica imposizione della vita. Nel più grande sorriso e chat lo odio. Android e una grande carriera, rispetto al sit amet laoreet."
+        },
+        "sss-mobile": {
+          "menu": {
+            "title": "Vedi tutto",
+            "title1": "Inquilini",
+            "title2": "Proprietari di abitazione"
+          },
+          "section1": {
+            "title1": "Con il proprietario",
+            "title1-1": "cosa posso negoziare",
+            "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam la barca. Anche Riservato tempo triste, è importante per le donne incinte e le forze dell'ordine. Anche con l'elemento",
+            "title2": "Giorni di visita",
+            "title2-1": "e quali sono le ore?",
+            "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam la barca. Anche Riservato tempo triste, è importante per le donne incinte e le forze dell'ordine. Anche con l'elemento",
+            "title3": "Con il proprietario",
+            "title3-1": "cosa posso negoziare",
+            "text3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam la barca. Anche Riservato tempo triste, è importante per le donne incinte e le forze dell'ordine. Anche con l'elemento",
+            "title4": "Con il proprietario",
+            "title4-1": "cosa posso negoziare",
+            "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam la barca. Anche Riservato tempo triste, è importante per le donne incinte e le forze dell'ordine. Anche con l'elemento"
+          },
+          "section2": {
+            "title1": "Con il proprietario",
+            "title1-1": "e quali sono le ore?",
+            "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam la barca. Anche Riservato tempo triste, è importante per le donne incinte e le forze dell'ordine. Anche con l'elemento",
+            "title2": "Giorni di visita",
+            "title2-1": "e quali sono le ore?",
+            "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam la barca. Anche Riservato tempo triste, è importante per le donne incinte e le forze dell'ordine. Anche con l'elemento",
+            "title3": "Con il proprietario",
+            "title3-1": "cosa posso negoziare",
+            "text3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam la barca. Anche Riservato tempo triste, è importante per le donne incinte e le forze dell'ordine. Anche con l'elemento"
+          },
+          "section3": {
+            "title1": "Con il proprietario",
+            "title1-1": "cosa posso negoziare",
+            "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam la barca. Anche Riservato tempo triste, è importante per le donne incinte e le forze dell'ordine. Anche con l'elemento",
+            "title2": "Con il proprietario",
+            "title2-1": "cosa posso negoziare",
+            "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam la barca. Anche Riservato tempo triste, è importante per le donne incinte e le forze dell'ordine. Anche con l'elemento"
+          }
+        }
+      },
+      "tenant": {
+        "entry": {
+          "title": "Nessun deposito!",
+          "title1": "Soluzioni professionali!",
+          "text": "Non è previsto alcun deposito o deposito pur mantenendo la casa.",
+          "text1": "C'è l'assicurazione dei danni, c'è la possibilità di pagare l'affitto con un clic online.",
+          "button": "Sto cercando una nuova casa"
+        },
+        "topic": {
+          "title": "SCOPRI LE SOLUZIONI DI NOLEGGIO!",
+          "title1": "Le nostre soluzioni speciali per gli inquilini",
+          "title2": "Scopri i vantaggi del noleggio con noi!",
+          "step": {
+            "item1": "Nessun deposito!",
+            "text1": "Non è previsto alcun deposito o deposito pur mantenendo la casa. C'è l'assicurazione dei danni, c'è la possibilità di pagare l'affitto con un clic online.",
+            "item2": "Niente lunghe code!",
+            "text2": "Gli immobili tradizionali sono molto faticosi. Gli orologi non si adattano mai. Non ci sono uffici immobiliari, code, contratti lunghi.",
+            "item3": "Non c'è spazio per le sorprese!",
+            "text3": "Tutto è molto trasparente. Sai cosa pagherai. Dato che abbiamo fotografato tutte le case, sono tutte come appaiono.",
+            "item4": "Niente stress!",
+            "text4": "Troviamo sempre una via di mezzo tra inquilino e padrone di casa. Se il proprietario vuole un affitto annuale, non preoccuparti! Noi paghiamo."
+          },
+          "advantage": {
+            "header": "VANTAGGI DEL FIL IN AFFITTO",
+            "title": "Con un elefante a noleggio",
+            "title1": "Come affittare una casa?",
+            "num1": "1",
+            "text1": "Seleziona la casa ed effettua una prenotazione online.",
+            "description1": "Se vuoi vedere la casa, il nostro consulente professionale ti accompagnerà gratuitamente. Devi solo scegliere la data e l'ora.",
+            "num2": "2",
+            "text2": "Tieni la casa",
+            "description2": "Se ti piace la casa, puoi tenerla subito. Puoi controllare e pagare tutto il resto dall'applicazione mobile o dal sito web.",
+            "num3": "3",
+            "text3": "Siamo con te durante l'intero processo.",
+            "description3": "Siamo sempre con te fino a quando non esci di casa. Puoi sempre ottenere supporto dal servizio clienti."
+          }
+        },
+        "question": "Domande da pubblicare?",
+        "contact": "Contattaci 0800608 2129",
+        "solutions": "Le nostre soluzioni",
+        "working": "Come funziona?",
+        "cost": "Costi",
+        "costs": {
+          "title": "Costo del noleggio con un elefante a noleggio",
+          "title1": "Costi dell'elefante di noleggio",
+          "text": "Scegli come pubblicizzare la tua proprietà e inizia a pagare solo quando viene affittata.",
+          "block1": {
+            "title": "SPECIALE QUINTO PIANO",
+            "text": "Primo affitto + mensile",
+            "text1": "%",
+            "text2": "6.9",
+            "description": "Pubblica annunci su Rental Elephant e puoi anche pubblicare annunci immobiliari, annunci e servizi di affitto temporaneo.",
+            "advantage1": "Foto professionali gratuite",
+            "advantage2": "Negoziazione e contrattazione completamente online",
+            "advantage3": "Anche se l'inquilino è in ritardo, il pagamento viene effettuato ogni 12",
+            "advantage4": "Fino a $ 50.000 di danno",
+            "advantage5": "Accurata analisi del credito",
+            "advantage6": "Annuncio speciale"
+          },
+          "vs": "VS.",
+          "title2": "Costi immobiliari tradizionali",
+          "costs1": {
+            "title": "Confronta con le condizioni della proprietà tradizionale",
+            "text": "Non puoi più godere dei vantaggi unici dell'Hired Elephant",
+            "block2": {
+              "title": "ESTERNO AL QUINTO PIANO",
+              "text": "Primo affitto + mensile",
+              "text1": "%",
+              "text2": "8",
+              "description": "The Elephant for Hire è stato creato per evitare la burocrazia quando si affitta la tua proprietà:",
+              "bad": "Foto amatoriali",
+              "bad1": "Negoziazione e contratto con intermediari e code nello studio notarile",
+              "bad2": "Pagamento incerto (se l'inquilino è in ritardo, sei pronto)",
+              "bad3": "Proprietà vulnerabile ai danni",
+              "bad4": "Garanzie burocratiche"
+            }
+          }
+        },
+        "text": "Tutti i prezzi sono sotto il nostro controllo!",
+        "text1": "Tutte le proprietà sul sito vengono caricate sul sito con i nostri esperti esperti immobiliari. Non puoi vedere nessuna casa che non ottiene l'approvazione sul sito. I prezzi elevati per la casa non sono scritti. Non vengono fornite informazioni fuorvianti. Il prezzo del noleggio non può essere modificato.",
+        "text2": "Sto cercando una nuova casa",
+        "questions": {
+          "text": "DOMANDE FREQUENTI",
+          "text1": "Hai una domanda?",
+          "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed diametro Laoreet, il lago e la valle, il più grande nibh. Tuttavia, i membri della Classe suolo weekend libero.",
+          "title1": "Domanda sull'elefante a noleggio",
+          "que1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ora adornare la mia bocca, sorriso e sviluppatori. Blocco clinico del trucco sterilizzato. Ma massa purus, tempor sed luctus ac, un morbido si alza dal.",
+          "title2": "Domanda sull'elefante a noleggio",
+          "que2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ora adornare la mia bocca, sorriso e sviluppatori. Blocco clinico del trucco sterilizzato. Ma massa purus, tempor sed luctus ac, un morbido si alza dal.",
+          "title3": "Domanda sull'elefante a noleggio",
+          "que3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ora adornare la mia bocca, sorriso e sviluppatori. Blocco clinico del trucco sterilizzato. Ma massa purus, tempor sed luctus ac, un morbido si alza dal.",
+          "title4": "Domanda sull'elefante a noleggio",
+          "que4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ora adornare la mia bocca, sorriso e sviluppatori. Blocco clinico del trucco sterilizzato. Ma massa purus, tempor sed luctus ac, un morbido si alza dal."
+        }
+      }
+    },
+    "rental": {
+      "advertisement": "annunci trovati",
+      "filter1": "Più rilevanti",
+      "filter2": "Per prezzo: crescente",
+      "filter2-1": "Aumento del prezzo",
+      "filter3": "Per prezzo: decrescente",
+      "filter3-1": "Decrescente per prezzo",
+      "button1": "filtri",
+      "advertisement-title": "POST IN EVIDENZA",
+      "month": "mensile",
+      "image": "Foto",
+      "room": "Camera",
+      "saloon": "Soggiorno",
+      "bath": "Bagno",
+      "popular": "Scelte popolari",
+      "popular1": "Da noi",
+      "popular2": " proprietà selezionate.",
+      "button": "Visualizza",
+      "price": "PREZZO",
+      "area": "LA ZONA",
+      "min": "Minimo",
+      "max": "Massimo",
+      "tl": "TL",
+      "meter": "m2",
+      "text": "Disastroso",
+      "main": "Pagina iniziale",
+      "button2": "Vicino",
+      "button3": "Filtro pulito"
+    },
+    "admin": {
+      "suggestions": {
+        "title": "Consigli per la casa",
+        "list": "Elenco dei suggerimenti per la casa inviati dagli utenti",
+        "host": "Ospite",
+        "date": "Data di creazione",
+        "situation": "Dipende dalla situazione",
+        "button": "modificare",
+        "call": "Chiama per telefono",
+        "button1": "Vedere",
+        "button2": "Ripristina",
+        "suggestion-edit": {
+          "warning": "avvertimento",
+          "sender": "Mittente",
+          "advertisement": "Conferma dell'annuncio",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id condimentum lectus. Le ultime novità di prezzo libere di essere preparate.",
+          "choice": {
+            "text": "Fai una scelta ...",
+            "text1": "Impossibile raggiungere l'host",
+            "text2": "La casa non viene affittata",
+            "text3": "Assegna un partner di soluzione",
+            "text4": "Stato della proposta"
+          },
+          "button1": "Aggiorna stato di avanzamento"
+        },
+        "modals": {
+          "partner-modal": {
+            "choice": " Scegli di assegnare al partner della soluzione",
+            "choice1": "Scegli il tuo partner di soluzione",
+            "choice2": "Seleziona ramo",
+            "button": "abbandonare",
+            "button1": "Assegna un incarico"
+          }
+        }
+      }
+    },
+    "mobile-search": {
+      "text": "Casa trovata",
+      "text1": "Nessun affitto trovato",
+      "month": "mensile",
+      "room": "Camera",
+      "saloon": "Soggiorno",
+      "bath": "Bagno"
+    },
+    "partner": {
+      "common": {
+        "contact": "Informazioni sui contatti",
+        "id-info": "Informazioni sull'identità",
+        "name": "Nome di battesimo",
+        "surname": "Cognome",
+        "phoneNumber": "Telefono",
+        "mail": "E-Posta"
+      },
+      "assignments": {
+        "photo": {
+          "notes-modal": {
+            "notes": "Appunti",
+            "text": "Puoi pubblicare i tuoi appunti sul danno qui.",
+            "text1": "Nota sul registro dei danni"
+          },
+          "title": "Carica le tue foto",
+          "text": "Per poter essere pubblicato sul sito, è necessario scegliere separatamente per ogni stanza e caricare le foto nelle aree aperte. Puoi anche caricare foto di luoghi danneggiati nella colonna di destra riservata alla valutazione dei danni.",
+          "button": "CHIUDI MISSIONE",
+          "title1": "Carica le foto per il sito!",
+          "room": "Effettua una selezione della stanza",
+          "room1": "Scegli una stanza per la foto dell'annuncio",
+          "room2": "Carica le foto della tua stanza",
+          "text1": "SOLO JPG. SI ACCETTANO FILE ESTESI IN PNG.",
+          "loading": "Caricamento in corso",
+          "percent": "%",
+          "loading1": "Caricamento interrotto",
+          "loading2": "Installazione completata",
+          "review": "Carica le foto per l'ispezione!",
+          "review1": "Scegli una stanza per l'ispezione",
+          "review2": "Carica le tue foto di ispezione",
+          "add-photo": "Carica una foto"
+        },
+        "title": "Attività di scatto fotografico",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. mauris",
+        "mission": "Tutte le mie missioni",
+        "mission1": "I miei doveri",
+        "branch": "ramo",
+        "date": "Data prevista",
+        "situation": "Dipende dalla situazione",
+        "transaction": "Transazioni",
+        "address": "indirizzo",
+        "upload": "Caricare",
+        "view": "Visualizza"
+      },
+      "calendar": {
+        "title": "Programma di noleggio",
+        "text": "Le registrazioni assegnate alla tua filiale sono elencate di seguito.",
+        "month": "Calendario mensile",
+        "week": "Calendario settimanale",
+        "day": "Calendario giornaliero",
+        "calndar": "calendario",
+        "last": "PRECEDENTE",
+        "today": "OGGI",
+        "next": "IL PROSSIMO"
+      },
+      "customers": {
+        "customer-form": {
+          "error": "avvertimento",
+          "user": "Informazioni sui membri",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. mauris",
+          "advertisement": {
+            "attribute": "Funzionalità degli annunci",
+            "forward": "Annuncio in primo piano",
+            "window": "Avviso di vetrina"
+          },
+          "help": "Aiuto",
+          "title": "Titolo dell'annuncio",
+          "title1": "Scrivi il titolo dell'annuncio",
+          "address": "Informazioni sull'indirizzo",
+          "code": "CODICE",
+          "code1": "+90",
+          "code2": "+91",
+          "text1": "Questo numero di telefono è già",
+          "text2": "Puoi continuare i criteri di ricerca cliccando qui.",
+          "adv-info": "Informazioni sull'elenco",
+          "adv-exp": "Descrizione dell'annuncio",
+          "explanation": "Digita la descrizione del tuo annuncio.",
+          "price-meter": "Prezzo e gamma di metri quadri",
+          "price": "PREZZO",
+          "min": "Minimo",
+          "tl": "TL",
+          "max": "Massimo",
+          "area": "LA ZONA",
+          "meter": "m2",
+          "properties": "Ricerca di proprietà immobiliari",
+          "opportunities": "Alla ricerca di opportunità per la casa",
+          "home-prop": "Proprietà della casa che sta cercando",
+          "button": "Registra cliente",
+          "text3": "Oltre alle informazioni del nostro cliente, dovresti registrare i contratti di locazione a cui è interessato, anche se non abbiamo l'immobile a cui è interessato, il cliente viene informato quando viene inserito il portafoglio.",
+          "save": "Salva",
+          "button1": "Criteri di aggiornamento",
+          "text4": "Soddisfa i criteri",
+          "text5": "trovato in affitto.",
+          "portfolio": "Visualizza il portfolio delle filiali",
+          "complete": "Completa la conversazione"
+        },
+        "title": "I clienti",
+        "title1": "Fare clic per tornare alla pagina principale",
+        "add-cust": {
+          "button": "Aggiungi nuovo cliente",
+          "name": "Nome e cognome",
+          "price": "Prezzo",
+          "visitor": "Visitatore",
+          "date": "Intervallo di date",
+          "transaction": "Transazioni"
+        },
+        "details": "Dettaglio"
+      },
+      "members": {
+        "member-form": {
+          "error": "avvertimento",
+          "personal": "Informazioni personali",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. mauris",
+          "help": "Aiuto",
+          "text1": "Questo numero di telefono è già",
+          "text2": "Per la persona nominata, fare clic qui per assegnare alla filiale.",
+          "personal1": {
+            "title": "Poteri del personale",
+            "manager": "Direttore della filiale",
+            "advisor": "Consulente immobiliare",
+            "expert": "Perito immobiliare",
+            "image": "Fotografo"
+          },
+          "button": "Registra personale",
+          "text3": " Dopo aver determinato le autorizzazioni del personale, è possibile registrare il nuovo personale, il personale può completare le altre informazioni di sua proprietà dopo aver effettuato l'accesso telefonico.",
+          "button1": "Salva"
+        },
+        "personal": "Personale di filiale",
+        "button": "Registra nuovo personale",
+        "update": "In attesa di aggiornamento",
+        "edit": "modificare",
+        "report": "Mostra rapporto"
+      },
+      "modals": {
+        "visitor-info-modal": {
+          "phoneNumber": "Telefono:",
+          "advisor": {
+            "title": "Informazioni sugli agenti immobiliari",
+            "name": "Nome del consulente:"
+          },
+          "visitor": {
+            "title": "Informazioni sui visitatori",
+            "name": "Nome visitatore:"
+          },
+          "notes": "Note di visita",
+          "text": "Scrivi una nota sulla visita",
+          "button": "abbandonare",
+          "button1": "Completa la visita"
+        }
+      },
+      "portfolio": {
+        "title": "Portafoglio filiali",
+        "text": "Le registrazioni della tua filiale sono elencate di seguito."
+      },
+      "suggestions": {
+        "edit-property": {
+          "portfolio": "Vai al mio portafoglio",
+          "text": "Puoi portare l'annuncio nel tuo portfolio assegnando te stesso.",
+          "add": "Aggiungi al mio portafoglio",
+          "photo": "Assegna fotografo",
+          "text1": "La pubblicazione verrà attivata dopo che il fotografo avrà completato il processo.",
+          "button": "Assegna un incarico",
+          "photo-text": "È previsto il servizio fotografico",
+          "text2": "Anno Domini",
+          "text3": "tarine kadar",
+          "text4": "È stato assegnato a.",
+          "sending": "Pubblicazione di annunci",
+          "text5": " Affinché un annuncio possa essere pubblicato, devono essere inserite le immagini dell'annuncio, il titolo dell'annuncio e almeno 5 elementi pubblicitari. Le aree bloccate nella pubblicità sono aree che sono state verificate da squadre di elefanti a noleggio. Se ritieni che ci siano informazioni errate, puoi richiedere la verifica agli equipaggi di elefanti a noleggio.",
+          "button1": "Pubblica l'annuncio"
+        },
+        "modal": {
+          "assign-photographer-modal": {
+            "text": "Scegli di assegnare al fotografo. Di seguito è riportato l'elenco dei fotografi assegnati alla tua istituzione.",
+            "button1": "Scegli un fotografo",
+            "date": "Data ultima transazione",
+            "button2": "abbandonare",
+            "button3": "Assegna un incarico"
+          }
+        },
+        "request": "Richieste di noleggio",
+        "text": "Le registrazioni assegnate alla tua filiale sono elencate di seguito.",
+        "host": "Ospite",
+        "contact": "Telefono",
+        "date": "Data di creazione",
+        "portfolio": "Portafoglio",
+        "situation": "Dipende dalla situazione",
+        "transaction": "Transazioni",
+        "detail": "Mostra dettagli",
+        "photo": "Assegna a fotografo",
+        "button": "Ricerca",
+        "button1": "Ripristina"
+      },
+      "visit-request": {
+        "visit-req": "Richieste di visita",
+        "text": "Di seguito sono elencate le richieste di visita per gli affitti assegnati alla tua filiale.",
+        "calendar": "Visualizza il calendario delle visite",
+        "advertisement": "Informazioni sugli annunci",
+        "price": "Prezzo",
+        "visitor": "Visitatore",
+        "date": "Intervallo di date",
+        "plan": "Pianificazione",
+        "completed": "Visita completata",
+        "calceled": "È annullato"
+      },
+      "tool": "Strumenti di gestione delle filiali",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. mauris",
+      "personal": "Personale di filiale",
+      "my-calendar": "Il mio calendario",
+      "rent": "Locazione assegnata a filiale",
+      "branch": "Portafoglio filiali",
+      "visit-req": "Richieste di visita",
+      "customer": "I clienti",
+      "photo": "Incarichi di fotografo",
+      "noter": "Cerca nelle note",
+      "value": "1"
+    },
+    "dashboard": {
+      "damage": {
+        "add-damage": {
+          "record": "Creazione di un nuovo registro dei danni",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. mauris",
+          "form": "Modulo di danno",
+          "title1": "DANNO NOME",
+          "title2": "ASPETTATIVA DI RIPARAZIONE",
+          "title3": "COSTO DANNO STIMATO",
+          "message": "Il tuo messaggio",
+          "picture": "Immagini danneggiate",
+          "upload": "Carica i tuoi documenti",
+          "text1": ".PDF .JPG SOLO. SI ACCETTANO FILE ESTESI IN PNG.",
+          "attention": "Informazione!",
+          "text2": "carote, migliorata esperienza universitaria. Mauris id condimentum lectus. Il prezzo più recente è gratuito. carote, migliorata esperienza universitaria. Mauris id condimentum lectus. Il prezzo più recente è gratuito.",
+          "summary": "Riepilogo del modulo di danno",
+          "date": "Casa 1 - 06 dicembre 2019",
+          "text3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Relay membri che il gas non è variato o prima del trasporto. Pellentesque metus turpis, imperdiet può essere complicato, né, è tempo consectetur dolor. Ma un elemento di un ottimo condimento mauris",
+          "button": "Inviare il modulo"
+        },
+        "title": "Crea nuovo registro dei danni",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id condimentum lectus.",
+        "past": "Record di danni passati",
+        "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. mauris",
+        "button": "Seleziona tutto",
+        "date": "Per data",
+        "price": "Per prezzo",
+        "situation": "Dipende dalla situazione",
+        "damage-goods": "Merce danneggiata",
+        "sample": "Guasto della caldaia",
+        "sample-date": "06.12.2019",
+        "sample-date1": "06 dicembre 2019",
+        "sample-price": "480.00 PROVA",
+        "notification": "Segnalato all'host",
+        "satisfy": "Per danni risarciti da elefante in affitto",
+        "reflect": "Danno riflesso all'affitto",
+        "waiting": "Aspettando il pagamento",
+        "chosen": "2 Record di danno selezionati",
+        "sample-date2": "Casa 1 - 06 dicembre 2019 / Casa 2 - 09 dicembre 2019",
+        "button1": "Elimina cronologia danni",
+        "button2": "Crea richiesta di supporto"
+      },
+      "dashboard-mobile": {
+        "button": "Passaggio da un account all'altro",
+        "button1": "Passa all'account host",
+        "notifications": "Notifiche",
+        "button2": "Vedi tutto",
+        "sample-num": "43",
+        "new-notif": "Nuovo avviso",
+        "sample-num2": "88",
+        "all": "Tutti",
+        "sample-num3": "16",
+        "inbox": "Posta in arrivo",
+        "new-message": "Nuovo messaggio",
+        "sample-num4": "59",
+        "access": "Accesso veloce",
+        "profile": "Il mio profilo",
+        "text": "Lorem ipsum dolore.",
+        "favorite": "i miei preferiti",
+        "text1": "Lorem ipsum dolore.",
+        "notification": "Conto economico",
+        "text2": "Lorem ipsum dolore.",
+        "button3": "Invia notifica",
+        "text3": "Lorem ipsum dolore.",
+        "pay": "Pagamento dell'affitto",
+        "text4": "Lorem ipsum dolore.",
+        "text5": "Lorem ipsum dolore.",
+        "approve": "Conferma il tuo account",
+        "approve1": "Conferma il tuo account e approfitta delle opportunità!"
+      },
+      "documents": {
+        "document": "Documentazione",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. mauris",
+        "upload": "Carica i tuoi documenti",
+        "text1": ".PDF .JPG SOLO. SI ACCETTANO FILE ESTESI IN PNG.",
+        "loading": "Caricamento in corso",
+        "status": "67% - 8 secondi rimanenti",
+        "completed": "Installazione completata",
+        "rent-contract": "CONTRATTO DI AFFITTO.PDF",
+        "past": "I miei download passati",
+        "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. mauris",
+        "button": "Seleziona tutto",
+        "date": "Per data",
+        "size": "Per dimensione",
+        "ext": "Per estensione",
+        "rent-contract1": "Contratto di affitto",
+        "sample": "1 File",
+        "sample-date": "06.12.2019",
+        "sample-date1": "06 dicembre 2019",
+        "sample-memory": "48MG",
+        "sample-ext1": ".PDF",
+        "chosen": "1 il tuo documento è stato selezionato",
+        "sample-date2": "Contratto di locazione - 06 dicembre 2019",
+        "delete": "Elimina cronologia documento",
+        "help": "Crea richiesta di supporto"
+      },
+      "end-of-contract": {
+        "title": "Risoluzione del contratto",
+        "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id condimentum lectus. Le ultime novità di prezzo libere di essere preparate. Forno a microonde o calcio adesso. Nulla. Per liberare le risate. Infatti, le estremità del per il Pakistan, dalla valle,",
+        "information": "Informazione!",
+        "text2": "carote, migliorata esperienza universitaria. Mauris id condimentum lectus. Il prezzo più recente è gratuito.",
+        "start-date": "Data di inizio del contratto",
+        "sample-date": "06 dicembre 2019",
+        "finish-date": "Data di fine del contratto",
+        "sample-date1": "06 dicembre 2020",
+        "time": "Tempo rimanente",
+        "sample-time": "2 anni 254 giorni",
+        "contract-clauses": "Clausole contrattuali",
+        "text": "creato da",
+        "host": {
+          "title": "Ospite",
+          "item": "Lorem ipsum dolore",
+          "item1": "Lorem ipsum dolore",
+          "item2": "Lorem ipsum dolore",
+          "item3": "Lorem ipsum dolore",
+          "item4": "Lorem ipsum dolore",
+          "item5": "Lorem ipsum dolore"
+        },
+        "rental": {
+          "title": "Inquilino",
+          "item": "Lorem ipsum dolore",
+          "item1": "Lorem ipsum dolore",
+          "item2": "Lorem ipsum dolore",
+          "item3": "Lorem ipsum dolore",
+          "item4": "Lorem ipsum dolore",
+          "item5": "Lorem ipsum dolore"
+        },
+        "download": "Scarica il tuo contratto",
+        "text3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id condimentum lectus."
+      },
+      "income": {
+        "document": "Documenta il tuo reddito",
+        "text": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id condimentum lectus. Le ultime novità di prezzo libere di essere preparate. Forno a microonde o calcio adesso. Nulla. Per liberare le risate. In effetti, la fine del per il Pakistan, ma dai confini di convallis arcu. Mauris id condimentum urna. Ora l'elemento chili players. Nutrizione residenti calcio triste vecchio e brutto netus et maschiuada fame e povertà.",
+        "text1": "Sfortunatamente, non c'è nemmeno la vita id nisl interdum nunc elit at felis. Faretra i compiti timido, uomo di calcio della regione di Fudge. La regione delle microonde, il calcio in gola è il calcio, la propaganda incinta da tempo. L'ultima o costosa. Sottolinea che l'autore, ma lo sviluppatore di cartoni. Vivamus si siede amet, per il tempo dell'autore o di qualsiasi altro letto. Sed ultricies ac, tranne che nella compagnia aerea. Clinical riceve un computer da football nibh. Smartphone. Gli sviluppatori immobiliari aggirano le carote nutrizionali gratuite. Proin interdum aliquet justo. Reti cliniche di Mecenate. Ma solo da copyright insalata ultricies dipendente. All'inizio della pallavolo. Anche come un arco o mascelle morbide. Produzione di cioccolato ed è una faretra."
+      },
+      "my-property": {
+        "form": {
+          "edit-property": {
+            "send-advertisement": "Pubblicazione di annunci",
+            "text": " Stai visualizzando le informazioni sulla tua proprietà. Informazioni come indirizzo e metro quadro sono dati verificati quindi non è possibile modificarli; Puoi aggiornare le proprietà della tua casa fino alla pubblicazione dell'annuncio.",
+            "update": "Aggiorna elenco"
+          }
+        },
+        "my-properties": "Le mie proprietà",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id condimentum lectus.",
+        "all-properties": "Tutte le mie proprietà",
+        "advertisement": "Anno Domini",
+        "advertisement-date": "Data di quotazione",
+        "rent": "Affitto",
+        "situation": "Dipende dalla situazione",
+        "button": "modificare"
+      },
+      "mylist": {
+        "favorite": "I miei annunci preferiti",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. mauris",
+        "choice": "Fai una scelta ...",
+        "order": "Ordinare"
+      },
+      "notifications": {
+        "title": "Notifica",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. mauris",
+        "all-properties": "Tutte le mie proprietà",
+        "test": "test",
+        "test1": "test",
+        "test2": "test",
+        "test3": "test",
+        "all": "Seleziona tutto",
+        "date": "Per data",
+        "situation": "Dipende dalla situazione",
+        "about-rental": "Informazioni sull'inquilino",
+        "problem": "Ciao merita un problema ..",
+        "sample-date": "06.12.2019",
+        "sample-date1": "06 dicembre 2019",
+        "answered": "Risposto",
+        "answer": "Risposta",
+        "closed": "Chiuso",
+        "notification": "Notifica risolta",
+        "chosen": "2 Il tuo avviso è stato selezionato",
+        "sample-date2": "Casa 1 - 06 dicembre 2019 / Casa 2 - 09 dicembre 2019",
+        "delete": " Elimina cronologia notifiche",
+        "create": "Crea nuovo avviso"
+      },
+      "payment": {
+        "title": "Pagamento dell'affitto",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. mauris",
+        "button": "Seleziona tutto",
+        "date": "Per data",
+        "price": "Per prezzo",
+        "sample-date": "06.12.2019",
+        "sample-date1": "06 dicembre 2019",
+        "sample-price": "600.45 TL",
+        "about": "Ciao merita un problema ..",
+        "sample": {
+          "title": "Casa 1",
+          "place": "Beylikduzu, Beykent",
+          "text": "Affitto scaduto",
+          "button": "Paga ora"
+        },
+        "sample1": {
+          "title": "Casa 2",
+          "place": "Sisli, Mecidiyekoy",
+          "text": "Bill ha pagato"
+        },
+        "text1": "2 Il tuo avviso è stato selezionato",
+        "date1": "Casa 1 - 06 dicembre 2019 / Casa 2 - 09 dicembre 2019",
+        "button1": "Elimina cronologia fatture",
+        "button2": "Crea richiesta di supporto"
+      },
+      "profile": {
+        "profile-mobile": {
+          "photo": {
+            "text": "Errore di collegamento dell'account",
+            "photo-upload": "Carica una foto",
+            "social": "Collega account Facebook",
+            "save": "SALVA LA MIA FOTO DEL PROFILO"
+          },
+          "profile-address": {
+            "title": "Modifica delle informazioni sull'indirizzo",
+            "text": "Aggiornando le informazioni sul tuo indirizzo, puoi essere a conoscenza degli affitti vicino a te.",
+            "confirm": "Verifica dell'indirizzo",
+            "info": "INFORMAZIONI SULL'INDIRIZZO",
+            "update": "AGGIORNA LE MIE INFORMAZIONI"
+          },
+          "profile-email": {
+            "title": "Modifica dell'indirizzo e-mail",
+            "text": "L'indirizzo e-mail che utilizzi per accedere al tuo account. Verrà inviato un messaggio di conferma al tuo indirizzo e-mail.",
+            "information": "Informazione",
+            "text1": "Per modificare il tuo indirizzo e-mail, devi creare una password.",
+            "error": "Errore di aggiornamento",
+            "mail": "INDIRIZZO EMAIL",
+            "update": "AGGIORNA LE MIE INFORMAZIONI"
+          },
+          "profile-income": {
+            "title": "Documenta il tuo reddito",
+            "text": " Documentando il tuo reddito, questi documenti e informazioni saranno utili durante la tua visita online o in caso di affitto di una casa."
+          },
+          "profile-mylist": {
+            "favorite": "I miei annunci preferiti",
+            "text": "Puoi aggiungere i tuoi post preferiti qui e confrontarli in seguito. Gli annunci che rimuovi dai preferiti di seguito saranno validi fino a quando non verranno spostati in un'altra sezione.",
+            "choice": "Fai una scelta ...",
+            "order": "Ordinare"
+          },
+          "profile-name": {
+            "change": "Modifica nome cognome",
+            "text": "Le informazioni sul tuo nome e cognome vengono utilizzate nell'autenticazione TC. Pertanto, dovresti usare le tue informazioni reali.",
+            "name": "IL TUO NOME",
+            "surname": "IL TUO COGNOME",
+            "update": "AGGIORNA LE MIE INFORMAZIONI"
+          },
+          "profile-password": {
+            "change": "Cambio di password",
+            "text": " Puoi aggiornare la tua password qui, se hai creato un abbonamento dai social media, crea la tua password qui. Non è possibile modificare il proprio indirizzo e-mail, ecc. Senza la password.",
+            "error": "Errore di aggiornamento",
+            "passwrd": "PAROLA D'ORDINE",
+            "passwrd-repeat": "PASSWORD REPEAT",
+            "update": "AGGIORNA LE MIE INFORMAZIONI"
+          },
+          "profile-phone": {
+            "title": "Aggiorna il tuo numero di telefono",
+            "text": " Puoi collegare il tuo account con un numero di telefono. Un codice di verifica verrà inviato al tuo telefono.",
+            "error": "Errore di aggiornamento",
+            "num": "+90",
+            "num1": "+91",
+            "code": "CODICE",
+            "phone": "IL TUO NUMERO DI TELEFONO",
+            "update": "AGGIORNA IL MIO TELEFONO",
+            "text1": "SMS non ricevuti?",
+            "text2": "Richiedi un nuovo SMS",
+            "button": "VERIFICA SMS"
+          },
+          "profile-tckn": {
+            "title": "T.R. Aggiunta di un numero ID",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id condimentum lectus. Le ultime novità di prezzo libere di essere preparate.",
+            "notification": "Impossibile verificare il numero TCK",
+            "tcno": "T.R. Numero identificativo",
+            "year": "Il tuo anno di nascita",
+            "update": "AGGIORNA LE MIE INFORMAZIONI"
+          },
+          "pp": "Foto profilo",
+          "update1": "Aggiorna la tua foto del profilo",
+          "info": "Nome Cognome Informazioni",
+          "update2": "Aggiorna il tuo nome e cognome",
+          "mail": "Indirizzo email",
+          "update3": "Aggiorna il tuo indirizzo e-mail",
+          "phone": "Numero di telefono",
+          "update4": "Aggiorna il tuo numero di telefono",
+          "password": "Impostazione di una password",
+          "update5": "Aggiorna la tua password",
+          "address": "Informazioni sull'indirizzo",
+          "update6": "Aggiorna il tuo indirizzo",
+          "tcno": "T.R. Numero identificativo",
+          "text": "Richiesto per le transazioni.",
+          "button": "Notifiche della campagna aperte",
+          "button1": "Voglio essere informato sulle campagne"
+        },
+        "title": "benvenuto",
+        "text": "Devi definire una password per il prossimo accesso. Inoltre, ti consigliamo di compilare i campi obbligatori del modulo per ulteriori elaborazioni.",
+        "num": "9",
+        "num1": "4",
+        "complete-profile": "Completa il tuo profilo",
+        "add-phone": "Aggiungi il tuo numero di telefono",
+        "confirm-mail": "Verifica Email",
+        "confirm-tcno": "Numero ID TR Conferma",
+        "bank-account": "Aggiungi conto bancario",
+        "available": "Il tuo saldo attuale",
+        "num2": "$ 0,00",
+        "account": {
+          "pp": "Foto profilo",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id condimentum lectus. L'ultimo",
+          "upload-pp": "Carica la foto del profilo",
+          "text1": "SOLO JPG. SI ACCETTANO FILE ESTESI IN PNG.",
+          "personal-info": "Le tue informazioni personali",
+          "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id condimentum lectus. L'ultimo",
+          "name": "IL TUO NOME",
+          "surname": "IL TUO COGNOME",
+          "mail": "E-POSTA",
+          "code": "CODICE",
+          "num": "+90",
+          "num1": "+91",
+          "phone": "IL TUO NUMERO DI TELEFONO",
+          "tcno": "T.R. NUMERO IDENTIFICATIVO",
+          "info": "(Necessario per obblighi di legge)",
+          "year": "IL TUO COMPLEANNO",
+          "info1": "(Il numero ID TR è richiesto per la verifica.)",
+          "note": "T.R. Impossibile verificare il numero di identità.",
+          "password": "Parola d'ordine",
+          "passwrd-repeat": "Ripeti password",
+          "address": "INFORMAZIONI SULL'INDIRIZZO",
+          "city": "PROVINCIA VIVI",
+          "town": "IL DISTRETTO IN CUI VIVI",
+          "button": "Voglio ricevere informazioni su campagne e innovazioni tramite SMS ed e-mail.",
+          "update": "Aggiorna il mio profilo"
+        }
+      },
+      "reporting": {
+        "title": "Notifica host",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. mauris",
+        "notification": {
+          "title": "Crea notifica",
+          "header": "CAPPUCCIO",
+          "amount": "IMPORTO RICHIESTO",
+          "message": "Il tuo messaggio",
+          "title1": "Bisogni modificati / danneggiati / pagati",
+          "request": "COSA RICHIEDI",
+          "sample": "Combi",
+          "sample1": "Gas naturale installato",
+          "sample2": "Il muro è stato dipinto",
+          "add": "Allegare un documento",
+          "upload": "Carica i tuoi documenti",
+          "text": ".PDF .JPG SOLO. SI ACCETTANO FILE ESTESI IN PNG.",
+          "information": "Informazione!",
+          "text1": "carote, migliorata esperienza universitaria. Mauris id condimentum lectus. Il prezzo più recente è gratuito. carote, migliorata esperienza universitaria. Mauris id condimentum lectus. Il prezzo più recente è gratuito."
+        },
+        "summary": "Riepilogo delle notifiche",
+        "sample-date": "Casa 1 - 06 dicembre 2019",
+        "text1": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Relay membri che il gas non è variato o prima del trasporto. Pellentesque metus turpis, imperdiet può essere complicato, né, è tempo consectetur dolor. Ma un elemento di un ottimo condimento mauris",
+        "button": "Inviare il modulo"
+      },
+      "statistics": {
+        "title": "Statistiche",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. mauris",
+        "total-payed": "Totale pagato",
+        "sample-num": "2,420 PROVA",
+        "total-gain": "Guadagni raccolti",
+        "sample-num1": "480 TRY",
+        "rental-time": "Periodo di locazione",
+        "sample-num2": "487 giorni",
+        "credit": "Rating del credito",
+        "sample-num3": "9.5 Pt",
+        "notification": "Numero di notifiche",
+        "sample-num4": "84 pezzi",
+        "contract": "Documenti caricati",
+        "sample-num5": "4 unità",
+        "damage": "Record di danni",
+        "sample-num6": "22 pezzi",
+        "message": "Messaggi di supporto",
+        "sample-num7": "65 pezzi"
+      },
+      "suggest-rental": {
+        "add-suggest": {
+          "title": "Suggerire una casa",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id condimentum lectus. Le ultime novità di prezzo libere di essere preparate. Forno a microonde o calcio adesso. Nulla. Per liberare le risate. In effetti, la fine del per il Pakistan, ma dai confini di convallis arcu. Mauris id condimentum urna. Ora l'elemento chili players. Nutrizione residenti calcio triste vecchio e brutto netus et maschiuada fame e povertà.",
+          "text1": "Sfortunatamente, non c'è nemmeno la vita id nisl interdum nunc elit at felis. Faretra i compiti timido, uomo di calcio della regione di Fudge. La regione delle microonde, il calcio in gola è il calcio, la propaganda incinta da tempo. L'ultima o costosa. Sottolinea che l'autore, ma lo sviluppatore di cartoni. Vivamus si siede amet, per il tempo dell'autore o di qualsiasi altro letto. Sed ultricies ac, tranne che nella compagnia aerea. Clinico",
+          "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id condimentum lectus. Le ultime novità di prezzo libere di essere preparate. Forno a microonde o calcio adesso. Nulla. Per liberare le risate. In effetti, la fine del per il Pakistan, ma dai confini di convallis arcu. Mauris id condimentum urna. Ora l'elemento chili players. Nutrizione residenti calcio triste vecchio e brutto netus et maschiuada fame e povertà."
+        }
+      },
+      "support": {
+        "support-request": {
+          "help-code": "Codice supporto",
+          "sample-code": "# 4353565",
+          "situation": "Stato",
+          "situation1": "Aspettando una risposta",
+          "date": "Storia",
+          "sample-date": "06 dicembre 2019",
+          "button": "Valuta l'intervista",
+          "button1": "Report Speaking",
+          "text": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Relay membri che il gas non è variato o prima del trasporto. Pellentesque metus turpis, imperdiet può essere complicato, né, è tempo consectetur dolor.",
+          "personal-name": "Furkan Tirit,",
+          "personal": "Autorità tecnica",
+          "text1": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Relay membri che il gas non è variato o prima del trasporto. Pellentesque metus turpis, imperdiet può essere complicato, né, è tempo consectetur dolor.",
+          "message": "Invia messaggio",
+          "photo": "Aggiungi foto",
+          "video": "Aggiungi video"
+        },
+        "title": "Crea nuova richiesta di supporto",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id condimentum lectus.",
+        "past": "Le mie richieste di supporto passate",
+        "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. mauris",
+        "all": "Seleziona tutto",
+        "date": "Per data",
+        "situation": "Dipende dalla situazione",
+        "about-host": "Informazioni sull'host",
+        "help-code": "Codice supporto: # 4353513",
+        "sample-date": "06.12.2019",
+        "sample-date1": "06 dicembre 2019",
+        "closed": "Chiuso",
+        "solved": "Richiesta risolta",
+        "waiting": "Aspettando una risposta",
+        "answered": "Risposto",
+        "answer": "Risposta",
+        "title1": "2 Richieste di supporto selezionate",
+        "sample-date2": "Casa 1 - 06 dicembre 2019 / Casa 2 - 09 dicembre 2019",
+        "button": "Elimina cronologia reclami"
+      },
+      "visit-requests": {
+        "modal": {
+          "rate-modal": {
+            "title": "Valuta la tua visita online",
+            "text": "Lorem ipsum carote, laureato migliorato",
+            "sample-personal": "Berkay Erdinc",
+            "personal": "Consulente per elefanti a noleggio",
+            "past": "Precedente",
+            "evaluate": "Vota",
+            "next": "Il prossimo"
+          }
+        },
+        "title": "Richieste di appuntamento",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. mauris",
+        "advertisement-info": "Informazioni sugli annunci",
+        "price": "Prezzo",
+        "date": "Data dell'appuntamento",
+        "advisor": "Il tuo consulente"
+      }
+    }
+  }
+}
