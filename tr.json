@@ -16,6 +16,10 @@
 					"text": "Alıcı Rehberi",
 					"title": "Depozito yok! Profesyonel Çözümler!"
 				},
+        "projects": {
+          "text": "Projeler",
+          "title": "Projelerimizi inceleyin!"
+        },
 				"publish": {
 					"text": "İLAN YAYINLA",
 					"title": "Yeni ilan bildirimleri gönderin para kazanın"
@@ -655,7 +659,8 @@
     "detail":{
       "common":{
         "view":"360° Görüntüle",
-        "text1":"Evi beğendiniz mi? Hemen ziyaret randevusu oluşturun ve evi gezin. Detayları sonra konuşalım!",
+        "loginRequired": "Ziyaret başlatmak için üye olmalısınız.",
+        "text1":"Evi beğendiniz mi? Hemen ziyaret randevusu oluşturun ve evi gezin. Detayları sonra konuşalım! ",
         "text2":"Bu ev için zaten ziyaret isteğinde bulunmuşsunuz, size henüz bir tarih belirtilmedi ise çözüm ortağımız ile iletişime geçmek için",
         "text3":"burayı tıklayın.",
         "text4":"Çözüm ortağımıza belirlediğin zaman dilimi için ziyaret isteğiniz gönderildi, uygun tarih ve saat için sizinle temasa geçilecektir, teşekkür ederiz.",

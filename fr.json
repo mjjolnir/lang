@@ -16,6 +16,10 @@
           "text": "Annuaire des locataires",
           "title": "Pas de dépôt! Solutions professionnelles!"
         },
+        "projects": {
+          "text": "Projeler",
+          "title": "Projelerimizi inceleyin!"
+        },
         "publish": {
           "text": "PUBLIER",
           "title": "Envoyer des notifications de nouvelles annonces gagner de l'argent"
@@ -620,6 +624,7 @@
     "detail": {
       "common": {
         "view": "Vue à 360 °",
+        "loginRequired": "Ziyaret başlatmak için üye olmalısınız.",
         "text1": "La date et l'heure adaptées aux critères que vous avez spécifiés seront notifiées par notre partenaire de solution. Vous pouvez suivre la section Mes programmes de visite à partir de votre panneau utilisateur.",
         "text2": "Vous avez déjà demandé une visite pour cette maison, si vous n'avez pas encore de date, pour contacter notre partenaire solution",
         "text3": "cliquez ici.",

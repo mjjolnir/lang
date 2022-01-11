@@ -16,6 +16,10 @@
           "text": "Elenco tenant",
           "title": "Nessun deposito! Soluzioni professionali!"
         },
+        "projects": {
+          "text": "Projeler",
+          "title": "Projelerimizi inceleyin!"
+        },
         "publish": {
           "text": "INVIARE",
           "title": "Invia notifiche di nuovi annunci per guadagnare denaro"
@@ -620,6 +624,7 @@
     "detail": {
       "common": {
         "view": "Visualizza a 360 °",
+        "loginRequired": "Ziyaret başlatmak için üye olmalısınız.",
         "text1": "La data e l'ora adatte ai criteri specificati verranno comunicate dal nostro partner per la soluzione. Puoi seguire la sezione I miei programmi di visita dal tuo pannello utente.",
         "text2": "Hai già richiesto una visita per questa casa, se non ti è stata ancora data una data, per contattare il nostro partner di soluzione",
         "text3": "clicca qui.",

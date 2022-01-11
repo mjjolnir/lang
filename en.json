@@ -16,6 +16,10 @@
           "text": "Tenant Directory",
           "title": "No deposit! Professional Solutions!"
         },
+        "projects": {
+          "text": "Projeler",
+          "title": "Projelerimizi inceleyin!"
+        },
         "publish": {
           "text": "POST",
           "title": "Send notifications of new ads earn money"
@@ -634,6 +638,7 @@
     "detail": {
       "common": {
         "view": "View 360°",
+        "loginRequired": "Ziyaret başlatmak için üye olmalısınız.",
         "text1": "Do you like the house? Make a visit appointment now and visit the house. Let's talk about the details later!",
         "text2": "You have already requested a visit to this house, if you have not yet been given a date, to contact our solution partner",
         "text3": "click here.",

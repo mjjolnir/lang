@@ -16,6 +16,10 @@
           "text": "Mieterverzeichnis",
           "title": "Keine Anzahlung! Professionelle Lösungen!"
         },
+        "projects": {
+          "text": "Projeler",
+          "title": "Projelerimizi inceleyin!"
+        },
         "publish": {
           "text": "POST",
           "title": "Benachrichtigungen über neue Anzeigen senden verdienen Geld"
@@ -620,6 +624,7 @@
     "detail": {
       "common": {
         "view": "Ansicht 360 °",
+        "loginRequired": "Ziyaret başlatmak için üye olmalısınız.",
         "text1": "Das Datum und die Uhrzeit, die für die von Ihnen angegebenen Kriterien geeignet sind, werden von unserem Lösungspartner mitgeteilt. Sie können dem Abschnitt Meine Besuchsprogramme in Ihrem Benutzerfenster folgen.",
         "text2": "Sie haben bereits einen Besuch für dieses Haus beantragt, falls Sie noch keinen Termin erhalten haben, um unseren Lösungspartner zu kontaktieren",
         "text3": "Klicke hier.",

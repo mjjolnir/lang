@@ -16,6 +16,10 @@
           "text": "Directorio de inquilinos",
           "title": "¡No hay depósito! Soluciones Profesionales!"
         },
+        "projects": {
+          "text": "Projeler",
+          "title": "Projelerimizi inceleyin!"
+        },
         "publish": {
           "text": "ENVIAR",
           "title": "Envía notificaciones de nuevos anuncios gana dinero"
@@ -620,6 +624,7 @@
     "detail": {
       "common": {
         "view": "Ver 360 °",
+        "loginRequired": "Ziyaret başlatmak için üye olmalısınız.",
         "text1": "La fecha y hora adecuadas para los criterios que ha especificado serán notificadas por nuestro socio de soluciones. Puede seguir la sección Mis programas de visita desde su panel de usuario.",
         "text2": "Ya ha solicitado una visita para esta casa, si aún no le han dado una fecha, para contactar con nuestro socio de soluciones",
         "text3": "haga clic aquí.",
