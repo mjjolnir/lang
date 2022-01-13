@@ -481,7 +481,9 @@
           "lostPsw": "Avez-vous oublié votre mot de passe?",
           "button1": "S'identifier",
           "button2": "Créer un nouveau compte",
-          "social-buttons": "CONNEXION AVEC VOTRE COMPTE DE MÉDIAS SOCIAUX"
+          "social-buttons": "CONNEXION AVEC VOTRE COMPTE DE MÉDIAS SOCIAUX",
+          "phoneNoPassword": "Telefon numarası ile giriş için şifreye gerek yoktur.",
+          "phoneSmsCode": "Sms kodu ile onaylayın"
         },
         "reset-password-form": {
           "title": "Opérations de mot de passe",

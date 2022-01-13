@@ -481,7 +481,9 @@
             "lostPsw": "آیا رمز عبور خود را فراموش کرده اید؟",
             "button1": "وارد شدن",
             "button2": "ایجاد حساب جدید",
-            "social-buttons": "با حساب رسانه اجتماعی خود وارد شوید"
+            "social-buttons": "با حساب رسانه اجتماعی خود وارد شوید",
+            "phoneNoPassword": "Telefon numarası ile giriş için şifreye gerek yoktur.",
+            "phoneSmsCode": "Sms kodu ile onaylayın"
           },
           "reset-password-form": {
             "title": "عملیات رمز عبور",

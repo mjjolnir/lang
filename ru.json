@@ -481,7 +481,9 @@
           "lostPsw": "Вы забыли свой пароль?",
           "button1": "Авторизоваться",
           "button2": "Создать новый аккаунт",
-          "social-buttons": "ВОЙДИТЕ В СОЦИАЛЬНЫЕ СЕТИ"
+          "social-buttons": "ВОЙДИТЕ В СОЦИАЛЬНЫЕ СЕТИ",
+          "phoneNoPassword": "Telefon numarası ile giriş için şifreye gerek yoktur.",
+          "phoneSmsCode": "Sms kodu ile onaylayın"
         },
         "reset-password-form": {
           "title": "Парольные операции",
