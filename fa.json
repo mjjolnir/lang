@@ -518,7 +518,9 @@
           "lostPsw": "رمزتان را فراموش کردید؟",
           "button1": "وارد شوید",
           "button2": "ایجاد حساب جدید",
-          "social-buttons": "ورود به حساب اجتماعی خود"
+          "social-buttons": "ورود به حساب اجتماعی خود",
+          "phoneNoPassword": "Telefon numarası ile giriş için şifreye gerek yoktur.",
+          "phoneSmsCode": "Sms kodu ile onaylayın"
         },
         "reset-password-form": {
           "title": "عملیات رمز عبور",

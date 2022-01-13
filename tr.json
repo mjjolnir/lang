@@ -518,7 +518,9 @@
           "lostPsw": "Şifreni mi unuttun?",
           "button1": "Giriş Yap",
           "button2": "Yeni Hesap Oluştur",
-          "social-buttons": "SOSYAL MEDYA HESABINLA GİRİŞ YAP"
+          "social-buttons": "SOSYAL MEDYA HESABINLA GİRİŞ YAP",
+          "phoneNoPassword": "Telefon numarası ile giriş için şifreye gerek yoktur.",
+          "phoneSmsCode": "Sms kodu ile onaylayın"
         },
         "reset-password-form": {
           "title": "Şifre işlemleri",
@@ -2452,7 +2454,7 @@
         "add-suggest":{
           "title":"Konut Bildirimi Nasıl Çalışır?",
           "text":"Satılıkfil çevrenizde satılmak için bekleyen konutları bilmek istiyor! Hemen bizimle iletişime geçin ve bize satılması istenen konutu gösterin. Konut sahibi ile görüşecek ve Satılıkfil avantajlarından söz edeceğiz. Konutun listelenmesi halinde size ‘’Referans Sistemi’’ dahilinde kazanç sağlıyoruz. Harika, öyle değil mi?",
-          "text1":"Kazancınız bununla sınırlı değil! Listelenmesi dolayısıyla komisyon kazandığınız daire satıldığında, size yeniden komisyon ödemeyeceğiz. Paylaşmayı seviyoruz!"
+          "text1":"Kazancınız bununla sınırlı değil! Listelenmesi dolayısıyla komisyon kazandığınız daire satıldığında, size yeniden komisyon ödeyeceğiz. Paylaşmayı seviyoruz!"
         },
         "table":{
           "header":"Bize Konut Bildirimi Yapın!",

@@ -481,7 +481,9 @@
           "lostPsw": "¿Olvidaste tu contraseña?",
           "button1": "Iniciar sesión",
           "button2": "Crear una nueva cuenta",
-          "social-buttons": "INICIE SESIÓN CON SU CUENTA DE REDES SOCIALES"
+          "social-buttons": "INICIE SESIÓN CON SU CUENTA DE REDES SOCIALES",
+          "phoneNoPassword": "Telefon numarası ile giriş için şifreye gerek yoktur.",
+          "phoneSmsCode": "Sms kodu ile onaylayın"
         },
         "reset-password-form": {
           "title": "Operaciones de contraseña",

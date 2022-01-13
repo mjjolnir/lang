@@ -499,7 +499,9 @@
           "lostPsw": "Did you forget your password?",
           "button1": "Login",
           "button2": "Create New Account",
-          "social-buttons": "LOGIN WITH YOUR SOCIAL MEDIA ACCOUNT"
+          "social-buttons": "LOGIN WITH YOUR SOCIAL MEDIA ACCOUNT",
+          "phoneNoPassword": "Telefon numarası ile giriş için şifreye gerek yoktur.",
+          "phoneSmsCode": "Sms kodu ile onaylayın"
         },
         "reset-password-form": {
           "title": "Password Operations",
