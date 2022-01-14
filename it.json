@@ -1,4 +1,61 @@
 {
+  "ts": {
+    "common": {
+      "login-required": "شما باید وارد شوید",
+      "share-property": "آگهی را به اشتراک بگذارید",
+      "share-copied": "لینک ملک برای فروش کپی شده است.",
+      "locked":"Bu Alan Kilitlidir.",
+      "select": "Seçiniz"
+    },
+    "filters": {
+      "common": {
+        "moreText": "بیشتر",
+        "noResultsFound": "نتایج جستجو پیدا نشد!"
+      },
+      "select_city": {
+        "placeholder": "شهر را انتخاب کنید",
+        "searchPlaceholder": "جستجوی شهر"
+      },
+      "select_district": {
+        "placeholder": "Select Distirict",
+        "searchPlaceholder": "Search"
+      },
+      "select_price": {
+        "placeholder": "Select Price",
+        "searchPlaceholder": "Search"
+      },
+      "select_room": {
+        "placeholder": "Select Room",
+        "searchPlaceholder": "Search"
+      }
+    },
+    "pages":  {
+      "my-properties": "Mülklerim",
+      "notifications": "Bildirimler",
+      "update-profile": "Profilini Özelleştir",
+      "update-profile-photo": "Resmini Güncelle",
+      "adress-info": "Adres Bilgisi",
+      "email-info": "E-Posta Biilgisi",
+      "your-income": "Gelirleriniz",
+      "my-favories": "Favori İlanların",
+      "name-info": "Ad Soyad Bilgisi",
+      "password-info": "Şifre Belirleme",
+      "phone-info": "Telefon Bilgisi",
+      "tc-id-info": "T.C Kimlik Numararsı",
+      "suggestions": "Ev Önerileri",
+      "manage-visits": "Ziyaret Yönetimi",
+      "property-detail": "İlan Detayı",
+      "search-map": "Haritada Ara",
+      "project-detail": "Proje Detayı",
+      "projects": "Projeler",
+      "career": "Kariyer",
+      "earn-money": "Para Kazan",
+      "saller-guide": "Ev Sahibi Rehberi",
+      "solition-partners": "Çözüm Ortaklarımız",
+      "faq": "Sık Sorulan Sorular",
+      "buyer-guide": "Alıcı Rehberi"
+    }
+  },
   "layouts": {
     "header": {
       "logo": {
@@ -1032,7 +1089,7 @@
               "text6": "Hai la garanzia di ricevere il canone di noleggio ogni 12 giorni senza errori. La direzione è con noi fino alla fine del contratto."
             },
             "text1": "Domande da pubblicare?",
-            "text2": "Contattaci"
+            "text2": "Contattaci 0800608 2129"
           },
           "advantages1": "I nostri vantaggi",
           "differences1": "Le nostre differenze",

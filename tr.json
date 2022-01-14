@@ -1,5 +1,62 @@
 {
-	"layouts": {
+	"ts": {
+    "common": {
+      "login-required": "Giriş Yapmalısınız",
+      "share-property": "İlanı Paylaşın",
+      "share-copied": "Satılık emlak linki kopyalandı.",
+      "locked":"Bu Alan Kilitlidir.",
+      "select": "Seçiniz"
+    },
+    "filters": {
+      "common": {
+        "moreText": "daha",
+        "noResultsFound": "Arama Sonucu Bulunamadı!"
+      },
+      "select_city": {
+        "placeholder": "Şehir Seçiniz",
+        "searchPlaceholder": "Şehir Ara"
+      },
+      "select_district": {
+        "placeholder": "Semt Seçiniz",
+        "searchPlaceholder": "Semt Ara"
+      },
+      "select_price": {
+        "placeholder": "Fiyat Seçiniz",
+        "searchPlaceholder": "Fiyat Ara"
+      },
+      "select_room": {
+        "placeholder": "Oda Seçiniz",
+        "searchPlaceholder": "Search"
+      }
+    },
+    "pages":  {
+      "my-properties": "Mülklerim",
+      "notifications": "Bildirimler",
+      "update-profile": "Profilini Özelleştir",
+      "update-profile-photo": "Resmini Güncelle",
+      "adress-info": "Adres Bilgisi",
+      "email-info": "E-Posta Biilgisi",
+      "your-income": "Gelirleriniz",
+      "my-favories": "Favori İlanların",
+      "name-info": "Ad Soyad Bilgisi",
+      "password-info": "Şifre Belirleme",
+      "phone-info": "Telefon Bilgisi",
+      "tc-id-info": "T.C Kimlik Numararsı",
+      "suggestions": "Ev Önerileri",
+      "manage-visits": "Ziyaret Yönetimi",
+      "property-detail": "İlan Detayı",
+      "search-map": "Haritada Ara",
+      "project-detail": "Proje Detayı",
+      "projects": "Projeler",
+      "career": "Kariyer",
+      "earn-money": "Para Kazan",
+      "saller-guide": "Ev Sahibi Rehberi",
+      "solition-partners": "Çözüm Ortaklarımız",
+      "faq": "Sık Sorulan Sorular",
+      "buyer-guide": "Alıcı Rehberi"
+    }
+  },
+  "layouts": {
 		"header": {
 			"logo": {
 				"title": "Ana sayfaya dönmek için tıklayın"
@@ -1015,7 +1072,6 @@
           "button":"Daha Fazla Soru Gör"
         }
       },
-      
       "listing":{
         "listing-mobile":{
           "advantage":{
