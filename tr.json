@@ -5,7 +5,8 @@
       "share-property": "İlanı Paylaşın",
       "share-copied": "Satılık emlak linki kopyalandı.",
       "locked":"Bu Alan Kilitlidir.",
-      "select": "Seçiniz"
+      "select": "Seçiniz",
+      "start-price": "'dan başlayan fiyatlarla"
     },
     "filters": {
       "common": {

@@ -5,7 +5,8 @@
       "share-property": "آگهی را به اشتراک بگذارید",
       "share-copied": "لینک ملک برای فروش کپی شده است.",
       "locked":"Bu Alan Kilitlidir.",
-      "select": "Seçiniz"
+      "select": "Seçiniz",
+      "start-price": "'dan başlayan fiyatlarla"
     },
     "filters": {
       "common": {
