@@ -18,43 +18,43 @@
         "searchPlaceholder": "جستجوی شهر"
       },
       "select_district": {
-        "placeholder": "Select Distirict",
-        "searchPlaceholder": "Search"
+        "placeholder": " انتخاب محدوده",
+        "searchPlaceholder": "جستجو"
       },
       "select_price": {
-        "placeholder": "Select Price",
-        "searchPlaceholder": "Search"
+        "placeholder": " انتخاب قیمت",
+        "searchPlaceholder": "جستجو"
       },
       "select_room": {
-        "placeholder": "Select Room",
-        "searchPlaceholder": "Search"
+        "placeholder": " انتخاب اتاق",
+        "searchPlaceholder": "جستجو"
       }
     },
     "pages":  {
-      "my-properties": "Mülklerim",
-      "notifications": "Bildirimler",
-      "update-profile": "Profilini Özelleştir",
-      "update-profile-photo": "Resmini Güncelle",
-      "adress-info": "Adres Bilgisi",
-      "email-info": "E-Posta Biilgisi",
-      "your-income": "Gelirleriniz",
-      "my-favories": "Favori İlanların",
-      "name-info": "Ad Soyad Bilgisi",
-      "password-info": "Şifre Belirleme",
-      "phone-info": "Telefon Bilgisi",
-      "tc-id-info": "T.C Kimlik Numararsı",
-      "suggestions": "Ev Önerileri",
-      "manage-visits": "Ziyaret Yönetimi",
-      "property-detail": "İlan Detayı",
-      "search-map": "Haritada Ara",
-      "project-detail": "Proje Detayı",
-      "projects": "Projeler",
-      "career": "Kariyer",
-      "earn-money": "Para Kazan",
-      "saller-guide": "Ev Sahibi Rehberi",
-      "solition-partners": "Çözüm Ortaklarımız",
-      "faq": "Sık Sorulan Sorular",
-      "buyer-guide": "Alıcı Rehberi"
+      "my-properties": "دارایی من",
+      "notifications": "اطلاعیه ها",
+      "update-profile": " شخصی سازی پروفایل",
+      "update-profile-photo": "بروزرسانی تصویر ",
+      "adress-info": " آدرس",
+      "email-info": "ایمیل ",
+      "your-income": "درآمد شما",
+      "my-favories": "علاقه مندی های من ",
+      "name-info": " نام و نام خانوادگی ",
+      "password-info": "ست کردن پسورد ",
+      "phone-info": " تلفن",
+      "tc-id-info": "شماره شناسایی",
+      "suggestions": "پیشنهاد خانه ",
+      "manage-visits": " تنظیم ملاقات حضوری",
+      "property-detail": "جزئیات آگهی ",
+      "search-map": "جستجو بر روی نقشه ",
+      "project-detail": "جزئیات پروژه ",
+      "projects": "پروژه ها",
+      "career": "فرصت های همکاری",
+      "earn-money": " کسب درآمد",
+      "saller-guide": " دسته بندی فایلهای خانه ",
+      "solition-partners": "شرکای تجاری ",
+      "faq": "سوالات متداول  ",
+      "buyer-guide": "خریدار "
     }
   },
   
@@ -81,11 +81,11 @@
         },
 				"publish": {
 					"text": "آگهی منتشر کنید",
-					"title": "اعلان پست جدید بفرستید درآمد کسب کنید"
+					"title": "با اعلان جدید، درآمد کسب کنید"
 				},
 				"login": {
 					"text": "وارد شوید",
-					"title": "یرای معرفی خانه خرید و فروش وارد شوید"
+					"title": "یرای معرفی خانه و خرید و فروش آن وارد شوید"
 				},
 				"user": {
 					"notifications": {
@@ -100,14 +100,14 @@
 					"links": {
 						"code": {
 							"text": "کد شما",
-							"title": "هنگام سوال برای حمایت این کد را وارد کنید."
+							"title": "هنگام سوال این کد را وارد کنید."
 						},
 						"customer_panel": {
-							"text": "پنل مشتری",
-							"title": "برای دسترسی به پنل مشتری کلیک کنید"
+							"text": "پنل کاربری",
+							"title": "برای دسترسی به پنل کاربری کلیک کنید"
 						},
 						"account": {
-							"text": "حسابم",
+							"text": "حساب من",
 							"title": "برای مشاهده اطلاعات پروفایل کلیک کنید"
 						},
 						"estate": {
@@ -115,8 +115,8 @@
 							"title": "برای مدیریت آگهی هایتان کلیک کنید"
 						},
 						"suggest": {
-							"text": "خونه پیشنهاد بدین و کسب درآمد بکنین",
-							"title": "برای کسب درآمد با پیشنهاد خانه کلیک کنید"
+							"text": "با پیشنهاد خانه، کسب درآمد کنید",
+							"title": "برای کسب درآمد از طریق پیشنهاد خانه کلیک کنید"
 						},
 						"favorites": {
 							"text": "آگهی های مورد علاقه",
@@ -129,7 +129,7 @@
 					}
 				},
 				"language": {
-					"title": "برای انتخاب زبان از منو انتخاب کنید"
+					"title": "برای انتخاب زبان از منو، زبان مربوطه را انتخاب کنید"
 				}
 			}
     },
@@ -141,7 +141,7 @@
         "item":"قرارداد عضویت",
         "item1":"منابع انسانی",
         "item2":"تماس با ما",
-        "item3":"مناطق خدماتی",
+        "item3":"محدوده خدمات",
         "item4":"قیمت فروش در هر محله"
       },
       "list":{
@@ -188,7 +188,7 @@
         "my-favorite":"لیست علاقه مندی ها",
         "gain":"درآمد کسب کن",
         "my-property":"املاک من",
-        "partner": "شریک",
+        "partner": "تنظیمات",
         "admin": "مرکز تماس",
         "campaign": "فرصت های همکاری"
       },
@@ -200,9 +200,9 @@
         "notification":"اطلاع از اعلان",
         "contract":"ابزارها",
         "damage":"خسارت ها",
-        "support":"حمایت",
-        "statistic":"آمار ها",
-        "end-contract":"سند خانه",
+        "support":"تایید",
+        "statistic":"آمارها",
+        "end-contract":"اسناد خانه",
         "visit-home":"بازدید از خانه"
       },
       "button":"حساب کاربری خود را تایید کنید واز فرصت ها استفاده کنید",
@@ -210,7 +210,7 @@
       "account":{
         "title":"خوش آمدید",
         "button":"مشاهده اطلاعات پروفایل ",
-        "logout":"خارج شوید"
+        "logout":"خروج "
       },
       "re-account":"بین حسابها حرکت کنید",
       "host-page":"حساب صاحبخانه",
@@ -276,54 +276,54 @@
       "income-form":{
         "header":"در مورد درآمد اطلاعات کوتاهی بدهید",
         "title":"در مورد درآمد",
-        "text":"لطفا فایل ها را برای اثبات درآمد اضافی خود اضافه کنید",
+        "text":"لطفا فایل ها را برای اثبات درآمد خود اضافه کنید",
         "text1":"فقط فایل با فرمت PNG و GPS قابل قبول میباشد",
         "update":"اطلاعات را بروزرسانی کنید"
       },
       "property-edit-form":{
         "title":"اطلاعات آگهی",
-        "text":"با اطلاعات مسکن مورد نظر میتوانید فرم زیر را پرکنید",
+        "text":"با وارد کردن اطلاعات خانه، فرم زیر را پرکنید",
         "properties":{
-          "title":"ویژگی های آگهی",
+          "title":"مشخصات آگهی",
           "property1":"آگهی ویژه",
           "property2":"اطلاعیه ویترین"
         },
         "advertisement-title":"عنوان آگهی",
         "help":"کمک",
-        "add-advertisement":"عنوان آگهی بنویس",
-        "address":"اطلاعات آدرس",
+        "add-advertisement":"عنوان آگهی را بنویسید",
+        "address":" آدرس",
         "advertisement-description":"توضیحات آگهی",
         "add-advertisement1":"توضیحات آگهی را بنویسید",
         "home-facility":"امکانات خانه",
         "locked":"این قسمت قفل شده است",
-        "home-property":"ویژگی های خانه",
-        "save":"سیو کنید"
+        "home-property":"مشخصات خانه",
+        "save":"ذخیره کنید"
       },
       "suggest-form": {
         "header": {
           "title": "به ما برای فروش خانه خوداطلاع دهید",
-          "p": "مابقی را ما حل میکنیم"
+          "p": "بقیه هماهنگی ها را ما انجام می دهیم"
         },
         "notification":"اخطار",
         "text":" قبل از تایید شماره تلفنتان پیشنهاد فروش ندهید",
         "button":"اینجا کلیک کنید",
-        "button1":"شماره تلفنتان را تایید کن",
+        "button1":"شماره تلفنتان را تایید کنید",
         "field": {
           "affinity": {
-            "placeholder": "با صاحبخانه چه نسبتی دارید ؟",
-            "default": "با صاحبخانه چه نسبتی دارید ؟"
+            "placeholder": "با صاحب ملک چه نسبتی دارید ؟",
+            "default": "با صاحب ملک چه نسبتی دارید ؟"
           },
           "host":{
             "code":"کد",
             "num":"+90",
             "num1":"+91",
-            "phone-number":"شماره تلفن صاحبخانه"
+            "phone-number":"شماره تلفن صاحب ملک"
           },
           "owner": {
-            "placeholder": "نام و نام خانوادگی صاحبخانه"
+            "placeholder": "نام و نام خانوادگی صاحب ملک"
           },
           "address": {
-            "placeholder": "آدرس صاحبخانه"
+            "placeholder": "آدرس صاحب ملک"
           }
         },
 
@@ -338,7 +338,7 @@
           "p2": "برای اطلاع این اعلان متشکریم",
           "button": {
             "text": "درخواست اعلان جدید  ",
-            "title": "برای دادن پیشنهاد جدید خانه اینجا کلیک کنید"
+            "title": "برای ثبت پیشنهاد جدید خانه اینجا کلیک کنید"
           }
         }
       },
@@ -353,16 +353,16 @@
           "name":"نام و نام خانوادگی",
           "phone-number":"شماره تلفن"
         },
-        "notification1":"خطای ایجاد کاربر",
+        "notification1":"خطای ثبت نام کاربر",
         "property-owner":"شروع عضویت با تلفن صاحب ملک",
         "explanation":"این شماره تلفن",
         "explanation1":"با نام عضو بشین",
-        "button":"با کلیک در این قسمت نام را به روزرسانی بکنید",
+        "button":"با کلیک در این قسمت نام را بروزرسانی کنید",
         
         "property-info":{
-          "address-info":"اطلاعات آدرس املاک",
+          "address-info":"اطلاعات آدرس ملک",
           "confirm":"پس از تایید وضعیت خانه از صاحب ملک اطلاعات آدرس را تایید کنید",
-          "address":"آدرس املاک"
+          "address":"آدرس ملک"
         },
         "title":"این قسمت توسط کارشناسان satilikfil تایید شده است",
         "location":"میخواهم لوکیشنم را از روی نقشه پیدا کنم",
@@ -371,7 +371,7 @@
         "notes":"یادداشت ها",
         "text1":"شما میتوانید نظرات خود را درمورد آگهی یا پرکردن جاهای خالی زیر به اشتراک بگذارید",
         "add-note":"برای آگهی یک یادداشت بنویسید",
-        "customer-note":"برای مشتری یک یادداشت بنویسید",
+        "customer-note":"برای مشتری یادداشتی بنویسید",
         "help":"کمک"
       }
     },
@@ -399,7 +399,7 @@
         "button":"ایکس"
       },
       "like-button":{
-        "button":"اضافه کردن به علاقه مندی ها",
+        "button":"افزودن به علاقه مندی ها",
         "button1":"در لیست علاقه مندی ها"
       },
       "property-filter-panel":{
@@ -429,11 +429,11 @@
         "empty": "آگهی مناسب با منطقه و یا معیارهای شما یافت نشد"
       },
       "uploader-modal":{
-        "button":"منصرف شوید",
-        "button1":"بفرست"
+        "button":"انصراف",
+        "button1":"ارسال"
       },
       "photo-browser": {
-        "close": "ببند"
+        "close": "بستن"
       }
     }
   },
@@ -459,7 +459,7 @@
           "neighborhood":"سمت",
           "budget":"بودجه",
           "room":"تعداد اتاق",
-          "button":"پرسوجو"
+          "button":"جستجو"
         }
       },
       "header": {
@@ -480,12 +480,12 @@
         "bed-info": {
           "text": "تعداد اتاق"
         },
-        "text": "پرسوجو کن"
+        "text": "جستجو کن"
       },
       "host": {
-        "text": "مخصوص صاحبخانه ها",
-        "statement": "گرانتی فروش به ارزش واقعی  ملک",
-        "statement1": "پرداخت اجاره بابت هرماهی که ملکتان بفروش نرود",
+        "text": "مخصوص  صاحبان ملک",
+        "statement": "ضمانت فروش به ارزش واقعی  ملک",
+        "statement1": "پرداخت اجاره بابت هر ماهی که ملکتان بفروش نرود",
         "statement2": "روش جامع فرآیند فروش"
       },
       "extra-info-host": {
@@ -493,38 +493,38 @@
       },
       "renter": {
         "text": "مخصوص خریدار",
-        "statement": "برجسته نمونه کارها املاک و مستغلات",
+        "statement": "بهترین نمونه کارهای املاک و مستغلات",
         "statement1": "همیشه ارزش به قیمت",
-        "statement2": "روند فروش قابل اعتماد و شفاف"
+        "statement2": "روند فروش قابل اعتماد و امن"
       },
       "extra-info-rent": {
-        "text": "خانه پیدا کن"
+        "text": "خانه ای را پیدا کن"
       },
       "advertisement": {
         "title": "Satılıkfilجدیدترین آگهی ها در!",
-        "text": "Satılıkfil دراین هفته تعداد زیادی آگهی جدید ارایِه کرده است",
-        "text-1":"پیدا کردن خانه رویایی خود را در حال حاضر با گزینه های پیشرفته فیلتر کنید",
-        "more": "اطلاعات اضافی بگیر"
+        "text": "Satılıkfil دراین هفته تعداد زیادی آگهی جدید ارائه کرده است",
+        "text-1":"برای یافتن خانه رویایی خود در حال حاضر از طریق گزینه های فیلتر عمل کنید",
+        "more": "اطلاعات بیشتر"
       },
       "advantages": {
         "title": "چرا Satılıkfi؟",
         "text": "با مزایای استفاده از اولین سیستم املاک و مستغلات دیجیتال در ترکیه آشنا شوید!",
         "button1": "میخواهم خانه ام را بفروشم",
         "button2": "میخواهم خانه بخرم",
-        "title1": "سریع میفروشیم",
+        "title1": "سریع می فروشیم",
         "text1": "برای فروش خانه خود تنها کافی است با ما تماس بگیرید تا ملک شما را با بهترین قیمت بفروشیم.                     ",
-        "title2": "تضمین میدهیم",
+        "title2": "تضمین می دهیم",
         "text2": "    تیم مشاوران ما در صورتیکه ملکتان به فروش نرود، بابت هر ماه به شما اجاره پرداخت می کنند درحالی که شما همچنان صاحبخانه هستید ",
         "title3": "کار با پنل ما راحت است ",
         "text3": "             تنها با چند کلیک ساده، ملکتان را به‌ صورت رایگان آگهی کنید تا در سریع‌ترین زمان ممکن معامله انجام شود.  .",
         "text4": "کلیک کنید"
       },
       "advantages-rental":{
-        "title1":"صادقانه میفروشیم",
+        "title1":"صادقانه می فروشیم",
         "text1":"در satilikfil تمامی عکس ها توسط عکاسان حرفه ای گرفته شده و فقط توسط ما طراحی شده .امنیت شما تضمین شده است",
         "title2":"به قیمت واقعی بفروشید",
         "text2":"پایان به پرداخت مبلغ ویلا هنگام خرید آپارتمان.راه حل تعیین قیمت تخصصی ملک با املاک satılıkfıl",
-        "title3":"زیاد میفروشیم",
+        "title3":"زیاد می فروشیم",
         "text3":"تیم ما هر سال صدها خانه را به فروش می رساند. بزرگترین راز ما غنی نمونه کارها املاک و مستغلات ما است. خانه مورد نظر شما را ماپیدا میکنیم"
       },
       "solution": {
@@ -564,22 +564,22 @@
         "enter-password-form": {
           "title": "برای ایجاد تغییرات رمز ورود به برنامه را تایید کنید",
           "passform": {
-            "provider": "مدیر ورود به حساب کاربری خود را انتخاب کنید",
+            "provider": "برای ورود به سایت، حساب کاربری خود را انتخاب کنید",
             "password": "رمز"
           },
-          "button1": "منصرف شوید",
-          "button2": "تایید کنید"
+          "button1": "انصراف ",
+          "button2": "تایید "
         },
         "login-form": {
-          "text": "قادر به ورود نیست",
+          "text": "امکان ورود وجود ندارد",
           "text1": "ایمیل یا شماره تلفن",
           "loginPsw": "رمز",
           "lostPsw": "رمزتان را فراموش کردید؟",
           "button1": "وارد شوید",
           "button2": "ایجاد حساب جدید",
           "social-buttons": "ورود به حساب اجتماعی خود",
-          "phoneNoPassword": "Telefon numarası ile giriş için şifreye gerek yoktur.",
-          "phoneSmsCode": "Sms kodu ile onaylayın"
+          "phoneNoPassword": "برای ورود با شماره تلفن نیازی به رمز عبور نیست.",
+          "phoneSmsCode": "Sms تایید با کد  "
         },
         "reset-password-form": {
           "title": "عملیات رمز عبور",
@@ -592,13 +592,13 @@
           "text1": "به شماره تلفنتان ارسال شد",
           "text2": "کد را وارد کنید",
           "notification": {
-            "text3": "کد پیام تایید نشد لطفا دوباره امتحان کنید",
-            "text4": "پیام نیومد ؟ ",
+            "text3": "کد پیام تایید نشد لطفا مجدد تلاش کنید",
+            "text4": "پیام دریافت نشد ؟ ",
             "text5": "درخواست پیام جدید"
           },
           "button": {
-            "text1": "منصرف شوید",
-            "text2": "تایید کنید"
+            "text1": "انصراف ",
+            "text2": "تایید "
           }
         }
       },
@@ -606,14 +606,14 @@
         "title": "فروش خانه شما",
         "title1": "راحت",
         "title2": "با راهش آشنا شوید",
-        "text": "حالا ثبت نام کنید املاک خود را وارد لیست کنید و از فرصت های املاک دیجیتال استفاده کنید",
+        "text": "هم اکنون ثبت نام کنید، املاک خود را در لیست وارد کنید و از پیشنهادات املاک دیجیتال استفاده کنید",
         "text1": "100 دلار",
         "text2": "همراه کرایه اول",
         "text3": "% 10",
-        "text4": "'اونو برنده شوید",
+        "text4": "'آن را برنده شوید",
         "button": "ایجاد حساب کاربری",
         "button1": "وارد شوید",
-        "text5": "مجددا خوش آمدید"
+        "text5": "باز هم خوش آمدید"
       },
       "mobile": {
         "m-login": {
@@ -628,26 +628,26 @@
           "doLogin": {
             "title": "ورود به حساب کاربری خود",
             "button": "رمزتان را تایید کنید",
-            "text": "هنوز حساب نداري؟",
+            "text": "هنوز حساب نداريد؟",
             "button1": "ایجاد حساب جدید"
           }
         }
       },
       "modal": {
         "login-modal": {
-          "button": "منصرف شوید",
-          "button1": "وارد شوید"
+          "button": "انصراف ",
+          "button1": "ورود به سایت"
         },
         "reset-modal": {
-          "button": "منصرف شوید",
-          "button1": "بازنشانی گذرواژه من"
+          "button": "انصراف ",
+          "button1": "بازنشانی رمز عبور من"
         }
       },
       "register": {
         "kvkk-modal": {
           "text": "Duis eleifend, metus vel viverra pellentesque, ipsum nulla convallis massa, non ornare lacus risus in velit. Vestibulum sodales lobortis eros nec convallis. Nullam non ante iaculis, fringilla nunc vitae, lacinia lectus. Quisque auctor nisl a tortor rutrum ornare. uis scelerisque ipsum vitae tellus dignissim ultricies. Donec ornare urna eu lorem mollis congue. Duis ut nulla luctus, commodo tellus sit amet, vulputate purus. Morbi imperdiet nunc at ornare placerat. Cras ultrices congue velit quis fringilla. Donec eget tristique magna, vitae faucibus nunc. Vestibulum ante ipsum primis in faucibus orci luctus et, ultrices posuere cubilia Curae; Vestibulum lacinia, mi nec feugiat posuere, tortor arcu feugiat metus, non pretium turpis est consectetur magna. Vestibulum et neque consequat, accumsan nulla non, lobortis lacus. Pellentesque elementum nibh nulla, in faucibus urna eleifend et. Ut pulvinar dictum tortor ac gravida. Donec eu venenatis risus, nec dignissim urna.",
           "button": "قبول میکنم",
-          "button1": "منصرف شوید"
+          "button1": "انصراف"
         },
         "tcno-modal": {
           "text": "Duis eleifend, metus vel viverra pellentesque, ipsum nulla convallis massa, non ornare lacus risus in velit. Vestibulum sodales lobortis eros nec convallis. Nullam non ante iaculis, fringilla nunc vitae, lacinia lectus. Quisque auctor nisl a tortor rutrum ornare. uis scelerisque ipsum vitae tellus dignissim ultricies. Donec ornare urna eu lorem mollis congue. Duis ut nulla luctus, commodo tellus sit amet, vulputate purus. Morbi imperdiet nunc at ornare placerat. Cras ultrices congue velit quis fringilla. Donec eget tristique magna, vitae faucibus nunc. Vestibulum ante ipsum primis in faucibus orci luctus et, ultrices posuere cubilia Curae; Vestibulum lacinia, mi nec feugiat posuere, tortor arcu feugiat metus, non pretium turpis est consectetur magna. Vestibulum et neque consequat, accumsan nulla non, lobortis lacus. Pellentesque elementum nibh nulla, in faucibus urna eleifend et. Ut pulvinar dictum tortor ac gravida. Donec eu venenatis risus, nec dignissim urna.",
@@ -656,16 +656,16 @@
         "title": "در حال حاضر یک",
         "title1": "حسابتان",
         "title2": "هست ؟",
-        "text": "عالی.همین حالا وارد شوید.به ماجراجویی دیجیتالی خود ادامه دهیم",
-        "button": "حالا وارد شوید",
+        "text": "عالی. همین حالا وارد شوید.به فعالیت خود ادامه دهید",
+        "button": "هم اکنون وارد شوید",
         "create": {
           "new-account": "ایجاد حساب کاربری",
-          "text": "خانواده satilikfil با هیجان منت شماست",
-          "tc-info": "اطلاعات کارت شناسایی",
-          "text1": "زمان گرفتن قرار ملاقات به این اطلاعات نیاز داریم",
+          "text": " satilikfil  با افتخار همراه شماست",
+          "tc-info": "اطلاعات شناسایی",
+          "text1": "زمان تنظیم قرار ملاقات به این اطلاعات نیاز داریم",
           "text2": "شما میتوانید این مرحله را رد کنید",
           "text3": "یک قدم تا پایان",
-          "text4": "هنگام پایان عضویت اقدام به گرفتن تاریخ ملاقات باشید",
+          "text4": "هنگام پایان عضویت به گرفتن تاریخ ملاقات اقدام کنید",
           "title2": "کد تایید 6 رقمی را وارد کنید",
           "text5": "شماره شش رقمی به شماره تلفن شما",
           "text6": "رمز تایید فرستاده شد"
@@ -680,7 +680,7 @@
           "kvkk": "KVKK",
           "kvkk1": "قرارداد را خواندم و قبول  میکنم",
           "kvkk2": "برای عضویت فرم KVKK را پرکنید",
-          "text2": "ایمیل ذاتا ثبت شده به جای عضویت",
+          "text2": "ایمیل شما ثبت شده به جای عضویت",
           "button": "وارد شوید",
           "text3": "میخواهید ؟",
           "next": "قدم بعدی",
@@ -694,7 +694,7 @@
           "year": "سال تولد",
           "text4": "شماره کارت شناسایی ام را به چه دلیل نمیدهم",
           "text5": "میخواهم این مرحله را رد کنم",
-          "text6": "شماره کارت شناسایی تایید نشد لطفا اطلاعات را چک کنید ودوباره امتحان کنید",
+          "text6": "شماره کارت شناسایی تایید نشد لطفا اطلاعات را چک و مجدد تلاش کنید",
           "text7": "قدم بعدی",
           "num": "02/03",
           "city": "شهر",
@@ -704,11 +704,11 @@
           "text9-2": "+91",
           "phone": "شماره تلفنتان",
           "text11": "فعلا میخواهم از این مرحله عبور کنم",
-          "text12": "از این مرحله عبور کن و عضویتم را تمام کن",
+          "text12": "از این مرحله بگذر و عضویتم را تمام کن",
           "num1": "03/03"
         },
         "confirm": {
-          "sms": "پیام نیامد؟",
+          "sms": "پیام دریافت نشد؟",
           "new-sms": "درخواست پیام جدید"
         },
         "regist": {
@@ -750,7 +750,7 @@
           "title2":"توضیحات آگهی",
           "title3":"امکانات خانه",
           "title4":"اطلاعات بیشتر خانه  ",
-          "title5":"خصوصیات خانه",
+          "title5":"ویژگی های خانه",
           "title6":"مشاهده بر روی نقشه"
         },
         "image":{
@@ -760,7 +760,7 @@
           "title":"قیمت خانه",
           "text":"قیمت فروش",
           "request":{
-            "button":"برنامه بازدید حضوری"
+            "button":"قرار بازدید حضوری"
           }
         },
         "ad-detail":{
@@ -772,15 +772,15 @@
           "title":"توضیحات آگهی"
         },
         "environment":{
-          "title":"آیا شما آماده برای کشف اتاق به اتاق خانه هستین؟",
-          "button":"دیدن تمامی عکس ها",
+          "title":"آیا تمایل دارید تصاویر بیشتری را ببینید؟",
+          "button":"مشاهده همه تصاویر",
           "button1":"مشاهده تصاویر"        
         },
         "home-env":{
-          "title":"خصوصیات خانه رااز نزدیک ببینید",
+          "title":"امکانات خانه رااز نزدیک ببینید",
           "text":"برای اطلاع دقیق از مشخصات خانه جدول زیر را بررسی کنید",
-          "title1":"لوکیشن خانه را از نزدیک ببینید",
-          "text1":"دقیقا در کدام منطقه قصد خرید خانه دارید؟ ما برای شما محل خانه را بر روی نقشه آماده کرده ایم."
+          "title1":"مکان خانه را از نزدیک ببینید",
+          "text1":"دقیقا در کدام منطقه قصد خرید خانه دارید؟ ما محل خانه را بر روی نقشه نشان می دهیم."
         }
       },
       "button":"اشتراک گذاری",
@@ -791,7 +791,7 @@
         "title2":"امکانات خانه",
         "title3":"اطلاعات بیشتر خانه  ",
         "title4":"ویژگی ها و امکانات   ",
-        "title5":"لوکیشن خانه "
+        "title5":"مکان خانه "
       },
       "container":{
         "text":"شماره آگهی",
@@ -2067,18 +2067,18 @@
           "task":"وظایف در انتظار ",
           "text":"ماموریت های نیمه تمام",
           "close":"ماموریت را تمام کن",
-          "unavailable":"هنوز ماموريت رو شروع نکردي"
+          "unavailable":"هنوز ماموريت خود را شروع نکردي"
         },
         "variation":"نسبت به ماه قبل",
         "variation1":"تبادل"
       },
       "branch":{
-        "tool":"خودروهای مدیریت شعبه",
+        "tool":" مدیریت شعبه",
         "text":"در اینجا شما می توانید درخواست های شعبه, بازدیدکننده ها و نمونه کارهای شعبه را مشاهده نمایید.",
         "missions":"ماموريت های در انتظار",
         "personal":"پرسنل شعبه",
         "pers-exp":"فهرست کارکنان شعبه",
-        "my-calendar":"تقویمم",
+        "my-calendar":"تقویم",
         "calendar-exp":"یادآوری انجام وظایف و مصاحبه",
         "sale":"فروش اختصاص یافته به شعبه",
         "sale-exp":"تبلیغات اختصاص داده توسط مرکز تماس به شعبه ",
@@ -2095,7 +2095,7 @@
         "photo-exp":"لیست وظایف عکاس",
         "notes":"یادداشت های تماس تلفنی",
         "notes-exp":"مصاحبه برای ارسال آگهی های غیره",
-        "all":"تمامش را ببین"
+        "all":"مشاهده همه"
       }
     },
     "dashboard":{
@@ -2243,9 +2243,9 @@
             "update":"به روزرسانی اعلان"
           }
         },
-        "my-properties":"ملک هایم",
+        "my-properties":"ملک های من",
         "text":"در Satılıkfil به راحتی وضعیت فعال تمام ملکهای ذکر شده خود را پیگیری کنید.",
-        "all-properties":"تمام ملک هایم",
+        "all-properties":"تمام ملک های من",
         "advertisement":"آگهی",
         "advertisement-date":"تاریخ آگهی",
         "rent":"ارزش خانه",
@@ -2261,7 +2261,7 @@
       "notifications":{
         "title":"Satılıkfil اعلان های",
         "text":"تیم ما به شما در خرید مسکن کمک می کند. برای خرید مسکن به ما اطلاع دهید!",
-        "all-properties":"تمام ملکهایم",
+        "all-properties":"تمام ملک های من",
         "all":"انتخاب همه",
         "date":"براساس تاریخ",
         "date-inc":"کاهش بر اساس تاریخ",
@@ -2494,7 +2494,7 @@
         },
         "phone":{
           "telephone":"شماره تلفن",
-          "text":"شماره تلفن خود را برای ورودی کاربر و اقدامات دیگر اضافه کنید.",
+          "text":"شماره تلفن خود را برای ورود کاربر و اقدامات دیگر اضافه کنید.",
           "update":"بروزرسانی شماره تلفن"
         },
         "tc":{
