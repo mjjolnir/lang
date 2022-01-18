@@ -59,22 +59,22 @@
     "partner": {
       "panel": {
         "projects": {
-          "title": "Projeler",
-          "desc": "Firmaya ait projeler"
+          "title": "پروژه ها",
+          "desc": "پروژه های شرکت"
         },
         "portfolio": {
-          "title": "Benim Portföyüm",
-          "desc": "Kendi portföyünüzü yönetin"
+          "title": "نمونه کارهای من",
+          "desc": "پورتفولیوی خود را مدیریت کنید"
         }
       },
       "projects": {
-        "title": "Projeler",
-        "subtitle": "Aşağıda kurumsal anlaşması yapılan projeler listelenmiştir.",
-        "new": "Yeni Proje Ekle",
+        "title": "پروژه ها",
+        "subtitle": "در زیر پروژه های موفق معرفی شده است..",
+        "new": "اضافه کردن پروژه جدید",
         "edit_menu": {
-          "edit": "Düzenle",
-          "unpublish": "Yayından Kaldır",
-          "remove": "PROJEYİ SİL"
+          "edit": "ویرایش",
+          "unpublish": "عدم انتشار",
+          "remove": "حذف پروژه"
         },
         "form": {
           "common": {
@@ -177,14 +177,14 @@
       }
     },
     "project_detail": {
-      "image_big_title": "Büyük resmi görüntülemek için buraya tıklayın.",
-      "image-view": " görseli",
-      "completed_status": "Tamamlanma Durumu",
-      "room_types": "DAİRE TİPLERİ",
-      "room_plans": "DAİRE PLANLARI",
-      "start_price": "'dan başlayan fiyatlarla",
-      "project_details": "PROJE DETAYLARI",
-      "project_possibilities": "PROJE OLANAKLARI"
+      "image_big_title": "برای مشاهده تصویر بزرگ اینجا کلیک کنید.",
+      "image-view": " تصویر",
+      "completed_status": "وضعیت تکمیل",
+      "room_types": "تعداد اتاق",
+      "room_plans": "پلن واحدها",
+      "start_price": "' شروع قیمت ها از",
+      "project_details": "جزئیات پروژه",
+      "project_possibilities": "امکانات پروژه"
     }
   },
   
@@ -343,7 +343,7 @@
         "logout":"خروج "
       },
       "re-account":"بین حسابها حرکت کنید",
-      "host-page":"حساب صاحبخانه",
+      "host-page":"حساب فروشنده",
       "notifications":"اعلان ها",
       "header":{
         "title1":"آگهی جدید خانه در منطقه شما منتشر شده است",
@@ -1342,13 +1342,13 @@
             "info1":"%",
             "info2":"100",
             "description":"سریعتر",
-            "description1":"باهوشتر",
+            "description1":"هوشمندتر",
             "item":"عکاسی حرفه ای رایگان",
             "item1":"مطمین، سریع، با قرارداد، فروش آنلاین",
             "item2":"تور حرفه ای خانه، خدمات معرفی",
             "item3":"تبلیغات رایگان",
             "item4":"امانت خانه به همراه ضمانت satilikfil, جبران خسارت احتمالی ",
-            "item5":"پرداخت اجاره خانه بابت هرماه ",
+            "item5":"پرداخت اجاره خانه بابت هر ماه ",
             "item6":"تیم حرفه ای فروش"
           },
           "vs":"VS.",
@@ -1615,7 +1615,7 @@
         "title1":"Satılıkfil هزینه های",
         "title2":"هزینه های سنتی املاک",
         "costs":{
-          "title":"Satılıkfil املاک باهوش آنلاین",
+          "title":"Satılıkfil املاک آنلاین",
           "text":"Satılıkfil, بدون خسته کردن, و بدون معطلی  ‘’به جای سپردن کار به شانس’’ میفروشد.",
           "block1":{
             "title":"SATILIKFİL امتیازات",
@@ -1623,7 +1623,7 @@
             "text1":"%",
             "text2":"100",
             "description":"سریعتر",
-            "description1":"باهوشتر",
+            "description1":"هوشمندتر",
             "advantage1":"سرویس عکاسی حرفه رایگان",
             "advantage2":"مطمئن, سریع, باقرارداد, فروش داخلی ",
             "advantage3":"تور حرفه ای خانه ، خدمات تبلیغاتی",
@@ -1701,7 +1701,7 @@
       "suggestions":{
         "title":"پیشنهادات خانه",
         "list":"شما می توانید لیست پیشنهادات خانه که کاربران فرستاده اند را مشاهده کنید.",
-        "host":"صاحبخانه",
+        "host":"فروشنده",
         "phone":"تلفن",
         "date":"تاریخ ایجاد شده",
         "situation":"نسبت به وضعیت",
@@ -1713,10 +1713,10 @@
           "warning":"اخطار",
           "sender":"فوروارد کردن",
           "advertisement":"تصویب آگهی",
-          "text":"در پایان مصاحبه با صاحبخانه, نام صاحبخانه, نام خانوادگی, تلفن, اطلاعات آدرس باید تایید شود, اطلاعات ملک باید به دست آمده باشد. یک انتخاب بر اساس نتیجه مصاحبه و تصویب آگهی انجام دهید. ",
+          "text":"در پایان ملاقات با فروشنده, نام فروشنده, نام خانوادگی, تلفن, اطلاعات آدرس باید تایید شود, اطلاعات ملک باید به دست آمده باشد. یک انتخاب بر اساس نتیجه مصاحبه و تصویب آگهی انجام دهید. ",
           "choice":{
             "text":"یک انتخاب کنید",
-            "text1":"صاحبخانه دردسترس نیست",
+            "text1":"فروشنده دردسترس نیست",
             "text2":"خانه فروشی نیست",
             "text3":"به شریک راه حل واگذار کنید",
             "text4":"وضعیت پیشنهاد"
@@ -1764,8 +1764,8 @@
       "common":{
         "contact":"اطلاعات تماس",
         "id-info":"اطلاعات کارت شناسایی",
-        "host-name":"نام صاحبخانه",
-        "host-surname":"نام خانوادگی صاحبخانه",
+        "host-name":"نام فروشنده",
+        "host-surname":"نام خانوادگی فروشنده",
         "name":"نام",
         "surname":"نام خانوادگی",
         "phoneNumber":"تلفن",
@@ -1988,7 +1988,7 @@
           "assign":"اختصاص دادن"
         },
         "note-modal":{
-          "text":"یادداشت های مصاحبه",
+          "text":"یادداشت های بازدید",
           "cancel":"منصرف شو",
           "save":"منصرف شو"
         },
@@ -2008,13 +2008,13 @@
           "notification":"اخطار",
           "form":{
             "host-info":"اطلاعات صاحبخانه",
-            "text":"اطلاعات تماس صاحب ملک . وضعیت املاک را تایید کنید واگر صاحبخانه عضویت ندارد آن را به عضویت راهنمایی کنید."
+            "text":"اطلاعات تماس صاحب ملک . وضعیت املاک را تایید کنید واگر فروشنده عضویت ندارد آن را به عضویت راهنمایی کنید."
           },
           "userError":"خطای ایجاد کاربر",
-          "creatin-user":"شروع عضویت صاحبخانه با شماره تلفن",
+          "creatin-user":"شروع عضویت فروشنده با شماره تلفن",
 
           "address-inf":"اطلاعات آدرس ملک",
-          "text":"بعد از تایید وضعیت ملک از صاحبخانه اطلاعات آدرس را تایید کنید",
+          "text":"بعد از تایید وضعیت ملک از فروشنده اطلاعات آدرس را تایید کنید",
           "address":"آدرس املاک",
 
           "informationAdv":{
@@ -2100,7 +2100,7 @@
         },
         "request":"درخ ها برای فروش",
         "text":"آگهی های اختصاص یافته به شعبه شما به شرح زیر است.",
-        "host":"صاحبخانه",
+        "host":"فروشنده",
         "contact":"تلفن",
         "date":"تاریخ ایجاد شده",
         "portfolio":"نمونه کار",
@@ -2262,7 +2262,7 @@
         "sample-date":"06.12.2019",
         "sample-date1":"06 Aralık 2019",
         "sample-price":"480.00 لیر",
-        "notification":"به صاحبخانه اعلام شد",
+        "notification":"به فروشنده اعلام شد",
         "satisfy":"Satılıkfil جبران خسارت میکند",
         "reflect":"آسیب در پرداخت منعکس شده ",
         "waiting":"منتظر پرداخت",
@@ -2273,7 +2273,7 @@
       },
       "dashboard-mobile":{
         "button":"بین حسابها عبور کن",
-        "button1":"عبور به حساب صاحبخانه",
+        "button1":"عبور به حساب فروشنده",
         "notifications":"اعلام ها",
         "button2":"تمامش را ببین",
         "sample-num":"43",
@@ -2340,7 +2340,7 @@
         "contract-clauses":"مفاد قرارداد",
         "text":"ایجاد شده توسط",
         "host":{
-          "title":"صاحبخانه",
+          "title":"فروشنده",
           "item":"Lorem ipsum dolor",
           "item1":"Lorem ipsum dolor",
           "item2":"Lorem ipsum dolor",
@@ -2682,7 +2682,7 @@
         "all":"انتخاب همه",
         "date":"نسبت به تاریخ",
         "situation":"نسبت به شرایط",
-        "about-host":"در مورد صاحبخانه",
+        "about-host":"در مورد فروشنده",
         "help-code":"کد پشتیبانی: #4353513",
         "sample-date":"06.12.2019",
         "sample-date1":"06 Aralık 2019",
