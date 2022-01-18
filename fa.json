@@ -78,100 +78,100 @@
         },
         "form": {
           "common": {
-            "translate": "bu alanda yazdığınız kelimeyi diğer dillerde otomatik çevirmek için buraya tıklayın."
+            "translate": "برای ترجمه خودکار کلمه ای که در این قسمت تایپ می کنید به زبان های دیگر اینجا را کلیک کنید."
           },
-          "title": "Proje Bilgileri",
-          "subtitle": "Proje bilgilerini oluşturduktan sonra yayına alabilirsiniz.",
+          "title": "اطلاعات پروژه",
+          "subtitle": "پس از ایجاد اطلاعات پروژه، می توانید آن را منتشر کنید.",
           "project_name": {
-            "placeholder": "Proje Adını Yazınız",
-            "label": "Proje Adı" 
+            "placeholder": "نام پروژه را بنویسید",
+            "label": "نام پروژه" 
           },
-          "upload_cover": "Kapak Resmini Yükleyin",
-          "section_title_video": "Projeye Ait Video",
+          "upload_cover": "آپلود تصویر ",
+          "section_title_video": "ویدئوی پروژه",
           "video": {
-            "placeholder": "Varsa Proje Videosu (Youtube Link)",
-            "label": "Proje Videosu" 
+            "placeholder": "ویدئوی پروژه (لینک یوتیوب)",
+            "label": "ویدئوی پروژه" 
           },
           "video_label":{
-            "placeholder": "Video açıklaması",
-            "label": "Video açıklaması" 
+            "placeholder": "توضیحات ویدیو",
+            "label": "توضیحات ویدیو" 
           },
-          "section_title_location": "Proje Lokasyonunu Harita üzerinden seçerek belirleyin.",
+          "section_title_location": "مکان پروژه را با انتخاب آن روی نقشه تعیین کنید.",
           "search_location":{
-            "placeholder": "İlanın Bölgesini Haritada Arayın",
-            "label": "Haritada Arayın" 
+            "placeholder": "منطقه آگهی را روی نقشه جستجو کنید",
+            "label": "جستجو در نقشه" 
           },
           "section_floor_plans": {
-            "title": "Proje Planları",
-            "desc": "Proje kat planlarını ekleyin."
+            "title": "پلن های پروژه",
+            "desc": "پلان های پروژه را اضافه کنید."
           },
           "plans": {
-            "rooms": "Oda Sayısı",
-            "minm2": "Minimum Mekrekare",
-            "minprice": "Minimum Fiyat",
-            "plan_title": "Plan Başlığı",
-            "m2": "Metrekare",
-            "upload": "Kat Planını Yükleyin",
-            "new": "Yeni Kat Planı Ekle",
-            "define_new_plan": "Yeni Kat Planı Tanımla"
+            "rooms": "تعداد اتاق ها",
+            "minm2": "حداقل متراژ",
+            "minprice": "حداقل قیمت",
+            "plan_title": "عنوان پلن",
+            "m2": "متراژ",
+            "upload": "بارگذاری پلان طبقه",
+            "new": "اضافه کردن پلان طبقه جدید",
+            "define_new_plan": "پلان طبقه جدید را تعریف کنید"
           },
           "section_images": {
-            "title": "Proje Resimleri",
-            "desc": "Projeye ait oda resimlerini yükleyin. Resimleri yükledikten sonra proje detayları için aralarından seçim  yapmalısınıda. Resimleri kendi aralarında sürükleyerek sıralayabilirsiniz."
+            "title": "تصاویر پروژه",
+            "desc": "تصاویر اتاق ها  را آپلود  کنید. پس از آپلود تصاویر، باید از بین آنها برای جزئیات پروژه انتخاب کنید. "
           },
           "section_gallery_images": {
-            "title": "Proje Vitrin Resimleri",
-            "desc": "Projeye ait oda resimlerininden seçerek vitrin albümünü oluşturun. Resimleri kendi aralarında sürükleyerek sıralayabilirsiniz."
+            "title": "گالری تصاویر پروژه",
+            "desc": "با انتخاب از بین تصاویر اتاق پروژه، گالری تصاویر را ایجاد کنید. می توانید تصاویر را با کشیدن آنها در بین خود مرتب کنید."
           },
-          "section_slogans": "Proje Sloganları",
+          "section_slogans": "شعار پروژه",
           "slogan_short":{
-            "placeholder": "Kısa Slogan",
-            "label": "Kısa Slogan" 
+            "placeholder": "شعار کوتاه",
+            "label": "شعار کوتاه" 
           },
           "slogan_long":{
-            "placeholder": "Uzun Slogan",
-            "label": "Uzun Slogan" 
+            "placeholder": "شعار بلند",
+            "label": "شعار بلند" 
           },
-          "section_desc": "Proje Açıklamaları",
+          "section_desc": "توضیحات پروژه",
           "desc_short": {
-            "placeholder": "Proje Açıklaması (Kısa): Kart bloklarında kullanılır",
-            "label": "Proje Açıklaması (Kısa)" 
+            "placeholder": "شرح کوتاهی از پروژه",
+            "label": "شرح پروژه (کوتاه)" 
           },
           "desc_long": {
-            "placeholder": "Proje Açıklaması (Uzun): Proje Detay sayfasında başlık alanında kullanılırProje Açıklaması (Kısa): Kart bloklarında kullanılır",
-            "label": "Proje Açıklaması (Uzun)" 
+            "placeholder": "شرح پروژه (طولانی): مورد استفاده در قسمت عنوان صفحه جزئیات پروژه شرح پروژه",
+            "label": "شرح پروژه (طولانی)" 
           },
           "section_banners": {
-            "title": "Proje Reklam Bannerları",
-            "desc": "Projeye ait banner eklemek için bir adet resim, başlık ve metin ile açıklamasını yapın."
+            "title": "بنرهای تبلیغاتی پروژه",
+            "desc": "برای افزودن بنر پروژه، تصویر، عنوان و متن قرار دهید."
           },
           "boxes": {
-            "upload": "Görsel Resmi Ekleyin",
+            "upload": "افزودن تصویر",
             "title": {
-              "placeholder": "Slogan Başlığı",
-              "label": "Slogan Başlığı" 
+              "placeholder": "عنوان شعار",
+              "label": "عنوان شعار" 
             },
             "desc": {
-              "placeholder": "İçerik Metni",
-              "label": "İçerik Metni" 
+              "placeholder": "محتوای صفحه",
+              "label": "محتوای صفحه" 
             },
-            "new": "Yeni Reklam Bannerı Ekle"
+            "new": "افزودن بنر آگهی"
           },
           "section_paragraphs": {
-            "title": "Proje Paragraf Blokları",
-            "desc": "Projeye ait özelliklleri varsa bir adet resim, başlık ve metin ile açıklamasını yapın."
+            "title": "توضیحات بیشتر برای شناخت پروژه",
+            "desc": "در صورت وجود ویژگی های پروژه، آن را با تصویر، عنوان و متن توضیح دهید."
           },
           "paragraphs": {
-            "upload": "Görsel Resmi Ekleyin",
+            "upload": "افزودن تصویر",
             "title": {
-              "placeholder": "Başlık",
-              "label": "Başlık" 
+              "placeholder": "عنوان",
+              "label": "عنوان" 
             },
             "desc": {
-              "placeholder": "İçerik Metni",
-              "label": "İçerik Metni" 
+              "placeholder": "محتوای صفحه",
+              "label": "محتوای صفحه" 
             },
-            "new": "Yeni Paragraf Bloğu Ekle"
+            "new": "پاراگراف جدید اضافه کنید"
           }
         }
       }
@@ -210,7 +210,7 @@
           "title": " !پروژه های ما را ببینید"
         },
 				"publish": {
-					"text": "آگهی منتشر کنید",
+					"text": "ثبت آگهی",
 					"title": "با اعلان جدید، درآمد کسب کنید"
 				},
 				"login": {
