@@ -55,6 +55,136 @@
       "solition-partners": "Çözüm Ortaklarımız",
       "faq": "Sık Sorulan Sorular",
       "buyer-guide": "Alıcı Rehberi"
+    },
+    "partner": {
+      "panel": {
+        "projects": {
+          "title": "Projeler",
+          "desc": "Firmaya ait projeler"
+        },
+        "portfolio": {
+          "title": "Benim Portföyüm",
+          "desc": "Kendi portföyünüzü yönetin"
+        }
+      },
+      "projects": {
+        "title": "Projeler",
+        "subtitle": "Aşağıda kurumsal anlaşması yapılan projeler listelenmiştir.",
+        "new": "Yeni Proje Ekle",
+        "edit_menu": {
+          "edit": "Düzenle",
+          "unpublish": "Yayından Kaldır",
+          "remove": "PROJEYİ SİL"
+        },
+        "form": {
+          "common": {
+            "translate": "bu alanda yazdığınız kelimeyi diğer dillerde otomatik çevirmek için buraya tıklayın."
+          },
+          "title": "Proje Bilgileri",
+          "subtitle": "Proje bilgilerini oluşturduktan sonra yayına alabilirsiniz.",
+          "project_name": {
+            "placeholder": "Proje Adını Yazınız",
+            "label": "Proje Adı" 
+          },
+          "upload_cover": "Kapak Resmini Yükleyin",
+          "section_title_video": "Projeye Ait Video",
+          "video": {
+            "placeholder": "Varsa Proje Videosu (Youtube Link)",
+            "label": "Proje Videosu" 
+          },
+          "video_label":{
+            "placeholder": "Video açıklaması",
+            "label": "Video açıklaması" 
+          },
+          "section_title_location": "Proje Lokasyonunu Harita üzerinden seçerek belirleyin.",
+          "search_location":{
+            "placeholder": "İlanın Bölgesini Haritada Arayın",
+            "label": "Haritada Arayın" 
+          },
+          "section_floor_plans": {
+            "title": "Proje Planları",
+            "desc": "Proje kat planlarını ekleyin."
+          },
+          "plans": {
+            "rooms": "Oda Sayısı",
+            "minm2": "Minimum Mekrekare",
+            "minprice": "Minimum Fiyat",
+            "plan_title": "Plan Başlığı",
+            "m2": "Metrekare",
+            "upload": "Kat Planını Yükleyin",
+            "new": "Yeni Kat Planı Ekle",
+            "define_new_plan": "Yeni Kat Planı Tanımla"
+          },
+          "section_images": {
+            "title": "Proje Resimleri",
+            "desc": "Projeye ait oda resimlerini yükleyin. Resimleri yükledikten sonra proje detayları için aralarından seçim  yapmalısınıda. Resimleri kendi aralarında sürükleyerek sıralayabilirsiniz."
+          },
+          "section_gallery_images": {
+            "title": "Proje Vitrin Resimleri",
+            "desc": "Projeye ait oda resimlerininden seçerek vitrin albümünü oluşturun. Resimleri kendi aralarında sürükleyerek sıralayabilirsiniz."
+          },
+          "section_slogans": "Proje Sloganları",
+          "slogan_short":{
+            "placeholder": "Kısa Slogan",
+            "label": "Kısa Slogan" 
+          },
+          "slogan_long":{
+            "placeholder": "Uzun Slogan",
+            "label": "Uzun Slogan" 
+          },
+          "section_desc": "Proje Açıklamaları",
+          "desc_short": {
+            "placeholder": "Proje Açıklaması (Kısa): Kart bloklarında kullanılır",
+            "label": "Proje Açıklaması (Kısa)" 
+          },
+          "desc_long": {
+            "placeholder": "Proje Açıklaması (Uzun): Proje Detay sayfasında başlık alanında kullanılırProje Açıklaması (Kısa): Kart bloklarında kullanılır",
+            "label": "Proje Açıklaması (Uzun)" 
+          },
+          "section_banners": {
+            "title": "Proje Reklam Bannerları",
+            "desc": "Projeye ait banner eklemek için bir adet resim, başlık ve metin ile açıklamasını yapın."
+          },
+          "boxes": {
+            "upload": "Görsel Resmi Ekleyin",
+            "title": {
+              "placeholder": "Slogan Başlığı",
+              "label": "Slogan Başlığı" 
+            },
+            "desc": {
+              "placeholder": "İçerik Metni",
+              "label": "İçerik Metni" 
+            },
+            "new": "Yeni Reklam Bannerı Ekle"
+          },
+          "section_paragraphs": {
+            "title": "Proje Paragraf Blokları",
+            "desc": "Projeye ait özelliklleri varsa bir adet resim, başlık ve metin ile açıklamasını yapın."
+          },
+          "paragraphs": {
+            "upload": "Görsel Resmi Ekleyin",
+            "title": {
+              "placeholder": "Başlık",
+              "label": "Başlık" 
+            },
+            "desc": {
+              "placeholder": "İçerik Metni",
+              "label": "İçerik Metni" 
+            },
+            "new": "Yeni Paragraf Bloğu Ekle"
+          }
+        }
+      }
+    },
+    "project_detail": {
+      "image_big_title": "Büyük resmi görüntülemek için buraya tıklayın.",
+      "image-view": " görseli",
+      "completed_status": "Tamamlanma Durumu",
+      "room_types": "DAİRE TİPLERİ",
+      "room_plans": "DAİRE PLANLARI",
+      "start_price": "'dan başlayan fiyatlarla",
+      "project_details": "PROJE DETAYLARI",
+      "project_possibilities": "PROJE OLANAKLARI"
     }
   },
   "layouts": {
