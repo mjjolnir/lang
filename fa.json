@@ -79,11 +79,11 @@
         "form": {
           "common": {
             "translate": "برای ترجمه خودکار کلمه ای که در این قسمت تایپ می کنید به زبان های دیگر اینجا را کلیک کنید.",
-            "button_update": "PROJEYI GÜNCELE",
-            "button_new": "PROJEYI YAYINLA",
-            "title_update": "Proje Güncelle",
+            "button_update": "به روز رسانی پروژه",
+            "button_new": "پروژه را منتشر کنید",
+            "title_update": "به روز رسانی پروژه",
             "title_new": "Yeni Proje",
-            "desc": "Firmanız ile anlaşması yapılmış yeni bir projeyi buradan ekleyebilirsiniz. Proje bilgilerini oluşturduktan sonra proje resimleri için Fotoğrafçı ataması yapmalısınız. Görevler tamamlandıktan sonra projenizi yayına alabilirsiniz."
+            "desc": "شما می توانید یک پروژه جدید که با توافق شرکت در اینجا اضافه کنید. پس از ثبت اطلاعات پروژه،  باید عکاسی را برای ثبت تصاویر پروژه اختصاص دهید. پس از اتمام کارها، می توانید پروژه خود را منتشر کنید"
           },
           "title": "اطلاعات پروژه",
           "subtitle": "پس از ایجاد اطلاعات پروژه، می توانید آن را منتشر کنید.",
@@ -111,8 +111,8 @@
             "desc": "پلان های پروژه را اضافه کنید."
           },
           "plans": {
-            "room_plan_title": "Oda Planı",
-            "room_plan_info": "Plan Bilgileri",
+            "room_plan_title": "پلان اتاق",
+            "room_plan_info": "اطلاعات پلن",
             "rooms": "تعداد اتاق ها",
             "minm2": "حداقل متراژ",
             "minprice": "حداقل قیمت",
