@@ -2147,9 +2147,9 @@
         "range": {
           "until_tomorrow": "نهایتا تا فردا",
           "before_noon_on_weekdays": "در طول هفته قبل ازظهر",
-          "after_noon_on_weekdays": "در طول هفته بعد ازظهر",
-          "weekend_before_noon": "آخر هفته قبل ازظهر",
-          "weekend_afternoon": "آخر هفته بعد ازظهر"
+          "after_noon_on_weekdays": "در طول هفته بعد از ظهر",
+          "weekend_before_noon": "آخر هفته قبل از ظهر",
+          "weekend_afternoon": "آخر هفته بعد از ظهر"
         }
       },
       "phone-calls":{
