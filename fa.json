@@ -78,7 +78,12 @@
         },
         "form": {
           "common": {
-            "translate": "برای ترجمه خودکار کلمه ای که در این قسمت تایپ می کنید به زبان های دیگر اینجا را کلیک کنید."
+            "translate": "برای ترجمه خودکار کلمه ای که در این قسمت تایپ می کنید به زبان های دیگر اینجا را کلیک کنید.",
+            "button_update": "PROJEYI GÜNCELE",
+            "button_new": "PROJEYI YAYINLA",
+            "title_update": "Proje Güncelle",
+            "title_new": "Yeni Proje",
+            "desc": "Firmanız ile anlaşması yapılmış yeni bir projeyi buradan ekleyebilirsiniz. Proje bilgilerini oluşturduktan sonra proje resimleri için Fotoğrafçı ataması yapmalısınız. Görevler tamamlandıktan sonra projenizi yayına alabilirsiniz."
           },
           "title": "اطلاعات پروژه",
           "subtitle": "پس از ایجاد اطلاعات پروژه، می توانید آن را منتشر کنید.",
@@ -106,6 +111,8 @@
             "desc": "پلان های پروژه را اضافه کنید."
           },
           "plans": {
+            "room_plan_title": "Oda Planı",
+            "room_plan_info": "Plan Bilgileri",
             "rooms": "تعداد اتاق ها",
             "minm2": "حداقل متراژ",
             "minprice": "حداقل قیمت",
@@ -180,6 +187,7 @@
       "image_big_title": "برای مشاهده تصویر بزرگ اینجا کلیک کنید.",
       "image-view": " تصویر",
       "completed_status": "وضعیت تکمیل",
+      "project_code": "Proje Kodu",
       "room_types": "تعداد اتاق",
       "room_plans": "پلن واحدها",
       "start_price": "' شروع قیمت ها از",
