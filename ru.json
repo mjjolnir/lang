@@ -6,7 +6,9 @@
       "share-copied": "لینک ملک برای فروش کپی شده است.",
       "locked":"Bu Alan Kilitlidir.",
       "select": "Seçiniz",
-      "start-price": "'dan başlayan fiyatlarla"
+      "start-price": "'dan başlayan fiyatlarla",
+      "save": "Kaydet",
+      "cancel": "Vazgeç"
     },
     "filters": {
       "common": {
@@ -81,6 +83,7 @@
             "translate": "bu alanda yazdığınız kelimeyi diğer dillerde otomatik çevirmek için buraya tıklayın.",
             "button_update": "PROJEYI GÜNCELE",
             "button_new": "PROJEYI YAYINLA",
+            "view_project": "Projeyi Görüntüle",
             "title_update": "Proje Güncelle",
             "title_new": "Yeni Proje",
             "desc": "Firmanız ile anlaşması yapılmış yeni bir projeyi buradan ekleyebilirsiniz. Proje bilgilerini oluşturduktan sonra proje resimleri için Fotoğrafçı ataması yapmalısınız. Görevler tamamlandıktan sonra projenizi yayına alabilirsiniz."
@@ -113,6 +116,7 @@
           "plans": {
             "room_plan_title": "Oda Planı",
             "room_plan_info": "Plan Bilgileri",
+            "floor_plan": "Kat Planı",
             "rooms": "Oda Sayısı",
             "minm2": "Minimum Mekrekare",
             "minprice": "Minimum Fiyat",
