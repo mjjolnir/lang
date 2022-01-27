@@ -8,7 +8,21 @@
       "select": "Seçiniz",
       "start-price": "'dan başlayan fiyatlarla",
       "save": "Kaydet",
-      "cancel": "Vazgeç"
+      "cancel": "Vazgeç",
+
+
+      "search-location": "Bölgede arama yapın",
+      "sort-by-date": "Tarie Göre",
+      "sort-by-date-asc": "Yeniden eskiye",
+      "sort-by-date-desc": "Eskiden yeniye",
+      "sort-by-status": "Duruma Göre",
+      "list-all": "Tümünü  Listele",
+      "filter-price-asc": "Fiyata göre artan",
+      "filter-price-desc": "Fiyata göre azalan",
+      "filter-rooms-asc": "Oda sayısına göre artan",
+      "filter-rooms-desc": "Oda sayısına göre azalan",
+      "filter-m2-asc": "Metrekareye göre artan",
+      "filter-m2-desc": "Metrekareye göre azalan"
     },
     "filters": {
       "common": {
@@ -197,6 +211,41 @@
       "start_price": "'dan başlayan fiyatlarla",
       "project_details": "PROJE DETAYLARI",
       "project_possibilities": "PROJE OLANAKLARI"
+    },
+    "mobile": {
+      "pages": {
+        "project-detail": {
+          "prices": "Fiyatlar",
+          "room-plans": "Oda Planları",
+          "introduction": "Proje Tanıtımı",
+          "possibilities": "Proje Olanakları",
+          "details": "Proje Detayları",
+          "gallery": "Örnek Fotoğraflar",
+          "others": "Diğer  Özellikler",
+          "map": "Haritada Görüntüleyin",
+          "starting-prices": "Başlangıç Fiyatları",
+          "contact-us": "İlatişime Geç",
+          "share": "Paylaş",
+          "directions": "Yol Tarifi",
+          "floor-plans": "ODA PLANLARI",
+          "price-suffix": "'den başlayan fiyatlarla"
+        }
+      },
+      "dashboard": {
+        "suggest": {
+          "title": "Ev Önerin",
+          "desc": "Ev Önerilerim",
+          "suggest-button": "Ev Önerisinde Bulun ve Kazan",
+          "modal-title": "Satılık Ev Önerin",
+          "my-suggestions": "Önerdiğim Evler",
+          "empty": "Yeni bir ev önererek başlayabilirsiniz.",
+          "no-filtered-result": "Filtrelenmiş veri bulunamadı"
+        },
+        "visit": {
+          "title": "Ziyaret İstekleri",
+          "desc": "Çevrimiçi ziyaretlerim"
+        }
+      }
     }
   },
   "layouts": {
