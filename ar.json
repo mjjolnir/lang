@@ -244,6 +244,9 @@
           "desc": "Çevrimiçi ziyaretlerim"
         }
       }
+    },
+    "projects": {
+      "slogan": "<strong>TÜM PROJELER</strong><br><span>TEK BİR YERDE</span>"
     }
   },
     "layouts": {
