@@ -1,4 +1,20 @@
 {
+  "ROUTES.index": "index",
+  "ROUTES.guide": "rehber",
+  "ROUTES.for-owners": "evini-satmak-isteyen-ev-sahipleri-icin",
+  "ROUTES.buyers": "ev-satin-almak-isteyenler-icin",
+  "ROUTES.earn": "nasil-para-kazanabilirim",
+  "ROUTES.career": "kariyer-firsatlari",
+  "ROUTES.solition-partners": "cozum-ortaklarimiz",
+  "ROUTES.faq": "satilikfil-hakkinda-merak-ettikleriniz",
+  "ROUTES.contract": "kullanici-sozlesmesi",
+  "ROUTES.projects": "projeden-satilik-ilanlar",
+  "ROUTES.project-detail": "proje-detaylari",
+  "ROUTES.sales": "satilik-emlak-ilanlari",
+  "ROUTES.nearby": "yakinimda",
+  "ROUTES.search": "satilik-ilanlarda-ara",
+  "ROUTES.sales-detail": "ilan-detaylari",
+
 	"ts": {
     "common": {
       "login-required": "Giriş Yapmalısınız",
@@ -9,6 +25,7 @@
       "start-price": "'dan başlayan fiyatlarla",
       "save": "Kaydet",
       "cancel": "Vazgeç",
+      "warning": "Uyarı",
 
       "search-location": "Bölgede arama yapın",
       "sort-by-date": "Tarie Göre",
@@ -245,8 +262,12 @@
           "desc": "Çevrimiçi ziyaretlerim"
         }
       }
+    },
+    "projects": {
+      "slogan": "<strong>TÜM PROJELER</strong><br><span>TEK BİR YERDE</span>"
     }
   },
+
   "layouts": {
 		"header": {
 			"logo": {
@@ -348,7 +369,7 @@
         "item4":"Para Kazan",
         "item5":"Çözüm Ortaklarımız"
       },
-      "text1":"© 2019 satilikfil.com Tüm hakları saklıdır.",
+      "text1":"© 2020 satilikfil.com Tüm hakları saklıdır.",
       "contract1":"Gizlilik Politikası",
       "contract2":"Kullanıcı Sözleşmesi",
       "contract3":"Mesafeli Satış Sözleşmesi"

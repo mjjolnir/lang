@@ -1,4 +1,21 @@
 {
+
+  "ROUTES.index": "خوش-آمدی",
+  "ROUTES.guide": "فهرست راهنما",
+  "ROUTES.for-owners": "برای صاحبان خانه که می خواهند-خان را بفروشند",
+  "ROUTES.buyers": "خانه برای خرید برای مردم",
+  "ROUTES.earn": "کسب درآمد",
+  "ROUTES.career": "حرفه",
+  "ROUTES.solition-partners": "شرکای راه حل ما",
+  "ROUTES.faq": "سوالات متداول",
+  "ROUTES.contract": "توافق کاربر",
+  "ROUTES.projects": "تبلیغات برای فروش از پروژه",
+  "ROUTES.project-detail": "جزئیات-پروژه",
+  "ROUTES.sales": "تبلیغات برای فروش",
+  "ROUTES.nearby": "نزدیک من",
+  "ROUTES.search": "search-in-sales",
+  "ROUTES.sales-detail": "sales-details",
+
   "ts": {
     "common": {
       "login-required": "شما باید وارد شوید",
@@ -349,7 +366,7 @@
         "item4":"کسب درآمد  ",
         "item5":"شرکای تجاری"
       },
-      "text1":"© 2019 satilikfil.com تمامی حقوق محفوظ است",
+      "text1":"© 2020 satilikfil.com تمامی حقوق محفوظ است",
       "contract1":"  حریم خصوصی",
       "contract2":"توافقنامه کاربری",
       "contract3":"قرارداد فروش"
