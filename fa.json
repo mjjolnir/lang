@@ -38,7 +38,10 @@
       "filter-rooms-asc": "Oda sayısına göre artan",
       "filter-rooms-desc": "Oda sayısına göre azalan",
       "filter-m2-asc": "Metrekareye göre artan",
-      "filter-m2-desc": "Metrekareye göre azalan"
+      "filter-m2-desc": "Metrekareye göre azalan",
+
+      "empty-title": "Aradığınız kriterlerde ilan bulunamadı!",
+      "location": "Konum Bilgisi"
     },
     "filters": {
       "common": {
@@ -79,6 +82,7 @@
       "manage-visits": " تنظیم ملاقات حضوری",
       "property-detail": "جزئیات آگهی ",
       "search-map": "جستجو بر روی نقشه ",
+      "search": "İlanlarda Ara",
       "project-detail": "جزئیات پروژه ",
       "projects": "پروژه ها",
       "career": "فرصت های همکاری",
@@ -120,9 +124,13 @@
           },
           "title": "اطلاعات پروژه",
           "subtitle": "پس از ایجاد اطلاعات پروژه، می توانید آن را منتشر کنید.",
-          "project_name": {
-            "placeholder": "نام پروژه را بنویسید",
-            "label": "نام پروژه" 
+          "brand_name":  {
+            "placeholder": "Projenin Adı Nedir",
+            "label": "Proje Adı"
+          },
+          "project_name":  {
+            "placeholder": "What Is The Project Code?",
+            "label": "Project Code"
           },
           "upload_cover": "آپلود تصویر ",
           "section_title_video": "ویدئوی پروژه",
@@ -240,7 +248,7 @@
           "others": "Diğer  Özellikler",
           "map": "Haritada Görüntüleyin",
           "starting-prices": "Başlangıç Fiyatları",
-          "contact-us": "İlatişime Geç",
+          "contact-us": "İletişime Geç",
           "share": "Paylaş",
           "directions": "Yol Tarifi",
           "floor-plans": "ODA PLANLARI",
@@ -252,7 +260,7 @@
           "title": "Ev Önerin",
           "desc": "Ev Önerilerim",
           "suggest-button": "Ev Önerisinde Bulun ve Kazan",
-          "modal-title": "Satılık Ev Önerin",
+          "modal-title": "Satılık Ev Önerin.",
           "my-suggestions": "Önerdiğim Evler",
           "empty": "Yeni bir ev önererek başlayabilirsiniz.",
           "no-filtered-result": "Filtrelenmiş veri bulunamadı"
@@ -261,10 +269,20 @@
           "title": "Ziyaret İstekleri",
           "desc": "Çevrimiçi ziyaretlerim"
         }
+      },
+      "tenant": {
+        "t1":"Bürokrasi, kaybedilen zaman, kaybedilen nakit!!"
       }
     },
     "projects": {
       "slogan": "<strong>TÜM PROJELER</strong><br><span>TEK BİR YERDE</span>"
+    },
+    "search": {
+      "filter-title": "Sonuçları Filtrele",
+      "search-with-keyword": "Kelime İle Ara",
+      "show-map": "Haritayı Göster",
+      "in-projects": "Projelerimiz",
+      "in-properties": "İlanlarımız"
     }
   },
   
@@ -1361,7 +1379,7 @@
               "text4":"تا زمانی که آگهی شما درحال انتشار باشد و فروخته نشود ما به شما پرداختی انجام میدهیم"
             },
             "text1":"سوالی که مطرح میشود",
-            "text2":"تماس با ما 0850 307 0 345"
+            "text2":"تماس با ما"
           },
           "advantages1":"مزایای ما",
           "differences1":"تفاوت هایمان",
@@ -1431,7 +1449,7 @@
             "item5":"پرداخت اجاره خانه بابت هر ماه ",
             "item6":"تیم حرفه ای فروش"
           },
-          "vs":"VS.",
+          "vs":"یا",
           "block2":{
             "title":"درک سنتی املاک و مستغلات",
             "text":"انجام کارها به طور آهسته و طاقت فرسا!",
@@ -1688,7 +1706,7 @@
           }
         },
         "question":"سوالات قابل پخش",
-        "contact":" با ما تماس بگیرید 0850 307 0 345",
+        "contact":" با ما تماس بگیرید",
         "solutions":"راه حل هایمان",
         "working":" چطور کار میکند?",
         "cost":"هزینه ها",
@@ -1713,7 +1731,7 @@
             "advantage7":"تیم فروش حرفه ای",
             "button":"خانه پیدا کن"
           },
-          "vs":"VS.",
+          "vs":"أو",
           "block2":{
             "title":"مفهوم املاک سنتی",
             "text":"تازه کار ،منجر به مسیر طولانی و خسته کننده میشود",
