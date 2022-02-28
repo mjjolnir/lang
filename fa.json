@@ -39,8 +39,8 @@
       "filter-rooms-desc": "کمترین تعداد اتاق",
       "filter-m2-asc": "افزایش به ازای هر متر مربع",
       "filter-m2-desc": "کاهش به ازای هر متر مربع",
-      "empty-title": "Aradığınız kriterlerde ilan bulunamadı!",
-      "location": "Konum Bilgisi"
+      "empty-title": "هیچ آگهی مطابق با معیارهای جستجوی شما یافت نشد!",
+      "location": "موقعیت مکانی"
     },
     "filters": {
       "common": {
