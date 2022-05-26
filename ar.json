@@ -1,5 +1,31 @@
 {
+
+  
+  "ROUTES.index": "فهرس",
+  "ROUTES.guide": "دليل",
+  "ROUTES.for-owners": "للمنزل-البيع-الرغبة-أصحاب-المنازل-ل",
+  "ROUTES.buyers": "للمنزل-للشراء-والرغبة",
+  "ROUTES.earn": "كيف-يمكنني-كسب-المال",
+  "ROUTES.career": "الفرص-الوظيفية",
+  "ROUTES.solition-partners": "شركاء-كوزوم",
+  "ROUTES.faq": "حول-ما-يثير-فضولك",
+  "ROUTES.contract": "اتفاقية-المستخدم",
+  "ROUTES.projects": "إعلانات-المشروع-للبيع",
+  "ROUTES.project-detail": "تفاصيل-المشروع",
+  "ROUTES.sales": "عقارات-للبيع",
+  "ROUTES.nearby": "ياكينيمدا",
+  "ROUTES.search": "للبيع-في-القوائم-البحث",
+  "ROUTES.sales-detail": "تفاصيل-الإعلان",
+  
   "ts": {
+    "modal": {
+      "phone-title": "Validate Phone Number",
+      "login-title": "Login",
+      "validate-title": "Validate Account"
+    },
+    "menu": {
+      "settings": "Settings"
+    },
     "common": {
       "login-required": "شما باید وارد شوید",
       "share-property": "آگهی را به اشتراک بگذارید",

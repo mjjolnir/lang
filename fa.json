@@ -17,6 +17,14 @@
   "ROUTES.sales-detail": "جزئیات-فروش",
 
   "ts": {
+    "modal": {
+      "phone-title": "Validate Phone Number",
+      "login-title": "Login",
+      "validate-title": "Validate Account"
+    },
+    "menu": {
+      "settings": "Settings"
+    },
     "common": {
       "login-required": "شما باید وارد شوید",
       "share-property": "آگهی را به اشتراک بگذارید",
@@ -1447,7 +1455,7 @@
             "item5":"پرداخت اجاره ملک بابت هر ماه ",
             "item6":"تیم حرفه ای فروش"
           },
-          "vs":"VS.",
+          "vs":"سایر",
           "block2":{
             "title":"درک سنتی املاک و مستغلات",
             "text":"انجام کارها به طور آهسته و طاقت فرسا!",
@@ -1729,7 +1737,7 @@
             "advantage7":"تیم فروش حرفه ای",
             "button":"ملک دلخواهم را پیدا کن"
           },
-          "vs":"VS.",
+          "vs":"سایر",
           "block2":{
             "title":"مفهوم املاک سنتی",
             "text":"تازه کار،منجر به مسیر طولانی و خسته کننده میشود",

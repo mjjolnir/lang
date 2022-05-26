@@ -1,5 +1,30 @@
 {
+  
+  "ROUTES.index": "индекс",
+  "ROUTES.guide": "гид",
+  "ROUTES.for-owners": "для-домовладельцев-продаж-хочу-домовладельцев-для",
+  "ROUTES.buyers": "для-дома-купить-хочу-для",
+  "ROUTES.earn": "как-Я-могу-зарабатывать-деньги",
+  "ROUTES.career": "карьерные-возможности",
+  "ROUTES.solition-partners": "козум-партнеры",
+  "ROUTES.faq": "о-что*вам-интересно",
+  "ROUTES.contract": "пользовательское-cоглашение",
+  "ROUTES.projects": "проект-продажа-реклама",
+  "ROUTES.project-detail": "детали-проекта",
+  "ROUTES.sales": "недвижимость-на-продажу",
+  "ROUTES.nearby": "якинимда",
+  "ROUTES.search": "для-продажи-в-объявлениях-поиск",
+  "ROUTES.sales-detail": "объявление-подробности",
+  
   "ts": {
+    "modal": {
+      "phone-title": "Validate Phone Number",
+      "login-title": "Login",
+      "validate-title": "Validate Account"
+    },
+    "menu": {
+      "settings": "Settings"
+    },
     "common": {
       "login-required": "شما باید وارد شوید",
       "share-property": "آگهی را به اشتراک بگذارید",

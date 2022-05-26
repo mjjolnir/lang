@@ -1,5 +1,30 @@
 {
+  
+  "ROUTES.index": "índice",
+  "ROUTES.guide": "guiar",
+  "ROUTES.for-owners": "para-propietarios-que-quieren-vender-casa",
+  "ROUTES.buyers": "casa-para-comprar-para-personas",
+  "ROUTES.earn": "cómo-cómo-puedo-ganar-dinero",
+  "ROUTES.career": "oportunidades-de-carrera",
+  "ROUTES.solition-partners": "partners",
+  "ROUTES.faq": "preguntas-frecuentes",
+  "ROUTES.contract": "acuerdo-del-usuario",
+  "ROUTES.projects": "proyectos-para-venta-anuncios",
+  "ROUTES.project-detail": "detalles-del-proyecto",
+  "ROUTES.sales": "en-venta-propiedades-anuncios",
+  "ROUTES.nearby": "cerca-de-mí",
+  "ROUTES.search": "buscar-en-anuncios",
+  "ROUTES.sales-detail": "anuncio-detalles",
+  
   "ts": {
+    "modal": {
+      "phone-title": "Validate Phone Number",
+      "login-title": "Login",
+      "validate-title": "Validate Account"
+    },
+    "menu": {
+      "settings": "Settings"
+    },
     "common": {
       "login-required": "شما باید وارد شوید",
       "share-property": "آگهی را به اشتراک بگذارید",

@@ -13,9 +13,18 @@
   "ROUTES.sales": "satilik-emlak-ilanlari",
   "ROUTES.nearby": "yakinimda",
   "ROUTES.search": "satilik-ilanlarda-ara",
-  "ROUTES.sales-detail": "ilan-detaylari",
+  "ROUTES.sales-detail": "emlak-detaylari",
 
 	"ts": {
+    "modal": {
+      "phone-title": "Telefon Numaranızı Doğrulayın",
+      "login-title": "Giriş Yapmalısınız",
+      "validate-title": "Hesabınızı Doğrulayın"
+    },
+    "menu": {
+      "settings": "Ayarlar"
+    },
+
     "common": {
       "login-required": "Giriş Yapmalısınız",
       "share-property": "İlanı Paylaşın",
